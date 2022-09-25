@@ -1,3 +1,4 @@
+-- ED: Good SHane
 -- Shane Hauck
 -- HW 3 - chapter 3 University DB Queries
 -- 9/14/22
