@@ -3,13 +3,15 @@
 -- 9/14/22
 
 
+-- Good Shane.
 
 -- Part 1
 
 -- 3.11 Write the following queries in SQL, using the university schema.
 -- 	a. Find the ID and name of each student who has taken at least one Comp.
 -- 	   Sci. course; make sure there are no duplicate names in the result.
-WITH 
+-- ED: Good Shane
+select count(*) from (WITH
 	t as (SELECT course_id 
 		FROM course 
 		WHERE dept_name = 'Comp. Sci.') 
@@ -19,7 +21,7 @@ FROM
 	takes, student, t 
 WHERE 
 	t.course_id = takes.course_id AND 
-	student.id = takes.id;
+	student.id = takes.id) as T;
 
 --	b. Find the ID and name of each student who has not taken any course
 --	   offered before 2017.
@@ -57,13 +59,14 @@ GROUP BY
 
 --	d. Find the lowest, across all departments, of the per-department maximum
 --	   salary computed by the preceding query.
+-- ED: Good
 WITH 
 	t as (SELECT dept_name, max(salary) 
 		FROM instructor 
 		GROUP BY dept_name) 
 SELECT 
 	min(max) 
-FROM 
+FROM
 	t;
 
 -- 3.12 Write the SQL statements using the university schema to perform the following operations:
@@ -169,6 +172,7 @@ ORDER BY
 
 -- 3.27 Using the university schema, write an SQL query to find the IDs of those students
 -- who have retaken at least three distinct courses at least once (i.e, the student has taken the course at least two times).
+-- Ed: Good.
 WITH
     t as (SELECT course_id,
                  id
