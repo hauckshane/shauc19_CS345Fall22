@@ -1,3 +1,4 @@
+-- ED: OK, 1/2 points back
 
 CREATE view shauc19_q11 as
 WITH t as (SELECT sno, -- get weights of all shipments
