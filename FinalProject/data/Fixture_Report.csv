@@ -1,0 +1,2057 @@
+,Date,Team,Comp,Result,GF,GA,xG,xGA,Poss
+1,8/5/2022,Arsenal,Premier League,W,2,0,1,1.2,44
+2,8/13/2022,Arsenal,Premier League,W,4,2,2.7,0.5,50
+3,8/20/2022,Arsenal,Premier League,W,3,0,1.3,0.3,57
+4,8/27/2022,Arsenal,Premier League,W,2,1,2.6,0.8,71
+5,8/31/2022,Arsenal,Premier League,W,2,1,2.4,0.4,59
+6,9/4/2022,Arsenal,Premier League,L,1,3,1.3,1.5,60
+7,9/8/2022,Arsenal,Europa Lg,W,2,1,2.3,1.2,69
+8,9/18/2022,Arsenal,Premier League,W,3,0,1.5,0.5,63
+9,10/1/2022,Arsenal,Premier League,W,3,1,2.4,1.6,64
+10,10/6/2022,Arsenal,Europa Lg,W,3,0,3.4,0.8,50
+11,10/9/2022,Arsenal,Premier League,W,3,2,2.7,1.1,43
+12,10/13/2022,Arsenal,Europa Lg,W,1,0,0.7,0.5,55
+13,10/16/2022,Arsenal,Premier League,W,1,0,0.5,1.8,53
+14,10/20/2022,Arsenal,Europa Lg,W,1,0,2.7,0.3,62
+15,10/23/2022,Arsenal,Premier League,D,1,1,1,0.7,59
+16,10/27/2022,Arsenal,Europa Lg,L,0,2,1.4,0.8,68
+17,10/30/2022,Arsenal,Premier League,W,5,0,2.3,0.4,69
+18,11/3/2022,Arsenal,Europa Lg,W,1,0,1.6,0.4,55
+19,11/6/2022,Arsenal,Premier League,W,1,0,2.1,0.3,55
+20,11/9/2022,Arsenal,EFL Cup,L,1,3,NA,NA,57
+21,11/12/2022,Arsenal,Premier League,W,2,0,2.1,0.7,62
+22,7/30/2022,Manchester City,Community Shield,L,1,3,NA,NA,57
+23,8/7/2022,Manchester City,Premier League,W,2,0,2.2,0.5,75
+24,8/13/2022,Manchester City,Premier League,W,4,0,1.7,0.1,67
+25,8/21/2022,Manchester City,Premier League,D,3,3,2.1,1.8,69
+26,8/27/2022,Manchester City,Premier League,W,4,2,2.2,0.1,74
+27,8/31/2022,Manchester City,Premier League,W,6,0,3.3,0.7,74
+28,9/3/2022,Manchester City,Premier League,D,1,1,2.1,0.3,71
+29,9/6/2022,Manchester City,Champions Lg,W,4,0,3.6,0.3,61
+30,9/14/2022,Manchester City,Champions Lg,W,2,1,1,0.7,66
+31,9/17/2022,Manchester City,Premier League,W,3,0,1.1,0.4,59
+32,10/2/2022,Manchester City,Premier League,W,6,3,3.2,1.7,53
+33,10/5/2022,Manchester City,Champions Lg,W,5,0,4.3,0.4,75
+34,10/8/2022,Manchester City,Premier League,W,4,0,2.4,0.2,65
+35,10/11/2022,Manchester City,Champions Lg,D,0,0,1.6,0.3,59
+36,10/16/2022,Manchester City,Premier League,L,0,1,1,2.1,63
+37,10/22/2022,Manchester City,Premier League,W,3,1,1.6,0.5,48
+38,10/25/2022,Manchester City,Champions Lg,D,0,0,1.2,1.2,73
+39,10/29/2022,Manchester City,Premier League,W,1,0,1,0.7,64
+40,11/2/2022,Manchester City,Champions Lg,W,3,1,2,0.4,61
+41,11/5/2022,Manchester City,Premier League,W,2,1,2.1,1,70
+42,11/9/2022,Manchester City,EFL Cup,W,2,0,NA,NA,55
+43,11/12/2022,Manchester City,Premier League,L,1,2,1.6,1.3,74
+44,8/6/2022,Newcastle United,Premier League,W,2,0,1.7,0.3,61
+45,8/13/2022,Newcastle United,Premier League,D,0,0,0.2,1.5,46
+46,8/21/2022,Newcastle United,Premier League,D,3,3,1.8,2.1,31
+47,8/24/2022,Newcastle United,EFL Cup,W,2,1,NA,NA,71
+48,8/28/2022,Newcastle United,Premier League,D,1,1,1.7,0.7,63
+49,8/31/2022,Newcastle United,Premier League,L,1,2,0.7,1.5,28
+50,9/3/2022,Newcastle United,Premier League,D,0,0,2.8,1,52
+51,9/17/2022,Newcastle United,Premier League,D,1,1,1.9,0.7,72
+52,10/1/2022,Newcastle United,Premier League,W,4,1,3.3,0.5,67
+53,10/8/2022,Newcastle United,Premier League,W,5,1,1.5,1.2,54
+54,10/16/2022,Newcastle United,Premier League,D,0,0,0.8,0.8,37
+55,10/19/2022,Newcastle United,Premier League,W,1,0,1.5,0.2,49
+56,10/23/2022,Newcastle United,Premier League,W,2,1,1.2,1.6,47
+57,10/29/2022,Newcastle United,Premier League,W,4,0,3.4,0.4,59
+58,11/6/2022,Newcastle United,Premier League,W,4,1,0.9,1.7,45
+59,11/9/2022,Newcastle United,EFL Cup,D,0 (3),0 (2),NA,NA,66
+60,11/12/2022,Newcastle United,Premier League,W,1,0,1,0.3,49
+61,8/6/2022,Tottenham Hotspur,Premier League,W,4,1,1.5,0.5,58
+62,8/14/2022,Tottenham Hotspur,Premier League,D,2,2,1,1.6,37
+63,8/20/2022,Tottenham Hotspur,Premier League,W,1,0,1.7,0.7,50
+64,8/28/2022,Tottenham Hotspur,Premier League,W,2,0,2.4,0.9,45
+65,8/31/2022,Tottenham Hotspur,Premier League,D,1,1,0.6,1.2,61
+66,9/3/2022,Tottenham Hotspur,Premier League,W,2,1,2.9,0.7,52
+67,9/7/2022,Tottenham Hotspur,Champions Lg,W,2,0,1.5,0.4,50
+68,9/13/2022,Tottenham Hotspur,Champions Lg,L,0,2,0.9,0.9,46
+69,9/17/2022,Tottenham Hotspur,Premier League,W,6,2,2.2,1.8,44
+70,10/1/2022,Tottenham Hotspur,Premier League,L,1,3,1.6,2.4,36
+71,10/4/2022,Tottenham Hotspur,Champions Lg,D,0,0,1.5,1,56
+72,10/8/2022,Tottenham Hotspur,Premier League,W,1,0,0.8,0.7,41
+73,10/12/2022,Tottenham Hotspur,Champions Lg,W,3,2,3,1.2,51
+74,10/15/2022,Tottenham Hotspur,Premier League,W,2,0,2.2,0.4,62
+75,10/19/2022,Tottenham Hotspur,Premier League,L,0,2,0.6,1.5,48
+76,10/23/2022,Tottenham Hotspur,Premier League,L,1,2,1.6,1.2,53
+77,10/26/2022,Tottenham Hotspur,Champions Lg,D,1,1,1.7,0.8,59
+78,10/29/2022,Tottenham Hotspur,Premier League,W,3,2,2,0.5,69
+79,11/1/2022,Tottenham Hotspur,Champions Lg,W,2,1,0.6,1.4,36
+80,11/6/2022,Tottenham Hotspur,Premier League,L,1,2,1.2,1.2,47
+81,11/9/2022,Tottenham Hotspur,EFL Cup,L,0,2,NA,NA,59
+82,11/12/2022,Tottenham Hotspur,Premier League,W,4,3,1.8,1.1,55
+83,8/7/2022,Manchester United,Premier League,L,1,2,1.4,1.5,62
+84,8/13/2022,Manchester United,Premier League,L,0,4,0.9,1.6,66
+85,8/22/2022,Manchester United,Premier League,W,2,1,1.8,1.3,30
+86,8/27/2022,Manchester United,Premier League,W,1,0,1.1,1.4,51
+87,9/1/2022,Manchester United,Premier League,W,1,0,1.5,0.7,47
+88,9/4/2022,Manchester United,Premier League,W,3,1,1.5,1.3,40
+89,9/8/2022,Manchester United,Europa Lg,L,0,1,0.8,1.1,55
+90,9/15/2022,Manchester United,Europa Lg,W,2,0,1.6,0.3,68
+91,10/2/2022,Manchester United,Premier League,L,3,6,1.7,3.2,47
+92,10/6/2022,Manchester United,Europa Lg,W,3,2,3.1,1.2,73
+93,10/9/2022,Manchester United,Premier League,W,2,1,1.4,0.6,60
+94,10/13/2022,Manchester United,Europa Lg,W,1,0,4.2,0.1,78
+95,10/16/2022,Manchester United,Premier League,D,0,0,0.8,0.8,63
+96,10/19/2022,Manchester United,Premier League,W,2,0,1.5,0.6,52
+97,10/22/2022,Manchester United,Premier League,D,1,1,0.8,1.1,52
+98,10/27/2022,Manchester United,Europa Lg,W,3,0,2.7,0,74
+99,10/30/2022,Manchester United,Premier League,W,1,0,1.2,1.1,53
+100,11/3/2022,Manchester United,Europa Lg,W,1,0,0.7,1.1,53
+101,11/6/2022,Manchester United,Premier League,L,1,3,0.5,0.6,58
+102,11/10/2022,Manchester United,EFL Cup,W,4,2,NA,NA,59
+103,11/13/2022,Manchester United,Premier League,W,2,1,2.5,1.4,47
+104,7/30/2022,Liverpool,Community Shield,W,3,1,NA,NA,43
+105,8/6/2022,Liverpool,Premier League,D,2,2,1.2,1.2,67
+106,8/15/2022,Liverpool,Premier League,D,1,1,2,1,72
+107,8/22/2022,Liverpool,Premier League,L,1,2,1.3,1.8,70
+108,8/27/2022,Liverpool,Premier League,W,9,0,3.3,0.3,69
+109,8/31/2022,Liverpool,Premier League,W,2,1,1.5,0.7,72
+110,9/3/2022,Liverpool,Premier League,D,0,0,2.1,1.7,61
+111,9/7/2022,Liverpool,Champions Lg,L,1,4,1,4,61
+112,9/13/2022,Liverpool,Champions Lg,W,2,1,2.2,0.3,57
+113,10/1/2022,Liverpool,Premier League,D,3,3,1.5,1.4,54
+114,10/4/2022,Liverpool,Champions Lg,W,2,0,2.9,0.4,64
+115,10/9/2022,Liverpool,Premier League,L,2,3,1.1,2.7,57
+116,10/12/2022,Liverpool,Champions Lg,W,7,1,2.2,0.5,57
+117,10/16/2022,Liverpool,Premier League,W,1,0,2.1,1,37
+118,10/19/2022,Liverpool,Premier League,W,1,0,1.7,1.7,54
+119,10/22/2022,Liverpool,Premier League,L,0,1,1.6,1.9,75
+120,10/26/2022,Liverpool,Champions Lg,W,3,0,1.6,1.2,50
+121,10/29/2022,Liverpool,Premier League,L,1,2,1.7,1.8,68
+122,11/1/2022,Liverpool,Champions Lg,W,2,0,2.4,0.4,52
+123,11/6/2022,Liverpool,Premier League,W,2,1,1.2,1.2,53
+124,11/9/2022,Liverpool,EFL Cup,D,0 (3),0 (2),NA,NA,74
+125,11/12/2022,Liverpool,Premier League,W,3,1,1.9,1.1,60
+126,8/7/2022,Brighton and Hove Albion,Premier League,W,2,1,1.5,1.4,38
+127,8/13/2022,Brighton and Hove Albion,Premier League,D,0,0,1.5,0.2,54
+128,8/21/2022,Brighton and Hove Albion,Premier League,W,2,0,1.7,0.8,50
+129,8/24/2022,Brighton and Hove Albion,EFL Cup,W,3,0,NA,NA,53
+130,8/27/2022,Brighton and Hove Albion,Premier League,W,1,0,2,1.8,44
+131,8/30/2022,Brighton and Hove Albion,Premier League,L,1,2,1.4,0.7,61
+132,9/4/2022,Brighton and Hove Albion,Premier League,W,5,2,2.6,1.4,53
+133,10/1/2022,Brighton and Hove Albion,Premier League,D,3,3,1.4,1.5,46
+134,10/8/2022,Brighton and Hove Albion,Premier League,L,0,1,0.7,0.8,59
+135,10/14/2022,Brighton and Hove Albion,Premier League,L,0,2,1.9,1.5,72
+136,10/18/2022,Brighton and Hove Albion,Premier League,D,0,0,1.7,0.1,70
+137,10/22/2022,Brighton and Hove Albion,Premier League,L,1,3,0.5,1.6,52
+138,10/29/2022,Brighton and Hove Albion,Premier League,W,4,1,2.4,1.4,41
+139,11/5/2022,Brighton and Hove Albion,Premier League,W,3,2,1.5,1.2,71
+140,11/9/2022,Brighton and Hove Albion,EFL Cup,W,3,1,NA,NA,43
+141,11/13/2022,Brighton and Hove Albion,Premier League,L,1,2,0.6,1.5,65
+142,8/6/2022,Chelsea,Premier League,W,1,0,1.5,0.7,62
+143,8/14/2022,Chelsea,Premier League,D,2,2,1.6,1,63
+144,8/21/2022,Chelsea,Premier League,L,0,3,0.9,2.1,61
+145,8/27/2022,Chelsea,Premier League,W,2,1,1.8,2.5,45
+146,8/30/2022,Chelsea,Premier League,L,1,2,1.1,1.1,67
+147,9/3/2022,Chelsea,Premier League,W,2,1,0.9,1.1,67
+148,9/6/2022,Chelsea,Champions Lg,L,0,1,0.9,0.6,67
+149,9/14/2022,Chelsea,Champions Lg,D,1,1,1.2,0.4,70
+150,10/1/2022,Chelsea,Premier League,W,2,1,1.1,0.4,64
+151,10/5/2022,Chelsea,Champions Lg,W,3,0,1.1,0.4,51
+152,10/8/2022,Chelsea,Premier League,W,3,0,1.9,1.1,57
+153,10/11/2022,Chelsea,Champions Lg,W,2,0,2.2,0.4,69
+154,10/16/2022,Chelsea,Premier League,W,2,0,0.9,1.8,58
+155,10/19/2022,Chelsea,Premier League,D,0,0,0.9,1.3,66
+156,10/22/2022,Chelsea,Premier League,D,1,1,1.1,0.8,48
+157,10/25/2022,Chelsea,Champions Lg,W,2,1,1.5,1.6,69
+158,10/29/2022,Chelsea,Premier League,L,1,4,1.4,2.4,59
+159,11/2/2022,Chelsea,Champions Lg,W,2,1,2.7,0.9,58
+160,11/6/2022,Chelsea,Premier League,L,0,1,0.3,2.1,45
+161,11/9/2022,Chelsea,EFL Cup,L,0,2,NA,NA,45
+162,11/12/2022,Chelsea,Premier League,L,0,1,0.3,1,51
+163,8/6/2022,Fulham,Premier League,D,2,2,1.2,1.2,33
+164,8/13/2022,Fulham,Premier League,D,0,0,1.5,0.9,41
+165,8/20/2022,Fulham,Premier League,W,3,2,2.4,1.8,43
+166,8/23/2022,Fulham,EFL Cup,L,0,2,NA,NA,67
+167,8/27/2022,Fulham,Premier League,L,1,2,0.8,2.6,29
+168,8/30/2022,Fulham,Premier League,W,2,1,0.7,1.4,39
+169,9/3/2022,Fulham,Premier League,L,1,2,0.7,2.9,48
+170,9/16/2022,Fulham,Premier League,W,3,2,0.9,1.4,59
+171,10/1/2022,Fulham,Premier League,L,1,4,0.5,3.3,33
+172,10/9/2022,Fulham,Premier League,L,1,3,0.7,2.4,50
+173,10/15/2022,Fulham,Premier League,D,2,2,2.1,1,69
+174,10/20/2022,Fulham,Premier League,W,3,0,2.1,1.2,60
+175,10/23/2022,Fulham,Premier League,W,3,2,1.8,1.6,43
+176,10/29/2022,Fulham,Premier League,D,0,0,1.9,0.9,56
+177,11/5/2022,Fulham,Premier League,L,1,2,1,2.1,30
+178,11/13/2022,Fulham,Premier League,L,1,2,1.4,2.5,53
+179,8/7/2022,Brentford,Premier League,D,2,2,0.8,0.6,44
+180,8/13/2022,Brentford,Premier League,W,4,0,1.6,0.9,34
+181,8/20/2022,Brentford,Premier League,L,2,3,1.8,2.4,57
+182,8/23/2022,Brentford,EFL Cup,W,2,0,NA,NA,65
+183,8/27/2022,Brentford,Premier League,D,1,1,2.1,1.1,58
+184,8/30/2022,Brentford,Premier League,D,1,1,1.4,1,51
+185,9/3/2022,Brentford,Premier League,W,5,2,2.3,1.7,32
+186,9/18/2022,Brentford,Premier League,L,0,3,0.5,1.5,37
+187,10/1/2022,Brentford,Premier League,D,0,0,0.9,0.4,58
+188,10/8/2022,Brentford,Premier League,L,1,5,1.2,1.5,46
+189,10/14/2022,Brentford,Premier League,W,2,0,1.5,1.9,28
+190,10/19/2022,Brentford,Premier League,D,0,0,1.3,0.9,34
+191,10/23/2022,Brentford,Premier League,L,0,4,0.9,2.8,55
+192,10/29/2022,Brentford,Premier League,D,1,1,1.4,0.6,58
+193,11/5/2022,Brentford,Premier League,D,2,2,1.5,1.5,52
+194,11/8/2022,Brentford,EFL Cup,D,1 (5),1 (6),NA,NA,81
+195,11/12/2022,Brentford,Premier League,W,2,1,1.3,1.6,26
+196,8/5/2022,Crystal Palace,Premier League,L,0,2,1.2,1,56
+197,8/15/2022,Crystal Palace,Premier League,D,1,1,1,2,28
+198,8/20/2022,Crystal Palace,Premier League,W,3,1,2.6,0.9,51
+199,8/23/2022,Crystal Palace,EFL Cup,W,2,0,NA,NA,69
+200,8/27/2022,Crystal Palace,Premier League,L,2,4,0.1,2.2,26
+201,8/30/2022,Crystal Palace,Premier League,D,1,1,1,1.4,49
+202,9/3/2022,Crystal Palace,Premier League,D,0,0,1,2.8,48
+203,10/1/2022,Crystal Palace,Premier League,L,1,2,0.4,1.1,36
+204,10/9/2022,Crystal Palace,Premier League,W,2,1,1.1,1,54
+205,10/15/2022,Crystal Palace,Premier League,D,0,0,0.4,1,46
+206,10/18/2022,Crystal Palace,Premier League,W,2,1,1.2,0.8,51
+207,10/22/2022,Crystal Palace,Premier League,L,0,3,0.9,1.4,54
+208,10/29/2022,Crystal Palace,Premier League,W,1,0,0.9,1.3,44
+209,11/6/2022,Crystal Palace,Premier League,W,2,1,1,0.3,58
+210,11/9/2022,Crystal Palace,EFL Cup,D,0 (2),0 (3),NA,NA,34
+211,11/12/2022,Crystal Palace,Premier League,L,0,1,1.2,1.1,68
+212,8/6/2022,Aston Villa,Premier League,L,0,2,0.7,0.6,65
+213,8/13/2022,Aston Villa,Premier League,W,2,1,2.3,1.6,57
+214,8/20/2022,Aston Villa,Premier League,L,1,3,0.9,2.6,49
+215,8/23/2022,Aston Villa,EFL Cup,W,4,1,NA,NA,56
+216,8/28/2022,Aston Villa,Premier League,L,0,1,0.5,0.6,58
+217,8/31/2022,Aston Villa,Premier League,L,1,2,0.4,2.4,41
+218,9/3/2022,Aston Villa,Premier League,D,1,1,0.3,2.1,29
+219,9/16/2022,Aston Villa,Premier League,W,1,0,1.5,0.3,53
+220,10/2/2022,Aston Villa,Premier League,D,0,0,2.2,0.4,56
+221,10/10/2022,Aston Villa,Premier League,D,1,1,0.7,0.3,60
+222,10/16/2022,Aston Villa,Premier League,L,0,2,1.8,0.9,42
+223,10/20/2022,Aston Villa,Premier League,L,0,3,1.2,2.1,40
+224,10/23/2022,Aston Villa,Premier League,W,4,0,2.8,0.9,45
+225,10/29/2022,Aston Villa,Premier League,L,0,4,0.4,3.4,41
+226,11/6/2022,Aston Villa,Premier League,W,3,1,0.6,0.5,42
+227,11/10/2022,Aston Villa,EFL Cup,L,2,4,NA,NA,41
+228,11/13/2022,Aston Villa,Premier League,W,2,1,1.5,0.6,35
+229,8/7/2022,Leicester City,Premier League,D,2,2,0.6,0.8,56
+230,8/13/2022,Leicester City,Premier League,L,2,4,0.5,2.7,50
+231,8/20/2022,Leicester City,Premier League,L,1,2,0.3,0.9,62
+232,8/23/2022,Leicester City,EFL Cup,D,0 (3),0 (1),NA,NA,78
+233,8/27/2022,Leicester City,Premier League,L,1,2,2.5,1.8,55
+234,9/1/2022,Leicester City,Premier League,L,0,1,0.7,1.5,53
+235,9/4/2022,Leicester City,Premier League,L,2,5,1.4,2.6,47
+236,9/17/2022,Leicester City,Premier League,L,2,6,1.8,2.2,56
+237,10/3/2022,Leicester City,Premier League,W,4,0,1.3,1.1,51
+238,10/8/2022,Leicester City,Premier League,L,1,2,1,1.1,55
+239,10/15/2022,Leicester City,Premier League,D,0,0,1,0.4,54
+240,10/20/2022,Leicester City,Premier League,W,2,0,0.8,1.3,46
+241,10/23/2022,Leicester City,Premier League,W,4,0,0.9,2.1,40
+242,10/29/2022,Leicester City,Premier League,L,0,1,0.7,1,36
+243,11/5/2022,Leicester City,Premier League,W,2,0,2.3,1.2,51
+244,11/8/2022,Leicester City,EFL Cup,W,3,0,NA,NA,77
+245,11/12/2022,Leicester City,Premier League,W,2,0,1.8,1.4,46
+246,8/6/2022,Bournemouth,Premier League,W,2,0,0.6,0.7,35
+247,8/13/2022,Bournemouth,Premier League,L,0,4,0.1,1.7,33
+248,8/20/2022,Bournemouth,Premier League,L,0,3,0.3,1.3,43
+249,8/23/2022,Bournemouth,EFL Cup,D,2 (5),2 (3),NA,NA,55
+250,8/27/2022,Bournemouth,Premier League,L,0,9,0.3,3.3,31
+251,8/31/2022,Bournemouth,Premier League,D,0,0,0.4,1.5,35
+252,9/3/2022,Bournemouth,Premier League,W,3,2,0.8,1.9,48
+253,9/17/2022,Bournemouth,Premier League,D,1,1,0.7,1.9,28
+254,10/1/2022,Bournemouth,Premier League,D,0,0,0.4,0.9,42
+255,10/8/2022,Bournemouth,Premier League,W,2,1,1.1,1,45
+256,10/15/2022,Bournemouth,Premier League,D,2,2,1,2.1,31
+257,10/19/2022,Bournemouth,Premier League,L,0,1,1,1,54
+258,10/24/2022,Bournemouth,Premier League,L,0,2,0.4,1.9,45
+259,10/29/2022,Bournemouth,Premier League,L,2,3,0.5,2,31
+260,11/5/2022,Bournemouth,Premier League,L,3,4,1.5,2.2,40
+261,11/8/2022,Bournemouth,EFL Cup,W,4,1,NA,NA,42
+262,11/12/2022,Bournemouth,Premier League,W,3,0,2.4,0.8,36
+263,8/6/2022,Leeds United,Premier League,W,2,1,0.8,1.3,40
+264,8/13/2022,Leeds United,Premier League,D,2,2,1.8,1.2,57
+265,8/21/2022,Leeds United,Premier League,W,3,0,2.1,0.9,39
+266,8/24/2022,Leeds United,EFL Cup,W,3,1,NA,NA,71
+267,8/27/2022,Leeds United,Premier League,L,0,1,1.8,2,56
+268,8/30/2022,Leeds United,Premier League,D,1,1,1,1,69
+269,9/3/2022,Leeds United,Premier League,L,2,5,1.7,2.3,68
+270,10/2/2022,Leeds United,Premier League,D,0,0,0.4,2.2,44
+271,10/9/2022,Leeds United,Premier League,L,1,2,1,1.1,46
+272,10/16/2022,Leeds United,Premier League,L,0,1,1.8,0.5,47
+273,10/20/2022,Leeds United,Premier League,L,0,2,1.3,0.8,54
+274,10/23/2022,Leeds United,Premier League,L,2,3,1.6,1.8,57
+275,10/29/2022,Leeds United,Premier League,W,2,1,1.8,1.7,32
+276,11/5/2022,Leeds United,Premier League,W,4,3,2.2,1.5,60
+277,11/9/2022,Leeds United,EFL Cup,L,0,1,NA,NA,52
+278,11/12/2022,Leeds United,Premier League,L,3,4,1.1,1.8,45
+279,8/7/2022,West Ham United,Premier League,L,0,2,0.5,2.2,25
+280,8/14/2022,West Ham United,Premier League,L,0,1,2.1,1.3,57
+281,8/18/2022,West Ham United,Conf Lg,W,3,1,NA,NA,NA
+282,8/21/2022,West Ham United,Premier League,L,0,2,0.8,1.7,50
+283,8/25/2022,West Ham United,Conf Lg,W,3,0,NA,NA,NA
+284,8/28/2022,West Ham United,Premier League,W,1,0,0.6,0.5,42
+285,8/31/2022,West Ham United,Premier League,D,1,1,1.2,0.6,39
+286,9/3/2022,West Ham United,Premier League,L,1,2,1.1,0.9,33
+287,9/8/2022,West Ham United,Conf Lg,W,3,1,2.5,1.3,66
+288,9/15/2022,West Ham United,Conf Lg,W,3,2,1.5,0.9,47
+289,9/18/2022,West Ham United,Premier League,L,0,1,1,0.4,47
+290,10/1/2022,West Ham United,Premier League,W,2,0,0.9,0.7,39
+291,10/6/2022,West Ham United,Conf Lg,W,1,0,2.6,0.8,56
+292,10/9/2022,West Ham United,Premier League,W,3,1,2.4,0.7,50
+293,10/13/2022,West Ham United,Conf Lg,W,2,1,1.4,1.4,59
+294,10/16/2022,West Ham United,Premier League,D,1,1,1.7,0.5,61
+295,10/19/2022,West Ham United,Premier League,L,0,1,1.7,1.7,46
+296,10/24/2022,West Ham United,Premier League,W,2,0,1.9,0.4,55
+297,10/27/2022,West Ham United,Conf Lg,W,1,0,2.2,0.2,53
+298,10/30/2022,West Ham United,Premier League,L,0,1,1.1,1.2,47
+299,11/3/2022,West Ham United,Conf Lg,W,3,0,1.8,0.8,58
+300,11/6/2022,West Ham United,Premier League,L,1,2,0.3,1,42
+301,11/9/2022,West Ham United,EFL Cup,D,2 (9),2 (10),NA,NA,52
+302,11/12/2022,West Ham United,Premier League,L,0,2,1.4,1.8,54
+303,8/6/2022,Everton,Premier League,L,0,1,0.7,1.5,38
+304,8/13/2022,Everton,Premier League,L,1,2,1.6,2.3,43
+305,8/20/2022,Everton,Premier League,D,1,1,1.5,1,49
+306,8/23/2022,Everton,EFL Cup,W,1,0,NA,NA,57
+307,8/27/2022,Everton,Premier League,D,1,1,1.1,2.1,42
+308,8/30/2022,Everton,Premier League,D,1,1,1,1,31
+309,9/3/2022,Everton,Premier League,D,0,0,1.7,2.1,39
+310,9/18/2022,Everton,Premier League,W,1,0,0.4,1,53
+311,10/1/2022,Everton,Premier League,W,2,1,2,1.7,45
+312,10/9/2022,Everton,Premier League,L,1,2,0.6,1.4,40
+313,10/15/2022,Everton,Premier League,L,0,2,0.4,2.2,38
+314,10/19/2022,Everton,Premier League,L,0,1,0.2,1.5,51
+315,10/22/2022,Everton,Premier League,W,3,0,1.4,0.9,46
+316,10/29/2022,Everton,Premier League,D,0,0,0.9,1.9,44
+317,11/5/2022,Everton,Premier League,L,0,2,1.2,2.3,49
+318,11/8/2022,Everton,EFL Cup,L,1,4,NA,NA,58
+319,11/12/2022,Everton,Premier League,L,0,3,0.8,2.4,64
+320,8/6/2022,Nottingham Forest,Premier League,L,0,2,0.3,1.7,39
+321,8/14/2022,Nottingham Forest,Premier League,W,1,0,1.3,2.1,43
+322,8/20/2022,Nottingham Forest,Premier League,D,1,1,1,1.5,51
+323,8/23/2022,Nottingham Forest,EFL Cup,W,3,0,NA,NA,59
+324,8/28/2022,Nottingham Forest,Premier League,L,0,2,0.9,2.4,55
+325,8/31/2022,Nottingham Forest,Premier League,L,0,6,0.7,3.3,26
+326,9/3/2022,Nottingham Forest,Premier League,L,2,3,1.9,0.8,52
+327,9/16/2022,Nottingham Forest,Premier League,L,2,3,1.4,0.9,41
+328,10/3/2022,Nottingham Forest,Premier League,L,0,4,1.1,1.3,49
+329,10/10/2022,Nottingham Forest,Premier League,D,1,1,0.3,0.7,40
+330,10/15/2022,Nottingham Forest,Premier League,L,0,1,1.5,1.3,42
+331,10/18/2022,Nottingham Forest,Premier League,D,0,0,0.1,1.7,30
+332,10/22/2022,Nottingham Forest,Premier League,W,1,0,1.9,1.6,25
+333,10/30/2022,Nottingham Forest,Premier League,L,0,5,0.4,2.3,31
+334,11/5/2022,Nottingham Forest,Premier League,D,2,2,1.5,1.5,48
+335,11/9/2022,Nottingham Forest,EFL Cup,W,2,0,NA,NA,41
+336,11/12/2022,Nottingham Forest,Premier League,W,1,0,1.1,1.2,32
+337,8/6/2022,Southampton,Premier League,L,1,4,0.5,1.5,42
+338,8/13/2022,Southampton,Premier League,D,2,2,1.2,1.8,43
+339,8/20/2022,Southampton,Premier League,W,2,1,0.9,0.3,38
+340,8/23/2022,Southampton,EFL Cup,W,3,0,NA,NA,62
+341,8/27/2022,Southampton,Premier League,L,0,1,1.4,1.1,49
+342,8/30/2022,Southampton,Premier League,W,2,1,1.1,1.1,33
+343,9/3/2022,Southampton,Premier League,L,0,1,1.2,0.8,49
+344,9/16/2022,Southampton,Premier League,L,0,1,0.3,1.5,47
+345,10/1/2022,Southampton,Premier League,L,1,2,1.7,2,55
+346,10/8/2022,Southampton,Premier League,L,0,4,0.2,2.4,35
+347,10/16/2022,Southampton,Premier League,D,1,1,0.5,1.7,39
+348,10/19/2022,Southampton,Premier League,W,1,0,1,1,46
+349,10/23/2022,Southampton,Premier League,D,1,1,0.7,1,41
+350,10/29/2022,Southampton,Premier League,L,0,1,1.3,0.9,56
+351,11/6/2022,Southampton,Premier League,L,1,4,1.7,0.9,55
+352,11/9/2022,Southampton,EFL Cup,D,1 (6),1 (5),NA,NA,62
+353,11/12/2022,Southampton,Premier League,L,1,3,1.1,1.9,40
+354,8/6/2022,Wolverhampton Wanderers,Premier League,L,1,2,1.3,0.8,60
+355,8/13/2022,Wolverhampton Wanderers,Premier League,D,0,0,0.9,1.5,59
+356,8/20/2022,Wolverhampton Wanderers,Premier League,L,0,1,0.7,1.7,50
+357,8/23/2022,Wolverhampton Wanderers,EFL Cup,W,2,1,NA,NA,65
+358,8/28/2022,Wolverhampton Wanderers,Premier League,D,1,1,0.7,1.7,37
+359,8/31/2022,Wolverhampton Wanderers,Premier League,D,0,0,1.5,0.4,65
+360,9/3/2022,Wolverhampton Wanderers,Premier League,W,1,0,0.8,1.2,51
+361,9/17/2022,Wolverhampton Wanderers,Premier League,L,0,3,0.4,1.1,41
+362,10/1/2022,Wolverhampton Wanderers,Premier League,L,0,2,0.7,0.9,61
+363,10/8/2022,Wolverhampton Wanderers,Premier League,L,0,3,1.1,1.9,43
+364,10/15/2022,Wolverhampton Wanderers,Premier League,W,1,0,1.3,1.5,58
+365,10/18/2022,Wolverhampton Wanderers,Premier League,L,1,2,0.8,1.2,49
+366,10/23/2022,Wolverhampton Wanderers,Premier League,L,0,4,2.1,0.9,60
+367,10/29/2022,Wolverhampton Wanderers,Premier League,D,1,1,0.6,1.4,42
+368,11/5/2022,Wolverhampton Wanderers,Premier League,L,2,3,1.2,1.5,29
+369,11/9/2022,Wolverhampton Wanderers,EFL Cup,W,1,0,NA,NA,48
+370,11/12/2022,Wolverhampton Wanderers,Premier League,L,0,2,0.7,2.1,38
+371,8/13/2022,Barcelona,La Liga,D,0,0,1.9,0.5,67
+372,8/21/2022,Barcelona,La Liga,W,4,1,2.1,0.8,58
+373,8/28/2022,Barcelona,La Liga,W,4,0,2.6,0.8,67
+374,9/3/2022,Barcelona,La Liga,W,3,0,4,1,54
+375,9/7/2022,Barcelona,Champions Lg,W,5,1,2.3,0.8,76
+376,9/10/2022,Barcelona,La Liga,W,4,0,3.4,0.4,70
+377,9/13/2022,Barcelona,Champions Lg,L,0,2,2,1.7,53
+378,9/17/2022,Barcelona,La Liga,W,3,0,3.9,0,76
+379,10/1/2022,Barcelona,La Liga,W,1,0,0.7,1.2,71
+380,10/4/2022,Barcelona,Champions Lg,L,0,1,0.5,0.2,71
+381,10/9/2022,Barcelona,La Liga,W,1,0,2,1.5,57
+382,10/12/2022,Barcelona,Champions Lg,D,3,3,2.2,2,61
+383,10/16/2022,Barcelona,La Liga,L,1,3,2,1.1,56
+384,10/20/2022,Barcelona,La Liga,W,3,0,2.1,0.4,69
+385,10/23/2022,Barcelona,La Liga,W,4,0,1.4,0.5,65
+386,10/26/2022,Barcelona,Champions Lg,L,0,3,0.7,2.1,52
+387,10/29/2022,Barcelona,La Liga,W,1,0,1.6,0.2,67
+388,11/1/2022,Barcelona,Champions Lg,W,4,2,2.3,2.6,76
+389,11/5/2022,Barcelona,La Liga,W,2,0,4,0.5,70
+390,11/8/2022,Barcelona,La Liga,W,2,1,0.8,1,53
+391,8/10/2022,Real Madrid,Super Cup,W,2,0,NA,NA,58
+392,8/14/2022,Real Madrid,La Liga,W,2,1,2.1,0.7,67
+393,8/20/2022,Real Madrid,La Liga,W,4,1,3.7,1.4,49
+394,8/28/2022,Real Madrid,La Liga,W,3,1,2.1,1.3,64
+395,9/3/2022,Real Madrid,La Liga,W,2,1,2.9,0.5,49
+396,9/6/2022,Real Madrid,Champions Lg,W,3,0,1.9,1.4,64
+397,9/11/2022,Real Madrid,La Liga,W,4,1,2.3,0.5,68
+398,9/14/2022,Real Madrid,Champions Lg,W,2,0,0.9,0.7,52
+399,9/18/2022,Real Madrid,La Liga,W,2,1,0.9,1,46
+400,10/2/2022,Real Madrid,La Liga,D,1,1,2.5,0.5,64
+401,10/5/2022,Real Madrid,Champions Lg,W,2,1,3.4,0.8,59
+402,10/8/2022,Real Madrid,La Liga,W,1,0,1.4,0.3,65
+403,10/11/2022,Real Madrid,Champions Lg,D,1,1,1.1,0.5,58
+404,10/16/2022,Real Madrid,La Liga,W,3,1,1.1,2,44
+405,10/19/2022,Real Madrid,La Liga,W,3,0,1.5,0.8,62
+406,10/22/2022,Real Madrid,La Liga,W,3,1,3,0.5,56
+407,10/25/2022,Real Madrid,Champions Lg,L,2,3,2.1,2.2,56
+408,10/30/2022,Real Madrid,La Liga,D,1,1,2.9,1.4,58
+409,11/2/2022,Real Madrid,Champions Lg,W,5,1,3.8,2.1,64
+410,11/7/2022,Real Madrid,La Liga,L,2,3,2.4,1.5,54
+411,11/10/2022,Real Madrid,La Liga,W,2,1,2,0.9,66
+412,8/14/2022,Real Sociedad,La Liga,W,1,0,1.5,0.2,59
+413,8/21/2022,Real Sociedad,La Liga,L,1,4,0.8,2.1,42
+414,8/27/2022,Real Sociedad,La Liga,W,1,0,1.8,0.7,55
+415,9/3/2022,Real Sociedad,La Liga,D,1,1,1.5,1.4,54
+416,9/8/2022,Real Sociedad,Europa Lg,W,1,0,1.1,0.8,45
+417,9/11/2022,Real Sociedad,La Liga,L,1,2,1.2,1.1,66
+418,9/15/2022,Real Sociedad,Europa Lg,W,2,1,1.1,0.2,70
+419,9/18/2022,Real Sociedad,La Liga,W,2,1,1.9,0.8,62
+420,10/2/2022,Real Sociedad,La Liga,W,5,3,2.1,1,59
+421,10/6/2022,Real Sociedad,Europa Lg,W,2,0,1.5,0.4,65
+422,10/9/2022,Real Sociedad,La Liga,W,1,0,1.2,0.2,60
+423,10/13/2022,Real Sociedad,Europa Lg,W,3,0,2.2,0.2,68
+424,10/16/2022,Real Sociedad,La Liga,W,2,1,0.8,0.5,47
+425,10/19/2022,Real Sociedad,La Liga,W,1,0,1.2,0.9,51
+426,10/22/2022,Real Sociedad,La Liga,L,0,1,0.9,0.8,74
+427,10/27/2022,Real Sociedad,Europa Lg,W,2,0,1.3,0.3,63
+428,10/30/2022,Real Sociedad,La Liga,L,0,2,0.9,1.3,58
+429,11/3/2022,Real Sociedad,Europa Lg,L,0,1,1.1,0.7,47
+430,11/6/2022,Real Sociedad,La Liga,D,1,1,1.1,0.9,29
+431,11/9/2022,Real Sociedad,La Liga,W,2,1,1.7,0.6,68
+432,11/13/2022,Real Sociedad,Copa del Rey,W,4,1,NA,NA,72
+433,8/15/2022,Athletic Club,La Liga,D,0,0,1.6,0.4,64
+434,8/21/2022,Athletic Club,La Liga,W,1,0,1,0.7,38
+435,8/29/2022,Athletic Club,La Liga,W,4,0,2.4,0.4,62
+436,9/4/2022,Athletic Club,La Liga,L,0,1,1.2,0.6,66
+437,9/11/2022,Athletic Club,La Liga,W,4,1,2.7,0.9,53
+438,9/17/2022,Athletic Club,La Liga,W,3,2,1.9,0.7,39
+439,9/30/2022,Athletic Club,La Liga,W,4,0,2.1,0.7,58
+440,10/8/2022,Athletic Club,La Liga,D,1,1,1.7,1,55
+441,10/15/2022,Athletic Club,La Liga,L,0,1,1.2,0.3,60
+442,10/18/2022,Athletic Club,La Liga,D,2,2,1,0.8,59
+443,10/23/2022,Athletic Club,La Liga,L,0,4,0.5,1.4,35
+444,10/30/2022,Athletic Club,La Liga,W,1,0,1.7,0.3,43
+445,11/4/2022,Athletic Club,La Liga,L,1,2,0.7,1,58
+446,11/8/2022,Athletic Club,La Liga,W,3,0,2.1,0.5,43
+447,11/13/2022,Athletic Club,Copa del Rey,W,2,0,NA,NA,61
+448,8/15/2022,Atletico Madrid,La Liga,W,3,0,1.2,0.7,58
+449,8/21/2022,Atletico Madrid,La Liga,L,0,2,1.6,1.8,51
+450,8/29/2022,Atletico Madrid,La Liga,W,1,0,1.5,0.5,31
+451,9/3/2022,Atletico Madrid,La Liga,D,1,1,1.4,1.5,46
+452,9/7/2022,Atletico Madrid,Champions Lg,W,2,1,0.8,2,53
+453,9/10/2022,Atletico Madrid,La Liga,W,4,1,0.7,1.7,46
+454,9/13/2022,Atletico Madrid,Champions Lg,L,0,2,0.9,1.8,55
+455,9/18/2022,Atletico Madrid,La Liga,L,1,2,1,0.9,54
+456,10/1/2022,Atletico Madrid,La Liga,W,2,0,2.2,0.5,40
+457,10/4/2022,Atletico Madrid,Champions Lg,L,0,2,2.1,1.3,52
+458,10/8/2022,Atletico Madrid,La Liga,W,2,1,1.9,0.8,45
+459,10/12/2022,Atletico Madrid,Champions Lg,D,0,0,2.3,0.6,65
+460,10/15/2022,Atletico Madrid,La Liga,W,1,0,0.3,1.2,40
+461,10/18/2022,Atletico Madrid,La Liga,D,1,1,1.1,1.8,52
+462,10/23/2022,Atletico Madrid,La Liga,W,2,1,0.8,1.4,45
+463,10/26/2022,Atletico Madrid,Champions Lg,D,2,2,2.6,1.5,64
+464,10/29/2022,Atletico Madrid,La Liga,L,2,3,1.3,1.1,59
+465,11/1/2022,Atletico Madrid,Champions Lg,L,1,2,0.8,2.7,50
+466,11/6/2022,Atletico Madrid,La Liga,D,1,1,1.9,0.7,67
+467,11/9/2022,Atletico Madrid,La Liga,L,0,1,1.3,1.3,63
+468,11/12/2022,Atletico Madrid,Copa del Rey,W,2,0,NA,NA,NA
+469,8/15/2022,Real Betis,La Liga,W,3,0,3.1,0.4,71
+470,8/20/2022,Real Betis,La Liga,W,2,1,2.1,0.6,52
+471,8/26/2022,Real Betis,La Liga,W,1,0,0.5,1.3,55
+472,9/3/2022,Real Betis,La Liga,L,1,2,0.5,2.9,51
+473,9/8/2022,Real Betis,Europa Lg,W,2,0,2.7,0.2,51
+474,9/11/2022,Real Betis,La Liga,W,1,0,1.9,1.7,47
+475,9/15/2022,Real Betis,Europa Lg,W,3,2,1,0.8,54
+476,9/18/2022,Real Betis,La Liga,W,2,1,1.6,1.3,44
+477,10/2/2022,Real Betis,La Liga,L,0,1,0.9,0.9,54
+478,10/6/2022,Real Betis,Europa Lg,W,2,1,0.6,1.8,60
+479,10/9/2022,Real Betis,La Liga,D,0,0,0.5,0.6,42
+480,10/13/2022,Real Betis,Europa Lg,D,1,1,0.4,1.1,48
+481,10/16/2022,Real Betis,La Liga,W,3,1,2.5,0.8,54
+482,10/19/2022,Real Betis,La Liga,D,0,0,0.9,0.9,59
+483,10/23/2022,Real Betis,La Liga,L,1,2,1.4,0.8,55
+484,10/27/2022,Real Betis,Europa Lg,W,1,0,0.4,0.9,47
+485,10/30/2022,Real Betis,La Liga,W,2,0,1.3,0.9,42
+486,11/3/2022,Real Betis,Europa Lg,W,3,0,2.8,0.6,68
+487,11/6/2022,Real Betis,La Liga,D,1,1,1,1.5,37
+488,11/10/2022,Real Betis,La Liga,L,0,3,0.2,2,38
+489,8/12/2022,Osasuna,La Liga,W,2,1,1.5,0.9,35
+490,8/20/2022,Osasuna,La Liga,W,2,0,2.7,1,55
+491,8/26/2022,Osasuna,La Liga,L,0,1,1.3,0.5,45
+492,9/4/2022,Osasuna,La Liga,W,2,1,2,0.2,47
+493,9/12/2022,Osasuna,La Liga,W,1,0,2,0.2,39
+494,9/18/2022,Osasuna,La Liga,L,0,2,0.5,0.8,55
+495,10/2/2022,Osasuna,La Liga,D,1,1,0.5,2.5,36
+496,10/7/2022,Osasuna,La Liga,L,1,2,1.6,2.1,44
+497,10/17/2022,Osasuna,La Liga,L,0,2,0.5,1.5,42
+498,10/20/2022,Osasuna,La Liga,W,1,0,1,1,64
+499,10/23/2022,Osasuna,La Liga,D,1,1,0.6,0.4,50
+500,10/30/2022,Osasuna,La Liga,W,2,0,2.5,0.5,48
+501,11/5/2022,Osasuna,La Liga,W,2,1,0.4,0.7,39
+502,11/8/2022,Osasuna,La Liga,L,1,2,1,0.8,47
+503,11/12/2022,Osasuna,Copa del Rey,W,4,1,NA,NA,NA
+504,8/13/2022,Rayo Vallecano,La Liga,D,0,0,0.5,1.9,33
+505,8/19/2022,Rayo Vallecano,La Liga,W,2,0,1.4,0.8,46
+506,8/27/2022,Rayo Vallecano,La Liga,L,0,2,0.7,0.8,65
+507,9/4/2022,Rayo Vallecano,La Liga,L,1,2,0.2,2,53
+508,9/10/2022,Rayo Vallecano,La Liga,W,2,1,1.7,1.7,46
+509,9/17/2022,Rayo Vallecano,La Liga,L,2,3,0.7,1.9,61
+510,10/3/2022,Rayo Vallecano,La Liga,W,2,1,0.9,1.1,70
+511,10/8/2022,Rayo Vallecano,La Liga,L,1,3,0.8,1.2,63
+512,10/14/2022,Rayo Vallecano,La Liga,D,0,0,1.6,0.4,65
+513,10/18/2022,Rayo Vallecano,La Liga,D,1,1,1.8,1.1,48
+514,10/22/2022,Rayo Vallecano,La Liga,W,5,1,3.7,0.2,62
+515,10/29/2022,Rayo Vallecano,La Liga,W,1,0,0.7,1.2,38
+516,11/7/2022,Rayo Vallecano,La Liga,W,3,2,1.5,2.4,46
+517,11/10/2022,Rayo Vallecano,La Liga,D,0,0,0.4,0.9,59
+518,11/13/2022,Rayo Vallecano,Copa del Rey,W,3,1,NA,NA,73
+519,8/13/2022,Villarreal,La Liga,W,3,0,1.5,1,49
+520,8/18/2022,Villarreal,Conf Lg,W,4,2,NA,NA,NA
+521,8/21/2022,Villarreal,La Liga,W,2,0,1.8,1.6,49
+522,8/25/2022,Villarreal,Conf Lg,W,2,0,NA,NA,NA
+523,8/28/2022,Villarreal,La Liga,D,0,0,1.1,0.3,64
+524,9/4/2022,Villarreal,La Liga,W,4,0,3.4,0.6,53
+525,9/8/2022,Villarreal,Conf Lg,W,4,3,1,1.8,56
+526,9/11/2022,Villarreal,La Liga,L,0,1,1.7,1.9,53
+527,9/15/2022,Villarreal,Conf Lg,W,2,1,3.4,0.7,50
+528,9/18/2022,Villarreal,La Liga,D,1,1,1.5,0.6,46
+529,10/1/2022,Villarreal,La Liga,D,0,0,1.6,0.7,60
+530,10/6/2022,Villarreal,Conf Lg,W,5,0,3.2,0.7,49
+531,10/9/2022,Villarreal,La Liga,L,0,1,0.2,1.2,40
+532,10/13/2022,Villarreal,Conf Lg,W,1,0,0.5,0.3,63
+533,10/17/2022,Villarreal,La Liga,W,2,0,1.5,0.5,58
+534,10/20/2022,Villarreal,La Liga,L,0,3,0.4,2.1,31
+535,10/23/2022,Villarreal,La Liga,W,2,1,1,1,52
+536,10/27/2022,Villarreal,Conf Lg,D,2,2,1.7,1.3,78
+537,10/30/2022,Villarreal,La Liga,L,0,1,0.3,1.7,57
+538,11/3/2022,Villarreal,Conf Lg,L,0,3,1.1,2.2,72
+539,11/6/2022,Villarreal,La Liga,L,0,2,0.5,0.4,71
+540,11/9/2022,Villarreal,La Liga,W,1,0,0.7,1.1,56
+541,11/12/2022,Villarreal,Copa del Rey,W,9,0,NA,NA,NA
+542,8/14/2022,Valencia,La Liga,W,1,0,1.6,0.1,46
+543,8/21/2022,Valencia,La Liga,L,0,1,0.7,1,62
+544,8/29/2022,Valencia,La Liga,L,0,1,0.5,1.5,69
+545,9/4/2022,Valencia,La Liga,W,5,1,2.3,0.2,69
+546,9/10/2022,Valencia,La Liga,L,1,2,1.7,1.7,54
+547,9/17/2022,Valencia,La Liga,W,3,0,1.7,0.5,65
+548,10/2/2022,Valencia,La Liga,D,2,2,1.1,0.8,62
+549,10/7/2022,Valencia,La Liga,W,2,1,2.1,1.6,56
+550,10/15/2022,Valencia,La Liga,D,2,2,2.7,1.7,60
+551,10/18/2022,Valencia,La Liga,D,1,1,1.8,1.1,36
+552,10/22/2022,Valencia,La Liga,L,1,2,1.2,1.5,67
+553,10/29/2022,Valencia,La Liga,L,0,1,0.2,1.6,33
+554,11/6/2022,Valencia,La Liga,D,1,1,0.9,1.1,71
+555,11/10/2022,Valencia,La Liga,W,3,0,2,0.2,62
+556,8/15/2022,Mallorca,La Liga,D,0,0,0.4,1.6,36
+557,8/20/2022,Mallorca,La Liga,L,1,2,0.6,2.1,48
+558,8/27/2022,Mallorca,La Liga,W,2,0,0.8,0.7,35
+559,9/3/2022,Mallorca,La Liga,D,1,1,0.7,1.2,51
+560,9/11/2022,Mallorca,La Liga,L,1,4,0.5,2.3,32
+561,9/17/2022,Mallorca,La Liga,W,1,0,0.6,0.4,44
+562,10/1/2022,Mallorca,La Liga,L,0,1,1.2,0.7,29
+563,10/10/2022,Mallorca,La Liga,D,1,1,2.3,0.5,58
+564,10/15/2022,Mallorca,La Liga,L,0,1,0.7,0.2,44
+565,10/19/2022,Mallorca,La Liga,L,0,1,0.9,1.2,49
+566,10/22/2022,Mallorca,La Liga,W,2,1,1.5,1.2,33
+567,10/28/2022,Mallorca,La Liga,D,1,1,1.4,0.3,52
+568,11/6/2022,Mallorca,La Liga,W,2,0,0.4,0.5,29
+569,11/9/2022,Mallorca,La Liga,W,1,0,1.3,1.3,37
+570,11/12/2022,Mallorca,Copa del Rey,W,6,0,NA,NA,NA
+571,8/13/2022,Valladolid,La Liga,L,0,3,1,1.5,51
+572,8/19/2022,Valladolid,La Liga,D,1,1,0.5,2,39
+573,8/28/2022,Valladolid,La Liga,L,0,4,0.8,2.6,33
+574,9/5/2022,Valladolid,La Liga,W,1,0,1.2,0.5,51
+575,9/9/2022,Valladolid,La Liga,L,1,2,0.6,1.7,55
+576,9/16/2022,Valladolid,La Liga,L,0,1,1.5,0.3,57
+577,10/1/2022,Valladolid,La Liga,W,3,2,1.6,2.8,56
+578,10/9/2022,Valladolid,La Liga,D,0,0,0.6,0.5,58
+579,10/16/2022,Valladolid,La Liga,L,0,1,0.7,1.3,51
+580,10/19/2022,Valladolid,La Liga,W,4,1,1.5,2.6,38
+581,10/22/2022,Valladolid,La Liga,W,1,0,0.8,0.9,26
+582,10/30/2022,Valladolid,La Liga,L,0,2,0.5,2.5,52
+583,11/5/2022,Valladolid,La Liga,W,2,1,1.9,0.2,51
+584,11/8/2022,Valladolid,La Liga,L,0,3,0.5,2.1,57
+585,11/12/2022,Valladolid,Copa del Rey,W,2,0,NA,NA,NA
+586,8/14/2022,Girona,La Liga,L,0,1,0.1,1.6,54
+587,8/22/2022,Girona,La Liga,W,3,1,1.1,0.6,66
+588,8/26/2022,Girona,La Liga,L,0,1,1,1,53
+589,9/3/2022,Girona,La Liga,D,1,1,1.2,0.7,49
+590,9/9/2022,Girona,La Liga,W,2,1,1.7,0.6,45
+591,9/18/2022,Girona,La Liga,L,1,2,1.3,1.6,56
+592,10/2/2022,Girona,La Liga,L,3,5,1,2.1,41
+593,10/8/2022,Girona,La Liga,L,1,2,0.8,1.9,55
+594,10/15/2022,Girona,La Liga,D,1,1,2.3,1.1,65
+595,10/20/2022,Girona,La Liga,L,2,3,2.8,1.8,65
+596,10/23/2022,Girona,La Liga,D,1,1,0.4,0.6,50
+597,10/30/2022,Girona,La Liga,D,1,1,1.4,2.9,42
+598,11/4/2022,Girona,La Liga,W,2,1,1,0.7,42
+599,11/8/2022,Girona,La Liga,W,2,1,2.3,0.6,55
+600,11/13/2022,Girona,Copa del Rey,W,2,1,NA,NA,65
+601,8/14/2022,Almeria,La Liga,L,1,2,0.7,2.1,33
+602,8/22/2022,Almeria,La Liga,D,1,1,0.7,1,46
+603,8/27/2022,Almeria,La Liga,W,2,1,2.3,1,33
+604,9/5/2022,Almeria,La Liga,L,0,1,0.5,1.2,49
+605,9/12/2022,Almeria,La Liga,L,0,1,0.2,2,61
+606,9/17/2022,Almeria,La Liga,L,0,1,0.4,0.6,56
+607,9/30/2022,Almeria,La Liga,L,0,4,0.7,2.1,42
+608,10/8/2022,Almeria,La Liga,W,3,1,1.2,0.8,37
+609,10/16/2022,Almeria,La Liga,L,1,3,0.8,2.5,46
+610,10/20/2022,Almeria,La Liga,W,3,2,1.8,2.8,35
+611,10/23/2022,Almeria,La Liga,L,1,2,1,1,48
+612,10/29/2022,Almeria,La Liga,W,3,1,2.3,0.3,61
+613,11/5/2022,Almeria,La Liga,L,0,2,0.5,4,30
+614,11/9/2022,Almeria,La Liga,W,1,0,0.5,0.4,54
+615,11/13/2022,Almeria,Copa del Rey,L,0,2,NA,NA,62
+616,8/15/2022,Getafe,La Liga,L,0,3,0.7,1.2,42
+617,8/22/2022,Getafe,La Liga,L,1,3,0.6,1.1,34
+618,8/28/2022,Getafe,La Liga,D,0,0,0.3,1.1,36
+619,9/4/2022,Getafe,La Liga,L,1,5,0.2,2.3,31
+620,9/11/2022,Getafe,La Liga,W,2,1,1.1,1.2,34
+621,9/18/2022,Getafe,La Liga,W,2,0,0.8,0.5,45
+622,10/1/2022,Getafe,La Liga,L,2,3,2.8,1.6,44
+623,10/8/2022,Getafe,La Liga,L,0,1,0.3,1.4,35
+624,10/14/2022,Getafe,La Liga,D,0,0,0.4,1.6,35
+625,10/18/2022,Getafe,La Liga,D,2,2,0.8,1,41
+626,10/24/2022,Getafe,La Liga,D,1,1,0.2,0.7,29
+627,10/31/2022,Getafe,La Liga,W,1,0,0.4,1.3,41
+628,11/5/2022,Getafe,La Liga,D,0,0,0.6,1.4,53
+629,11/9/2022,Getafe,La Liga,L,0,1,0.4,0.5,46
+630,11/13/2022,Getafe,Copa del Rey,W,3,2,NA,NA,59
+631,8/13/2022,Espanyol,La Liga,D,2,2,1.1,0.4,40
+632,8/19/2022,Espanyol,La Liga,L,0,2,0.8,1.4,54
+633,8/28/2022,Espanyol,La Liga,L,1,3,1.3,2.1,36
+634,9/4/2022,Espanyol,La Liga,W,1,0,0.6,1.2,34
+635,9/10/2022,Espanyol,La Liga,L,2,3,2.5,2,58
+636,9/18/2022,Espanyol,La Liga,L,1,2,0.8,1.9,38
+637,10/2/2022,Espanyol,La Liga,D,2,2,0.8,1.1,38
+638,10/9/2022,Espanyol,La Liga,D,2,2,1.3,1.3,46
+639,10/16/2022,Espanyol,La Liga,W,1,0,1.3,0.7,49
+640,10/20/2022,Espanyol,La Liga,L,0,1,1,1,36
+641,10/23/2022,Espanyol,La Liga,D,2,2,2.2,0.5,41
+642,10/28/2022,Espanyol,La Liga,D,1,1,0.3,1.4,48
+643,11/6/2022,Espanyol,La Liga,D,1,1,0.7,1.9,33
+644,11/9/2022,Espanyol,La Liga,L,0,1,1.1,0.7,44
+645,11/12/2022,Espanyol,Copa del Rey,W,3,0,NA,NA,67
+646,8/13/2022,Celta Vigo,La Liga,D,2,2,0.4,1.1,60
+647,8/20/2022,Celta Vigo,La Liga,L,1,4,1.4,3.7,51
+648,8/26/2022,Celta Vigo,La Liga,W,1,0,1,1,47
+649,9/2/2022,Celta Vigo,La Liga,W,3,0,0.7,0.3,58
+650,9/10/2022,Celta Vigo,La Liga,L,1,4,1.7,0.7,54
+651,9/17/2022,Celta Vigo,La Liga,L,0,3,0.5,1.7,35
+652,10/2/2022,Celta Vigo,La Liga,W,1,0,0.9,0.9,46
+653,10/9/2022,Celta Vigo,La Liga,L,0,1,1.5,2,43
+654,10/16/2022,Celta Vigo,La Liga,L,1,2,0.5,0.8,53
+655,10/19/2022,Celta Vigo,La Liga,L,1,4,2.6,1.5,62
+656,10/24/2022,Celta Vigo,La Liga,D,1,1,0.7,0.2,71
+657,10/29/2022,Celta Vigo,La Liga,L,1,3,0.3,2.3,39
+658,11/5/2022,Celta Vigo,La Liga,L,1,2,0.7,0.4,61
+659,11/10/2022,Celta Vigo,La Liga,D,0,0,0.9,0.4,41
+660,11/13/2022,Celta Vigo,Copa del Rey,W,6,1,NA,NA,79
+661,8/12/2022,Sevilla,La Liga,L,1,2,0.9,1.5,65
+662,8/19/2022,Sevilla,La Liga,D,1,1,2,0.5,61
+663,8/27/2022,Sevilla,La Liga,L,1,2,1,2.3,67
+664,9/3/2022,Sevilla,La Liga,L,0,3,1,4,46
+665,9/6/2022,Sevilla,Champions Lg,L,0,4,0.3,3.6,39
+666,9/10/2022,Sevilla,La Liga,W,3,2,2,2.5,42
+667,9/14/2022,Sevilla,Champions Lg,D,0,0,0.8,0.7,63
+668,9/18/2022,Sevilla,La Liga,D,1,1,0.6,1.5,54
+669,10/1/2022,Sevilla,La Liga,L,0,2,0.5,2.2,60
+670,10/5/2022,Sevilla,Champions Lg,L,1,4,2,2.5,58
+671,10/8/2022,Sevilla,La Liga,D,1,1,1,1.7,45
+672,10/11/2022,Sevilla,Champions Lg,D,1,1,0.8,0.4,48
+673,10/15/2022,Sevilla,La Liga,W,1,0,0.2,0.7,56
+674,10/18/2022,Sevilla,La Liga,D,1,1,1.1,1.8,64
+675,10/22/2022,Sevilla,La Liga,L,1,3,0.5,3,44
+676,10/25/2022,Sevilla,Champions Lg,W,3,0,1,1.1,57
+677,10/29/2022,Sevilla,La Liga,L,0,1,1.2,0.7,62
+678,11/2/2022,Sevilla,Champions Lg,L,1,3,0.4,2,39
+679,11/6/2022,Sevilla,La Liga,D,1,1,1.5,1,63
+680,11/9/2022,Sevilla,La Liga,L,1,2,0.6,1.7,32
+681,11/13/2022,Sevilla,Copa del Rey,W,2,0,NA,NA,87
+682,8/14/2022,Cadiz,La Liga,L,0,1,0.2,1.5,41
+683,8/20/2022,Cadiz,La Liga,L,0,2,1,2.7,45
+684,8/29/2022,Cadiz,La Liga,L,0,4,0.4,2.4,38
+685,9/2/2022,Cadiz,La Liga,L,0,3,0.3,0.7,42
+686,9/10/2022,Cadiz,La Liga,L,0,4,0.4,3.4,30
+687,9/16/2022,Cadiz,La Liga,W,1,0,0.3,1.5,43
+688,10/1/2022,Cadiz,La Liga,D,0,0,0.7,1.6,40
+689,10/9/2022,Cadiz,La Liga,D,2,2,1.3,1.3,54
+690,10/15/2022,Cadiz,La Liga,D,1,1,1.1,2.3,35
+691,10/19/2022,Cadiz,La Liga,D,0,0,0.9,0.9,41
+692,10/22/2022,Cadiz,La Liga,L,1,5,0.2,3.7,38
+693,10/29/2022,Cadiz,La Liga,W,3,2,1.1,1.3,41
+694,11/5/2022,Cadiz,La Liga,D,0,0,1.4,0.6,47
+695,11/10/2022,Cadiz,La Liga,L,1,2,0.9,2,34
+696,11/13/2022,Cadiz,Copa del Rey,L,2,3,NA,NA,60
+697,8/15/2022,Elche,La Liga,L,0,3,0.4,3.1,29
+698,8/22/2022,Elche,La Liga,D,1,1,1,0.7,54
+699,8/27/2022,Elche,La Liga,L,0,1,0.7,1.8,45
+700,9/4/2022,Elche,La Liga,L,0,4,0.6,3.4,47
+701,9/11/2022,Elche,La Liga,L,1,4,0.9,2.7,47
+702,9/17/2022,Elche,La Liga,L,0,3,0,3.9,24
+703,10/3/2022,Elche,La Liga,L,1,2,1.1,0.9,30
+704,10/10/2022,Elche,La Liga,D,1,1,0.5,2.3,42
+705,10/15/2022,Elche,La Liga,D,2,2,1.7,2.7,40
+706,10/19/2022,Elche,La Liga,L,0,3,0.8,1.5,38
+707,10/23/2022,Elche,La Liga,D,2,2,0.5,2.2,59
+708,10/31/2022,Elche,La Liga,L,0,1,1.3,0.4,59
+709,11/5/2022,Elche,La Liga,L,1,2,0.2,1.9,49
+710,11/8/2022,Elche,La Liga,L,1,2,0.6,2.3,45
+711,11/12/2022,Elche,Copa del Rey,W,3,0,NA,NA,NA
+712,7/31/2022,Paris Saint Germain,Trophée des Champions,W,4,0,NA,NA,62
+713,8/6/2022,Paris Saint Germain,Ligue 1,W,5,0,3.5,0.3,62
+714,8/13/2022,Paris Saint Germain,Ligue 1,W,5,2,3.2,0.9,59
+715,8/21/2022,Paris Saint Germain,Ligue 1,W,7,1,3.4,1.7,52
+716,8/28/2022,Paris Saint Germain,Ligue 1,D,1,1,2.7,1.2,67
+717,8/31/2022,Paris Saint Germain,Ligue 1,W,3,0,2.8,0.8,62
+718,9/3/2022,Paris Saint Germain,Ligue 1,W,3,0,2.7,0.4,60
+719,9/6/2022,Paris Saint Germain,Champions Lg,W,2,1,1.7,1,57
+720,9/10/2022,Paris Saint Germain,Ligue 1,W,1,0,1.7,1.1,61
+721,9/14/2022,Paris Saint Germain,Champions Lg,W,3,1,1.8,1,56
+722,9/18/2022,Paris Saint Germain,Ligue 1,W,1,0,1.6,1,65
+723,10/1/2022,Paris Saint Germain,Ligue 1,W,2,1,1,0.5,57
+724,10/5/2022,Paris Saint Germain,Champions Lg,D,1,1,1,1.4,64
+725,10/8/2022,Paris Saint Germain,Ligue 1,D,0,0,1.2,1.8,63
+726,10/11/2022,Paris Saint Germain,Champions Lg,D,1,1,1.2,1.2,61
+727,10/16/2022,Paris Saint Germain,Ligue 1,W,1,0,2.5,1.2,50
+728,10/21/2022,Paris Saint Germain,Ligue 1,W,3,0,2.5,0.3,65
+729,10/25/2022,Paris Saint Germain,Champions Lg,W,7,2,2.6,0.8,62
+730,10/29/2022,Paris Saint Germain,Ligue 1,W,4,3,2.9,2,67
+731,11/2/2022,Paris Saint Germain,Champions Lg,W,2,1,0.5,1.6,53
+732,11/6/2022,Paris Saint Germain,Ligue 1,W,2,1,1.6,0.8,59
+733,11/13/2022,Paris Saint Germain,Ligue 1,W,5,0,2,0.7,59
+734,8/7/2022,Lens,Ligue 1,W,3,2,2.5,1.2,61
+735,8/14/2022,Lens,Ligue 1,D,0,0,1.4,0.5,64
+736,8/20/2022,Lens,Ligue 1,W,4,1,2.5,1.6,54
+737,8/27/2022,Lens,Ligue 1,W,2,1,1.3,1,51
+738,8/31/2022,Lens,Ligue 1,W,5,2,3,1.1,58
+739,9/4/2022,Lens,Ligue 1,D,1,1,1.9,2.1,63
+740,9/9/2022,Lens,Ligue 1,W,1,0,1.4,0.7,63
+741,9/18/2022,Lens,Ligue 1,D,0,0,0.9,0.9,58
+742,10/2/2022,Lens,Ligue 1,W,1,0,2.9,0.1,52
+743,10/9/2022,Lens,Ligue 1,L,0,1,1.2,2.6,55
+744,10/15/2022,Lens,Ligue 1,W,1,0,1.8,0.7,65
+745,10/22/2022,Lens,Ligue 1,W,1,0,0.9,1.8,44
+746,10/28/2022,Lens,Ligue 1,W,3,0,2.4,0.7,52
+747,11/5/2022,Lens,Ligue 1,W,2,1,1.8,0.5,56
+748,11/12/2022,Lens,Ligue 1,W,2,1,1.5,0.2,61
+749,8/7/2022,Rennes,Ligue 1,L,0,1,1.8,1.1,63
+750,8/13/2022,Rennes,Ligue 1,D,1,1,2.1,1.8,65
+751,8/21/2022,Rennes,Ligue 1,W,2,1,1.2,1.4,55
+752,8/27/2022,Rennes,Ligue 1,L,1,2,1,1.3,49
+753,8/31/2022,Rennes,Ligue 1,W,3,1,1.5,0.5,64
+754,9/4/2022,Rennes,Ligue 1,D,1,1,2.4,0.9,71
+755,9/8/2022,Rennes,Europa Lg,W,2,1,1.5,1.1,52
+756,9/11/2022,Rennes,Ligue 1,W,5,0,1.6,0.7,48
+757,9/15/2022,Rennes,Europa Lg,D,2,2,1.9,1.4,38
+758,9/18/2022,Rennes,Ligue 1,D,1,1,1.2,1.6,41
+759,10/1/2022,Rennes,Ligue 1,W,3,1,3.2,1.3,60
+760,10/6/2022,Rennes,Europa Lg,W,2,1,1.6,0.9,53
+761,10/9/2022,Rennes,Ligue 1,W,3,0,1.8,0.5,57
+762,10/13/2022,Rennes,Europa Lg,W,1,0,1.4,0.2,48
+763,10/16/2022,Rennes,Ligue 1,W,3,2,1.6,1.1,40
+764,10/23/2022,Rennes,Ligue 1,W,2,1,2.2,1.2,70
+765,10/27/2022,Rennes,Europa Lg,D,3,3,0.9,1.3,37
+766,10/30/2022,Rennes,Ligue 1,W,3,0,1.2,0.9,55
+767,11/3/2022,Rennes,Europa Lg,D,1,1,1,0.9,54
+768,11/6/2022,Rennes,Ligue 1,D,1,1,0.9,2.4,38
+769,11/12/2022,Rennes,Ligue 1,W,2,1,2.1,1,46
+770,8/7/2022,Marseille,Ligue 1,W,4,1,2.1,0.9,56
+771,8/14/2022,Marseille,Ligue 1,D,1,1,0.7,2,53
+772,8/20/2022,Marseille,Ligue 1,W,2,1,1.1,2.2,56
+773,8/28/2022,Marseille,Ligue 1,W,3,0,1.4,1,51
+774,8/31/2022,Marseille,Ligue 1,W,1,0,2.5,0.1,60
+775,9/3/2022,Marseille,Ligue 1,W,2,0,1.6,0.6,52
+776,9/7/2022,Marseille,Champions Lg,L,0,2,0.4,1.5,50
+777,9/10/2022,Marseille,Ligue 1,W,2,1,2.2,1,53
+778,9/13/2022,Marseille,Champions Lg,L,0,1,0.9,1.2,61
+779,9/18/2022,Marseille,Ligue 1,D,1,1,1.6,1.2,59
+780,9/30/2022,Marseille,Ligue 1,W,3,0,1.6,1.2,57
+781,10/4/2022,Marseille,Champions Lg,W,4,1,2.5,0.4,56
+782,10/8/2022,Marseille,Ligue 1,L,1,2,1.7,0.2,64
+783,10/12/2022,Marseille,Champions Lg,W,2,0,2.8,0.3,68
+784,10/16/2022,Marseille,Ligue 1,L,0,1,1.2,2.5,50
+785,10/22/2022,Marseille,Ligue 1,L,0,1,1.8,0.9,56
+786,10/26/2022,Marseille,Champions Lg,L,1,2,0.7,1.1,56
+787,10/29/2022,Marseille,Ligue 1,D,2,2,2,1.1,49
+788,11/1/2022,Marseille,Champions Lg,L,1,2,1.4,0.6,64
+789,11/6/2022,Marseille,Ligue 1,W,1,0,0.8,0.9,47
+790,11/13/2022,Marseille,Ligue 1,W,3,2,1.9,2,58
+791,8/7/2022,Lorient,Ligue 1,W,1,0,1.1,1.8,37
+792,8/21/2022,Lorient,Ligue 1,D,2,2,2.5,1.8,48
+793,8/28/2022,Lorient,Ligue 1,W,2,1,2.9,0.6,40
+794,8/31/2022,Lorient,Ligue 1,L,2,5,1.1,3,42
+795,9/4/2022,Lorient,Ligue 1,W,1,0,0.8,0.5,42
+796,9/7/2022,Lorient,Ligue 1,W,3,1,1,2.2,34
+797,9/11/2022,Lorient,Ligue 1,W,3,2,1.3,0.5,48
+798,9/16/2022,Lorient,Ligue 1,W,3,1,2.5,2,44
+799,10/2/2022,Lorient,Ligue 1,W,2,1,0.6,2.2,37
+800,10/9/2022,Lorient,Ligue 1,W,2,1,1.1,0.9,50
+801,10/15/2022,Lorient,Ligue 1,D,0,0,0.8,0.6,48
+802,10/23/2022,Lorient,Ligue 1,D,2,2,1.4,0.8,58
+803,10/30/2022,Lorient,Ligue 1,L,1,2,1.8,1.8,44
+804,11/6/2022,Lorient,Ligue 1,L,1,2,0.8,1.6,41
+805,11/13/2022,Lorient,Ligue 1,D,1,1,0.5,2.3,39
+806,8/2/2022,Monaco,Champions Lg,D,1,1,NA,NA,52
+807,8/6/2022,Monaco,Ligue 1,W,2,1,2.8,0.8,47
+808,8/9/2022,Monaco,Champions Lg,L,2,3,NA,NA,52
+809,8/13/2022,Monaco,Ligue 1,D,1,1,1.8,2.1,35
+810,8/20/2022,Monaco,Ligue 1,L,1,4,1.6,2.5,46
+811,8/28/2022,Monaco,Ligue 1,D,1,1,1.2,2.7,33
+812,8/31/2022,Monaco,Ligue 1,L,2,4,1.2,2.2,52
+813,9/4/2022,Monaco,Ligue 1,W,1,0,1.1,0.7,48
+814,9/8/2022,Monaco,Europa Lg,W,1,0,1.5,1,51
+815,9/11/2022,Monaco,Ligue 1,W,2,1,1.7,2,39
+816,9/15/2022,Monaco,Europa Lg,L,0,1,1.4,0.3,56
+817,9/18/2022,Monaco,Ligue 1,W,3,0,1.7,0.6,67
+818,10/2/2022,Monaco,Ligue 1,W,4,1,2.1,0.5,49
+819,10/6/2022,Monaco,Europa Lg,W,3,1,3.3,0.4,56
+820,10/9/2022,Monaco,Ligue 1,W,2,0,1.2,0.7,50
+821,10/13/2022,Monaco,Europa Lg,L,0,4,1.1,0.9,49
+822,10/16/2022,Monaco,Ligue 1,D,1,1,1.1,1.9,35
+823,10/23/2022,Monaco,Ligue 1,L,3,4,1.1,2.5,41
+824,10/27/2022,Monaco,Europa Lg,D,1,1,1.1,0.8,53
+825,10/30/2022,Monaco,Ligue 1,W,2,0,1.8,0.6,52
+826,11/3/2022,Monaco,Europa Lg,W,4,1,1.4,1.1,47
+827,11/6/2022,Monaco,Ligue 1,W,2,0,2.4,0.7,52
+828,11/13/2022,Monaco,Ligue 1,L,2,3,2,1.9,42
+829,8/7/2022,Lille,Ligue 1,W,4,1,2.4,0.6,59
+830,8/12/2022,Lille,Ligue 1,D,1,1,2,1,69
+831,8/21/2022,Lille,Ligue 1,L,1,7,1.7,3.4,48
+832,8/26/2022,Lille,Ligue 1,W,3,1,1.7,1.5,58
+833,8/31/2022,Lille,Ligue 1,L,1,2,0.9,1.6,62
+834,9/4/2022,Lille,Ligue 1,W,3,1,1.6,0.5,75
+835,9/10/2022,Lille,Ligue 1,L,1,2,1,2.2,47
+836,9/17/2022,Lille,Ligue 1,W,2,1,1,0.8,45
+837,10/2/2022,Lille,Ligue 1,L,1,2,2.2,0.6,63
+838,10/9/2022,Lille,Ligue 1,W,1,0,2.6,1.2,45
+839,10/14/2022,Lille,Ligue 1,W,3,0,2.3,0.6,57
+840,10/23/2022,Lille,Ligue 1,W,4,3,2.5,1.1,59
+841,10/30/2022,Lille,Ligue 1,L,0,1,1.5,1.6,55
+842,11/6/2022,Lille,Ligue 1,D,1,1,2.4,0.9,62
+843,11/13/2022,Lille,Ligue 1,W,1,0,0.6,0.6,58
+844,8/5/2022,Lyon,Ligue 1,W,2,1,1.3,1.5,67
+845,8/19/2022,Lyon,Ligue 1,W,4,1,2.6,1,66
+846,8/28/2022,Lyon,Ligue 1,D,1,1,1.1,0.4,74
+847,8/31/2022,Lyon,Ligue 1,W,2,1,2.6,0.7,62
+848,9/3/2022,Lyon,Ligue 1,W,5,0,1.4,1,64
+849,9/7/2022,Lyon,Ligue 1,L,1,3,2.2,1,66
+850,9/11/2022,Lyon,Ligue 1,L,1,2,2,1.7,61
+851,9/18/2022,Lyon,Ligue 1,L,0,1,1,1.6,35
+852,10/2/2022,Lyon,Ligue 1,L,0,1,0.1,2.9,48
+853,10/7/2022,Lyon,Ligue 1,D,1,1,1.4,0.5,58
+854,10/16/2022,Lyon,Ligue 1,L,2,3,1.1,1.6,60
+855,10/22/2022,Lyon,Ligue 1,W,2,1,2.7,1.1,62
+856,10/30/2022,Lyon,Ligue 1,W,1,0,1.6,1.5,45
+857,11/6/2022,Lyon,Ligue 1,L,0,1,0.9,0.8,53
+858,11/11/2022,Lyon,Ligue 1,D,1,1,1.3,1.6,63
+859,8/7/2022,Nice,Ligue 1,D,1,1,1.2,0.9,54
+860,8/14/2022,Nice,Ligue 1,D,1,1,1.6,0.9,55
+861,8/18/2022,Nice,Conf Lg,L,0,1,NA,NA,NA
+862,8/21/2022,Nice,Ligue 1,L,0,1,1.4,0.7,52
+863,8/25/2022,Nice,Conf Lg,W,2,0,NA,NA,NA
+864,8/28/2022,Nice,Ligue 1,L,0,3,1,1.4,49
+865,8/31/2022,Nice,Ligue 1,W,2,1,1.6,0.9,38
+866,9/4/2022,Nice,Ligue 1,L,0,1,0.7,1.1,52
+867,9/8/2022,Nice,Conf Lg,D,1,1,1.9,1.3,47
+868,9/11/2022,Nice,Ligue 1,W,1,0,1.2,1.2,55
+869,9/15/2022,Nice,Conf Lg,D,1,1,1,1.5,55
+870,9/18/2022,Nice,Ligue 1,L,0,1,1.3,1.5,50
+871,10/1/2022,Nice,Ligue 1,L,1,2,0.5,1,43
+872,10/6/2022,Nice,Conf Lg,W,1,0,0.6,0.3,61
+873,10/9/2022,Nice,Ligue 1,W,3,2,2.6,1.5,61
+874,10/13/2022,Nice,Conf Lg,L,1,2,1.9,0.8,63
+875,10/16/2022,Nice,Ligue 1,D,1,1,1.6,0.8,55
+876,10/23/2022,Nice,Ligue 1,D,1,1,1.4,1,66
+877,10/27/2022,Nice,Conf Lg,W,2,1,1.4,0.6,60
+878,10/30/2022,Nice,Ligue 1,W,2,1,1.8,1.8,56
+879,11/3/2022,Nice,Conf Lg,D,2,2,1,1.6,44
+880,11/6/2022,Nice,Ligue 1,W,1,0,1.1,1.1,56
+881,11/11/2022,Nice,Ligue 1,D,1,1,1.6,1.3,37
+882,8/6/2022,Clermont Foot,Ligue 1,L,0,5,0.3,3.5,38
+883,8/14/2022,Clermont Foot,Ligue 1,W,4,2,1.9,2.7,58
+884,8/21/2022,Clermont Foot,Ligue 1,W,1,0,0.7,1.4,48
+885,8/28/2022,Clermont Foot,Ligue 1,L,1,2,0.6,2.9,60
+886,8/31/2022,Clermont Foot,Ligue 1,L,0,1,0.1,2.5,40
+887,9/4/2022,Clermont Foot,Ligue 1,W,2,0,1.3,1.3,34
+888,9/11/2022,Clermont Foot,Ligue 1,D,0,0,0.8,1.2,57
+889,9/18/2022,Clermont Foot,Ligue 1,L,1,3,1,1.5,58
+890,10/2/2022,Clermont Foot,Ligue 1,W,3,1,1,1.5,48
+891,10/9/2022,Clermont Foot,Ligue 1,W,2,1,1.1,1,48
+892,10/16/2022,Clermont Foot,Ligue 1,D,1,1,1.9,1.1,65
+893,10/23/2022,Clermont Foot,Ligue 1,L,1,3,1,3,62
+894,10/30/2022,Clermont Foot,Ligue 1,D,1,1,0.7,1.7,45
+895,11/6/2022,Clermont Foot,Ligue 1,D,1,1,3.4,1.2,54
+896,11/12/2022,Clermont Foot,Ligue 1,L,1,2,0.2,1.5,39
+897,8/7/2022,Reims,Ligue 1,L,1,4,0.9,2.1,44
+898,8/14/2022,Reims,Ligue 1,L,2,4,2.7,1.9,42
+899,8/21/2022,Reims,Ligue 1,D,1,1,2,1.2,37
+900,8/28/2022,Reims,Ligue 1,D,1,1,0.4,1.1,26
+901,8/31/2022,Reims,Ligue 1,W,4,2,2.3,1.7,43
+902,9/4/2022,Reims,Ligue 1,D,1,1,2.1,1.9,37
+903,9/11/2022,Reims,Ligue 1,L,0,1,1,1.3,53
+904,9/18/2022,Reims,Ligue 1,L,0,3,0.6,1.7,33
+905,10/2/2022,Reims,Ligue 1,D,2,2,1,1.6,32
+906,10/8/2022,Reims,Ligue 1,D,0,0,1.8,1.2,37
+907,10/15/2022,Reims,Ligue 1,D,0,0,0.6,0.8,52
+908,10/23/2022,Reims,Ligue 1,W,2,1,2.4,0.7,54
+909,10/30/2022,Reims,Ligue 1,D,0,0,1,1.5,49
+910,11/6/2022,Reims,Ligue 1,W,1,0,2.8,0.7,57
+911,11/13/2022,Reims,Ligue 1,D,1,1,2.1,1.7,51
+912,8/7/2022,Toulouse,Ligue 1,D,1,1,0.9,1.2,46
+913,8/14/2022,Toulouse,Ligue 1,W,3,0,1.5,1,67
+914,8/21/2022,Toulouse,Ligue 1,D,2,2,1.8,2.5,52
+915,8/28/2022,Toulouse,Ligue 1,L,1,3,0.6,1.5,50
+916,8/31/2022,Toulouse,Ligue 1,L,0,3,0.8,2.8,38
+917,9/4/2022,Toulouse,Ligue 1,L,0,2,1.3,1.3,66
+918,9/11/2022,Toulouse,Ligue 1,W,1,0,1.3,1,47
+919,9/17/2022,Toulouse,Ligue 1,L,1,2,0.8,1,55
+920,10/2/2022,Toulouse,Ligue 1,W,4,2,1.7,1.2,43
+921,10/7/2022,Toulouse,Ligue 1,D,1,1,0.5,1.4,42
+922,10/16/2022,Toulouse,Ligue 1,W,3,2,2.4,1.2,55
+923,10/23/2022,Toulouse,Ligue 1,D,2,2,2.2,1.8,48
+924,10/28/2022,Toulouse,Ligue 1,L,0,3,0.7,2.4,48
+925,11/6/2022,Toulouse,Ligue 1,L,0,2,0.7,2.4,48
+926,11/12/2022,Toulouse,Ligue 1,L,1,2,1,2.1,54
+927,8/7/2022,Troyes,Ligue 1,L,2,3,2,1.7,46
+928,8/14/2022,Troyes,Ligue 1,L,0,3,1,1.5,33
+929,8/19/2022,Troyes,Ligue 1,L,1,4,1,2.6,34
+930,8/28/2022,Troyes,Ligue 1,W,3,1,1.9,0.7,49
+931,8/31/2022,Troyes,Ligue 1,W,4,2,2.2,1.2,48
+932,9/4/2022,Troyes,Ligue 1,D,1,1,0.9,2.4,29
+933,9/9/2022,Troyes,Ligue 1,L,0,1,0.7,1.4,37
+934,9/18/2022,Troyes,Ligue 1,W,3,1,1.5,1,42
+935,10/2/2022,Troyes,Ligue 1,D,2,2,1.6,1,68
+936,10/9/2022,Troyes,Ligue 1,L,2,3,1.5,2.6,39
+937,10/16/2022,Troyes,Ligue 1,D,1,1,0.6,2.4,51
+938,10/23/2022,Troyes,Ligue 1,D,2,2,0.8,1.4,42
+939,10/29/2022,Troyes,Ligue 1,L,3,4,2,2.9,33
+940,11/4/2022,Troyes,Ligue 1,D,1,1,1.9,1.4,50
+941,11/13/2022,Troyes,Ligue 1,L,1,2,1,2.4,46
+942,8/7/2022,Montpellier,Ligue 1,W,3,2,1.7,2,54
+943,8/13/2022,Montpellier,Ligue 1,L,2,5,0.9,3.2,41
+944,8/21/2022,Montpellier,Ligue 1,L,1,2,1,1.3,64
+945,8/28/2022,Montpellier,Ligue 1,W,7,0,2.5,0.2,48
+946,8/31/2022,Montpellier,Ligue 1,W,2,0,1.7,1.2,38
+947,9/4/2022,Montpellier,Ligue 1,L,1,3,0.5,1.6,25
+948,9/11/2022,Montpellier,Ligue 1,L,1,2,0.7,2.5,55
+949,9/17/2022,Montpellier,Ligue 1,W,2,1,1.8,0.6,50
+950,10/2/2022,Montpellier,Ligue 1,L,2,4,1.2,1.7,57
+951,10/9/2022,Montpellier,Ligue 1,L,0,2,0.7,1.2,50
+952,10/15/2022,Montpellier,Ligue 1,L,0,1,0.7,1.8,35
+953,10/22/2022,Montpellier,Ligue 1,L,1,2,1.1,2.7,38
+954,10/30/2022,Montpellier,Ligue 1,L,0,3,0.9,1.2,45
+955,11/6/2022,Montpellier,Ligue 1,D,1,1,1.2,3.4,46
+956,11/13/2022,Montpellier,Ligue 1,D,1,1,1.7,2.1,49
+957,7/31/2022,Nantes,Trophée des Champions,L,0,4,NA,NA,38
+958,8/7/2022,Nantes,Ligue 1,D,0,0,1.5,1.5,51
+959,8/12/2022,Nantes,Ligue 1,D,1,1,1,2,31
+960,8/20/2022,Nantes,Ligue 1,L,1,2,2.2,1.1,44
+961,8/28/2022,Nantes,Ligue 1,W,3,1,1.5,0.6,50
+962,8/31/2022,Nantes,Ligue 1,D,1,1,1.2,0.4,54
+963,9/3/2022,Nantes,Ligue 1,L,0,3,0.4,2.7,40
+964,9/8/2022,Nantes,Europa Lg,W,2,1,1.2,0.3,53
+965,9/11/2022,Nantes,Ligue 1,L,2,3,0.5,1.3,52
+966,9/15/2022,Nantes,Europa Lg,L,0,3,0.6,1.9,40
+967,9/18/2022,Nantes,Ligue 1,D,0,0,0.9,0.9,42
+968,10/2/2022,Nantes,Ligue 1,L,1,4,0.5,2.1,51
+969,10/6/2022,Nantes,Europa Lg,L,0,2,1.5,1.4,40
+970,10/9/2022,Nantes,Ligue 1,L,0,3,0.5,1.8,43
+971,10/13/2022,Nantes,Europa Lg,L,0,4,1,1.8,43
+972,10/16/2022,Nantes,Ligue 1,W,4,1,2.9,0.7,54
+973,10/23/2022,Nantes,Ligue 1,D,1,1,1,1.4,34
+974,10/27/2022,Nantes,Europa Lg,W,2,1,1.2,2.3,41
+975,10/30/2022,Nantes,Ligue 1,D,1,1,1.7,0.7,55
+976,11/3/2022,Nantes,Europa Lg,W,2,0,1.1,0.7,41
+977,11/6/2022,Nantes,Ligue 1,L,0,1,0.7,2.8,43
+978,11/13/2022,Nantes,Ligue 1,D,2,2,1.1,2.5,53
+979,8/7/2022,Brest,Ligue 1,L,2,3,1.2,2.5,39
+980,8/14/2022,Brest,Ligue 1,D,1,1,2,0.7,47
+981,8/21/2022,Brest,Ligue 1,W,3,1,1.8,0.6,50
+982,8/28/2022,Brest,Ligue 1,L,0,7,0.2,2.5,52
+983,8/31/2022,Brest,Ligue 1,L,1,3,0.5,1.5,36
+984,9/4/2022,Brest,Ligue 1,D,1,1,0.8,2.4,59
+985,9/10/2022,Brest,Ligue 1,L,0,1,1.1,1.7,39
+986,9/18/2022,Brest,Ligue 1,L,0,1,0.5,0.5,59
+987,10/2/2022,Brest,Ligue 1,D,1,1,0.6,1.4,52
+988,10/9/2022,Brest,Ligue 1,L,1,2,0.9,1.1,50
+989,10/16/2022,Brest,Ligue 1,L,1,4,0.7,2.9,46
+990,10/23/2022,Brest,Ligue 1,W,3,1,3,1,38
+991,10/30/2022,Brest,Ligue 1,D,0,0,1.5,1,51
+992,11/6/2022,Brest,Ligue 1,L,0,1,1.1,1.1,44
+993,11/13/2022,Brest,Ligue 1,W,2,1,2.4,1,54
+994,8/7/2022,Auxerre,Ligue 1,L,1,4,0.6,2.4,41
+995,8/14/2022,Auxerre,Ligue 1,D,2,2,0.8,1.4,40
+996,8/21/2022,Auxerre,Ligue 1,W,2,1,1.3,1,36
+997,8/27/2022,Auxerre,Ligue 1,W,1,0,0.7,1.3,42
+998,8/31/2022,Auxerre,Ligue 1,L,1,2,0.7,2.6,38
+999,9/3/2022,Auxerre,Ligue 1,L,0,2,0.6,1.6,48
+1000,9/11/2022,Auxerre,Ligue 1,L,0,5,0.7,1.6,52
+1001,9/16/2022,Auxerre,Ligue 1,L,1,3,2,2.5,56
+1002,10/2/2022,Auxerre,Ligue 1,D,1,1,1.4,0.6,48
+1003,10/9/2022,Auxerre,Ligue 1,L,1,2,1,1.1,52
+1004,10/16/2022,Auxerre,Ligue 1,D,1,1,0.8,1.6,45
+1005,10/23/2022,Auxerre,Ligue 1,L,1,2,0.7,2.4,46
+1006,10/30/2022,Auxerre,Ligue 1,W,1,0,1.5,0.4,41
+1007,11/4/2022,Auxerre,Ligue 1,D,1,1,1.4,1.9,50
+1008,11/13/2022,Auxerre,Ligue 1,L,0,5,0.7,2,41
+1009,8/5/2022,Ajaccio,Ligue 1,L,1,2,1.5,1.3,33
+1010,8/14/2022,Ajaccio,Ligue 1,D,0,0,0.5,1.4,36
+1011,8/21/2022,Ajaccio,Ligue 1,L,1,2,1.4,1.2,45
+1012,8/26/2022,Ajaccio,Ligue 1,L,1,3,1.5,1.7,42
+1013,8/31/2022,Ajaccio,Ligue 1,L,0,2,1.2,1.7,62
+1014,9/4/2022,Ajaccio,Ligue 1,L,0,1,0.5,0.8,58
+1015,9/11/2022,Ajaccio,Ligue 1,L,0,1,1.2,1.2,45
+1016,9/18/2022,Ajaccio,Ligue 1,W,1,0,0.5,0.5,41
+1017,10/2/2022,Ajaccio,Ligue 1,L,1,3,1.5,1,52
+1018,10/8/2022,Ajaccio,Ligue 1,W,2,1,0.2,1.7,36
+1019,10/16/2022,Ajaccio,Ligue 1,D,1,1,2.4,0.6,49
+1020,10/21/2022,Ajaccio,Ligue 1,L,0,3,0.3,2.5,35
+1021,10/30/2022,Ajaccio,Ligue 1,L,0,1,0.4,1.5,59
+1022,11/5/2022,Ajaccio,Ligue 1,W,4,2,3.7,0.9,49
+1023,11/13/2022,Ajaccio,Ligue 1,D,2,2,2.5,1.1,47
+1024,8/6/2022,Strasbourg,Ligue 1,L,1,2,0.8,2.8,53
+1025,8/14/2022,Strasbourg,Ligue 1,D,1,1,0.9,1.6,45
+1026,8/21/2022,Strasbourg,Ligue 1,D,1,1,1.2,2,63
+1027,8/27/2022,Strasbourg,Ligue 1,L,0,1,1.3,0.7,58
+1028,8/31/2022,Strasbourg,Ligue 1,D,1,1,0.4,1.2,46
+1029,9/4/2022,Strasbourg,Ligue 1,D,1,1,2.4,0.8,41
+1030,9/11/2022,Strasbourg,Ligue 1,D,0,0,1.2,0.8,43
+1031,9/17/2022,Strasbourg,Ligue 1,L,1,2,0.6,1.8,50
+1032,10/1/2022,Strasbourg,Ligue 1,L,1,3,1.3,3.2,40
+1033,10/9/2022,Strasbourg,Ligue 1,W,3,2,2,2.1,46
+1034,10/14/2022,Strasbourg,Ligue 1,L,0,3,0.6,2.3,43
+1035,10/23/2022,Strasbourg,Ligue 1,D,2,2,1.8,2.2,52
+1036,10/29/2022,Strasbourg,Ligue 1,D,2,2,1.1,2,51
+1037,11/5/2022,Strasbourg,Ligue 1,L,2,4,0.9,3.7,51
+1038,11/13/2022,Strasbourg,Ligue 1,D,1,1,2.3,0.5,61
+1039,8/7/2022,Angers,Ligue 1,D,0,0,1.5,1.5,49
+1040,8/14/2022,Angers,Ligue 1,D,2,2,1.4,0.8,60
+1041,8/21/2022,Angers,Ligue 1,L,1,3,0.6,1.8,50
+1042,8/28/2022,Angers,Ligue 1,L,1,3,0.7,1.9,51
+1043,8/31/2022,Angers,Ligue 1,L,2,4,1.7,2.3,57
+1044,9/3/2022,Angers,Ligue 1,L,0,5,1,1.4,36
+1045,9/11/2022,Angers,Ligue 1,W,2,1,2.5,0.7,45
+1046,9/18/2022,Angers,Ligue 1,W,1,0,1.5,1.3,50
+1047,9/30/2022,Angers,Ligue 1,L,0,3,1.2,1.6,43
+1048,10/9/2022,Angers,Ligue 1,L,2,3,2.1,2,54
+1049,10/16/2022,Angers,Ligue 1,L,2,3,1.2,2.4,45
+1050,10/23/2022,Angers,Ligue 1,L,1,2,1.2,2.2,30
+1051,10/30/2022,Angers,Ligue 1,L,0,2,0.6,1.8,48
+1052,11/5/2022,Angers,Ligue 1,L,1,2,0.5,1.8,44
+1053,11/13/2022,Angers,Ligue 1,L,0,1,0.6,0.6,42
+1054,8/15/2022,Napoli,Serie A,W,5,2,2.4,1.1,66
+1055,8/21/2022,Napoli,Serie A,W,4,0,2,0.1,54
+1056,8/28/2022,Napoli,Serie A,D,0,0,1.7,0.5,52
+1057,8/31/2022,Napoli,Serie A,D,1,1,1.7,1.1,71
+1058,9/3/2022,Napoli,Serie A,W,2,1,2.1,0.3,61
+1059,9/7/2022,Napoli,Champions Lg,W,4,1,4,1,39
+1060,9/10/2022,Napoli,Serie A,W,1,0,2.2,0.5,63
+1061,9/14/2022,Napoli,Champions Lg,W,3,0,3.5,1.3,57
+1062,9/18/2022,Napoli,Serie A,W,2,1,1.4,2.6,49
+1063,10/1/2022,Napoli,Serie A,W,3,1,1.6,1,49
+1064,10/4/2022,Napoli,Champions Lg,W,6,1,3.3,1.4,56
+1065,10/9/2022,Napoli,Serie A,W,4,1,4.1,0.8,69
+1066,10/12/2022,Napoli,Champions Lg,W,4,2,3.2,1.6,45
+1067,10/16/2022,Napoli,Serie A,W,3,2,2.6,1.3,49
+1068,10/23/2022,Napoli,Serie A,W,1,0,0.9,0.3,60
+1069,10/26/2022,Napoli,Champions Lg,W,3,0,1.8,0.7,64
+1070,10/29/2022,Napoli,Serie A,W,4,0,2.1,1,67
+1071,11/1/2022,Napoli,Champions Lg,L,0,2,0.4,2.4,48
+1072,11/5/2022,Napoli,Serie A,W,2,1,1.3,2,53
+1073,11/8/2022,Napoli,Serie A,W,2,0,2,0.3,74
+1074,11/12/2022,Napoli,Serie A,W,3,2,1.5,0.7,63
+1075,8/13/2022,Milan,Serie A,W,4,2,2.3,0.5,59
+1076,8/21/2022,Milan,Serie A,D,1,1,1.3,0.5,60
+1077,8/27/2022,Milan,Serie A,W,2,0,1.9,0.5,48
+1078,8/30/2022,Milan,Serie A,D,0,0,0.7,1.1,62
+1079,9/3/2022,Milan,Serie A,W,3,2,1.3,1.8,47
+1080,9/6/2022,Milan,Champions Lg,D,1,1,0.9,1.3,65
+1081,9/10/2022,Milan,Serie A,W,2,1,1.7,0.7,43
+1082,9/14/2022,Milan,Champions Lg,W,3,1,2.2,0.4,57
+1083,9/18/2022,Milan,Serie A,L,1,2,2.6,1.4,51
+1084,10/1/2022,Milan,Serie A,W,3,1,2.3,1.1,57
+1085,10/5/2022,Milan,Champions Lg,L,0,3,0.4,1.1,49
+1086,10/8/2022,Milan,Serie A,W,2,0,2.2,0.8,40
+1087,10/11/2022,Milan,Champions Lg,L,0,2,0.4,2.2,31
+1088,10/16/2022,Milan,Serie A,W,2,1,1.9,2.1,54
+1089,10/22/2022,Milan,Serie A,W,4,1,1.1,1.2,49
+1090,10/25/2022,Milan,Champions Lg,W,4,0,3.2,0.7,45
+1091,10/30/2022,Milan,Serie A,L,1,2,1.1,0.6,56
+1092,11/2/2022,Milan,Champions Lg,W,4,0,1.8,1.6,48
+1093,11/5/2022,Milan,Serie A,W,2,1,2.2,1.6,58
+1094,11/8/2022,Milan,Serie A,D,0,0,1,0.3,71
+1095,11/13/2022,Milan,Serie A,W,2,1,1.5,0.5,50
+1096,8/15/2022,Juventus,Serie A,W,3,0,2,0.9,42
+1097,8/22/2022,Juventus,Serie A,D,0,0,0.8,0.9,52
+1098,8/27/2022,Juventus,Serie A,D,1,1,0.6,1.3,57
+1099,8/31/2022,Juventus,Serie A,W,2,0,0.9,0.2,50
+1100,9/3/2022,Juventus,Serie A,D,1,1,0.9,2.1,40
+1101,9/6/2022,Juventus,Champions Lg,L,1,2,1,1.7,43
+1102,9/11/2022,Juventus,Serie A,D,2,2,1.9,1.6,61
+1103,9/14/2022,Juventus,Champions Lg,L,1,2,0.8,2.2,45
+1104,9/18/2022,Juventus,Serie A,L,0,1,0.9,2.5,40
+1105,10/2/2022,Juventus,Serie A,W,3,0,1.8,0.4,48
+1106,10/5/2022,Juventus,Champions Lg,W,3,1,2.3,2,51
+1107,10/8/2022,Juventus,Serie A,L,0,2,0.8,2.2,60
+1108,10/11/2022,Juventus,Champions Lg,L,0,2,0.5,0.8,58
+1109,10/15/2022,Juventus,Serie A,W,1,0,2.1,0.6,47
+1110,10/21/2022,Juventus,Serie A,W,4,0,3.5,0.7,42
+1111,10/25/2022,Juventus,Champions Lg,L,3,4,2.4,3.3,46
+1112,10/29/2022,Juventus,Serie A,W,1,0,0.6,0.2,64
+1113,11/2/2022,Juventus,Champions Lg,L,1,2,1.6,0.5,47
+1114,11/6/2022,Juventus,Serie A,W,2,0,0.9,1.2,47
+1115,11/10/2022,Juventus,Serie A,W,1,0,1.1,1.2,57
+1116,11/13/2022,Juventus,Serie A,W,3,0,1.6,0.4,41
+1117,8/14/2022,Lazio,Serie A,W,2,1,0.7,1.5,42
+1118,8/20/2022,Lazio,Serie A,D,0,0,0.8,0.7,46
+1119,8/26/2022,Lazio,Serie A,W,3,1,1.1,1.5,48
+1120,8/31/2022,Lazio,Serie A,D,1,1,1.5,0.8,56
+1121,9/3/2022,Lazio,Serie A,L,1,2,0.3,2.1,39
+1122,9/8/2022,Lazio,Europa Lg,W,4,2,2.7,2.6,63
+1123,9/11/2022,Lazio,Serie A,W,2,0,1.1,0.3,59
+1124,9/15/2022,Lazio,Europa Lg,L,1,5,1.2,2.6,64
+1125,9/18/2022,Lazio,Serie A,W,4,0,3.1,1.3,55
+1126,10/2/2022,Lazio,Serie A,W,4,0,2.3,1.1,61
+1127,10/6/2022,Lazio,Europa Lg,D,0,0,0.6,0.8,62
+1128,10/10/2022,Lazio,Serie A,W,4,0,1.6,2.2,38
+1129,10/13/2022,Lazio,Europa Lg,D,2,2,1.9,1.3,54
+1130,10/16/2022,Lazio,Serie A,D,0,0,0.8,0.9,54
+1131,10/23/2022,Lazio,Serie A,W,2,0,0.9,0.8,53
+1132,10/27/2022,Lazio,Europa Lg,W,2,1,1.3,0.4,61
+1133,10/30/2022,Lazio,Serie A,L,1,3,1.9,1.5,61
+1134,11/3/2022,Lazio,Europa Lg,L,0,1,0.7,1.1,56
+1135,11/6/2022,Lazio,Serie A,W,1,0,0.6,0.5,41
+1136,11/10/2022,Lazio,Serie A,W,1,0,1.5,0.5,47
+1137,11/13/2022,Lazio,Serie A,L,0,3,0.4,1.6,59
+1138,8/13/2022,Internazionale,Serie A,W,2,1,2.1,0.7,70
+1139,8/20/2022,Internazionale,Serie A,W,3,0,2.1,0.5,54
+1140,8/26/2022,Internazionale,Serie A,L,1,3,1.5,1.1,52
+1141,8/30/2022,Internazionale,Serie A,W,3,1,2.2,1.2,53
+1142,9/3/2022,Internazionale,Serie A,L,2,3,1.8,1.3,53
+1143,9/7/2022,Internazionale,Champions Lg,L,0,2,0.7,2.5,44
+1144,9/10/2022,Internazionale,Serie A,W,1,0,1.5,0.7,57
+1145,9/13/2022,Internazionale,Champions Lg,W,2,0,1.9,0.3,71
+1146,9/18/2022,Internazionale,Serie A,L,1,3,1.1,1.6,56
+1147,10/1/2022,Internazionale,Serie A,L,1,2,1,1,58
+1148,10/4/2022,Internazionale,Champions Lg,W,1,0,0.2,0.5,29
+1149,10/8/2022,Internazionale,Serie A,W,2,1,2.3,1.2,48
+1150,10/12/2022,Internazionale,Champions Lg,D,3,3,2,2.2,39
+1151,10/16/2022,Internazionale,Serie A,W,2,0,1.7,0.4,61
+1152,10/22/2022,Internazionale,Serie A,W,4,3,2.4,1.3,42
+1153,10/26/2022,Internazionale,Champions Lg,W,4,0,3.2,0.1,63
+1154,10/29/2022,Internazionale,Serie A,W,3,0,2,0.5,51
+1155,11/1/2022,Internazionale,Champions Lg,L,0,2,0.7,1.5,40
+1156,11/6/2022,Internazionale,Serie A,L,0,2,1.2,0.9,53
+1157,11/9/2022,Internazionale,Serie A,W,6,1,2.6,0.7,57
+1158,11/13/2022,Internazionale,Serie A,W,3,2,2.2,1.8,53
+1159,8/13/2022,Atalanta,Serie A,W,2,0,2.2,1,45
+1160,8/21/2022,Atalanta,Serie A,D,1,1,0.5,1.3,40
+1161,8/28/2022,Atalanta,Serie A,W,1,0,0.8,0.5,51
+1162,9/1/2022,Atalanta,Serie A,W,3,1,2.9,0.4,41
+1163,9/5/2022,Atalanta,Serie A,W,2,0,1.9,0.6,41
+1164,9/11/2022,Atalanta,Serie A,D,1,1,0.7,0.6,58
+1165,9/18/2022,Atalanta,Serie A,W,1,0,0.2,2.4,44
+1166,10/2/2022,Atalanta,Serie A,W,1,0,1.3,0.7,39
+1167,10/9/2022,Atalanta,Serie A,D,2,2,2.1,1,41
+1168,10/15/2022,Atalanta,Serie A,W,2,1,2.5,0.8,48
+1169,10/23/2022,Atalanta,Serie A,L,0,2,0.8,0.9,47
+1170,10/30/2022,Atalanta,Serie A,W,2,0,3,0.8,47
+1171,11/5/2022,Atalanta,Serie A,L,1,2,2,1.3,47
+1172,11/9/2022,Atalanta,Serie A,L,1,2,1.5,1.1,61
+1173,11/13/2022,Atalanta,Serie A,L,2,3,1.8,2.2,47
+1174,8/14/2022,Roma,Serie A,W,1,0,2.4,0.6,49
+1175,8/22/2022,Roma,Serie A,W,1,0,2.7,0.7,49
+1176,8/27/2022,Roma,Serie A,D,1,1,1.3,0.6,43
+1177,8/30/2022,Roma,Serie A,W,3,0,1.8,0.9,40
+1178,9/4/2022,Roma,Serie A,L,0,4,0.8,1.2,57
+1179,9/8/2022,Roma,Europa Lg,L,1,2,1.3,1,56
+1180,9/12/2022,Roma,Serie A,W,2,1,3,1.1,48
+1181,9/15/2022,Roma,Europa Lg,W,3,0,2.8,0.4,68
+1182,9/18/2022,Roma,Serie A,L,0,1,2.4,0.2,56
+1183,10/1/2022,Roma,Serie A,W,2,1,1,1,42
+1184,10/6/2022,Roma,Europa Lg,L,1,2,1.8,0.6,40
+1185,10/9/2022,Roma,Serie A,W,2,1,3.2,0.3,66
+1186,10/13/2022,Roma,Europa Lg,D,1,1,1.1,0.4,52
+1187,10/17/2022,Roma,Serie A,W,1,0,1.8,0.2,41
+1188,10/23/2022,Roma,Serie A,L,0,1,0.3,0.9,40
+1189,10/27/2022,Roma,Europa Lg,W,2,1,1.8,0.5,48
+1190,10/31/2022,Roma,Serie A,W,3,1,3.1,0.3,67
+1191,11/3/2022,Roma,Europa Lg,W,3,1,3.2,0.5,52
+1192,11/6/2022,Roma,Serie A,L,0,1,0.5,0.6,59
+1193,11/9/2022,Roma,Serie A,D,1,1,0.7,1.2,54
+1194,11/13/2022,Roma,Serie A,D,1,1,1.7,0.9,48
+1195,8/5/2022,Udinese,Coppa Italia,W,2,1,NA,NA,62
+1196,8/13/2022,Udinese,Serie A,L,2,4,0.5,2.3,41
+1197,8/20/2022,Udinese,Serie A,D,0,0,1.1,1.5,48
+1198,8/26/2022,Udinese,Serie A,W,2,1,1.7,1.5,44
+1199,8/31/2022,Udinese,Serie A,W,1,0,1.3,0.7,27
+1200,9/4/2022,Udinese,Serie A,W,4,0,1.2,0.8,43
+1201,9/11/2022,Udinese,Serie A,W,3,1,2.1,0.5,67
+1202,9/18/2022,Udinese,Serie A,W,3,1,1.6,1.1,44
+1203,10/3/2022,Udinese,Serie A,W,2,1,1.8,0.3,68
+1204,10/9/2022,Udinese,Serie A,D,2,2,1,2.1,59
+1205,10/16/2022,Udinese,Serie A,D,0,0,0.9,0.8,46
+1206,10/19/2022,Udinese,Coppa Italia,L,2,3,NA,NA,51
+1207,10/23/2022,Udinese,Serie A,L,1,2,2,1.5,56
+1208,10/30/2022,Udinese,Serie A,D,0,0,1,0.7,58
+1209,11/4/2022,Udinese,Serie A,D,1,1,1.7,0.7,57
+1210,11/8/2022,Udinese,Serie A,D,1,1,0.6,2,51
+1211,11/12/2022,Udinese,Serie A,L,2,3,0.7,1.5,37
+1212,8/6/2022,Torino,Coppa Italia,W,3,0,NA,NA,68
+1213,8/13/2022,Torino,Serie A,W,2,1,2.1,1.4,46
+1214,8/20/2022,Torino,Serie A,D,0,0,0.7,0.8,54
+1215,8/27/2022,Torino,Serie A,W,2,1,1.7,0.8,47
+1216,9/1/2022,Torino,Serie A,L,1,3,0.4,2.9,59
+1217,9/5/2022,Torino,Serie A,W,1,0,1.1,0.3,59
+1218,9/10/2022,Torino,Serie A,L,0,1,0.7,1.5,43
+1219,9/17/2022,Torino,Serie A,L,0,1,0.7,0.4,57
+1220,10/1/2022,Torino,Serie A,L,1,3,1,1.6,51
+1221,10/9/2022,Torino,Serie A,D,1,1,2.4,0.2,66
+1222,10/15/2022,Torino,Serie A,L,0,1,0.6,2.1,53
+1223,10/18/2022,Torino,Coppa Italia,W,4,0,NA,NA,61
+1224,10/23/2022,Torino,Serie A,W,2,1,1.5,2,44
+1225,10/30/2022,Torino,Serie A,W,2,1,0.6,1.1,44
+1226,11/6/2022,Torino,Serie A,L,1,2,1,2,44
+1227,11/9/2022,Torino,Serie A,W,2,0,0.5,0.5,51
+1228,11/13/2022,Torino,Serie A,D,1,1,0.9,1.7,52
+1229,8/14/2022,Fiorentina,Serie A,W,3,2,2,1.3,74
+1230,8/18/2022,Fiorentina,Conf Lg,W,2,1,NA,NA,NA
+1231,8/21/2022,Fiorentina,Serie A,D,0,0,0.7,0.4,63
+1232,8/25/2022,Fiorentina,Conf Lg,D,0,0,NA,NA,NA
+1233,8/28/2022,Fiorentina,Serie A,D,0,0,0.5,1.7,48
+1234,8/31/2022,Fiorentina,Serie A,L,0,1,0.7,1.3,73
+1235,9/3/2022,Fiorentina,Serie A,D,1,1,2.1,0.9,60
+1236,9/8/2022,Fiorentina,Conf Lg,D,1,1,3.1,1.4,75
+1237,9/11/2022,Fiorentina,Serie A,L,1,2,1.3,0.6,61
+1238,9/15/2022,Fiorentina,Conf Lg,L,0,3,0.3,0.4,55
+1239,9/18/2022,Fiorentina,Serie A,W,2,0,2.4,0.6,44
+1240,10/2/2022,Fiorentina,Serie A,L,0,1,0.7,1.3,61
+1241,10/6/2022,Fiorentina,Conf Lg,W,3,0,2.7,0.2,71
+1242,10/10/2022,Fiorentina,Serie A,L,0,4,2.2,1.6,62
+1243,10/13/2022,Fiorentina,Conf Lg,W,5,1,2.1,0.4,68
+1244,10/17/2022,Fiorentina,Serie A,D,1,1,0.5,1.1,59
+1245,10/22/2022,Fiorentina,Serie A,L,3,4,1.3,2.4,58
+1246,10/27/2022,Fiorentina,Conf Lg,W,2,1,2.6,0.7,48
+1247,10/30/2022,Fiorentina,Serie A,W,2,1,2.1,1.2,50
+1248,11/3/2022,Fiorentina,Conf Lg,W,3,0,1.9,0.6,68
+1249,11/6/2022,Fiorentina,Serie A,W,2,0,0.9,0.8,51
+1250,11/9/2022,Fiorentina,Serie A,W,2,1,2.8,0.5,58
+1251,11/13/2022,Fiorentina,Serie A,L,1,2,0.5,1.5,50
+1252,8/8/2022,Bologna,Coppa Italia,W,1,0,NA,NA,65
+1253,8/14/2022,Bologna,Serie A,L,1,2,1.5,0.7,58
+1254,8/21/2022,Bologna,Serie A,D,1,1,0.8,1.9,52
+1255,8/27/2022,Bologna,Serie A,L,0,2,0.5,1.9,52
+1256,9/1/2022,Bologna,Serie A,D,1,1,1.8,1.4,47
+1257,9/4/2022,Bologna,Serie A,D,2,2,0.9,0.9,55
+1258,9/11/2022,Bologna,Serie A,W,2,1,0.6,1.3,39
+1259,9/17/2022,Bologna,Serie A,L,0,1,1.6,1.6,61
+1260,10/2/2022,Bologna,Serie A,L,0,3,0.4,1.8,52
+1261,10/8/2022,Bologna,Serie A,D,1,1,0.8,0.6,51
+1262,10/16/2022,Bologna,Serie A,L,2,3,1.3,2.6,51
+1263,10/20/2022,Bologna,Coppa Italia,W,1,0,NA,NA,57
+1264,10/23/2022,Bologna,Serie A,W,2,0,1.8,0.4,54
+1265,10/31/2022,Bologna,Serie A,W,2,1,1.3,1.2,44
+1266,11/6/2022,Bologna,Serie A,W,2,1,2,1,56
+1267,11/9/2022,Bologna,Serie A,L,1,6,0.7,2.6,43
+1268,11/12/2022,Bologna,Serie A,W,3,0,0.8,0.8,51
+1269,8/7/2022,Salernitana,Coppa Italia,L,0,2,NA,NA,52
+1270,8/14/2022,Salernitana,Serie A,L,0,1,0.6,2.4,51
+1271,8/20/2022,Salernitana,Serie A,D,0,0,1.5,1.1,52
+1272,8/28/2022,Salernitana,Serie A,W,4,0,1.7,1.8,45
+1273,9/1/2022,Salernitana,Serie A,D,1,1,1.4,1.8,53
+1274,9/5/2022,Salernitana,Serie A,D,2,2,1.3,0.9,51
+1275,9/11/2022,Salernitana,Serie A,D,2,2,1.6,1.9,39
+1276,9/16/2022,Salernitana,Serie A,L,1,2,1.2,1.5,58
+1277,10/2/2022,Salernitana,Serie A,L,0,5,0.5,3.2,56
+1278,10/9/2022,Salernitana,Serie A,W,2,1,1.1,0.9,40
+1279,10/16/2022,Salernitana,Serie A,L,0,2,0.4,1.7,39
+1280,10/22/2022,Salernitana,Serie A,W,1,0,1.6,0.9,44
+1281,10/30/2022,Salernitana,Serie A,W,3,1,1.5,1.9,39
+1282,11/5/2022,Salernitana,Serie A,D,2,2,1.3,1.7,51
+1283,11/9/2022,Salernitana,Serie A,L,1,2,0.5,2.8,42
+1284,11/13/2022,Salernitana,Serie A,L,0,3,0.2,2.4,43
+1285,8/6/2022,Empoli,Coppa Italia,L,1,2,NA,NA,54
+1286,8/14/2022,Empoli,Serie A,L,0,1,0.7,0.5,59
+1287,8/21/2022,Empoli,Serie A,D,0,0,0.4,0.7,37
+1288,8/28/2022,Empoli,Serie A,D,1,1,0.4,0.9,59
+1289,8/31/2022,Empoli,Serie A,D,1,1,1.1,0.6,52
+1290,9/5/2022,Empoli,Serie A,D,2,2,0.9,1.3,49
+1291,9/12/2022,Empoli,Serie A,L,1,2,1.1,3,52
+1292,9/17/2022,Empoli,Serie A,W,1,0,1.6,1.6,39
+1293,10/1/2022,Empoli,Serie A,L,1,3,1.1,2.3,43
+1294,10/9/2022,Empoli,Serie A,D,1,1,0.2,2.4,34
+1295,10/15/2022,Empoli,Serie A,W,1,0,1.8,1.3,36
+1296,10/21/2022,Empoli,Serie A,L,0,4,0.7,3.5,58
+1297,10/30/2022,Empoli,Serie A,L,0,2,0.8,3,53
+1298,11/5/2022,Empoli,Serie A,W,1,0,1.2,0.6,47
+1299,11/8/2022,Empoli,Serie A,L,0,2,0.3,2,26
+1300,11/11/2022,Empoli,Serie A,W,2,0,2.2,1.3,49
+1301,8/7/2022,Monza,Coppa Italia,W,3,2,NA,NA,66
+1302,8/13/2022,Monza,Serie A,L,1,2,1.4,2.1,54
+1303,8/21/2022,Monza,Serie A,L,0,4,0.1,2,46
+1304,8/26/2022,Monza,Serie A,L,1,2,1.5,1.7,56
+1305,8/30/2022,Monza,Serie A,L,0,3,0.9,1.8,60
+1306,9/5/2022,Monza,Serie A,L,0,2,0.6,1.9,59
+1307,9/11/2022,Monza,Serie A,D,1,1,0.1,0.9,47
+1308,9/18/2022,Monza,Serie A,W,1,0,2.5,0.9,60
+1309,10/2/2022,Monza,Serie A,W,3,0,1.4,0.1,50
+1310,10/9/2022,Monza,Serie A,W,2,0,0.7,0.5,47
+1311,10/15/2022,Monza,Serie A,L,0,1,1.3,1.8,64
+1312,10/19/2022,Monza,Coppa Italia,W,3,2,NA,NA,49
+1313,10/22/2022,Monza,Serie A,L,1,4,1.2,1.1,51
+1314,10/31/2022,Monza,Serie A,L,1,2,1.2,1.3,56
+1315,11/6/2022,Monza,Serie A,W,2,0,1.3,0.4,74
+1316,11/10/2022,Monza,Serie A,L,0,1,0.5,1.5,53
+1317,11/13/2022,Monza,Serie A,W,3,0,2.4,0.2,57
+1318,8/8/2022,Sassuolo,Coppa Italia,L,2,3,NA,NA,65
+1319,8/15/2022,Sassuolo,Serie A,L,0,3,0.9,2,58
+1320,8/20/2022,Sassuolo,Serie A,W,1,0,0.6,0.5,59
+1321,8/27/2022,Sassuolo,Serie A,D,2,2,2.8,1.2,57
+1322,8/30/2022,Sassuolo,Serie A,D,0,0,1.1,0.7,38
+1323,9/4/2022,Sassuolo,Serie A,D,0,0,1.5,0.4,54
+1324,9/11/2022,Sassuolo,Serie A,L,1,3,0.5,2.1,33
+1325,9/17/2022,Sassuolo,Serie A,W,1,0,0.4,0.7,43
+1326,10/2/2022,Sassuolo,Serie A,W,5,0,3.2,0.5,44
+1327,10/8/2022,Sassuolo,Serie A,L,1,2,1.2,2.3,52
+1328,10/15/2022,Sassuolo,Serie A,L,1,2,0.8,2.5,52
+1329,10/24/2022,Sassuolo,Serie A,W,2,1,1.5,1.4,51
+1330,10/29/2022,Sassuolo,Serie A,L,0,4,1,2.1,33
+1331,11/5/2022,Sassuolo,Serie A,L,0,1,0.6,1.2,53
+1332,11/9/2022,Sassuolo,Serie A,D,1,1,1.2,0.7,46
+1333,11/12/2022,Sassuolo,Serie A,L,0,3,0.8,0.8,49
+1334,8/5/2022,Lecce,Coppa Italia,L,2,3,NA,NA,61
+1335,8/13/2022,Lecce,Serie A,L,1,2,0.7,2.1,30
+1336,8/20/2022,Lecce,Serie A,L,0,1,0.5,0.6,41
+1337,8/28/2022,Lecce,Serie A,D,1,1,0.9,0.4,41
+1338,8/31/2022,Lecce,Serie A,D,1,1,1.1,1.7,29
+1339,9/5/2022,Lecce,Serie A,L,0,1,0.3,1.1,41
+1340,9/11/2022,Lecce,Serie A,D,1,1,0.9,0.1,53
+1341,9/16/2022,Lecce,Serie A,W,2,1,1.5,1.2,42
+1342,10/2/2022,Lecce,Serie A,D,1,1,1,1.6,54
+1343,10/9/2022,Lecce,Serie A,L,1,2,0.3,3.2,34
+1344,10/17/2022,Lecce,Serie A,D,1,1,1.1,0.5,41
+1345,10/23/2022,Lecce,Serie A,L,0,2,0.4,1.8,46
+1346,10/29/2022,Lecce,Serie A,L,0,1,0.2,0.6,36
+1347,11/4/2022,Lecce,Serie A,D,1,1,0.7,1.7,43
+1348,11/9/2022,Lecce,Serie A,W,2,1,1.1,1.5,39
+1349,11/12/2022,Lecce,Serie A,W,2,0,0.6,0.7,43
+1350,8/6/2022,Spezia,Coppa Italia,W,5,1,NA,NA,56
+1351,8/14/2022,Spezia,Serie A,W,1,0,0.5,0.7,41
+1352,8/20/2022,Spezia,Serie A,L,0,3,0.5,2.1,46
+1353,8/27/2022,Spezia,Serie A,D,2,2,1.2,2.8,43
+1354,8/31/2022,Spezia,Serie A,L,0,2,0.2,0.9,50
+1355,9/4/2022,Spezia,Serie A,D,2,2,0.9,0.9,45
+1356,9/10/2022,Spezia,Serie A,L,0,1,0.5,2.2,37
+1357,9/17/2022,Spezia,Serie A,W,2,1,0.7,0.9,52
+1358,10/2/2022,Spezia,Serie A,L,0,4,1.1,2.3,39
+1359,10/9/2022,Spezia,Serie A,L,0,2,0.5,0.7,53
+1360,10/16/2022,Spezia,Serie A,D,2,2,1.5,2.1,54
+1361,10/19/2022,Spezia,Coppa Italia,W,3,1,NA,NA,49
+1362,10/22/2022,Spezia,Serie A,L,0,1,0.9,1.6,56
+1363,10/30/2022,Spezia,Serie A,L,1,2,1.2,2.1,50
+1364,11/5/2022,Spezia,Serie A,L,1,2,1.6,2.2,42
+1365,11/8/2022,Spezia,Serie A,D,1,1,2,0.6,49
+1366,11/13/2022,Spezia,Serie A,W,2,1,0.8,2.1,55
+1367,8/8/2022,Cremonese,Coppa Italia,W,3,2,NA,NA,50
+1368,8/14/2022,Cremonese,Serie A,L,2,3,1.3,2,26
+1369,8/22/2022,Cremonese,Serie A,L,0,1,0.7,2.7,51
+1370,8/27/2022,Cremonese,Serie A,L,1,2,0.8,1.7,53
+1371,8/30/2022,Cremonese,Serie A,L,1,3,1.2,2.2,47
+1372,9/4/2022,Cremonese,Serie A,D,0,0,0.4,1.5,46
+1373,9/11/2022,Cremonese,Serie A,D,1,1,0.6,0.7,42
+1374,9/18/2022,Cremonese,Serie A,L,0,4,1.3,3.1,45
+1375,10/2/2022,Cremonese,Serie A,D,1,1,1.6,1,46
+1376,10/9/2022,Cremonese,Serie A,L,1,4,0.8,4.1,31
+1377,10/16/2022,Cremonese,Serie A,D,2,2,2.1,1.5,46
+1378,10/20/2022,Cremonese,Coppa Italia,W,4,2,NA,NA,63
+1379,10/24/2022,Cremonese,Serie A,L,0,1,2,1.3,52
+1380,10/30/2022,Cremonese,Serie A,D,0,0,0.7,1,42
+1381,11/5/2022,Cremonese,Serie A,D,2,2,1.7,1.3,49
+1382,11/8/2022,Cremonese,Serie A,D,0,0,0.3,1,29
+1383,11/11/2022,Cremonese,Serie A,L,0,2,1.3,2.2,51
+1384,8/5/2022,Sampdoria,Coppa Italia,W,1,0,NA,NA,51
+1385,8/13/2022,Sampdoria,Serie A,L,0,2,1,2.2,55
+1386,8/22/2022,Sampdoria,Serie A,D,0,0,0.9,0.8,48
+1387,8/28/2022,Sampdoria,Serie A,L,0,4,1.8,1.7,55
+1388,8/31/2022,Sampdoria,Serie A,D,1,1,0.8,1.5,44
+1389,9/4/2022,Sampdoria,Serie A,L,1,2,0.8,2.5,51
+1390,9/10/2022,Sampdoria,Serie A,L,1,2,0.7,1.7,57
+1391,9/17/2022,Sampdoria,Serie A,L,1,2,0.9,0.7,48
+1392,10/2/2022,Sampdoria,Serie A,L,0,3,0.1,1.4,50
+1393,10/8/2022,Sampdoria,Serie A,D,1,1,0.6,0.8,49
+1394,10/17/2022,Sampdoria,Serie A,L,0,1,0.2,1.8,59
+1395,10/20/2022,Sampdoria,Coppa Italia,D,2 (9),2 (8),NA,NA,66
+1396,10/24/2022,Sampdoria,Serie A,W,1,0,1.3,2,48
+1397,10/29/2022,Sampdoria,Serie A,L,0,3,0.5,2,49
+1398,11/6/2022,Sampdoria,Serie A,L,0,2,0.8,0.9,49
+1399,11/9/2022,Sampdoria,Serie A,L,0,2,0.5,0.5,49
+1400,11/12/2022,Sampdoria,Serie A,L,0,2,0.7,0.6,57
+1401,8/7/2022,Hellas Verona,Coppa Italia,L,1,4,NA,NA,53
+1402,8/15/2022,Hellas Verona,Serie A,L,2,5,1.1,2.4,34
+1403,8/21/2022,Hellas Verona,Serie A,D,1,1,1.9,0.8,48
+1404,8/28/2022,Hellas Verona,Serie A,L,0,1,0.5,0.8,49
+1405,8/31/2022,Hellas Verona,Serie A,D,1,1,0.6,1.1,48
+1406,9/4/2022,Hellas Verona,Serie A,W,2,1,2.5,0.8,49
+1407,9/11/2022,Hellas Verona,Serie A,L,0,2,0.3,1.1,41
+1408,9/18/2022,Hellas Verona,Serie A,L,0,2,0.6,2.4,56
+1409,10/3/2022,Hellas Verona,Serie A,L,1,2,0.3,1.8,32
+1410,10/9/2022,Hellas Verona,Serie A,L,1,2,0.9,1.1,60
+1411,10/16/2022,Hellas Verona,Serie A,L,1,2,2.1,1.9,46
+1412,10/24/2022,Hellas Verona,Serie A,L,1,2,1.4,1.5,49
+1413,10/31/2022,Hellas Verona,Serie A,L,1,3,0.3,3.1,33
+1414,11/6/2022,Hellas Verona,Serie A,L,0,2,0.4,1.3,26
+1415,11/10/2022,Hellas Verona,Serie A,L,0,1,1.2,1.1,43
+1416,11/13/2022,Hellas Verona,Serie A,L,1,2,2.1,0.8,45
+1417,7/30/2022,Bayern Munich,DFL-Supercup,W,5,3,NA,NA,58
+1418,8/5/2022,Bayern Munich,Bundesliga,W,6,1,4,0.9,63
+1419,8/14/2022,Bayern Munich,Bundesliga,W,2,0,2,0.5,68
+1420,8/21/2022,Bayern Munich,Bundesliga,W,7,0,2.9,0.7,64
+1421,8/27/2022,Bayern Munich,Bundesliga,D,1,1,2.8,0.5,69
+1422,8/31/2022,Bayern Munich,DFB-Pokal,W,5,0,NA,NA,77
+1423,9/3/2022,Bayern Munich,Bundesliga,D,1,1,1.5,0.3,74
+1424,9/7/2022,Bayern Munich,Champions Lg,W,2,0,2.5,0.7,56
+1425,9/10/2022,Bayern Munich,Bundesliga,D,2,2,2.2,1.2,66
+1426,9/13/2022,Bayern Munich,Champions Lg,W,2,0,1.7,2,47
+1427,9/17/2022,Bayern Munich,Bundesliga,L,0,1,1.6,1.7,76
+1428,9/30/2022,Bayern Munich,Bundesliga,W,4,0,1.9,0.8,62
+1429,10/4/2022,Bayern Munich,Champions Lg,W,5,0,2.4,0.5,70
+1430,10/8/2022,Bayern Munich,Bundesliga,D,2,2,0.6,1.6,56
+1431,10/12/2022,Bayern Munich,Champions Lg,W,4,2,3,1.2,67
+1432,10/16/2022,Bayern Munich,Bundesliga,W,5,0,2.1,0.3,66
+1433,10/19/2022,Bayern Munich,DFB-Pokal,W,5,2,NA,NA,67
+1434,10/22/2022,Bayern Munich,Bundesliga,W,2,0,2.4,0.8,58
+1435,10/26/2022,Bayern Munich,Champions Lg,W,3,0,2.1,0.7,48
+1436,10/29/2022,Bayern Munich,Bundesliga,W,6,2,3.1,2.2,69
+1437,11/1/2022,Bayern Munich,Champions Lg,W,2,0,1.5,0.7,60
+1438,11/5/2022,Bayern Munich,Bundesliga,W,3,2,1.9,1.2,72
+1439,11/8/2022,Bayern Munich,Bundesliga,W,6,1,4.4,1.3,61
+1440,11/12/2022,Bayern Munich,Bundesliga,W,2,0,1.9,0.8,68
+1441,7/31/2022,Freiburg,DFB-Pokal,W,2,1,NA,NA,65
+1442,8/6/2022,Freiburg,Bundesliga,W,4,0,1.3,0.7,47
+1443,8/12/2022,Freiburg,Bundesliga,L,1,3,1,1.1,39
+1444,8/20/2022,Freiburg,Bundesliga,W,1,0,0.6,0.9,40
+1445,8/26/2022,Freiburg,Bundesliga,W,1,0,3.9,1.2,48
+1446,9/3/2022,Freiburg,Bundesliga,W,3,2,1.9,1.8,50
+1447,9/8/2022,Freiburg,Europa Lg,W,2,1,1.6,1,47
+1448,9/11/2022,Freiburg,Bundesliga,D,0,0,1.1,1.2,43
+1449,9/15/2022,Freiburg,Europa Lg,W,3,0,2.1,0.4,52
+1450,9/18/2022,Freiburg,Bundesliga,D,0,0,1,0.7,50
+1451,10/1/2022,Freiburg,Bundesliga,W,2,1,2,1.6,53
+1452,10/6/2022,Freiburg,Europa Lg,W,2,0,1.4,1.5,60
+1453,10/9/2022,Freiburg,Bundesliga,D,2,2,1,1.6,58
+1454,10/13/2022,Freiburg,Europa Lg,W,4,0,1.8,1,57
+1455,10/16/2022,Freiburg,Bundesliga,L,0,5,0.3,2.1,34
+1456,10/19/2022,Freiburg,DFB-Pokal,W,2,1,NA,NA,66
+1457,10/22/2022,Freiburg,Bundesliga,W,2,0,2.9,0.5,61
+1458,10/27/2022,Freiburg,Europa Lg,D,1,1,1.5,2.1,65
+1459,10/30/2022,Freiburg,Bundesliga,W,2,0,2.3,0.6,55
+1460,11/3/2022,Freiburg,Europa Lg,D,1,1,1.1,1,45
+1461,11/6/2022,Freiburg,Bundesliga,W,2,0,1.4,0.5,55
+1462,11/9/2022,Freiburg,Bundesliga,L,1,3,0.2,2.9,42
+1463,11/13/2022,Freiburg,Bundesliga,W,4,1,2.3,1.7,72
+1464,7/30/2022,RB Leipzig,DFL-Supercup,L,3,5,NA,NA,42
+1465,8/7/2022,RB Leipzig,Bundesliga,D,1,1,1.6,0.8,67
+1466,8/13/2022,RB Leipzig,Bundesliga,D,2,2,1,1.5,52
+1467,8/20/2022,RB Leipzig,Bundesliga,L,1,2,0.9,0.7,73
+1468,8/27/2022,RB Leipzig,Bundesliga,W,2,0,3.5,0.5,43
+1469,8/30/2022,RB Leipzig,DFB-Pokal,W,8,0,NA,NA,74
+1470,9/3/2022,RB Leipzig,Bundesliga,L,0,4,0.2,3.1,56
+1471,9/6/2022,RB Leipzig,Champions Lg,L,1,4,1.4,0.9,68
+1472,9/10/2022,RB Leipzig,Bundesliga,W,3,0,2,0.6,45
+1473,9/14/2022,RB Leipzig,Champions Lg,L,0,2,0.7,0.9,48
+1474,9/17/2022,RB Leipzig,Bundesliga,L,0,3,0.9,2.7,55
+1475,10/1/2022,RB Leipzig,Bundesliga,W,4,0,3.9,0.1,70
+1476,10/5/2022,RB Leipzig,Champions Lg,W,3,1,2.2,0.9,59
+1477,10/8/2022,RB Leipzig,Bundesliga,D,1,1,1,0.6,63
+1478,10/11/2022,RB Leipzig,Champions Lg,W,2,0,1.7,2,58
+1479,10/15/2022,RB Leipzig,Bundesliga,W,3,2,2.9,2.3,60
+1480,10/18/2022,RB Leipzig,DFB-Pokal,W,4,0,NA,NA,43
+1481,10/22/2022,RB Leipzig,Bundesliga,D,3,3,2.4,1.6,67
+1482,10/25/2022,RB Leipzig,Champions Lg,W,3,2,2.2,2.1,44
+1483,10/29/2022,RB Leipzig,Bundesliga,W,2,0,1.2,0.1,46
+1484,11/2/2022,RB Leipzig,Champions Lg,W,4,0,2.2,0.2,51
+1485,11/5/2022,RB Leipzig,Bundesliga,W,3,1,1.7,0.9,63
+1486,11/9/2022,RB Leipzig,Bundesliga,W,3,1,2.9,0.2,58
+1487,11/12/2022,RB Leipzig,Bundesliga,W,2,1,1.7,0.9,52
+1488,8/1/2022,Eintracht Frankfurt,DFB-Pokal,W,4,0,NA,NA,45
+1489,8/5/2022,Eintracht Frankfurt,Bundesliga,L,1,6,0.9,4,37
+1490,8/10/2022,Eintracht Frankfurt,Super Cup,L,0,2,NA,NA,42
+1491,8/13/2022,Eintracht Frankfurt,Bundesliga,D,1,1,1.6,1.7,61
+1492,8/21/2022,Eintracht Frankfurt,Bundesliga,D,1,1,0.9,0.3,54
+1493,8/28/2022,Eintracht Frankfurt,Bundesliga,W,4,3,1.8,1.8,46
+1494,9/3/2022,Eintracht Frankfurt,Bundesliga,W,4,0,3.1,0.2,44
+1495,9/7/2022,Eintracht Frankfurt,Champions Lg,L,0,3,0.8,0.9,45
+1496,9/10/2022,Eintracht Frankfurt,Bundesliga,L,0,1,0.7,1,62
+1497,9/13/2022,Eintracht Frankfurt,Champions Lg,W,1,0,1.2,0.9,39
+1498,9/17/2022,Eintracht Frankfurt,Bundesliga,W,3,1,1,1,44
+1499,10/1/2022,Eintracht Frankfurt,Bundesliga,W,2,0,0.8,1,47
+1500,10/4/2022,Eintracht Frankfurt,Champions Lg,D,0,0,1,1.5,44
+1501,10/8/2022,Eintracht Frankfurt,Bundesliga,L,0,3,0.9,0.6,54
+1502,10/12/2022,Eintracht Frankfurt,Champions Lg,L,2,3,1.2,3,49
+1503,10/15/2022,Eintracht Frankfurt,Bundesliga,W,5,1,3.9,0.4,49
+1504,10/18/2022,Eintracht Frankfurt,DFB-Pokal,W,2,0,NA,NA,63
+1505,10/22/2022,Eintracht Frankfurt,Bundesliga,W,3,1,1.9,1,40
+1506,10/26/2022,Eintracht Frankfurt,Champions Lg,W,2,1,1.1,0.7,44
+1507,10/29/2022,Eintracht Frankfurt,Bundesliga,L,1,2,1.9,0.6,58
+1508,11/1/2022,Eintracht Frankfurt,Champions Lg,W,2,1,1.2,0.5,54
+1509,11/5/2022,Eintracht Frankfurt,Bundesliga,W,2,1,1.2,1.2,58
+1510,11/9/2022,Eintracht Frankfurt,Bundesliga,W,4,2,2.8,1.8,51
+1511,11/13/2022,Eintracht Frankfurt,Bundesliga,D,1,1,1.8,1.5,60
+1512,8/1/2022,Union Berlin,DFB-Pokal,W,2,1,NA,NA,57
+1513,8/6/2022,Union Berlin,Bundesliga,W,3,1,1,0.3,49
+1514,8/14/2022,Union Berlin,Bundesliga,D,0,0,0.4,0.7,51
+1515,8/20/2022,Union Berlin,Bundesliga,W,2,1,0.7,0.9,27
+1516,8/27/2022,Union Berlin,Bundesliga,W,6,1,1.1,1.9,41
+1517,9/3/2022,Union Berlin,Bundesliga,D,1,1,0.3,1.5,26
+1518,9/8/2022,Union Berlin,Europa Lg,L,0,1,0.5,0.8,59
+1519,9/11/2022,Union Berlin,Bundesliga,W,1,0,1.5,0.6,47
+1520,9/15/2022,Union Berlin,Europa Lg,L,0,1,0.7,1,45
+1521,9/18/2022,Union Berlin,Bundesliga,W,2,0,1.4,0.3,48
+1522,10/1/2022,Union Berlin,Bundesliga,L,0,2,1,0.8,53
+1523,10/6/2022,Union Berlin,Europa Lg,W,1,0,1.4,0.7,29
+1524,10/9/2022,Union Berlin,Bundesliga,W,1,0,0.7,1,48
+1525,10/13/2022,Union Berlin,Europa Lg,W,1,0,1.6,0.1,44
+1526,10/16/2022,Union Berlin,Bundesliga,W,2,0,1.9,0.8,24
+1527,10/19/2022,Union Berlin,DFB-Pokal,W,2,0,NA,NA,59
+1528,10/23/2022,Union Berlin,Bundesliga,L,1,2,1,1.1,53
+1529,10/27/2022,Union Berlin,Europa Lg,W,1,0,1.5,0.2,40
+1530,10/30/2022,Union Berlin,Bundesliga,W,2,1,0.9,1,55
+1531,11/3/2022,Union Berlin,Europa Lg,W,1,0,0.7,0.3,39
+1532,11/6/2022,Union Berlin,Bundesliga,L,0,5,0.3,1.9,42
+1533,11/9/2022,Union Berlin,Bundesliga,D,2,2,1.2,0.6,59
+1534,11/13/2022,Union Berlin,Bundesliga,L,1,4,1.7,2.3,28
+1535,7/29/2022,Dortmund,DFB-Pokal,W,3,0,NA,NA,82
+1536,8/6/2022,Dortmund,Bundesliga,W,1,0,1.8,1.3,45
+1537,8/12/2022,Dortmund,Bundesliga,W,3,1,1.1,1,61
+1538,8/20/2022,Dortmund,Bundesliga,L,2,3,0.5,1.3,50
+1539,8/27/2022,Dortmund,Bundesliga,W,1,0,2.7,0.5,62
+1540,9/2/2022,Dortmund,Bundesliga,W,1,0,2,0.5,49
+1541,9/6/2022,Dortmund,Champions Lg,W,3,0,2.3,0.5,63
+1542,9/10/2022,Dortmund,Bundesliga,L,0,3,0.6,2,55
+1543,9/14/2022,Dortmund,Champions Lg,L,1,2,0.7,1,34
+1544,9/17/2022,Dortmund,Bundesliga,W,1,0,1.8,0.1,65
+1545,10/1/2022,Dortmund,Bundesliga,L,2,3,2.5,1.9,58
+1546,10/5/2022,Dortmund,Champions Lg,W,4,1,2.5,2,42
+1547,10/8/2022,Dortmund,Bundesliga,D,2,2,1.6,0.6,44
+1548,10/11/2022,Dortmund,Champions Lg,D,1,1,0.4,0.8,52
+1549,10/16/2022,Dortmund,Bundesliga,L,0,2,0.8,1.9,76
+1550,10/19/2022,Dortmund,DFB-Pokal,W,2,0,NA,NA,59
+1551,10/22/2022,Dortmund,Bundesliga,W,5,0,2.6,1,60
+1552,10/25/2022,Dortmund,Champions Lg,D,0,0,1.2,1.2,27
+1553,10/29/2022,Dortmund,Bundesliga,W,2,1,0.6,1.9,42
+1554,11/2/2022,Dortmund,Champions Lg,D,1,1,1.2,1.8,57
+1555,11/5/2022,Dortmund,Bundesliga,W,3,0,1.5,0.6,60
+1556,11/8/2022,Dortmund,Bundesliga,L,0,2,1.6,2.4,63
+1557,11/11/2022,Dortmund,Bundesliga,L,2,4,3,2.1,61
+1558,7/30/2022,Wolfsburg,DFB-Pokal,W,1,0,NA,NA,71
+1559,8/6/2022,Wolfsburg,Bundesliga,D,2,2,1,0.8,61
+1560,8/14/2022,Wolfsburg,Bundesliga,L,0,2,0.5,2,32
+1561,8/20/2022,Wolfsburg,Bundesliga,D,0,0,1.3,1.1,71
+1562,8/27/2022,Wolfsburg,Bundesliga,L,0,2,0.5,3.5,57
+1563,9/3/2022,Wolfsburg,Bundesliga,L,2,4,1,2.7,51
+1564,9/10/2022,Wolfsburg,Bundesliga,W,1,0,1,0.7,38
+1565,9/18/2022,Wolfsburg,Bundesliga,L,0,2,0.3,1.4,52
+1566,10/1/2022,Wolfsburg,Bundesliga,W,3,2,2,1.5,57
+1567,10/8/2022,Wolfsburg,Bundesliga,D,1,1,1.8,2,51
+1568,10/15/2022,Wolfsburg,Bundesliga,D,2,2,1.8,0.8,54
+1569,10/18/2022,Wolfsburg,DFB-Pokal,W,2,1,NA,NA,61
+1570,10/22/2022,Wolfsburg,Bundesliga,D,2,2,1.2,2.2,43
+1571,10/29/2022,Wolfsburg,Bundesliga,W,4,0,2,0.5,52
+1572,11/5/2022,Wolfsburg,Bundesliga,W,3,0,0.6,1,44
+1573,11/8/2022,Wolfsburg,Bundesliga,W,2,0,2.4,1.6,37
+1574,11/12/2022,Wolfsburg,Bundesliga,W,2,1,0.7,1.4,40
+1575,7/31/2022,Monchengladbach,DFB-Pokal,W,9,1,NA,NA,71
+1576,8/6/2022,Monchengladbach,Bundesliga,W,3,1,1.9,0.1,61
+1577,8/13/2022,Monchengladbach,Bundesliga,D,2,2,1.3,1.4,67
+1578,8/19/2022,Monchengladbach,Bundesliga,W,1,0,2.7,1,64
+1579,8/27/2022,Monchengladbach,Bundesliga,D,1,1,0.5,2.8,31
+1580,9/4/2022,Monchengladbach,Bundesliga,L,0,1,1.2,0.6,53
+1581,9/11/2022,Monchengladbach,Bundesliga,D,0,0,1.2,1.1,57
+1582,9/17/2022,Monchengladbach,Bundesliga,W,3,0,2.7,0.9,45
+1583,10/1/2022,Monchengladbach,Bundesliga,L,1,5,2.3,1.9,53
+1584,10/9/2022,Monchengladbach,Bundesliga,W,5,2,3,1.3,65
+1585,10/15/2022,Monchengladbach,Bundesliga,D,2,2,0.8,1.8,46
+1586,10/18/2022,Monchengladbach,DFB-Pokal,L,1,2,NA,NA,57
+1587,10/22/2022,Monchengladbach,Bundesliga,L,1,3,1,1.9,60
+1588,10/30/2022,Monchengladbach,Bundesliga,L,1,2,1,0.9,45
+1589,11/4/2022,Monchengladbach,Bundesliga,W,3,1,0.9,1.1,55
+1590,11/8/2022,Monchengladbach,Bundesliga,L,1,2,0.8,2,54
+1591,11/11/2022,Monchengladbach,Bundesliga,W,4,2,2.1,3,39
+1592,8/1/2022,Werder Bremen,DFB-Pokal,W,2,1,NA,NA,61
+1593,8/6/2022,Werder Bremen,Bundesliga,D,2,2,0.8,1,39
+1594,8/13/2022,Werder Bremen,Bundesliga,D,2,2,0.5,1.4,57
+1595,8/20/2022,Werder Bremen,Bundesliga,W,3,2,1.3,0.5,50
+1596,8/28/2022,Werder Bremen,Bundesliga,L,3,4,1.8,1.8,54
+1597,9/3/2022,Werder Bremen,Bundesliga,W,2,0,2,0.8,50
+1598,9/9/2022,Werder Bremen,Bundesliga,L,0,1,1.3,1,68
+1599,9/17/2022,Werder Bremen,Bundesliga,D,1,1,2.1,1.8,46
+1600,10/1/2022,Werder Bremen,Bundesliga,W,5,1,1.9,2.3,47
+1601,10/7/2022,Werder Bremen,Bundesliga,W,2,1,1.3,1.7,54
+1602,10/15/2022,Werder Bremen,Bundesliga,L,0,2,1.3,1.1,67
+1603,10/19/2022,Werder Bremen,DFB-Pokal,D,2 (4),2 (5),NA,NA,58
+1604,10/22/2022,Werder Bremen,Bundesliga,L,0,2,0.5,2.9,39
+1605,10/28/2022,Werder Bremen,Bundesliga,W,1,0,1.3,0.4,52
+1606,11/5/2022,Werder Bremen,Bundesliga,W,2,1,1,1.4,45
+1607,11/8/2022,Werder Bremen,Bundesliga,L,1,6,1.3,4.4,39
+1608,11/12/2022,Werder Bremen,Bundesliga,L,1,2,0.9,1.7,48
+1609,7/31/2022,Mainz 05,DFB-Pokal,W,3,0,NA,NA,55
+1610,8/6/2022,Mainz 05,Bundesliga,W,2,1,1.4,0.9,41
+1611,8/14/2022,Mainz 05,Bundesliga,D,0,0,0.7,0.4,49
+1612,8/20/2022,Mainz 05,Bundesliga,W,2,1,2.1,0.5,50
+1613,8/27/2022,Mainz 05,Bundesliga,L,0,3,1.4,1.9,61
+1614,9/4/2022,Mainz 05,Bundesliga,W,1,0,0.6,1.2,47
+1615,9/10/2022,Mainz 05,Bundesliga,L,1,4,0.7,4.2,36
+1616,9/16/2022,Mainz 05,Bundesliga,D,1,1,0.7,0.4,57
+1617,10/1/2022,Mainz 05,Bundesliga,L,1,2,1.6,2,47
+1618,10/8/2022,Mainz 05,Bundesliga,D,1,1,0.6,1,37
+1619,10/15/2022,Mainz 05,Bundesliga,W,2,0,1.1,1.3,33
+1620,10/18/2022,Mainz 05,DFB-Pokal,W,3,0,NA,NA,57
+1621,10/21/2022,Mainz 05,Bundesliga,W,5,0,1.9,0.7,55
+1622,10/29/2022,Mainz 05,Bundesliga,L,2,6,2.2,3.1,31
+1623,11/5/2022,Mainz 05,Bundesliga,L,0,3,1,0.6,56
+1624,11/9/2022,Mainz 05,Bundesliga,L,0,1,0.8,1.5,55
+1625,11/13/2022,Mainz 05,Bundesliga,D,1,1,1.5,1.8,40
+1626,7/31/2022,Hoffenheim,DFB-Pokal,W,2,0,NA,NA,68
+1627,8/6/2022,Hoffenheim,Bundesliga,L,1,3,0.1,1.9,39
+1628,8/13/2022,Hoffenheim,Bundesliga,W,3,2,2.6,1.5,59
+1629,8/20/2022,Hoffenheim,Bundesliga,W,3,0,1.5,1.2,44
+1630,8/27/2022,Hoffenheim,Bundesliga,W,1,0,1.9,0.6,50
+1631,9/2/2022,Hoffenheim,Bundesliga,L,0,1,0.5,2,51
+1632,9/10/2022,Hoffenheim,Bundesliga,W,4,1,4.2,0.7,64
+1633,9/18/2022,Hoffenheim,Bundesliga,D,0,0,0.7,1,50
+1634,10/2/2022,Hoffenheim,Bundesliga,D,1,1,1.4,0.9,57
+1635,10/7/2022,Hoffenheim,Bundesliga,L,1,2,1.7,1.3,46
+1636,10/14/2022,Hoffenheim,Bundesliga,W,3,0,3.2,0.7,49
+1637,10/18/2022,Hoffenheim,DFB-Pokal,W,5,1,NA,NA,62
+1638,10/22/2022,Hoffenheim,Bundesliga,L,0,2,0.8,2.4,42
+1639,10/30/2022,Hoffenheim,Bundesliga,D,1,1,0.9,1.2,64
+1640,11/5/2022,Hoffenheim,Bundesliga,L,1,3,0.9,1.7,37
+1641,11/9/2022,Hoffenheim,Bundesliga,L,2,4,1.8,2.8,49
+1642,11/12/2022,Hoffenheim,Bundesliga,L,1,2,1.4,0.7,60
+1643,7/30/2022,Bayer Leverkusen,DFB-Pokal,L,3,4,NA,NA,61
+1644,8/6/2022,Bayer Leverkusen,Bundesliga,L,0,1,1.3,1.8,55
+1645,8/13/2022,Bayer Leverkusen,Bundesliga,L,1,2,2.5,0.4,66
+1646,8/20/2022,Bayer Leverkusen,Bundesliga,L,0,3,1.2,1.5,56
+1647,8/27/2022,Bayer Leverkusen,Bundesliga,W,3,0,1.9,1.4,39
+1648,9/3/2022,Bayer Leverkusen,Bundesliga,L,2,3,1.8,1.9,50
+1649,9/7/2022,Bayer Leverkusen,Champions Lg,L,0,1,1,0.5,52
+1650,9/10/2022,Bayer Leverkusen,Bundesliga,D,2,2,1.3,1.9,58
+1651,9/13/2022,Bayer Leverkusen,Champions Lg,W,2,0,1.8,0.9,45
+1652,9/17/2022,Bayer Leverkusen,Bundesliga,D,1,1,1.8,2.1,54
+1653,9/30/2022,Bayer Leverkusen,Bundesliga,L,0,4,0.8,1.9,38
+1654,10/4/2022,Bayer Leverkusen,Champions Lg,L,0,2,1.4,1.1,58
+1655,10/8/2022,Bayer Leverkusen,Bundesliga,W,4,0,1.5,0.4,60
+1656,10/12/2022,Bayer Leverkusen,Champions Lg,L,0,3,2.2,1.8,64
+1657,10/15/2022,Bayer Leverkusen,Bundesliga,L,1,5,0.4,3.9,51
+1658,10/22/2022,Bayer Leverkusen,Bundesliga,D,2,2,2.2,1.2,57
+1659,10/26/2022,Bayer Leverkusen,Champions Lg,D,2,2,1.5,2.6,36
+1660,10/29/2022,Bayer Leverkusen,Bundesliga,L,0,2,0.1,1.2,54
+1661,11/1/2022,Bayer Leverkusen,Champions Lg,D,0,0,1.1,0.5,53
+1662,11/6/2022,Bayer Leverkusen,Bundesliga,W,5,0,1.9,0.3,58
+1663,11/9/2022,Bayer Leverkusen,Bundesliga,W,2,1,1.4,1.4,42
+1664,11/12/2022,Bayer Leverkusen,Bundesliga,W,2,0,1.6,0.3,45
+1665,7/30/2022,Koln,DFB-Pokal,D,2 (3),2 (4),NA,NA,61
+1666,8/7/2022,Koln,Bundesliga,W,3,1,4.1,0.2,75
+1667,8/13/2022,Koln,Bundesliga,D,2,2,1.5,1,48
+1668,8/18/2022,Koln,Conf Lg,L,1,2,NA,NA,NA
+1669,8/21/2022,Koln,Bundesliga,D,1,1,0.3,0.9,46
+1670,8/25/2022,Koln,Conf Lg,W,3,0,NA,NA,NA
+1671,8/28/2022,Koln,Bundesliga,D,0,0,0.6,2.1,63
+1672,9/3/2022,Koln,Bundesliga,W,4,2,2.7,1,49
+1673,9/8/2022,Koln,Conf Lg,D,1,1,1.3,1.9,53
+1674,9/11/2022,Koln,Bundesliga,L,0,1,0.6,1.5,53
+1675,9/15/2022,Koln,Conf Lg,W,4,2,3.3,1.6,58
+1676,9/18/2022,Koln,Bundesliga,D,1,1,2.1,0.2,65
+1677,10/1/2022,Koln,Bundesliga,W,3,2,1.9,2.5,42
+1678,10/6/2022,Koln,Conf Lg,L,0,1,1.9,1.1,73
+1679,10/9/2022,Koln,Bundesliga,L,2,5,1.3,3,35
+1680,10/13/2022,Koln,Conf Lg,L,0,2,0.9,0.7,68
+1681,10/16/2022,Koln,Bundesliga,W,3,2,1.5,0.4,64
+1682,10/21/2022,Koln,Bundesliga,L,0,5,0.7,1.9,45
+1683,10/28/2022,Koln,Conf Lg,W,1,0,3,0.5,57
+1684,10/30/2022,Koln,Bundesliga,D,1,1,1.2,0.9,36
+1685,11/3/2022,Koln,Conf Lg,D,2,2,1.6,1,56
+1686,11/6/2022,Koln,Bundesliga,L,0,2,0.5,1.4,45
+1687,11/9/2022,Koln,Bundesliga,L,1,2,1.4,1.4,58
+1688,11/12/2022,Koln,Bundesliga,L,0,2,1.8,1.8,52
+1689,7/31/2022,Augsburg,DFB-Pokal,W,4,0,NA,NA,68
+1690,8/6/2022,Augsburg,Bundesliga,L,0,4,0.7,1.3,53
+1691,8/13/2022,Augsburg,Bundesliga,W,2,1,0.4,2.5,34
+1692,8/20/2022,Augsburg,Bundesliga,L,1,2,0.5,2.1,50
+1693,8/27/2022,Augsburg,Bundesliga,L,0,1,0.6,1.9,50
+1694,9/4/2022,Augsburg,Bundesliga,L,0,2,0.4,2.1,48
+1695,9/9/2022,Augsburg,Bundesliga,W,1,0,1,1.3,32
+1696,9/17/2022,Augsburg,Bundesliga,W,1,0,1.7,1.6,24
+1697,10/2/2022,Augsburg,Bundesliga,W,3,2,1.4,1.8,44
+1698,10/8/2022,Augsburg,Bundesliga,D,1,1,2,1.8,49
+1699,10/16/2022,Augsburg,Bundesliga,L,2,3,0.4,1.5,36
+1700,10/19/2022,Augsburg,DFB-Pokal,L,2,5,NA,NA,33
+1701,10/22/2022,Augsburg,Bundesliga,D,3,3,1.6,2.4,33
+1702,10/29/2022,Augsburg,Bundesliga,L,1,2,1,2.6,38
+1703,11/5/2022,Augsburg,Bundesliga,L,1,2,1.2,1.2,42
+1704,11/9/2022,Augsburg,Bundesliga,D,2,2,0.6,1.2,41
+1705,11/12/2022,Augsburg,Bundesliga,L,0,1,2.2,1.1,54
+1706,7/31/2022,Hertha BSC,DFB-Pokal,D,4 (5),4 (6),NA,NA,61
+1707,8/6/2022,Hertha BSC,Bundesliga,L,1,3,0.3,1,51
+1708,8/13/2022,Hertha BSC,Bundesliga,D,1,1,1.7,1.6,39
+1709,8/19/2022,Hertha BSC,Bundesliga,L,0,1,1,2.7,36
+1710,8/27/2022,Hertha BSC,Bundesliga,L,0,1,0.5,2.7,38
+1711,9/4/2022,Hertha BSC,Bundesliga,W,2,0,2.1,0.4,52
+1712,9/10/2022,Hertha BSC,Bundesliga,D,2,2,1.9,1.3,42
+1713,9/16/2022,Hertha BSC,Bundesliga,D,1,1,0.4,0.7,43
+1714,10/2/2022,Hertha BSC,Bundesliga,D,1,1,0.9,1.4,43
+1715,10/9/2022,Hertha BSC,Bundesliga,D,2,2,1.6,1,42
+1716,10/15/2022,Hertha BSC,Bundesliga,L,2,3,2.3,2.9,40
+1717,10/23/2022,Hertha BSC,Bundesliga,W,2,1,0.8,0.6,54
+1718,10/28/2022,Hertha BSC,Bundesliga,L,0,1,0.4,1.3,48
+1719,11/5/2022,Hertha BSC,Bundesliga,L,2,3,1.2,1.9,28
+1720,11/8/2022,Hertha BSC,Bundesliga,L,1,2,0.7,2,40
+1721,11/12/2022,Hertha BSC,Bundesliga,W,2,0,1.8,1.8,48
+1722,7/29/2022,Stuttgart,DFB-Pokal,W,1,0,NA,NA,46
+1723,8/7/2022,Stuttgart,Bundesliga,D,1,1,0.8,1.6,33
+1724,8/13/2022,Stuttgart,Bundesliga,D,2,2,1.4,0.5,43
+1725,8/20/2022,Stuttgart,Bundesliga,L,0,1,0.9,0.6,60
+1726,8/28/2022,Stuttgart,Bundesliga,D,0,0,2.1,0.6,37
+1727,9/3/2022,Stuttgart,Bundesliga,D,1,1,0.6,2.3,43
+1728,9/10/2022,Stuttgart,Bundesliga,D,2,2,1.2,2.2,34
+1729,9/17/2022,Stuttgart,Bundesliga,L,1,3,1,1,56
+1730,10/1/2022,Stuttgart,Bundesliga,L,2,3,1.5,2,43
+1731,10/9/2022,Stuttgart,Bundesliga,L,0,1,1,0.7,52
+1732,10/15/2022,Stuttgart,Bundesliga,W,4,1,2.2,1.6,48
+1733,10/19/2022,Stuttgart,DFB-Pokal,W,6,0,NA,NA,73
+1734,10/22/2022,Stuttgart,Bundesliga,L,0,5,1,2.6,40
+1735,10/29/2022,Stuttgart,Bundesliga,W,2,1,2.6,1,62
+1736,11/4/2022,Stuttgart,Bundesliga,L,1,3,1.1,0.9,45
+1737,11/8/2022,Stuttgart,Bundesliga,W,2,1,2,0.7,60
+1738,11/12/2022,Stuttgart,Bundesliga,L,0,2,0.3,1.6,55
+1739,7/30/2022,Bochum,DFB-Pokal,W,3,0,NA,NA,66
+1740,8/6/2022,Bochum,Bundesliga,L,1,2,0.9,1.4,59
+1741,8/13/2022,Bochum,Bundesliga,L,2,3,1.5,2.6,41
+1742,8/21/2022,Bochum,Bundesliga,L,0,7,0.7,2.9,36
+1743,8/26/2022,Bochum,Bundesliga,L,0,1,1.2,3.9,52
+1744,9/3/2022,Bochum,Bundesliga,L,0,2,0.8,2,50
+1745,9/10/2022,Bochum,Bundesliga,L,1,3,1.1,1.5,55
+1746,9/18/2022,Bochum,Bundesliga,D,1,1,0.2,2.1,35
+1747,10/1/2022,Bochum,Bundesliga,L,0,4,0.1,3.9,30
+1748,10/8/2022,Bochum,Bundesliga,W,3,0,0.6,0.9,46
+1749,10/15/2022,Bochum,Bundesliga,L,1,4,1.6,2.2,52
+1750,10/18/2022,Bochum,DFB-Pokal,W,1,0,NA,NA,56
+1751,10/23/2022,Bochum,Bundesliga,W,2,1,1.1,1,47
+1752,10/29/2022,Bochum,Bundesliga,L,0,4,0.5,2,48
+1753,11/5/2022,Bochum,Bundesliga,L,0,3,0.6,1.5,40
+1754,11/8/2022,Bochum,Bundesliga,W,2,1,2,0.8,46
+1755,11/12/2022,Bochum,Bundesliga,W,1,0,1.1,2.2,46
+1756,7/31/2022,Schalke 04,DFB-Pokal,W,5,0,NA,NA,77
+1757,8/7/2022,Schalke 04,Bundesliga,L,1,3,0.2,4.1,25
+1758,8/13/2022,Schalke 04,Bundesliga,D,2,2,1.4,1.3,33
+1759,8/20/2022,Schalke 04,Bundesliga,D,0,0,1.1,1.3,29
+1760,8/27/2022,Schalke 04,Bundesliga,L,1,6,1.9,1.1,59
+1761,9/3/2022,Schalke 04,Bundesliga,D,1,1,2.3,0.6,57
+1762,9/10/2022,Schalke 04,Bundesliga,W,3,1,1.5,1.1,45
+1763,9/17/2022,Schalke 04,Bundesliga,L,0,1,0.1,1.8,35
+1764,10/2/2022,Schalke 04,Bundesliga,L,2,3,1.8,1.4,56
+1765,10/8/2022,Schalke 04,Bundesliga,L,0,4,0.4,1.5,40
+1766,10/14/2022,Schalke 04,Bundesliga,L,0,3,0.7,3.2,51
+1767,10/18/2022,Schalke 04,DFB-Pokal,L,1,5,NA,NA,38
+1768,10/23/2022,Schalke 04,Bundesliga,L,1,2,0.6,0.8,46
+1769,10/30/2022,Schalke 04,Bundesliga,L,0,2,0.6,2.3,45
+1770,11/5/2022,Schalke 04,Bundesliga,L,1,2,1.4,1,55
+1771,11/9/2022,Schalke 04,Bundesliga,W,1,0,1.5,0.8,45
+1772,11/12/2022,Schalke 04,Bundesliga,L,0,2,0.8,1.9,32
+1773,8/6/2022,Porto,Primeira Liga,W,5,1,3.2,1.6,59
+1774,8/14/2022,Porto,Primeira Liga,W,1,0,0.9,0.2,67
+1775,8/20/2022,Porto,Primeira Liga,W,3,0,3,0.8,39
+1776,8/28/2022,Porto,Primeira Liga,L,1,3,2.3,0.7,69
+1777,9/3/2022,Porto,Primeira Liga,W,2,0,2.3,0.7,60
+1778,9/7/2022,Porto,Champions Lg,L,1,2,2,0.8,47
+1779,9/10/2022,Porto,Primeira Liga,W,3,0,2.8,0.5,57
+1780,9/13/2022,Porto,Champions Lg,L,0,4,1,2.7,54
+1781,9/17/2022,Porto,Primeira Liga,D,1,1,1.6,0.7,62
+1782,9/30/2022,Porto,Primeira Liga,W,4,1,4.3,0.4,49
+1783,10/4/2022,Porto,Champions Lg,W,2,0,1.1,1.4,42
+1784,10/8/2022,Porto,Primeira Liga,W,2,0,1.1,1.3,57
+1785,10/12/2022,Porto,Champions Lg,W,3,0,1.8,2.2,36
+1786,10/21/2022,Porto,Primeira Liga,L,0,1,0.9,1.9,32
+1787,10/26/2022,Porto,Champions Lg,W,4,0,3.2,1.4,44
+1788,10/29/2022,Porto,Primeira Liga,D,1,1,2,0.4,64
+1789,11/1/2022,Porto,Champions Lg,W,2,1,2.7,0.8,50
+1790,11/5/2022,Porto,Primeira Liga,W,4,0,3,0.2,64
+1791,11/12/2022,Porto,Primeira Liga,W,4,1,2.7,0.3,64
+1792,8/2/2022,Benfica,Champions Lg,W,4,1,NA,NA,74
+1793,8/5/2022,Benfica,Primeira Liga,W,4,0,2.7,0.4,73
+1794,8/9/2022,Benfica,Champions Lg,W,3,1,NA,NA,63
+1795,8/13/2022,Benfica,Primeira Liga,W,1,0,1.6,0.2,64
+1796,8/17/2022,Benfica,Champions Lg,W,2,0,NA,NA,53
+1797,8/23/2022,Benfica,Champions Lg,W,3,0,NA,NA,61
+1798,8/27/2022,Benfica,Primeira Liga,W,3,0,2.9,0.1,59
+1799,8/30/2022,Benfica,Primeira Liga,W,3,2,3.4,0.7,68
+1800,9/2/2022,Benfica,Primeira Liga,W,2,1,2.4,0.6,74
+1801,9/6/2022,Benfica,Champions Lg,W,2,0,1.1,0.2,56
+1802,9/10/2022,Benfica,Primeira Liga,W,1,0,1.4,0.3,69
+1803,9/14/2022,Benfica,Champions Lg,W,2,1,2.2,0.8,55
+1804,9/18/2022,Benfica,Primeira Liga,W,5,0,3.5,0.2,74
+1805,10/1/2022,Benfica,Primeira Liga,D,0,0,0.5,0.3,65
+1806,10/5/2022,Benfica,Champions Lg,D,1,1,1.4,1,36
+1807,10/8/2022,Benfica,Primeira Liga,W,4,2,3.8,0.8,65
+1808,10/11/2022,Benfica,Champions Lg,D,1,1,1.2,1.2,39
+1809,10/21/2022,Benfica,Primeira Liga,W,1,0,1.9,0.9,68
+1810,10/25/2022,Benfica,Champions Lg,W,4,3,3.3,2.4,54
+1811,10/29/2022,Benfica,Primeira Liga,W,5,0,3.7,0.9,65
+1812,11/2/2022,Benfica,Champions Lg,W,6,1,1.5,1.6,57
+1813,11/6/2022,Benfica,Primeira Liga,W,5,1,3.1,0.9,59
+1814,11/13/2022,Benfica,Primeira Liga,W,3,1,2.9,1,54
+1815,8/6/2022,Ajax,Eredivisie,W,3,2,1.9,1,71
+1816,8/14/2022,Ajax,Eredivisie,W,6,1,3.4,0.5,69
+1817,8/21/2022,Ajax,Eredivisie,W,1,0,2.1,0.6,65
+1818,8/28/2022,Ajax,Eredivisie,W,2,0,1.2,0.2,56
+1819,9/3/2022,Ajax,Eredivisie,W,4,0,3.1,0.4,73
+1820,9/7/2022,Ajax,Champions Lg,W,4,0,2.1,0.1,74
+1821,9/10/2022,Ajax,Eredivisie,W,5,0,3.3,0.7,71
+1822,9/13/2022,Ajax,Champions Lg,L,1,2,0.3,2.2,43
+1823,9/18/2022,Ajax,Eredivisie,L,1,2,2.3,1.5,58
+1824,10/1/2022,Ajax,Eredivisie,D,1,1,2.2,0.4,75
+1825,10/4/2022,Ajax,Champions Lg,L,1,6,1.4,3.3,44
+1826,10/8/2022,Ajax,Eredivisie,W,4,2,2.9,1.4,71
+1827,10/12/2022,Ajax,Champions Lg,L,2,4,1.6,3.2,55
+1828,10/16/2022,Ajax,Eredivisie,W,7,1,4.6,0.4,73
+1829,10/22/2022,Ajax,Eredivisie,W,4,1,2,2.1,63
+1830,10/26/2022,Ajax,Champions Lg,L,0,3,1.2,1.6,50
+1831,11/1/2022,Ajax,Champions Lg,W,3,1,1.8,1.8,53
+1832,11/6/2022,Ajax,Eredivisie,L,1,2,0.9,0.7,63
+1833,11/9/2022,Ajax,Eredivisie,D,2,2,4.1,0.7,70
+1834,11/12/2022,Ajax,Eredivisie,D,3,3,1.3,1.7,58
+1835,7/30/2022,Rangers,Premiership,W,2,1,NA,NA,83
+1836,8/2/2022,Rangers,Champions Lg,L,0,2,NA,NA,NA
+1837,8/6/2022,Rangers,Premiership,W,2,0,NA,NA,73
+1838,8/9/2022,Rangers,Champions Lg,W,3,0,NA,NA,NA
+1839,8/13/2022,Rangers,Premiership,W,4,0,NA,NA,71
+1840,8/16/2022,Rangers,Champions Lg,D,2,2,NA,NA,55
+1841,8/20/2022,Rangers,Premiership,D,2,2,NA,NA,55
+1842,8/24/2022,Rangers,Champions Lg,W,1,0,NA,NA,42
+1843,8/27/2022,Rangers,Premiership,W,4,0,NA,NA,73
+1844,9/3/2022,Rangers,Premiership,L,0,4,NA,NA,55
+1845,9/7/2022,Rangers,Champions Lg,L,0,4,0.1,2.1,26
+1846,9/14/2022,Rangers,Champions Lg,L,0,3,1.3,3.5,43
+1847,9/17/2022,Rangers,Premiership,W,2,1,NA,NA,66
+1848,10/1/2022,Rangers,Premiership,W,4,0,NA,NA,66
+1849,10/4/2022,Rangers,Champions Lg,L,0,2,0.4,2.9,36
+1850,10/8/2022,Rangers,Premiership,W,4,0,NA,NA,71
+1851,10/12/2022,Rangers,Champions Lg,L,1,7,0.5,2.2,43
+1852,10/16/2022,Rangers,Premiership,W,2,1,NA,NA,60
+1853,10/22/2022,Rangers,Premiership,D,1,1,NA,NA,80
+1854,10/26/2022,Rangers,Champions Lg,L,0,3,0.7,1.8,36
+1855,10/29/2022,Rangers,Premiership,W,4,1,NA,NA,70
+1856,11/1/2022,Rangers,Champions Lg,L,1,3,1.8,1.8,47
+1857,11/6/2022,Rangers,Premiership,L,1,2,NA,NA,73
+1858,11/9/2022,Rangers,Premiership,W,1,0,NA,NA,54
+1859,11/12/2022,Rangers,Premiership,D,1,1,NA,NA,75
+1860,7/24/2022,Club Brugge,First Division A,W,3,2,NA,NA,53
+1861,7/31/2022,Club Brugge,First Division A,L,1,2,NA,NA,59
+1862,8/5/2022,Club Brugge,First Division A,D,1,1,NA,NA,58
+1863,8/14/2022,Club Brugge,First Division A,W,3,0,NA,NA,53
+1864,8/21/2022,Club Brugge,First Division A,W,2,1,NA,NA,62
+1865,8/26/2022,Club Brugge,First Division A,W,3,1,NA,NA,52
+1866,9/2/2022,Club Brugge,First Division A,W,4,0,NA,NA,63
+1867,9/7/2022,Club Brugge,Champions Lg,W,1,0,0.5,1,48
+1868,9/10/2022,Club Brugge,First Division A,W,2,0,NA,NA,76
+1869,9/13/2022,Club Brugge,Champions Lg,W,4,0,2.7,1,46
+1870,9/18/2022,Club Brugge,First Division A,L,0,3,NA,NA,63
+1871,10/1/2022,Club Brugge,First Division A,W,3,0,NA,NA,56
+1872,10/4/2022,Club Brugge,Champions Lg,W,2,0,1.3,2.1,48
+1873,10/8/2022,Club Brugge,First Division A,L,0,2,NA,NA,64
+1874,10/12/2022,Club Brugge,Champions Lg,D,0,0,0.6,2.3,35
+1875,10/16/2022,Club Brugge,First Division A,W,1,0,NA,NA,56
+1876,10/19/2022,Club Brugge,First Division A,W,3,0,NA,NA,72
+1877,10/22/2022,Club Brugge,First Division A,D,2,2,NA,NA,69
+1878,10/26/2022,Club Brugge,Champions Lg,L,0,4,1.4,3.2,56
+1879,10/29/2022,Club Brugge,First Division A,W,4,2,NA,NA,67
+1880,11/1/2022,Club Brugge,Champions Lg,D,0,0,0.5,1.1,47
+1881,11/6/2022,Club Brugge,First Division A,L,0,2,NA,NA,55
+1882,11/13/2022,Club Brugge,First Division A,D,2,2,NA,NA,48
+1883,7/20/2022,Viktoria Plzen,Champions Lg,W,2,1,NA,NA,50
+1884,7/26/2022,Viktoria Plzen,Champions Lg,W,5,0,NA,NA,NA
+1885,7/30/2022,Viktoria Plzen,First League,D,2,2,NA,NA,NA
+1886,8/2/2022,Viktoria Plzen,Champions Lg,W,2,1,NA,NA,NA
+1887,8/6/2022,Viktoria Plzen,First League,W,2,1,NA,NA,NA
+1888,8/9/2022,Viktoria Plzen,Champions Lg,W,2,1,NA,NA,NA
+1889,8/13/2022,Viktoria Plzen,First League,W,2,1,NA,NA,NA
+1890,8/17/2022,Viktoria Plzen,Champions Lg,D,0,0,NA,NA,34
+1891,8/23/2022,Viktoria Plzen,Champions Lg,W,2,1,NA,NA,41
+1892,8/27/2022,Viktoria Plzen,First League,W,1,0,NA,NA,NA
+1893,8/31/2022,Viktoria Plzen,First League,W,3,0,NA,NA,NA
+1894,9/3/2022,Viktoria Plzen,First League,W,1,0,NA,NA,NA
+1895,9/7/2022,Viktoria Plzen,Champions Lg,L,1,5,0.8,2.3,24
+1896,9/10/2022,Viktoria Plzen,First League,W,3,2,NA,NA,NA
+1897,9/13/2022,Viktoria Plzen,Champions Lg,L,0,2,0.3,1.9,29
+1898,9/18/2022,Viktoria Plzen,First League,W,3,0,NA,NA,NA
+1899,10/1/2022,Viktoria Plzen,First League,D,1,1,NA,NA,NA
+1900,10/4/2022,Viktoria Plzen,Champions Lg,L,0,5,0.5,2.4,30
+1901,10/8/2022,Viktoria Plzen,First League,W,2,0,NA,NA,NA
+1902,10/12/2022,Viktoria Plzen,Champions Lg,L,2,4,1.2,3,33
+1903,10/16/2022,Viktoria Plzen,First League,W,3,0,NA,NA,NA
+1904,10/22/2022,Viktoria Plzen,First League,W,3,1,NA,NA,NA
+1905,10/26/2022,Viktoria Plzen,Champions Lg,L,0,4,0.1,3.2,37
+1906,10/29/2022,Viktoria Plzen,First League,W,3,0,NA,NA,NA
+1907,11/1/2022,Viktoria Plzen,Champions Lg,L,2,4,2.6,2.3,24
+1908,11/5/2022,Viktoria Plzen,First League,L,0,1,NA,NA,NA
+1909,11/9/2022,Viktoria Plzen,First League,W,4,0,NA,NA,NA
+1910,11/13/2022,Viktoria Plzen,First League,D,1,1,NA,NA,NA
+1911,8/7/2022,Sporting CP,Primeira Liga,D,3,3,1.8,1.4,55
+1912,8/13/2022,Sporting CP,Primeira Liga,W,3,0,2.2,0.1,67
+1913,8/20/2022,Sporting CP,Primeira Liga,L,0,3,0.8,3,61
+1914,8/27/2022,Sporting CP,Primeira Liga,L,0,2,1.7,0.6,73
+1915,9/2/2022,Sporting CP,Primeira Liga,W,2,0,1.8,0.8,64
+1916,9/7/2022,Sporting CP,Champions Lg,W,3,0,0.9,0.8,55
+1917,9/10/2022,Sporting CP,Primeira Liga,W,4,0,1.2,0.4,61
+1918,9/13/2022,Sporting CP,Champions Lg,W,2,0,0.9,0.9,54
+1919,9/17/2022,Sporting CP,Primeira Liga,L,1,2,0.9,1.5,74
+1920,9/30/2022,Sporting CP,Primeira Liga,W,3,1,2.6,1.5,63
+1921,10/4/2022,Sporting CP,Champions Lg,L,1,4,0.4,2.5,44
+1922,10/8/2022,Sporting CP,Primeira Liga,W,2,1,1.4,0.8,67
+1923,10/12/2022,Sporting CP,Champions Lg,L,0,2,0.3,2.8,32
+1924,10/22/2022,Sporting CP,Primeira Liga,W,3,1,3.4,0.7,64
+1925,10/26/2022,Sporting CP,Champions Lg,D,1,1,0.8,1.7,41
+1926,10/29/2022,Sporting CP,Primeira Liga,L,0,1,2.1,0.9,64
+1927,11/1/2022,Sporting CP,Champions Lg,L,1,2,0.5,1.2,46
+1928,11/5/2022,Sporting CP,Primeira Liga,W,3,0,2,0.1,62
+1929,11/13/2022,Sporting CP,Primeira Liga,W,2,1,2.8,0.8,59
+1930,7/22/2022,Red Bull Salzburg,Bundesliga,W,3,0,NA,NA,56
+1931,7/30/2022,Red Bull Salzburg,Bundesliga,L,1,2,NA,NA,60
+1932,8/6/2022,Red Bull Salzburg,Bundesliga,W,2,0,NA,NA,65
+1933,8/14/2022,Red Bull Salzburg,Bundesliga,W,2,1,NA,NA,62
+1934,8/20/2022,Red Bull Salzburg,Bundesliga,W,2,0,NA,NA,65
+1935,8/27/2022,Red Bull Salzburg,Bundesliga,W,6,0,NA,NA,54
+1936,9/3/2022,Red Bull Salzburg,Bundesliga,W,2,0,NA,NA,66
+1937,9/6/2022,Red Bull Salzburg,Champions Lg,D,1,1,1.3,0.9,35
+1938,9/10/2022,Red Bull Salzburg,Bundesliga,W,3,0,NA,NA,50
+1939,9/14/2022,Red Bull Salzburg,Champions Lg,D,1,1,0.4,1.2,30
+1940,9/18/2022,Red Bull Salzburg,Bundesliga,D,1,1,NA,NA,61
+1941,10/1/2022,Red Bull Salzburg,Bundesliga,D,1,1,NA,NA,59
+1942,10/5/2022,Red Bull Salzburg,Champions Lg,W,1,0,2.2,0.7,47
+1943,10/8/2022,Red Bull Salzburg,Bundesliga,W,3,2,NA,NA,50
+1944,10/11/2022,Red Bull Salzburg,Champions Lg,D,1,1,1.3,0.9,45
+1945,10/16/2022,Red Bull Salzburg,Bundesliga,W,3,1,NA,NA,62
+1946,10/22/2022,Red Bull Salzburg,Bundesliga,D,0,0,NA,NA,62
+1947,10/25/2022,Red Bull Salzburg,Champions Lg,L,1,2,1.6,1.5,31
+1948,10/29/2022,Red Bull Salzburg,Bundesliga,W,1,0,NA,NA,68
+1949,11/2/2022,Red Bull Salzburg,Champions Lg,L,0,4,1.6,1.8,52
+1950,11/5/2022,Red Bull Salzburg,Bundesliga,W,2,1,NA,NA,52
+1951,11/13/2022,Red Bull Salzburg,Bundesliga,W,1,0,NA,NA,58
+1952,7/15/2022,Dinamo Zagreb,1. HNL,W,3,2,NA,NA,62
+1953,7/19/2022,Dinamo Zagreb,Champions Lg,D,2,2,NA,NA,50
+1954,7/23/2022,Dinamo Zagreb,1. HNL,W,5,1,NA,NA,58
+1955,7/26/2022,Dinamo Zagreb,Champions Lg,W,1,0,NA,NA,NA
+1956,7/29/2022,Dinamo Zagreb,1. HNL,W,4,1,NA,NA,53
+1957,8/2/2022,Dinamo Zagreb,Champions Lg,W,2,1,NA,NA,NA
+1958,8/5/2022,Dinamo Zagreb,1. HNL,D,1,1,NA,NA,54
+1959,8/9/2022,Dinamo Zagreb,Champions Lg,W,4,2,NA,NA,NA
+1960,8/13/2022,Dinamo Zagreb,1. HNL,W,4,1,NA,NA,62
+1961,8/16/2022,Dinamo Zagreb,Champions Lg,L,0,1,NA,NA,44
+1962,8/20/2022,Dinamo Zagreb,1. HNL,W,5,2,NA,NA,52
+1963,8/24/2022,Dinamo Zagreb,Champions Lg,W,4,1,NA,NA,46
+1964,8/28/2022,Dinamo Zagreb,1. HNL,W,2,1,NA,NA,70
+1965,9/2/2022,Dinamo Zagreb,1. HNL,W,3,1,NA,NA,72
+1966,9/6/2022,Dinamo Zagreb,Champions Lg,W,1,0,0.6,0.9,33
+1967,9/10/2022,Dinamo Zagreb,1. HNL,W,1,0,NA,NA,63
+1968,9/14/2022,Dinamo Zagreb,Champions Lg,L,1,3,0.4,2.2,43
+1969,9/18/2022,Dinamo Zagreb,1. HNL,W,2,1,NA,NA,62
+1970,10/1/2022,Dinamo Zagreb,1. HNL,W,4,1,NA,NA,68
+1971,10/5/2022,Dinamo Zagreb,Champions Lg,L,0,1,0.7,2.2,53
+1972,10/11/2022,Dinamo Zagreb,Champions Lg,D,1,1,0.9,1.3,55
+1973,10/16/2022,Dinamo Zagreb,1. HNL,W,3,1,NA,NA,74
+1974,10/21/2022,Dinamo Zagreb,1. HNL,D,1,1,NA,NA,59
+1975,10/25/2022,Dinamo Zagreb,Champions Lg,L,0,4,0.7,3.2,55
+1976,10/29/2022,Dinamo Zagreb,1. HNL,L,0,1,NA,NA,55
+1977,11/2/2022,Dinamo Zagreb,Champions Lg,L,1,2,0.9,2.7,42
+1978,11/6/2022,Dinamo Zagreb,1. HNL,W,3,0,NA,NA,74
+1979,11/13/2022,Dinamo Zagreb,1. HNL,W,7,2,NA,NA,61
+1980,8/23/2022,Shakhtar Donetsk,Premier League,D,0,0,NA,NA,NA
+1981,8/28/2022,Shakhtar Donetsk,Premier League,W,1,0,NA,NA,NA
+1982,9/2/2022,Shakhtar Donetsk,Premier League,W,1,0,NA,NA,NA
+1983,9/6/2022,Shakhtar Donetsk,Champions Lg,W,4,1,0.9,1.4,32
+1984,9/10/2022,Shakhtar Donetsk,Premier League,W,2,1,NA,NA,NA
+1985,9/14/2022,Shakhtar Donetsk,Champions Lg,D,1,1,0.4,1.5,44
+1986,10/1/2022,Shakhtar Donetsk,Premier League,W,6,1,NA,NA,NA
+1987,10/5/2022,Shakhtar Donetsk,Champions Lg,L,1,2,0.8,3.4,41
+1988,10/11/2022,Shakhtar Donetsk,Champions Lg,D,1,1,0.5,1.1,42
+1989,10/16/2022,Shakhtar Donetsk,Premier League,W,3,1,NA,NA,NA
+1990,10/19/2022,Shakhtar Donetsk,Premier League,W,3,0,NA,NA,NA
+1991,10/25/2022,Shakhtar Donetsk,Champions Lg,D,1,1,0.8,1.4,46
+1992,10/29/2022,Shakhtar Donetsk,Premier League,D,2,2,NA,NA,NA
+1993,11/2/2022,Shakhtar Donetsk,Champions Lg,L,0,4,0.2,2.2,49
+1994,11/5/2022,Shakhtar Donetsk,Premier League,W,3,0,NA,NA,NA
+1995,11/9/2022,Shakhtar Donetsk,Premier League,W,2,0,NA,NA,NA
+1996,11/13/2022,Shakhtar Donetsk,Premier League,D,2,2,NA,NA,NA
+1997,11/19/2022,Shakhtar Donetsk,Premier League,L,1,2,NA,NA,NA
+1998,11/23/2022,Shakhtar Donetsk,Premier League,W,3,2,NA,NA,NA
+1999,7/31/2022,Celtic,Premiership,W,2,0,NA,NA,69
+2000,8/6/2022,Celtic,Premiership,W,3,1,NA,NA,78
+2001,8/14/2022,Celtic,Premiership,W,5,0,NA,NA,73
+2002,8/21/2022,Celtic,Premiership,W,2,0,NA,NA,69
+2003,8/28/2022,Celtic,Premiership,W,9,0,NA,NA,76
+2004,9/3/2022,Celtic,Premiership,W,4,0,NA,NA,45
+2005,9/6/2022,Celtic,Champions Lg,L,0,3,1.4,1.9,36
+2006,9/14/2022,Celtic,Champions Lg,D,1,1,1.5,0.4,56
+2007,9/18/2022,Celtic,Premiership,L,0,2,NA,NA,80
+2008,10/1/2022,Celtic,Premiership,W,2,1,NA,NA,70
+2009,10/5/2022,Celtic,Champions Lg,L,1,3,0.9,2.2,41
+2010,10/8/2022,Celtic,Premiership,W,2,1,NA,NA,75
+2011,10/11/2022,Celtic,Champions Lg,L,0,2,2,1.7,42
+2012,10/15/2022,Celtic,Premiership,W,6,1,NA,NA,57
+2013,10/22/2022,Celtic,Premiership,W,4,3,NA,NA,64
+2014,10/25/2022,Celtic,Champions Lg,D,1,1,1.4,0.8,54
+2015,10/30/2022,Celtic,Premiership,W,3,0,NA,NA,75
+2016,11/2/2022,Celtic,Champions Lg,L,1,5,2.1,3.8,36
+2017,11/5/2022,Celtic,Premiership,W,4,2,NA,NA,75
+2018,11/9/2022,Celtic,Premiership,W,2,1,NA,NA,71
+2019,11/12/2022,Celtic,Premiership,W,2,1,NA,NA,75
+2020,7/17/2022,FC Copenhagen,Superliga,L,0,1,NA,NA,76
+2021,7/24/2022,FC Copenhagen,Superliga,W,3,1,NA,NA,56
+2022,7/31/2022,FC Copenhagen,Superliga,L,2,4,NA,NA,62
+2023,8/7/2022,FC Copenhagen,Superliga,W,4,1,NA,NA,49
+2024,8/12/2022,FC Copenhagen,Superliga,L,1,3,NA,NA,66
+2025,8/16/2022,FC Copenhagen,Champions Lg,W,2,1,NA,NA,36
+2026,8/19/2022,FC Copenhagen,Superliga,W,3,0,NA,NA,63
+2027,8/24/2022,FC Copenhagen,Champions Lg,D,0,0,NA,NA,37
+2028,8/28/2022,FC Copenhagen,Superliga,L,1,3,NA,NA,56
+2029,9/2/2022,FC Copenhagen,Superliga,W,1,0,NA,NA,45
+2030,9/6/2022,FC Copenhagen,Champions Lg,L,0,3,0.5,2.3,37
+2031,9/10/2022,FC Copenhagen,Superliga,L,1,2,NA,NA,58
+2032,9/14/2022,FC Copenhagen,Champions Lg,D,0,0,0.7,0.8,37
+2033,9/18/2022,FC Copenhagen,Superliga,L,1,2,NA,NA,57
+2034,10/2/2022,FC Copenhagen,Superliga,W,1,0,NA,NA,58
+2035,10/5/2022,FC Copenhagen,Champions Lg,L,0,5,0.4,4.3,25
+2036,10/8/2022,FC Copenhagen,Superliga,D,1,1,NA,NA,48
+2037,10/11/2022,FC Copenhagen,Champions Lg,D,0,0,0.3,1.6,41
+2038,10/16/2022,FC Copenhagen,Superliga,D,1,1,NA,NA,63
+2039,10/22/2022,FC Copenhagen,Superliga,D,1,1,NA,NA,52
+2040,10/25/2022,FC Copenhagen,Champions Lg,L,0,3,1.1,1,43
+2041,10/29/2022,FC Copenhagen,Superliga,W,2,0,NA,NA,46
+2042,11/2/2022,FC Copenhagen,Champions Lg,D,1,1,1.8,1.2,43
+2043,11/6/2022,FC Copenhagen,Superliga,W,3,0,NA,NA,NA
+2044,11/13/2022,FC Copenhagen,Superliga,W,2,0,NA,NA,48
+2045,7/20/2022,Maccabi Haifa,Champions Lg,D,1,1,NA,NA,NA
+2046,7/27/2022,Maccabi Haifa,Champions Lg,W,4,0,NA,NA,NA
+2047,8/3/2022,Maccabi Haifa,Champions Lg,W,4,0,NA,NA,NA
+2048,8/9/2022,Maccabi Haifa,Champions Lg,L,0,2,NA,NA,NA
+2049,8/17/2022,Maccabi Haifa,Champions Lg,W,3,2,NA,NA,52
+2050,8/23/2022,Maccabi Haifa,Champions Lg,D,2,2,NA,NA,56
+2051,9/6/2022,Maccabi Haifa,Champions Lg,L,0,2,0.2,1.1,44
+2052,9/14/2022,Maccabi Haifa,Champions Lg,L,1,3,1,1.8,44
+2053,10/5/2022,Maccabi Haifa,Champions Lg,L,1,3,2,2.3,49
+2054,10/11/2022,Maccabi Haifa,Champions Lg,W,2,0,0.8,0.5,42
+2055,10/25/2022,Maccabi Haifa,Champions Lg,L,2,7,0.8,2.6,38
+2056,11/2/2022,Maccabi Haifa,Champions Lg,L,1,6,1.6,1.5,43

@@ -1,0 +1,2658 @@
+"","player_name","date_of_birth","place_of_birth","player_valuation","max_player_valuation","max_player_valuation_date"
+"1","Ederson",1993-08-17,"Osasco (SP)",4.5e+07,7e+07,2019-06-13
+"2","Stefan Ortega",1992-11-06,"Hofgeismar",6e+06,6e+06,2021-06-09
+"3","Scott Carson",1985-09-03,"Whitehaven",NA,6e+06,2008-07-04
+"4","Rúben Dias",1997-05-14,"Amadora",7.5e+07,7.5e+07,2021-06-01
+"5","Aymeric Laporte",1994-05-27,"Agen",3.8e+07,7.5e+07,2019-06-13
+"6","John Stones",1994-05-28,"Barnsley",3e+07,6e+07,2018-12-19
+"7","Nathan Aké",1995-02-18,"Den Haag",3e+07,4e+07,2020-10-13
+"8","Manuel Akanji",1995-07-19,"Wiesendangen",3e+07,4e+07,2018-12-18
+"9","Sergio Gómez",2000-09-04,"Badalona",1.5e+07,1.5e+07,2022-11-03
+"10","Benjamin Mendy",1994-07-17,"Longjumeau",NA,4.5e+07,2018-10-17
+"11","João Cancelo",1994-05-27,"Barreiro",7e+07,7e+07,2022-11-03
+"12","Kyle Walker",1990-05-28,"Sheffield",1.5e+07,5e+07,2018-03-23
+"13","Rodri",1996-06-22,"Madrid",8e+07,8e+07,2019-06-11
+"14","Kalvin Phillips",1995-12-02,"Leeds",4.5e+07,5e+07,2022-03-29
+"15","Phil Foden",2000-05-28,"Stockport",1.1e+08,1.1e+08,2022-11-03
+"16","Ilkay Gündogan",1990-10-24,"Gelsenkirchen",2.5e+07,5e+07,2019-06-13
+"17","Kevin De Bruyne",1991-06-28,"Drongen",8e+07,1.5e+08,2018-05-28
+"18","Bernardo Silva",1994-08-10,"Lisboa",8e+07,1e+08,2019-06-13
+"19","Cole Palmer",2002-05-06,"Manchester",1.5e+07,1.5e+07,2022-11-03
+"20","Jack Grealish",1995-09-10,"Birmingham",7e+07,1e+08,2021-10-05
+"21","Riyad Mahrez",1991-02-21,"Sarcelles",3e+07,6e+07,2018-08-13
+"22","Erling Haaland",2000-07-21,"Leeds",1.7e+08,1.7e+08,2022-11-03
+"23","Julián Álvarez",2000-01-31,"Calchín",3.2e+07,3.2e+07,2022-11-03
+"24","Alisson",1992-10-02,"Novo Hamburgo",5e+07,9e+07,2019-12-10
+"25","Caoimhín Kelleher",1998-11-23,"Cork",8e+06,8e+06,2022-06-15
+"26","Adrián",1987-01-03,"Sevilla",1e+06,9e+06,2016-08-01
+"27","Virgil van Dijk",1991-07-08,"Breda",5e+07,1e+08,2019-09-12
+"28","Ibrahima Konaté",1999-05-25,"Paris",3.5e+07,4.5e+07,2019-06-05
+"29","Joe Gomez",1997-05-23,"London",3e+07,4.2e+07,2020-03-09
+"30","Joel Matip",1991-08-08,"Bochum",1.6e+07,4e+07,2019-12-10
+"31","Nathaniel Phillips",1997-03-21,"Bolton",6e+06,8e+06,2021-06-08
+"32","Andrew Robertson",1994-03-11,"Glasgow",5.5e+07,8e+07,2019-12-10
+"33","Konstantinos Tsimikas",1996-05-12,"Thessaloniki",1.8e+07,1.8e+07,2022-11-03
+"34","Trent Alexander-Arnold",1998-10-07,"Liverpool",7e+07,1.1e+08,2019-12-10
+"35","Calvin Ramsay",2003-07-31,"Aberdeen",5e+06,5e+06,2022-06-27
+"36","Fabinho",1993-10-23,"Campinas",5.5e+07,7e+07,2019-12-10
+"37","Curtis Jones",2001-01-30,"Liverpool",2.2e+07,3e+07,2021-03-18
+"38","Naby Keïta",1995-02-10,"Conakry",2e+07,6.5e+07,2018-04-04
+"39","Thiago",1991-04-11,"San Pietro Vernotico",1.8e+07,7e+07,2019-03-06
+"40","Arthur Melo",1996-08-12,"Goiânia",1.8e+07,7e+07,2019-06-11
+"41","Jordan Henderson",1990-06-17,"Sunderland",1.5e+07,3.5e+07,2019-06-13
+"42","Alex Oxlade-Chamberlain",1993-08-15,"Portsmouth",1e+07,4e+07,2018-05-28
+"43","James Milner",1986-01-04,"Leeds",2e+06,2.1e+07,2012-06-24
+"44","Harvey Elliott",2003-04-04,"London",3.5e+07,3.5e+07,2022-09-15
+"45","Fábio Carvalho",2002-08-30,"Torres Vedras",2e+07,2e+07,2022-11-03
+"46","Luis Díaz",1997-01-13,"Barrancas",7.5e+07,7.5e+07,2022-09-15
+"47","Diogo Jota",1996-12-04,"Porto",5.5e+07,6e+07,2021-12-23
+"48","Mohamed Salah",1992-06-15,"Nagrig, Basyoun",8e+07,1.5e+08,2018-05-28
+"49","Darwin Núñez",1999-06-24,"Artigas",7e+07,7e+07,2022-09-15
+"50","Roberto Firmino",1991-10-02,"Maceió",2.8e+07,9e+07,2019-12-10
+"51","Edouard Mendy",1992-03-01,"Montivilliers",2.5e+07,3.2e+07,2021-12-23
+"52","Kepa Arrizabalaga",1994-10-03,"Ondarroa",1.5e+07,6e+07,2019-06-13
+"53","Marcus Bettinelli",1992-05-24,"London",2e+06,4e+06,2018-10-17
+"54","Wesley Fofana",2000-12-17,"Marseille",6.5e+07,6.5e+07,2022-09-15
+"55","Kalidou Koulibaly",1991-06-20,"Saint-Dié-des-Vosges",3.5e+07,7.5e+07,2019-06-06
+"56","Trevoh Chalobah",1999-07-05,"Freetown",2.2e+07,2.2e+07,2022-11-03
+"57","Thiago Silva",1984-09-22,"Rio de Janeiro",2500000,4e+07,2013-01-07
+"58","Marc Cucurella",1998-07-22,"Alella",5.5e+07,5.5e+07,2022-09-15
+"59","Ben Chilwell",1996-12-21,"Milton Keynes",3.8e+07,5e+07,2019-12-10
+"60","Reece James",1999-12-08,"London",7e+07,7e+07,2022-11-03
+"61","César Azpilicueta",1989-08-28,"Pamplona",8e+06,4e+07,2018-03-23
+"62","Jorginho",1991-12-20,"Imbituba",3.5e+07,6.5e+07,2018-12-19
+"63","N'Golo Kanté",1991-03-29,"Paris",3e+07,1e+08,2018-12-19
+"64","Denis Zakaria",1996-11-20,"Genf",2e+07,4.5e+07,2019-12-17
+"65","Mateo Kovacic",1994-05-06,"Linz",4e+07,4.5e+07,2019-12-10
+"66","Conor Gallagher",2000-02-06,"Epsom",3.2e+07,3.2e+07,2022-11-03
+"67","Ruben Loftus-Cheek",1996-01-23,"London",2.5e+07,3e+07,2019-06-13
+"68","Carney Chukwuemeka",2003-10-20,"Eisenstadt",1.5e+07,1.5e+07,2022-09-15
+"69","Mason Mount",1999-01-10,"Portsmouth",7.5e+07,7.5e+07,2021-05-28
+"70","Kai Havertz",1999-06-11,"Aachen",7e+07,9e+07,2019-06-05
+"71","Hakim Ziyech",1993-03-19,"Dronten",1.7e+07,5e+07,2019-12-18
+"72","Raheem Sterling",1994-12-08,"Kingston",7e+07,1.6e+08,2019-12-10
+"73","Christian Pulisic",1998-09-18,"Hershey, Pennsylvania",3.8e+07,6e+07,2019-03-06
+"74","Armando Broja",2001-09-10,"Slough",3e+07,3e+07,2022-11-03
+"75","Pierre-Emerick Aubameyang",1989-06-18,"Laval",1.2e+07,7.5e+07,2018-05-28
+"76","Aaron Ramsdale",1998-05-14,"Chesterton",3e+07,3e+07,2022-11-03
+"77","Matt Turner",1994-06-24,"Park Ridge, New Jersey",5e+06,5e+06,2022-04-01
+"78","William Saliba",2001-03-24,"Bondy",5e+07,5e+07,2022-11-03
+"79","Ben White",1997-10-08,"Poole",4.5e+07,4.5e+07,2022-11-03
+"80","Gabriel Magalhães",1997-12-19,"São Paulo",4e+07,4e+07,2022-11-03
+"81","Rob Holding",1995-09-20,"Stalybridge",1e+07,1.8e+07,2021-06-08
+"82","Oleksandr Zinchenko",1996-12-15,"Radomyshl, Zhytomyr Oblast",3.2e+07,3.2e+07,2022-09-15
+"83","Kieran Tierney",1997-06-05,"Douglas",3e+07,3.2e+07,2020-10-13
+"84","Takehiro Tomiyasu",1998-11-05,"Fukuoka, Fukuoka",2.5e+07,2.5e+07,2021-12-23
+"85","Cédric Soares",1991-08-31,"Singen",4e+06,1.5e+07,2017-06-28
+"86","Thomas Partey",1993-06-13,"Odumase Krobo",3.8e+07,5e+07,2019-02-28
+"87","Mohamed Elneny",1992-07-11,"Mahalla",9e+06,1.1e+07,2022-06-15
+"88","Granit Xhaka",1992-09-27,"Basel",2.8e+07,5e+07,2018-12-19
+"89","Albert Sambi Lokonga",1999-10-22,"Verviers",1.5e+07,1.6e+07,2021-10-05
+"90","Bukayo Saka",2001-09-05,"London",9e+07,9e+07,2022-11-03
+"91","Martin Ødegaard",1998-12-17,"Drammen",6e+07,6e+07,2022-11-03
+"92","Emile Smith Rowe",2000-07-28,"London",3.8e+07,4e+07,2022-03-29
+"93","Fábio Vieira",2000-05-30,"Santa Maria da Feira",3e+07,3e+07,2022-09-15
+"94","Gabriel Martinelli",2001-06-18,"Guarulhos",6e+07,6e+07,2022-11-03
+"95","Marquinhos",2003-04-07,"São Paulo",1e+07,1e+07,2022-11-03
+"96","Reiss Nelson",1999-12-10,"London",7e+06,1.7e+07,2018-12-18
+"97","Gabriel Jesus",1997-04-03,"São Paulo",7.5e+07,8e+07,2018-05-28
+"98","Eddie Nketiah",1999-05-30,"London",1.8e+07,2e+07,2020-10-13
+"99","David de Gea",1990-11-07,"Madrid",1.5e+07,7e+07,2018-05-28
+"100","Martin Dúbravka",1989-01-15,"Žilina",4e+06,7500000,2020-07-30
+"101","Tom Heaton",1986-04-15,"Chester",NA,6e+06,2019-09-12
+"102","Lisandro Martínez",1998-01-18,"Gualeguay",5e+07,5e+07,2022-09-15
+"103","Raphaël Varane",1993-04-25,"Lille",4e+07,8e+07,2018-07-15
+"104","Harry Maguire",1993-03-05,"Sheffield",3e+07,7e+07,2019-09-12
+"105","Victor Lindelöf",1994-07-17,"Västerås",1.5e+07,3.5e+07,2019-03-05
+"106","Axel Tuanzebe",1997-11-14,"Bunia",6e+06,1e+07,2019-12-10
+"107","Phil Jones",1992-02-21,"Preston",2e+06,2e+07,2018-05-28
+"108","Teden Mengi",2002-04-30,"Manchester",2e+06,2e+06,2021-12-23
+"109","Luke Shaw",1995-07-12,"Kingston upon Thames",2.8e+07,4.2e+07,2021-07-15
+"110","Tyrell Malacia",1999-08-17,"Rotterdam",2.2e+07,2.2e+07,2022-09-15
+"111","Brandon Williams",2000-09-03,"Crumpsall",1e+07,1.2e+07,2020-03-09
+"112","Diogo Dalot",1999-03-18,"Braga",3.2e+07,3.2e+07,2022-11-03
+"113","Aaron Wan-Bissaka",1997-11-26,"London",1.8e+07,4e+07,2019-09-12
+"114","Casemiro",1992-02-23,"São José dos Campos",5e+07,8e+07,2020-03-05
+"115","Scott McTominay",1996-12-08,"Lancaster",3e+07,3.5e+07,2021-05-28
+"116","Fred",1993-03-05,"Belo Horizonte",2e+07,5e+07,2018-08-13
+"117","Donny van de Beek",1997-04-18,"Nijkerkerveen",2e+07,5.5e+07,2019-12-18
+"118","Bruno Fernandes",1994-09-08,"Maia",7.5e+07,9e+07,2020-12-17
+"119","Christian Eriksen",1992-02-14,"Middelfart",2.5e+07,1e+08,2019-06-13
+"120","Jadon Sancho",2000-03-25,"London",6e+07,1.3e+08,2020-03-11
+"121","Marcus Rashford",1997-10-31,"Manchester",5.5e+07,8.5e+07,2021-03-18
+"122","Anthony Elanga",2002-04-27,"Hyllie",2.5e+07,2.5e+07,2022-09-15
+"123","Alejandro Garnacho",2004-07-01,"Madrid",5e+06,5e+06,2022-11-03
+"124","Antony",2000-02-24,"São Paulo",7.5e+07,7.5e+07,2022-09-15
+"125","Facundo Pellistri",2001-12-20,"Montevideo",3e+06,7e+06,2020-10-13
+"126","Mason Greenwood",2001-10-01,"Bradford",NA,5e+07,2020-10-13
+"127","Anthony Martial",1995-12-05,"Massy",1.5e+07,6.5e+07,2018-01-02
+"128","Hugo Lloris",1986-12-26,"Nizza",7e+06,3e+07,2018-07-16
+"129","Fraser Forster",1988-03-17,"Hexham",1500000,1.5e+07,2016-06-01
+"130","Alfie Whiteman",1998-10-02,"London",NA,1e+06,2021-06-08
+"131","Brandon Austin",1999-01-08,"Hemel Hempstead",NA,NA,2022-06-15
+"132","Cristian Romero",1998-04-27,"Córdoba",5.5e+07,5.5e+07,2022-09-15
+"133","Eric Dier",1994-01-15,"Cheltenham",3e+07,4e+07,2018-01-02
+"134","Davinson Sánchez",1996-06-12,"Caloto",2.5e+07,6e+07,2019-12-10
+"135","Clément Lenglet",1995-06-17,"Beauvais",1.2e+07,6e+07,2019-06-11
+"136","Japhet Tanganga",1999-03-31,"London",9e+06,1.5e+07,2021-10-05
+"137","Ben Davies",1993-04-24,"Neath",2e+07,2.5e+07,2018-05-28
+"138","Emerson Royal",1999-01-14,"São Paulo",3e+07,3e+07,2022-09-15
+"139","Djed Spence",2000-08-09,"London",1.3e+07,1.3e+07,2022-09-15
+"140","Matt Doherty",1992-01-16,"Dublin",1.2e+07,2e+07,2019-12-10
+"141","Oliver Skipp",2000-09-16,"Welwyn Garden City",1.5e+07,2e+07,2021-12-23
+"142","Pierre-Emile Höjbjerg",1995-08-05,"København",4.5e+07,4.5e+07,2022-11-03
+"143","Rodrigo Bentancur",1997-06-25,"Nueva Helvecia",4e+07,5e+07,2020-03-03
+"144","Yves Bissouma",1996-08-30,"Issia",3.2e+07,3.5e+07,2022-03-29
+"145","Pape Matar Sarr",2002-09-14,"Thiaroye",1.5e+07,2e+07,2021-10-08
+"146","Ryan Sessegnon",2000-05-18,"London",2.2e+07,3.5e+07,2018-08-13
+"147","Ivan Perisic",1989-02-02,"Split",1e+07,4.5e+07,2017-12-29
+"148","Heung-min Son",1992-07-08,"Chuncheon, Gangwon",7e+07,9e+07,2020-12-17
+"149","Bryan Gil",2001-02-11,"Barbate (Cádiz)",1.2e+07,3e+07,2021-06-10
+"150","Dejan Kulusevski",2000-04-25,"Stockholm",5e+07,5e+07,2022-09-15
+"151","Lucas Moura",1992-08-13,"São Paulo",1.2e+07,4e+07,2019-06-13
+"152","Harry Kane",1993-07-28,"London",9e+07,1.5e+08,2018-05-28
+"153","Richarlison",1997-05-10,"Nova Venécia",5e+07,6.5e+07,2020-03-06
+"154","Emiliano Martínez",1992-09-02,"Mar del Plata",2.5e+07,3.5e+07,2021-07-16
+"155","Robin Olsen",1990-01-08,"Malmö",2e+06,1e+07,2018-12-20
+"156","Jed Steer",1992-09-23,"Norwich",NA,2e+06,2019-06-28
+"157","Diego Carlos",1993-03-15,"Barra Bonita (SP)",3e+07,5e+07,2020-07-23
+"158","Tyrone Mings",1993-03-13,"Bath",2.5e+07,3.2e+07,2021-12-23
+"159","Ezri Konsa",1997-10-23,"London",2.2e+07,2.5e+07,2021-06-08
+"160","Jan Bednarek",1996-04-12,"Słupca",1.8e+07,2.5e+07,2021-03-18
+"161","Calum Chambers",1995-01-20,"Petersfield",1e+07,1.8e+07,2019-12-10
+"162","Lucas Digne",1993-07-20,"Meaux",2.2e+07,3.5e+07,2019-12-10
+"163","Ludwig Augustinsson",1994-04-21,"Stockholm",4e+06,1.2e+07,2018-07-16
+"164","Ashley Young",1985-07-09,"Stevenage",1e+06,2.7e+07,2012-06-24
+"165","Matty Cash",1997-08-07,"Slough",2.2e+07,2.5e+07,2022-06-15
+"166","Frédéric Guilbert",1994-12-24,"Valognes",5e+06,9e+06,2019-12-10
+"167","Douglas Luiz",1998-05-09,"Rio de Janeiro",3.5e+07,3.8e+07,2022-06-15
+"168","Boubacar Kamara",1999-11-23,"Marseille",2.5e+07,3.7e+07,2021-04-09
+"169","Leander Dendoncker",1995-04-15,"Passendale",2.2e+07,3.2e+07,2020-12-17
+"170","Marvelous Nakamba",1994-01-19,"Hwange",5e+06,1e+07,2019-12-10
+"171","John McGinn",1994-10-18,"Glasgow",3e+07,3.2e+07,2022-06-15
+"172","Jacob Ramsey",2001-05-28,"Birmingham",2.8e+07,2.8e+07,2022-11-03
+"173","Morgan Sanson",1994-08-18,"Saint-Doulchard",6e+06,2.8e+07,2019-06-03
+"174","Leon Bailey",1997-08-09,"Kingston",2.5e+07,4.5e+07,2018-04-04
+"175","Philippe Coutinho",1992-06-12,"Rio de Janeiro",1.8e+07,1.5e+08,2018-10-31
+"176","Emiliano Buendía",1996-12-25,"Mar del Plata",2.8e+07,3.5e+07,2021-06-30
+"177","Ollie Watkins",1995-12-30,"Torquay",3.2e+07,3.5e+07,2021-12-23
+"178","Danny Ings",1992-07-23,"Winchester",1.6e+07,2.2e+07,2020-03-09
+"179","Cameron Archer",2001-12-09,"Walsall",8e+06,8e+06,2022-11-03
+"180","Alphonse Areola",1993-02-27,"Paris",8e+06,17500000,2019-03-07
+"181","Lukasz Fabianski",1985-04-18,"Kostrzyn nad Odrą",1e+06,9e+06,2016-08-01
+"182","Darren Randolph",1987-05-12,"Bray",NA,4500000,2018-02-27
+"183","Kurt Zouma",1994-10-27,"Lyon",3.2e+07,3.5e+07,2019-12-10
+"184","Nayef Aguerd",1996-03-30,"Kénitra",2.5e+07,2.5e+07,2022-09-15
+"185","Thilo Kehrer",1996-09-21,"Tübingen",2.2e+07,3.5e+07,2018-12-17
+"186","Craig Dawson",1990-05-06,"Rochdale",2500000,8e+06,2018-05-28
+"187","Angelo Ogbonna",1988-05-23,"Cassino",1e+06,1.3e+07,2013-07-25
+"188","Emerson",1994-08-03,"Santos",1.2e+07,3e+07,2019-12-10
+"189","Aaron Cresswell",1989-12-15,"Liverpool",2500000,1.2e+07,2016-08-01
+"190","Ben Johnson",2000-01-24,"London",1.2e+07,1.2e+07,2022-11-03
+"191","Vladimir Coufal",1992-08-22,"Ostrava",9e+06,1.2e+07,2021-05-28
+"192","Declan Rice",1999-01-14,"London",8e+07,8e+07,2022-06-15
+"193","Tomas Soucek",1995-02-27,"Havlíčkův Brod",4.5e+07,4.5e+07,2021-12-23
+"194","Conor Coventry",2000-03-25,"London",1e+06,1e+06,2022-11-03
+"195","Flynn Downes",1999-01-20,"Brentwood",8e+06,8e+06,2022-09-15
+"196","Lucas Paquetá",1997-08-27,"Rio de Janeiro",4.5e+07,4.5e+07,2022-09-15
+"197","Pablo Fornals",1996-02-22,"Castelló de la Plana",2.5e+07,3e+07,2018-12-21
+"198","Manuel Lanzini",1993-02-15,"Ituzaingó",1e+07,2e+07,2018-05-28
+"199","Saïd Benrahma",1995-08-10,"Aïn Témouchent",2.2e+07,2.5e+07,2021-10-05
+"200","Maxwel Cornet",1996-09-27,"Bregbo",1.5e+07,1.8e+07,2018-01-24
+"201","Jarrod Bowen",1996-12-20,"Leominster",4.2e+07,4.2e+07,2022-06-15
+"202","Gianluca Scamacca",1999-01-01,"Roma",3e+07,3e+07,2022-03-15
+"203","Michail Antonio",1990-03-28,"London",9e+06,1.8e+07,2017-02-20
+"204","Nick Pope",1992-04-19,"Soham",1.8e+07,1.8e+07,2022-09-15
+"205","Karl Darlow",1990-10-08,"Northampton",1800000,4500000,2017-06-28
+"206","Loris Karius",1993-06-22,"Biberach an der Riß",1500000,1.2e+07,2018-05-28
+"207","Mark Gillespie",1992-03-27,"Newcastle upon Tyne",NA,NA,2020-02-05
+"208","Sven Botman",2000-01-12,"Badhoevedorp",3.8e+07,3.8e+07,2022-11-03
+"209","Dan Burn",1992-05-09,"Blyth",1.2e+07,1.2e+07,2022-06-15
+"210","Fabian Schär",1991-12-20,"Wil",1e+07,1.6e+07,2019-12-10
+"211","Jamaal Lascelles",1993-11-11,"Derby",7e+06,1.8e+07,2019-09-12
+"212","Matt Targett",1995-09-18,"Eastleigh",1.5e+07,1.7e+07,2021-03-18
+"213","Jamal Lewis",1998-01-25,"Luton",8e+06,1.7e+07,2021-03-18
+"214","Paul Dummett",1991-09-26,"Newcastle upon Tyne",1200000,7e+06,2019-09-12
+"215","Kieran Trippier",1990-09-19,"Bury",1.3e+07,3.5e+07,2018-10-17
+"216","Emil Krafth",1994-08-02,"Ljungby",4e+06,5e+06,2019-09-12
+"217","Javier Manquillo",1994-05-05,"Madrid",3e+06,6e+06,2013-07-25
+"218","Bruno Guimarães",1997-11-16,"Rio de Janeiro",6e+07,6e+07,2022-11-03
+"219","Joe Willock",1999-08-20,"London",3e+07,3e+07,2022-11-03
+"220","Sean Longstaff",1997-10-30,"Newcastle upon Tyne",2.2e+07,2.2e+07,2019-12-10
+"221","Jonjo Shelvey",1992-02-27,"Romford",7e+06,1.8e+07,2019-12-10
+"222","Matt Ritchie",1989-09-10,"Gosport",1800000,1.2e+07,2018-05-28
+"223","Joelinton",1996-08-14,"Aliança",3.2e+07,3.5e+07,2019-03-06
+"224","Miguel Almirón",1994-02-10,"Asunción",2e+07,2e+07,2019-03-05
+"225","Elliot Anderson",2002-11-06,"Whitley Bay",3500000,3500000,2022-11-03
+"226","Allan Saint-Maximin",1997-03-12,"Châtenay-Malabry",4e+07,4e+07,2022-09-15
+"227","Ryan Fraser",1994-02-24,"Aberdeen",1e+07,3e+07,2019-06-13
+"228","Jacob Murphy",1995-02-24,"London",1e+07,1e+07,2022-11-03
+"229","Alexander Isak",1999-09-21,"Solna",5e+07,5e+07,2022-09-15
+"230","Callum Wilson",1992-02-27,"Coventry",1.8e+07,3e+07,2019-06-13
+"231","Chris Wood",1991-12-07,"Auckland",1e+07,1.8e+07,2018-05-28
+"232","Danny Ward",1993-06-22,"Wrexham",8e+06,1e+07,2018-08-13
+"233","Daniel Iversen",1997-07-19,"Gørding",2e+06,2e+06,2022-05-13
+"234","Alex Smithies",1990-03-05,"Huddersfield",NA,3500000,2018-08-13
+"235","Caglar Söyüncü",1996-05-23,"Izmir",2.2e+07,4.5e+07,2021-05-25
+"236","Wout Faes",1998-04-03,"Mol",2e+07,2e+07,2022-11-03
+"237","Daniel Amartey",1994-12-21,"Accra",1.5e+07,1.5e+07,2022-09-15
+"238","Jannik Vestergaard",1992-08-03,"Hvidovre",7e+06,2e+07,2018-08-13
+"239","Jonny Evans",1988-01-03,"Belfast",3e+06,1.5e+07,2017-10-23
+"240","Luke Thomas",2001-06-10,"Syston",1e+07,1.2e+07,2022-06-15
+"241","Ryan Bertrand",1989-08-05,"London",1e+06,2e+07,2017-06-28
+"242","Timothy Castagne",1995-12-05,"Arlon",2.8e+07,2.8e+07,2021-05-26
+"243","James Justin",1998-02-23,"Luton",2.5e+07,2.5e+07,2022-06-15
+"244","Ricardo Pereira",1993-10-06,"Lisboa",1.2e+07,4e+07,2019-12-10
+"245","Wilfred Ndidi",1996-12-16,"Lagos",4e+07,6e+07,2021-06-08
+"246","Boubakary Soumaré",1999-02-27,"Noisy-le-Sec",2.5e+07,2.8e+07,2021-06-04
+"247","Nampalys Mendy",1992-06-23,"La Seyne-sur-Mer",3500000,1.2e+07,2016-08-01
+"248","Youri Tielemans",1997-05-07,"Sint-Pieters-Leeuw",4e+07,5.5e+07,2019-12-10
+"249","Kiernan Dewsbury-Hall",1998-09-06,"Shepshed",2e+07,2e+07,2022-11-03
+"250","Dennis Praet",1994-05-14,"Leuven",1e+07,2.5e+07,2018-06-07
+"251","Marc Albrighton",1989-11-18,"Tamworth",2e+06,1e+07,2018-05-28
+"252","Harvey Barnes",1997-12-09,"Burnley",3.2e+07,3.5e+07,2021-03-18
+"253","James Maddison",1996-11-23,"Coventry",5.5e+07,6e+07,2019-12-10
+"254","Ayoze Pérez",1993-07-29,"Santa Cruz de Tenerife",6e+06,3e+07,2019-12-10
+"255","Patson Daka",1998-10-09,"Chingola",2e+07,2.2e+07,2021-06-02
+"256","Kelechi Iheanacho",1996-10-03,"Imo",1.7e+07,2e+07,2021-06-08
+"257","Jamie Vardy",1987-01-11,"Sheffield",4e+06,2e+07,2016-08-01
+"258","Jordan Pickford",1994-03-07,"Washington",2.8e+07,4e+07,2018-12-19
+"259","Asmir Begovic",1987-06-20,"Trebinje",1e+06,1.3e+07,2015-02-12
+"260","Andy Lonergan",1983-10-19,"Preston",NA,NA,2008-12-30
+"261","Eldin Jakupovic",1984-10-02,"Kozarac",NA,1500000,2008-08-25
+"262","James Tarkowski",1992-11-19,"Manchester",2.2e+07,2.8e+07,2020-10-13
+"263","Yerry Mina",1994-09-23,"Guachené",1.8e+07,3e+07,2018-08-13
+"264","Ben Godfrey",1998-01-15,"York",1.8e+07,2.5e+07,2020-10-13
+"265","Conor Coady",1993-02-25,"Liverpool",1.8e+07,2.5e+07,2020-10-13
+"266","Mason Holgate",1996-10-22,"Doncaster",1.6e+07,2e+07,2021-06-08
+"267","Michael Keane",1993-01-11,"Manchester",1.4e+07,3e+07,2019-06-13
+"268","Vitaliy Mykolenko",1999-05-29,"Cherkasy",2.2e+07,2.2e+07,2022-11-03
+"269","Rúben Vinagre",1999-04-09,"Charneca da Caparica",5e+06,1e+07,2019-09-12
+"270","Nathan Patterson",2001-10-16,"Glasgow",1.4e+07,1.4e+07,2022-09-15
+"271","Seamus Coleman",1988-10-11,"Donegal",1200000,1.9e+07,2015-07-01
+"272","Amadou Onana",2001-08-16,"Dakar",3.5e+07,3.5e+07,2022-11-03
+"273","James Garner",2001-03-13,"Birkenhead",1.4e+07,1.4e+07,2022-11-03
+"274","Abdoulaye Doucouré",1993-01-01,"Meulan-en-Yvelines",1.2e+07,2.5e+07,2018-12-19
+"275","Tom Davies",1998-06-30,"Liverpool",1.2e+07,1.8e+07,2019-12-10
+"276","Idrissa Gueye",1989-09-26,"Dakar",8e+06,3e+07,2019-09-27
+"277","Alex Iwobi",1996-05-03,"Lagos",2.5e+07,3.2e+07,2019-09-12
+"278","Anthony Gordon",2001-02-24,"Liverpool",4e+07,4e+07,2022-09-15
+"279","Demarai Gray",1996-06-28,"Birmingham",2e+07,2.2e+07,2021-12-23
+"280","Dwight McNeil",1999-11-22,"Rochdale",1.8e+07,2.5e+07,2020-07-30
+"281","Andros Townsend",1991-07-16,"Walthamstow",2500000,1.5e+07,2018-05-28
+"282","Dominic Calvert-Lewin",1997-03-16,"Sheffield",3e+07,4.5e+07,2020-12-17
+"283","Neal Maupay",1996-08-14,"Versailles",1.3e+07,2.2e+07,2019-12-10
+"284","Salomón Rondón",1989-09-16,"Caracas",2e+06,1.7e+07,2016-08-01
+"285","José Sá",1993-01-17,"Braga",1.8e+07,1.8e+07,2022-06-15
+"286","Matija Sarkic",1997-07-23,"Grimsby",2e+06,2e+06,2022-09-15
+"287","Nathan Collins",2001-04-30,"Leixlip",2.2e+07,2.2e+07,2022-09-15
+"288","Max Kilman",1997-05-23,"London",2e+07,2e+07,2022-09-15
+"289","Yerson Mosquera",2001-05-02,"Apartadó",3e+06,3e+06,2021-12-23
+"290","Toti",1999-01-16,"Bissau",2500000,2500000,2022-11-03
+"291","Rayan Aït-Nouri",2001-06-06,"Montreuil",2.2e+07,2.2e+07,2022-09-15
+"292","Jonny Otto",1994-03-03,"Vigo",1.7e+07,2e+07,2019-06-13
+"293","Nélson Semedo",1993-11-16,"Lisboa",1.8e+07,4e+07,2019-02-28
+"294","Rúben Neves",1997-03-13,"Santa Maria da Feira",4e+07,5e+07,2019-09-12
+"295","Matheus Nunes",1998-08-27,"Rio de Janeiro",4.5e+07,4.5e+07,2022-09-15
+"296","Boubacar Traoré",2001-08-20,"Bamako",5e+06,5e+06,2022-11-03
+"297","João Moutinho",1986-09-08,"Portimão",2e+06,3e+07,2013-03-27
+"298","Connor Ronan",1998-03-06,"Rochdale",NA,NA,2022-11-03
+"299","Pedro Neto",2000-03-09,"Viana do Castelo",3.2e+07,3.8e+07,2022-09-15
+"300","Gonçalo Guedes",1996-11-29,"Benavente",3.2e+07,4e+07,2018-01-01
+"301","Chiquinho",2000-02-05,"Cascais",2500000,3e+06,2022-06-15
+"302","Daniel Podence",1995-10-21,"Oeiras",2e+07,2.5e+07,2020-12-17
+"303","Adama Traoré",1996-01-25,"L'Hospitalet de Llobregat",1.5e+07,4e+07,2020-10-13
+"304","Sasa Kalajdzic",1997-07-07,"Wien",1.8e+07,2.5e+07,2022-06-09
+"305","Raúl Jiménez",1991-05-05,"Tepeji del Río de Ocampo",1.2e+07,5e+07,2020-03-09
+"306","Hee-chan Hwang",1996-01-26,"Chuncheon, Gangwon",1.2e+07,1.6e+07,2022-03-29
+"307","Diego Costa",1988-10-07,"Lagarto",3500000,6e+07,2018-03-22
+"308","Léo Bonatini",1994-03-28,"Belo Horizonte",NA,5e+06,2018-02-27
+"309","Gavin Bazunu",2002-02-20,"Dublin",1.5e+07,1.5e+07,2022-09-15
+"310","Alex McCarthy",1989-12-03,"Guildford",2e+06,6500000,2020-07-30
+"311","Willy Caballero",1981-09-28,"Villa Constitución",NA,5e+06,2013-06-12
+"312","Mohammed Salisu",1999-04-17,"Accra",1.8e+07,1.8e+07,2022-06-15
+"313","Armel Bella-Kotchap",2001-12-11,"Paris",1.8e+07,1.8e+07,2022-11-03
+"314","Duje Caleta-Car",1996-09-17,"Šibenik",1.4e+07,2.5e+07,2020-03-13
+"315","Lyanco",1997-02-01,"Vitória",4e+06,8e+06,2019-06-06
+"316","Romain Perraud",1997-09-22,"Toulouse",1e+07,1e+07,2021-10-05
+"317","Juan Larios",2004-01-12,"Tomares",7e+06,7e+06,2022-11-03
+"318","Kyle Walker-Peters",1997-04-13,"London",2.5e+07,2.5e+07,2022-09-15
+"319","Tino Livramento",2002-11-12,"London",2.5e+07,2.5e+07,2022-03-29
+"320","Roméo Lavia",2004-01-06,"Brussels",2.5e+07,2.5e+07,2022-09-15
+"321","Ibrahima Diallo",1999-03-08,"Tours",8e+06,1.5e+07,2020-08-03
+"322","James Ward-Prowse",1994-11-01,"Portsmouth",3.5e+07,3.5e+07,2022-11-03
+"323","Stuart Armstrong",1992-03-30,"Inverness",6e+06,8e+06,2018-12-19
+"324","Ainsley Maitland-Niles",1997-08-29,"London",8e+06,1.8e+07,2019-09-12
+"325","Joe Aribo",1996-07-21,"London",1.5e+07,1.5e+07,2022-09-15
+"326","Mohamed Elyounoussi",1994-08-04,"Al-Hoceima",1.2e+07,1.5e+07,2018-08-13
+"327","Moussa Djenepo",1998-06-15,"Bamako",1e+07,1.3e+07,2020-10-13
+"328","Samuel Edozie",2003-01-28,"London",7e+06,7e+06,2022-09-15
+"329","Theo Walcott",1989-03-16,"London",1800000,2.8e+07,2014-01-15
+"330","Ché Adams",1996-07-13,"Leicester",2.2e+07,2.2e+07,2022-09-15
+"331","Adam Armstrong",1997-02-10,"West Denton",1.5e+07,1.8e+07,2021-06-30
+"332","Sékou Mara",2002-07-30,"Paris",1.2e+07,1.2e+07,2022-09-15
+"333","Robert Sánchez",1997-11-18,"Cartagena",3.2e+07,3.2e+07,2022-11-03
+"334","Jason Steele",1990-08-18,"Newton Aycliffe",NA,1500000,2013-07-12
+"335","Adam Webster",1995-01-04,"West Wittering",2.2e+07,2.2e+07,2022-11-03
+"336","Lewis Dunk",1991-11-21,"Brighton",1.8e+07,2.7e+07,2020-10-13
+"337","Levi Colwill",2003-02-26,"Southampton",1e+07,1e+07,2022-09-15
+"338","Jan Paul van Hecke",2000-06-08,"Arnemuiden",5e+06,5e+06,2022-05-13
+"339","Pervis Estupiñán",1998-01-21,"Esmeraldas",2e+07,2e+07,2022-06-03
+"340","Tariq Lamptey",2000-09-30,"London",1.5e+07,1.8e+07,2020-10-13
+"341","Joël Veltman",1992-01-15,"Velsen",1e+07,1e+07,2019-12-18
+"342","Moisés Caicedo",2001-11-02,"Santo Domingo",3.8e+07,3.8e+07,2022-11-03
+"343","Alexis Mac Allister",1998-12-24,"Santa Rosa",3.2e+07,3.2e+07,2022-11-03
+"344","Jakub Moder",1999-04-07,"Szczecinek",1.2e+07,1.2e+07,2022-03-29
+"345","Billy Gilmour",2001-06-11,"Irvine",1.2e+07,1.5e+07,2021-10-05
+"346","Pascal Groß",1991-06-15,"Mannheim",8e+06,1.2e+07,2019-12-10
+"347","Solly March",1994-07-20,"Eastbourne",1.2e+07,1.2e+07,2022-09-15
+"348","Jeremy Sarmiento",2002-06-16,"Madrid",3e+06,3e+06,2022-06-15
+"349","Adam Lallana",1988-05-10,"St Albans",1500000,2.5e+07,2017-06-28
+"350","Leandro Trossard",1994-12-04,"Waterschei",3e+07,3e+07,2022-11-03
+"351","Kaoru Mitoma",1997-05-20,"Kawasaki, Kanagawa",6e+06,6e+06,2022-11-03
+"352","Julio Enciso",2004-01-23,"Caaguazú",1.1e+07,1.1e+07,2022-06-15
+"353","Danny Welbeck",1990-11-26,"Manchester",8e+06,1.8e+07,2014-10-05
+"354","Deniz Undav",1996-07-19,"Achim",6e+06,8e+06,2022-04-12
+"355","Evan Ferguson",2004-10-19,"Bettystown",1e+06,1e+06,2022-09-15
+"356","David Raya",1995-09-15,"Barcelona",2.2e+07,2.2e+07,2022-06-15
+"357","Thomas Strakosha",1995-03-19,"Athens",5e+06,2.5e+07,2019-12-12
+"358","Kristoffer Ajer",1998-04-17,"Rælingen",1.6e+07,1.8e+07,2022-06-15
+"359","Ethan Pinnock",1993-05-29,"London",1.2e+07,1.2e+07,2022-06-15
+"360","Pontus Jansson",1991-02-13,"Arlöv",5e+06,7e+06,2022-06-15
+"361","Ben Mee",1989-09-21,"Sale",1800000,1e+07,2018-05-28
+"362","Zanka",1990-04-23,"Kopenhagen",1500000,5e+06,2018-05-28
+"363","Charlie Goode",1995-08-03,"Watford",NA,1e+06,2021-12-23
+"364","Rico Henry",1997-07-08,"Birmingham",2.2e+07,2.2e+07,2022-11-03
+"365","Aaron Hickey",2002-06-10,"Glasgow",1.8e+07,1.8e+07,2022-06-07
+"366","Mads Roerslev Rasmussen",1999-06-24,"Copenhagen",2200000,2500000,2022-06-15
+"367","Vitaly Janelt",1998-05-10,"Hamburg",1.6e+07,1.6e+07,2022-11-03
+"368","Christian Nörgaard",1994-03-10,"København",1.4e+07,1.4e+07,2022-06-15
+"369","Mathias Jensen",1996-01-01,"Jerslev, West Zealand",1.4e+07,1.4e+07,2022-11-03
+"370","Josh Dasilva",1998-10-23,"London",9e+06,1e+07,2021-03-10
+"371","Frank Onyeka",1998-01-01,"Abuya",9e+06,1e+07,2021-12-23
+"372","Shandon Baptiste",1998-04-08,NA,3e+06,3e+06,2022-03-29
+"373","Saman Ghoddos",1993-09-06,"Malmö",2200000,5e+06,2018-10-24
+"374","Keane Lewis-Potter",2001-02-22,"Hull",1.7e+07,1.7e+07,2022-09-15
+"375","Yoane Wissa",1996-09-03,"Epinay-sur-Seine",1.5e+07,1.5e+07,2022-09-15
+"376","Mikkel Damsgaard",2000-07-03,"Jyllinge",1.5e+07,2e+07,2021-07-15
+"377","Bryan Mbeumo",1999-08-07,"Avallon",2.8e+07,2.8e+07,2022-11-03
+"378","Sergi Canós",1997-02-02,"Nules",1.2e+07,1.4e+07,2021-10-05
+"379","Ivan Toney",1996-03-16,"Northampton",4.5e+07,4.5e+07,2022-11-03
+"380","Sam Johnstone",1993-03-25,"Preston",6e+06,1.2e+07,2022-05-13
+"381","Jack Butland",1993-03-10,"Bristol",1500000,2.2e+07,2018-05-28
+"382","Vicente Guaita",1987-01-10,"Torrente",1500000,1e+07,2012-08-07
+"383","Marc Guéhi",2000-07-13,"Abidjan",3.5e+07,3.5e+07,2022-11-03
+"384","Joachim Andersen",1996-05-31,"Frederiksberg",3.2e+07,3.2e+07,2022-11-03
+"385","Chris Richards",2000-03-28,"Birmingham, Alabama",1.2e+07,1.2e+07,2022-09-15
+"386","Nathan Ferguson",2000-10-06,"Birmingham",2e+06,4500000,2020-02-27
+"387","James Tomkins",1989-03-29,"Basildon",1e+06,8e+06,2018-05-28
+"388","Tyrick Mitchell",1999-09-01,"London",2.8e+07,2.8e+07,2022-11-03
+"389","Nathaniel Clyne",1991-04-05,"London",3e+06,2.1e+07,2016-06-01
+"390","Joel Ward",1989-10-29,"Emsworth",2e+06,5e+06,2016-02-09
+"391","Cheick Doucouré",2000-01-08,"Bamako",3e+07,3e+07,2022-11-03
+"392","Jairo Riedewald",1996-09-09,"Haarlem",4e+06,8e+06,2021-06-08
+"393","Luka Milivojevic",1991-04-07,"Kragujevac",2500000,2.5e+07,2019-12-10
+"394","Will Hughes",1995-04-17,"Weybridge",5e+06,1.8e+07,2019-06-13
+"395","James McArthur",1987-10-07,"Glasgow",NA,7e+06,2014-10-05
+"396","Michael Olise",2001-12-12,"London",2.2e+07,2.2e+07,2022-03-29
+"397","Jeffrey Schlupp",1992-12-23,"Hamburg",8e+06,1.2e+07,2019-12-10
+"398","Eberechi Eze",1998-06-29,"London",3e+07,3e+07,2022-11-03
+"399","Wilfried Zaha",1992-11-10,"Abidjan",3.2e+07,5.5e+07,2019-09-12
+"400","Malcolm Ebiowei",2003-09-04,NA,3e+06,3e+06,2022-11-03
+"401","Odsonne Edouard",1998-01-16,"Kourou",1.7e+07,1.7e+07,2021-06-28
+"402","Jean-Philippe Mateta",1997-06-28,"Sevran",9e+06,2.2e+07,2019-06-05
+"403","Jordan Ayew",1991-09-11,"Marseille",6e+06,1e+07,2020-07-30
+"404","Dean Henderson",1997-03-12,"Whitehaven",2.2e+07,2.2e+07,2021-05-28
+"405","Wayne Hennessey",1987-01-24,"Beaumaris",NA,5500000,2012-06-24
+"406","Jordan Smith",1994-12-08,"Nottingham",NA,NA,2021-06-30
+"407","Adnan Kanuric",2000-08-08,"Linz",NA,NA,2020-07-10
+"408","Moussa Niakhaté",1996-03-08,"Roubaix",1.8e+07,1.8e+07,2021-12-22
+"409","Scott McKenna",1996-11-12,"Kirriemuir",1e+07,1e+07,2022-11-03
+"410","Loïc Badé",2000-04-11,"Sèvres",1e+07,1.7e+07,2021-10-08
+"411","Joe Worrall",1997-01-10,"Nottingham",8e+06,1e+07,2022-09-15
+"412","Willy Boly",1991-02-03,"Melun",4e+06,1.8e+07,2020-03-09
+"413","Steve Cook",1991-04-19,"Hastings",3e+06,1.2e+07,2019-12-10
+"414","Loïc Mbe Soh",2001-06-13,"Souza Gare",2500000,5e+06,2019-12-19
+"415","Renan Lodi",1998-04-08,"Serrana",2e+07,5e+07,2020-07-23
+"416","Omar Richards",1998-02-15,"London",7e+06,7e+06,2021-06-30
+"417","Harry Toffolo",1995-08-19,"Welwyn Garden City",3500000,3500000,2022-09-15
+"418","Neco Williams",2001-04-13,"Wrexham",1.8e+07,1.8e+07,2022-11-03
+"419","Giulian Biancone",2000-03-31,"Fréjus",7e+06,8e+06,2022-09-15
+"420","Serge Aurier",1992-12-24,"Ouragahio",6e+06,2e+07,2018-01-02
+"421","Cheikhou Kouyaté",1989-12-21,"Dakar",3e+06,1.2e+07,2016-08-01
+"422","Jack Colback",1989-10-24,"Killingworth",NA,7500000,2015-07-01
+"423","Remo Freuler",1992-04-15,"Ennenda",1.3e+07,2.5e+07,2020-03-03
+"424","Orel Mangala",1998-03-18,"Brüssel",1.2e+07,2.2e+07,2021-02-10
+"425","Lewis O'Brien",1998-10-14,"Colchester",8e+06,8e+06,2022-09-15
+"426","Ryan Yates",1997-11-21,"Nottingham",8e+06,8e+06,2022-09-15
+"427","Cafú",1993-02-26,"Guimarães",NA,2500000,2017-01-16
+"428","Harry Arter",1989-12-28,"London",NA,7e+06,2018-01-02
+"429","Morgan Gibbs-White",2000-01-27,"Stafford",2.5e+07,2.5e+07,2022-09-15
+"430","Jesse Lingard",1992-12-15,"Warrington",1.4e+07,4e+07,2018-07-16
+"431","Brennan Johnson",2001-05-23,"Nottingham",2e+07,2e+07,2022-09-15
+"432","Taiwo Awoniyi",1997-08-12,"Ilorin",2e+07,2e+07,2022-06-09
+"433","Emmanuel Dennis",1997-11-15,"Abuja",1.2e+07,1.7e+07,2020-03-30
+"434","Sam Surridge",1998-07-28,"Slough",3500000,3500000,2022-11-03
+"435","Lyle Taylor",1990-03-29,"London",NA,1800000,2020-02-27
+"436","Illan Meslier",2000-03-02,"Lorient",2.2e+07,2.2e+07,2022-11-03
+"437","Kristoffer Klaesson",2000-11-27,"Oslo",2e+06,2e+06,2021-07-26
+"438","Joel Robles",1990-06-17,"Getafe",1200000,7500000,2019-12-20
+"439","Pascal Struijk",1999-08-11,"Deurne",2e+07,2e+07,2022-11-03
+"440","Robin Koch",1996-07-17,"Kaiserslautern",1.8e+07,1.8e+07,2019-12-17
+"441","Diego Llorente",1993-08-16,"Madrid",1.2e+07,2.5e+07,2019-06-11
+"442","Liam Cooper",1991-08-30,"Kingston upon Hull",5e+06,7e+06,2020-02-27
+"443","Junior Firpo",1996-08-22,"Santo Domingo de Guzmán",1.2e+07,2.5e+07,2018-12-21
+"444","Leo Fuhr Hjelde",2003-08-26,"Nottingham",NA,NA,2022-06-15
+"445","Rasmus Kristensen",1997-07-11,"Brande",1.5e+07,1.5e+07,2022-03-11
+"446","Cody Drameh",2001-12-08,"London",3e+06,3e+06,2022-05-13
+"447","Luke Ayling",1991-08-25,"London",2e+06,5e+06,2021-03-18
+"448","Stuart Dallas",1991-04-19,"Cookstown",2e+06,4e+06,2021-06-08
+"449","Tyler Adams",1999-02-14,"Wappingers Falls, New York",1.7e+07,2e+07,2021-02-10
+"450","Marc Roca",1996-11-26,"Vilafranca del Penedès",1.2e+07,3e+07,2019-06-11
+"451","Mateusz Klich",1990-06-13,"Tarnów",2e+06,4e+06,2021-05-31
+"452","Adam Forshaw",1991-10-08,"Liverpool",1800000,5e+06,2018-02-27
+"453","Brenden Aaronson",2000-10-22,"Medford, New Jersey",3e+07,3e+07,2022-09-15
+"454","Sam Greenwood",2002-01-26,"Sunderland",4e+06,4e+06,2022-11-03
+"455","Jack Harrison",1996-11-20,"Stoke-on-Trent",2.5e+07,2.8e+07,2022-09-15
+"456","Luis Sinisterra",1999-06-17,"Santander de Quilichao",2.2e+07,2.5e+07,2022-06-08
+"457","Crysencio Summerville",2001-10-30,"Rotterdam",4e+06,4e+06,2022-11-03
+"458","Wilfried Gnonto",2003-11-05,"Verbania",1e+07,1e+07,2022-06-08
+"459","Rodrigo",1991-03-06,"Rio de Janeiro",9e+06,5e+07,2018-07-15
+"460","Patrick Bamford",1993-09-05,"Grantham",1.2e+07,2.2e+07,2021-06-08
+"461","Joe Gelhardt",2002-05-04,"Liverpool",8e+06,8e+06,2022-09-15
+"462","Bernd Leno",1992-03-04,"Bietigheim-Bissingen",1e+07,3.5e+07,2019-12-10
+"463","Marek Rodak",1996-12-13,"Košice",3500000,6e+06,2020-10-13
+"464","Tosin Adarabioyo",1997-09-24,"Manchester",1.8e+07,1.8e+07,2022-09-15
+"465","Issa Diop",1997-01-09,"Toulouse",1.5e+07,3.5e+07,2019-06-13
+"466","Shane Duffy",1992-01-01,"Derry",2500000,1.2e+07,2018-05-28
+"467","Tim Ream",1987-10-05,"St. Louis, Missouri",1e+06,4e+06,2019-06-13
+"468","Antonee Robinson",1997-08-08,"Milton Keynes",1e+07,1e+07,2022-11-03
+"469","Layvin Kurzawa",1992-09-04,"Fréjus",5e+06,2.3e+07,2016-11-01
+"470","Kenny Tete",1995-10-09,"Amsterdam",7e+06,1e+07,2018-01-24
+"471","Kevin Mbabu",1995-04-19,"Chêne-Bougeries",7e+06,1.4e+07,2021-10-07
+"472","João Palhinha",1995-07-09,"Lisboa",2.8e+07,2.8e+07,2022-11-03
+"473","Nathaniel Chalobah",1994-12-12,"Freetown",2500000,7e+06,2018-12-19
+"474","Harrison Reed",1995-01-27,"Worthing",1.5e+07,1.5e+07,2022-11-03
+"475","Josh Onomah",1997-04-27,"London",2500000,6e+06,2020-10-13
+"476","Tom Cairney",1991-01-20,"Nottingham",2e+06,1.8e+07,2018-08-13
+"477","Andreas Pereira",1996-01-01,"Duffel",1.3e+07,2e+07,2019-12-10
+"478","Bobby Reid",1993-02-02,"Bristol",7e+06,1e+07,2018-08-13
+"479","Manor Solomon",1999-07-24,"Kfar Saba",1.8e+07,2e+07,2021-06-07
+"480","Neeskens Kebano",1992-03-10,"Montereau",4e+06,5e+06,2015-10-22
+"481","Harry Wilson",1997-03-22,"Wrexham",1.7e+07,2.5e+07,2019-12-10
+"482","Daniel James",1997-11-10,"Beverley",1.6e+07,2.8e+07,2019-12-10
+"483","Willian",1988-08-09,"Ribeirão Pires",3e+06,5e+07,2018-08-13
+"484","Aleksandar Mitrović",1994-09-16,"Smederevo",2.8e+07,2.8e+07,2022-11-03
+"485","Carlos Vinícius",1995-03-25,"Rio de Janeiro",5e+06,2e+07,2019-12-30
+"486","Neto",1989-07-19,"Araxá",2500000,1.8e+07,2018-12-21
+"487","Mark Travers",1999-05-18,"Maynooth",2e+06,2500000,2022-05-13
+"488","Will Dennis",2000-07-10,NA,NA,NA,2022-11-03
+"489","Marcos Senesi",1997-05-10,"Concordia",1.7e+07,2e+07,2021-03-09
+"490","Lloyd Kelly",1998-10-06,"Bristol",1.5e+07,1.5e+07,2022-09-15
+"491","Chris Mepham",1997-11-05,"London",6e+06,1.3e+07,2019-06-13
+"492","Jack Stephens",1994-01-27,"Torpoint",5e+06,8e+06,2018-03-23
+"493","James Hill",2002-01-10,"Bristol",1e+06,1e+06,2022-05-13
+"494","Jordan Zemura",1999-11-14,"London",4e+06,4e+06,2022-11-03
+"495","Jack Stacey",1996-04-06,"Ascot",3e+06,4e+06,2019-08-07
+"496","Ryan Fredericks",1992-10-10,"Potters Bar",2e+06,7e+06,2019-09-12
+"497","Adam Smith",1991-04-29,"London",1500000,9e+06,2019-12-10
+"498","Jefferson Lerma",1994-10-25,"Cerrito",1.5e+07,2.5e+07,2018-08-13
+"499","Philip Billing",1996-06-11,"Copenhagen",1.8e+07,1.8e+07,2019-12-10
+"500","Lewis Cook",1997-02-03,"York",1e+07,2e+07,2018-05-28
+"501","Joe Rothwell",1995-01-11,"Manchester",3500000,3500000,2022-05-13
+"502","Ben Pearson",1995-01-04,"Oldham",2500000,3e+06,2021-06-30
+"503","Marcus Tavernier",1999-03-22,"Leeds",1.5e+07,1.5e+07,2022-11-03
+"504","Ryan Christie",1995-02-22,"Inverness",9e+06,9e+06,2021-01-18
+"505","Emiliano Marcondes",1995-03-09,"Hvidovre",1800000,2800000,2020-10-15
+"506","Jaidon Anthony",NA,"London",5e+06,6e+06,2022-05-13
+"507","Siriki Dembélé",1996-09-07,"Ouragahio",2500000,2800000,2022-05-13
+"508","Junior Stanislas",1989-11-26,"London",NA,4500000,2017-06-28
+"509","David Brooks",1997-07-08,"Warrington",1.4e+07,3e+07,2019-06-13
+"510","Jamal Lowe",1994-07-21,"London",1500000,2e+06,2021-06-30
+"511","Dominic Solanke",1997-09-14,"Basingstoke",1.8e+07,1.8e+07,2019-03-05
+"512","Kieffer Moore",1992-08-08,"Torquay",4e+06,5e+06,2021-05-25
+"513","Thibaut Courtois",1992-05-11,"Bree",6e+07,7.5e+07,2020-10-08
+"514","Andriy Lunin",1999-02-11,"Krasnograd, Kharkiv Oblast",4e+06,8500000,2018-07-12
+"515","Éder Militão",1998-01-18,"Sertãozinho",6e+07,6e+07,2021-12-30
+"516","David Alaba",1992-06-24,"Wien",5.5e+07,6.5e+07,2019-12-17
+"517","Antonio Rüdiger",1993-03-03,"Berlin",4e+07,5e+07,2019-06-13
+"518","Nacho Fernández",1990-01-18,"Madrid",5e+06,3.5e+07,2018-07-15
+"519","Jesús Vallejo",1997-01-05,"Zaragoza",2500000,1.5e+07,2017-08-17
+"520","Ferland Mendy",1995-06-08,"Meulan-en-Yvelines",4e+07,5e+07,2021-03-19
+"521","Daniel Carvajal",1992-01-11,"Leganés",1.8e+07,6e+07,2018-03-22
+"522","Álvaro Odriozola",1995-12-14,"San Sebastián",6e+06,3e+07,2018-07-15
+"523","Aurélien Tchouameni",2000-01-27,"Rouen",8e+07,8e+07,2022-09-23
+"524","Federico Valverde",1998-07-22,"Montevideo",1e+08,1e+08,2022-11-07
+"525","Eduardo Camavinga",2002-11-10,"Cabinda",5e+07,6e+07,2021-01-07
+"526","Toni Kroos",1990-01-04,"Greifswald",2e+07,8e+07,2018-01-01
+"527","Luka Modric",1985-09-09,"Zadar",1e+07,5.5e+07,2014-07-20
+"528","Dani Ceballos",1996-08-07,"Utrera",9e+06,4.5e+07,2019-09-12
+"529","Vinicius Junior",2000-07-12,"São Gonçalo",1.2e+08,1.2e+08,2022-09-23
+"530","Eden Hazard",1991-01-07,"La Louvière",7500000,1.5e+08,2018-10-17
+"531","Rodrygo",2001-01-09,"Osasco",8e+07,8e+07,2022-11-07
+"532","Marco Asensio",1996-01-21,"Palma de Mallorca",2.5e+07,9e+07,2018-10-31
+"533","Lucas Vázquez",1991-07-01,"A Coruña",9e+06,2.5e+07,2018-03-22
+"534","Karim Benzema",1987-12-19,"Lyon",3.5e+07,6e+07,2016-02-22
+"535","Mariano Díaz",1993-08-01,"Premià de Mar",3e+06,2.2e+07,2018-01-24
+"536","Marc-André ter Stegen",1992-04-30,"Mönchengladbach",3e+07,9e+07,2019-06-11
+"537","Iñaki Peña",1999-03-02,"Alicante",4e+06,4200000,2022-03-31
+"538","Arnau Tenas",2001-05-30,"Vic",1500000,1500000,2021-01-08
+"539","Ronald Araújo",1999-03-07,"Rivera",6e+07,6e+07,2022-09-23
+"540","Jules Koundé",1998-11-12,"Paris",6e+07,6e+07,2021-03-19
+"541","Andreas Christensen",1996-04-10,"Lillerød",3e+07,4e+07,2018-03-23
+"542","Eric García",2001-01-09,"Barcelona",1.8e+07,2e+07,2020-10-13
+"543","Gerard Piqué",1987-02-02,"Barcelona",3e+06,5e+07,2018-03-22
+"544","Alejandro Balde",2003-10-18,"Barcelona",1.5e+07,1.5e+07,2022-11-07
+"545","Marcos Alonso",1990-12-28,"Madrid",9e+06,4.5e+07,2018-10-17
+"546","Jordi Alba",1989-03-21,"L'Hospitalet de Llobregat",5e+06,7e+07,2018-10-31
+"547","Héctor Bellerín",1995-03-19,"Badalona",1.5e+07,4e+07,2018-03-23
+"548","Sergi Roberto",1992-02-07,"Reus",6e+06,6e+07,2018-03-22
+"549","Sergio Busquets",1988-07-16,"Badia del Vallès",5e+06,8e+07,2018-01-01
+"550","Pedri",2002-11-25,"Tegueste",1e+08,1e+08,2022-11-07
+"551","Gavi",2004-08-05,"Los Palacios y Villafranca",9e+07,9e+07,2022-11-07
+"552","Frenkie de Jong",1997-05-12,"Arkel",5e+07,9e+07,2019-12-20
+"553","Franck Kessié",1996-12-19,"Ouragahio",3.5e+07,5.5e+07,2021-06-03
+"554","Pablo Torre",2003-04-03,"Soto de la Marina",3e+06,3e+06,2022-03-21
+"555","Ansu Fati",2002-10-31,"Bissau",5e+07,8e+07,2020-10-08
+"556","Ferran Torres",2000-02-29,"Foios",3.5e+07,5e+07,2020-03-05
+"557","Ousmane Dembélé",1997-05-15,"Vernon",6e+07,1.2e+08,2019-02-28
+"558","Raphinha",1996-12-14,"Porto Alegre",5e+07,5e+07,2022-09-23
+"559","Robert Lewandowski",1988-08-21,"Warszawa",4.5e+07,9e+07,2018-04-04
+"560","Memphis Depay",1994-02-13,"Moordrecht",2e+07,5.5e+07,2019-12-19
+"561","Jan Oblak",1993-01-07,"Škofja Loka",4e+07,1e+08,2019-06-11
+"562","Ivo Grbic",1996-01-18,"Split",3500000,7e+06,2020-10-08
+"563","José María Giménez",1995-01-20,"Toledo",4e+07,7e+07,2019-02-28
+"564","Mario Hermoso",1995-06-18,"Madrid",1.4e+07,3.5e+07,2021-03-19
+"565","Stefan Savic",1991-01-08,"Mojkovac",9e+06,4e+07,2018-05-30
+"566","Felipe",1989-05-16,"Mogi das Cruzes",3e+06,3.2e+07,2020-03-05
+"567","Reinildo Mandava",1994-01-21,"Beira",2.5e+07,2.5e+07,2022-09-23
+"568","Sergio Reguilón",1996-12-16,"Madrid",2e+07,2.8e+07,2020-10-13
+"569","Nahuel Molina",1998-04-06,"Embalse",1.8e+07,2e+07,2022-06-07
+"570","Geoffrey Kondogbia",1993-02-15,"Nemours",2e+07,3e+07,2018-05-30
+"571","Axel Witsel",1989-01-12,"Liège",5e+06,4e+07,2018-12-18
+"572","Rodrigo de Paul",1994-05-24,"Sarandí",3.5e+07,4e+07,2021-07-16
+"573","Marcos Llorente",1995-01-30,"Madrid",3.5e+07,8e+07,2021-05-31
+"574","Koke",1992-01-08,"Madrid",1.8e+07,7e+07,2018-01-01
+"575","Saúl Ñíguez",1994-11-21,"Elche",1.5e+07,9e+07,2018-10-31
+"576","Thomas Lemar",1995-11-12,"Baie-Mahault",3e+07,7e+07,2018-07-16
+"577","Yannick Carrasco",1993-09-04,"Ixelles",3e+07,4e+07,2017-01-24
+"578","Ángel Correa",1995-03-09,"Rosario",4e+07,4.5e+07,2022-03-21
+"579","João Félix",1999-11-10,"Viseu",5e+07,1e+08,2019-09-10
+"580","Antoine Griezmann",1991-03-21,"Mâcon",2.5e+07,1.5e+08,2018-10-31
+"581","Álvaro Morata",1992-10-23,"Madrid",2.5e+07,6.5e+07,2018-01-02
+"582","Matheus Cunha",1999-05-27,"João Pessoa",2e+07,3.2e+07,2020-11-26
+"583","Álex Remiro",1995-03-24,"Cascante",2.5e+07,2.5e+07,2022-11-07
+"584","Andoni Zubiaurre",1996-12-04,"Ordizia",NA,NA,2018-05-30
+"585","Robin Le Normand",1996-11-11,"Pabu",3.5e+07,3.5e+07,2022-09-23
+"586","Igor Zubeldia",1997-03-30,"Azkoitia",1.5e+07,3e+07,2019-06-11
+"587","Aritz Elustondo",1994-03-28,"Beasain",1.4e+07,2e+07,2021-12-30
+"588","Jon Pacheco",2001-01-08,"Elizondo",6e+06,6e+06,2022-11-07
+"589","Aihen Muñoz",1997-08-16,"Etxauri",6e+06,7500000,2019-06-11
+"590","Diego Rico",1993-02-23,"Burgos",3e+06,1e+07,2018-08-13
+"591","Andoni Gorosabel",1996-08-04,"Arrasate",1e+07,1e+07,2021-01-05
+"592","Álex Sola",1999-06-09,"Donostia-San Sebastián",3e+06,3e+06,2022-11-07
+"593","Martín Zubimendi",1999-02-02,"Donostia-San Sebastián",4e+07,4e+07,2022-11-07
+"594","Asier Illarramendi",1990-03-08,"Mutriku",2e+06,2.5e+07,2018-10-31
+"595","Mikel Merino",1996-06-22,"Pamplona",5e+07,5e+07,2021-12-30
+"596","Brais Méndez",1997-01-07,"Mos",3e+07,3e+07,2022-11-07
+"597","Ander Guevara",1997-07-07,"Vitoria-Gasteiz",5e+06,7500000,2019-12-20
+"598","Beñat Turrientes",2002-01-31,"Beasain",2e+06,3e+06,2021-10-13
+"599","Robert Navarro",2002-04-12,"Barcelona",4e+06,4e+06,2022-11-07
+"600","David Silva",1986-01-08,"Arguineguín",4e+06,5e+07,2012-06-24
+"601","Mikel Oyarzabal",1997-04-21,"Eibar",6e+07,7e+07,2021-01-05
+"602","Ander Barrenetxea",2001-12-27,"Donostia-San Sebastián",6e+06,1.5e+07,2021-01-05
+"603","Martín Merquelanz",1995-06-12,"Irún",1200000,2e+06,2020-07-23
+"604","Takefusa Kubo",2001-06-04,"Kawasaki, Kanagawa",1.2e+07,3e+07,2020-07-23
+"605","Umar Sadiq",1997-02-02,"Kaduna",1.8e+07,1.8e+07,2021-10-13
+"606","Momo Cho",2004-01-19,"Stains",1.5e+07,1.5e+07,2022-03-23
+"607","Alexander Sörloth",1995-12-05,"Trondheim",1e+07,2e+07,2020-08-04
+"608","Jon Karrikaburu",2002-09-19,"Elizondo",5e+06,5e+06,2022-03-21
+"609","Carlos Fernández",1996-05-22,"Castilleja de Guzmán",4e+06,1e+07,2020-07-23
+"610","Gerónimo Rulli",1992-05-20,"La Plata",1e+07,1.4e+07,2017-06-05
+"611","Filip Jörgensen",2002-04-16,"Lomma",1500000,1500000,2022-11-07
+"612","Pepe Reina",1982-08-31,"Madrid",NA,2.2e+07,2010-08-13
+"613","Pau Torres",1997-01-16,"Villarreal",5e+07,5e+07,2021-01-05
+"614","Jorge Cuenca",1999-11-17,"Madrid",6e+06,8e+06,2022-03-21
+"615","Aïssa Mandi",1991-10-22,"Châlons-en-Champagne",4e+06,2e+07,2019-12-20
+"616","Raúl Albiol",1985-09-04,"Vilamarxant",3e+06,1.8e+07,2010-04-12
+"617","Alfonso Pedraza",1996-04-09,"San Sebastián de los Ballesteros",1.8e+07,2.2e+07,2019-06-11
+"618","Johan Mojica",1992-08-21,"Santiago de Cali",5e+06,5e+06,2018-07-16
+"619","Alberto Moreno",1992-07-05,"Sevilla",4e+06,1.5e+07,2014-07-20
+"620","Juan Foyth",1998-01-12,"La Plata",2.5e+07,2.5e+07,2022-06-03
+"621","Kiko Femenía",1991-02-02,"Sanet y Negrals",2500000,6e+06,2019-09-12
+"622","Francis Coquelin",1991-05-13,"Laval",5e+06,2.4e+07,2019-12-20
+"623","Étienne Capoue",1988-07-11,"Niort",3e+06,1.3e+07,2013-05-30
+"624","Giovani Lo Celso",1996-04-09,"Rosario",2.2e+07,5e+07,2019-06-11
+"625","Dani Parejo",1989-04-16,"Coslada",7e+06,3.5e+07,2019-12-20
+"626","Manu Trigueros",1991-10-17,"Talavera de la Reina",6e+06,2e+07,2018-03-22
+"627","Manu Morlanes",1999-01-12,"Zaragoza",4e+06,5e+06,2021-06-24
+"628","Álex Baena",2001-07-20,"Roquetas de Mar",1.5e+07,1.5e+07,2022-11-07
+"629","Yéremy Pino",2002-10-20,"Las Palmas",3.8e+07,4e+07,2022-03-21
+"630","Samuel Chukwueze",1999-05-22,"Umahaia",2e+07,3e+07,2019-06-11
+"631","Nicolas Jackson",2001-06-20,"Banjul",1.5e+07,1.5e+07,2022-11-07
+"632","Gerard Moreno",1992-04-07,"Santa Perpètua de Mogoda",3.5e+07,4e+07,2021-05-31
+"633","Arnaut Danjuma",1997-01-31,"Lagos",3.5e+07,5e+07,2022-03-21
+"634","José Luis Morales",1987-07-23,"Madrid",4e+06,1e+07,2018-10-31
+"635","Rui Silva",1994-02-07,"Maia",1.5e+07,1.5e+07,2022-06-03
+"636","Dani Martín",1998-07-08,"Gijón",1500000,5e+06,2019-09-10
+"637","Claudio Bravo",1983-04-13,"Viluco",1e+06,1.5e+07,2015-07-01
+"638","Luiz Felipe",1997-03-22,"Colina",1.5e+07,2.2e+07,2020-08-25
+"639","Edgar González",1997-04-01,"Sant Joan Despí",1e+07,1e+07,2022-11-07
+"640","Germán Pezzella",1991-06-27,"Bahia Blanca",5e+06,2e+07,2018-12-20
+"641","Víctor Ruiz",1989-01-25,"Esplugues de Llobregat",1500000,1.4e+07,2017-06-05
+"642","Álex Moreno",1993-06-08,"Sant Sadurní d'Anoia",2e+07,2e+07,2022-11-07
+"643","Juan Miranda",2000-01-19,"Olivares",5e+06,7e+06,2021-03-19
+"644","Aitor Ruibal",1996-03-22,"Sallent de Llobregat",5e+06,5e+06,2022-11-07
+"645","Youssouf Sabaly",1993-03-05,"Chesnay",4e+06,1e+07,2019-03-07
+"646","Martín Montoya",1991-04-14,"Gavà",1500000,1.5e+07,2018-01-01
+"647","Guido Rodríguez",1994-04-12,"Sáenz Peña",2.8e+07,2.8e+07,2022-11-07
+"648","William Carvalho",1992-04-07,"Luanda",1.6e+07,3e+07,2016-07-29
+"649","Paul Akouokou",1997-12-20,"Abiyán",4e+06,5e+06,2022-03-21
+"650","Andrés Guardado",1986-09-28,"Guadalajara",1500000,1.2e+07,2009-07-22
+"651","Víctor Camarasa",1994-05-28,"Meliana",1e+06,1e+07,2019-06-13
+"652","Nabil Fekir",1993-07-18,"Lyon",4e+07,7e+07,2018-12-17
+"653","Sergio Canales",1991-02-16,"Santander",2e+07,2.5e+07,2019-06-11
+"654","Rodri Sánchez",2000-02-16,"Talayuela",7e+06,7e+06,2022-09-23
+"655","Juanmi",1993-05-20,"Coín",1.5e+07,1.5e+07,2022-06-03
+"656","Luiz Henrique",2001-01-02,"Petrópolis",1.5e+07,1.5e+07,2022-11-07
+"657","Joaquín",1981-07-21,"El Puerto de Santa María",1500000,2.8e+07,2007-08-24
+"658","Juan Cruz",2000-04-25,"Quilmes",NA,NA,2021-10-13
+"659","Borja Iglesias",1993-01-17,"Santiago de Compostela",2.5e+07,2.8e+07,2019-06-11
+"660","Willian José",1991-11-23,"Porto Calvo",9e+06,3e+07,2018-10-31
+"661","Loren Morón",1993-12-30,"Marbella",2500000,2e+07,2019-12-20
+"662","Giorgi Mamardashvili",2000-09-29,"Tiflis",2.5e+07,2.5e+07,2022-11-07
+"663","Jaume Doménech",1990-11-05,"Almenara",1500000,7500000,2019-12-20
+"664","Iago Herrerín",1988-01-25,"Bilbao",NA,4e+06,2018-12-21
+"665","Cristian Rivero",1998-03-21,"Gandia",NA,NA,2021-06-10
+"666","Mouctar Diakhaby",1996-12-19,"Vendôme",8e+06,3e+07,2019-09-10
+"667","Gabriel Paulista",1990-11-26,"São Paulo",4e+06,2.2e+07,2019-12-20
+"668","Eray Cömert",1998-02-04,"Rheinfelden",4e+06,4e+06,2022-11-07
+"669","Cenk Özkacar",2000-10-06,"Izmir",1800000,2e+06,2022-04-12
+"670","Cristhian Mosquera",2004-06-27,"Alicante",1e+06,1e+06,2022-06-03
+"671","José Gayà",1995-05-25,"Pedreguer",4e+07,5e+07,2019-06-11
+"672","Jesús Vázquez",2003-01-02,"Mérida",5e+06,5e+06,2022-06-03
+"673","Toni Lato",1997-11-21,"La Pobla de Vallbona",2500000,8e+06,2018-01-01
+"674","Thierry Correia",1999-03-09,"Amadora",1.4e+07,1.4e+07,2022-11-07
+"675","Dimitri Foulquier",1993-03-23,"Sarcelles",3e+06,4e+06,2022-06-03
+"676","Hugo Guillamón",2000-01-31,"Donostia-San Sebastián",2.5e+07,2.5e+07,2022-09-23
+"677","Yunus Musah",2002-11-29,"New York City, New York",2e+07,2.5e+07,2022-09-23
+"678","Nico González",2002-01-03,"A Coruña",1.4e+07,2.5e+07,2022-03-21
+"679","André Almeida",2000-05-30,"Guimarães",1.4e+07,1.4e+07,2022-11-07
+"680","Ilaix Moriba",2003-01-19,"Conakry",7e+06,2.5e+07,2021-06-10
+"681","Samuel Lino",1999-12-23,"Santo André (SP)",1.6e+07,1.6e+07,2022-11-07
+"682","Justin Kluivert",1999-05-05,"Zaandam",1.4e+07,2.5e+07,2019-12-12
+"683","Samu Castillejo",1995-01-18,"Málaga",8e+06,1.8e+07,2018-10-12
+"684","Hugo Duro",1999-11-10,"Getafe",7e+06,1e+07,2022-06-03
+"685","Edinson Cavani",1987-02-14,"Salto",5e+06,6e+07,2013-07-22
+"686","Marcos André",1996-10-20,"Coroatá",4e+06,8500000,2021-10-13
+"687","Bono",1991-04-05,"Montreal",1.5e+07,1.8e+07,2021-03-19
+"688","Marko Dmitrović",1992-01-24,"Subotica",5e+06,1.2e+07,2019-12-20
+"689","Marcão",1996-06-05,"Londrina (PR)",1.2e+07,1.5e+07,2022-01-04
+"690","Tanguy Nianzou",2002-06-07,"Paris",9e+06,1.2e+07,2020-03-13
+"691","Karim Rekik",1994-12-02,"Den Haag",5e+06,1.5e+07,2018-08-22
+"692","Kike Salas",2002-04-23,"Sevilla",2e+06,2e+06,2022-09-26
+"693","Alex Telles",1992-12-15,"Caxias do Sul",1.4e+07,4e+07,2019-12-30
+"694","Marcos Acuña",1991-10-28,"Zapala",1.4e+07,1.8e+07,2019-06-07
+"695","Gonzalo Montiel",1997-01-01,"González Catán",1.2e+07,1.7e+07,2021-07-16
+"696","José Ángel Carmona",2002-01-29,"El Viso del Alcor",5e+06,5e+06,2022-09-26
+"697","Jesús Navas",1985-11-21,"Los Palacios y Villafranca",3e+06,3e+07,2010-08-27
+"698","Nemanja Gudelj",1991-11-16,"Belgrad",4e+06,7e+06,2019-12-20
+"699","Fernando",1987-07-25,"Brasília",4e+06,17500000,2013-07-02
+"700","Joan Jordán",1994-07-06,"Regencós",1.4e+07,3e+07,2021-03-19
+"701","Óliver Torres",1994-11-10,"Navalmoral de la Mata",9e+06,1.7e+07,2019-03-18
+"702","Ivan Rakitic",1988-03-10,"Möhlin",4e+06,7e+07,2018-10-31
+"703","Thomas Delaney",1991-09-03,"Frederiksberg",3e+06,2.7e+07,2018-12-18
+"704","Isco",1992-04-21,"Benalmádena",9e+06,9e+07,2018-10-31
+"705","Papu Gómez",1988-02-15,"Buenos Aires",4e+06,1.8e+07,2017-10-13
+"706","Tecatito",1993-01-06,"Hermosillo",1.4e+07,3e+07,2020-08-17
+"707","Erik Lamela",1992-03-04,"Carapachay",1.4e+07,3e+07,2013-09-18
+"708","Suso",1993-11-19,"Cádiz",7e+06,5e+07,2018-12-20
+"709","Adnan Januzaj",1995-02-05,"Brussel",7e+06,1.5e+07,2018-07-16
+"710","Kasper Dolberg",1997-10-06,"Silkeborg",1.2e+07,2.3e+07,2020-10-15
+"711","Rafa Mir",1997-06-18,"Cartagena",1.2e+07,1.6e+07,2021-10-13
+"712","Youssef En-Nesyri",1997-06-01,"Fès",1.2e+07,4e+07,2021-06-10
+"713","Unai Simón",1997-06-11,"Vitoria-Gasteiz",2.5e+07,3e+07,2020-07-23
+"714","Julen Agirrezabala",2000-12-26,"Donostia-San Sebastián",5e+06,5e+06,2021-10-13
+"715","Iñigo Martínez",1991-05-17,"Ondarroa",1.8e+07,3.2e+07,2018-03-22
+"716","Yeray Álvarez",1995-01-24,"Barakaldo",1.5e+07,3e+07,2019-12-20
+"717","Dani Vivian",1999-07-05,"Vitoria-Gasteiz",1.4e+07,1.5e+07,2022-09-23
+"718","Aitor Paredes",2000-04-29,"Bilbao",NA,NA,2022-09-23
+"719","Yuri Berchiche",1990-02-10,"Zarautz",2e+06,2e+07,2018-07-12
+"720","Mikel Balenziaga",1988-02-29,"Zumarraga",1e+06,5e+06,2016-02-22
+"721","Iñigo Lekue",1993-05-04,"Bilbao",3e+06,7500000,2018-01-01
+"722","Ander Capa",1992-02-08,"Portugalete",2e+06,7500000,2019-12-20
+"723","Óscar de Marcos",1989-04-14,"Laguardia",1800000,1e+07,2012-08-07
+"724","Mikel Vesga",1993-04-08,"Vitoria-Gasteiz",5e+06,5e+06,2017-08-17
+"725","Unai Vencedor",2000-11-15,"Bilbao",1.4e+07,2e+07,2022-06-03
+"726","Ander Herrera",1989-08-14,"Bilbao",4e+06,3e+07,2017-06-28
+"727","Oier Zarraga",1999-01-04,"Getxo",3e+06,3500000,2022-06-03
+"728","Dani García",1990-05-24,"Zumarraga",2e+06,6e+06,2019-12-20
+"729","Oihan Sancet",2000-04-25,"Pamplona",2e+07,2e+07,2022-09-23
+"730","Iker Muniain",1992-12-19,"Pamplona",1.4e+07,2.2e+07,2012-08-07
+"731","Álex Berenguer",1995-07-04,"Barañain",1.5e+07,1.5e+07,2021-03-19
+"732","Jon Morcillo",1998-09-15,"Amorebieta-Etxano",3e+06,5e+06,2021-06-10
+"733","Nico Williams",2002-07-12,"Pamplona",2.5e+07,2.5e+07,2022-11-07
+"734","Iñaki Williams",1994-06-15,"Bilbao",2.5e+07,5e+07,2019-06-11
+"735","Asier Villalibre",1997-09-30,"Gernika",2500000,4500000,2021-06-10
+"736","Raúl García",1986-07-11,"Zizur Mayor",2500000,1.6e+07,2008-07-11
+"737","Gorka Guruzeta",1996-09-12,"Donostia-San Sebastián",2e+06,2e+06,2022-09-23
+"738","David Soria",1993-04-04,"Madrid",1e+07,1.8e+07,2019-12-20
+"739","Kiko Casilla",1986-10-02,"Alcover",NA,7500000,2014-10-23
+"740","Diego Conde",1998-10-28,"Madrid",NA,NA,2020-10-08
+"741","Domingos Duarte",1995-03-10,"Cascais",8e+06,1.2e+07,2021-01-05
+"742","Djené",1991-12-31,"Lome Dapaong",6e+06,3e+07,2020-03-05
+"743","Gastón Álvarez",2000-03-24,"Melo",5e+06,5e+06,2022-11-07
+"744","Omar Alderete",1996-12-26,"Asunción",4e+06,1e+07,2022-06-03
+"745","Stefan Mitrović",1990-05-22,"Belgrad",2e+06,3500000,2018-12-17
+"746","Fabrizio Angileri",1994-03-15,"Junín",3e+06,4300000,2021-10-20
+"747","Jordan Amavi",1994-03-09,"Toulon",3e+06,1.6e+07,2018-06-01
+"748","Juan Iglesias",1998-07-03,"Valladolid",3500000,3500000,2022-11-07
+"749","Damián Suárez",1988-04-27,"Montevideo",1500000,4e+06,2020-03-05
+"750","Nemanja Maksimović",1995-01-26,"Banja Koviljača",1e+07,2.5e+07,2020-03-05
+"751","Mauro Arambarri",1995-09-30,"Salto",1.5e+07,2.5e+07,2020-03-05
+"752","Carles Aleñá",1998-01-05,"Mataró",1e+07,3e+07,2019-06-11
+"753","Luis Milla",1994-10-07,"Madrid",5e+06,6e+06,2022-03-21
+"754","Jaime Seoane",1997-01-22,"Madrid",3500000,4e+06,2022-06-29
+"755","Ángel Algobia",1999-06-23,"Velilla de San Antonio",1500000,1500000,2022-11-07
+"756","Portu",1992-05-21,"Beniel",5e+06,2e+07,2020-03-05
+"757","Enes Ünal",1997-05-10,"Bursa",2.5e+07,2.5e+07,2022-06-03
+"758","Borja Mayoral",1997-04-05,"Parla",9e+06,1.4e+07,2021-03-23
+"759","Munir El Haddadi",1995-09-01,"El Escorial",4e+06,1.2e+07,2014-10-05
+"760","Jaime Mata",1988-10-24,"Madrid",2e+06,1e+07,2019-02-28
+"761","Juanmi Latasa",2001-03-23,"Madrid",1e+06,1e+06,2022-03-21
+"762","Sergio Herrera",1993-06-05,"Miranda de Ebro",8e+06,8e+06,2022-06-03
+"763","Aitor Fernández",1991-05-03,"Arrasate",2500000,1e+07,2020-03-05
+"764","Juan Pérez",1996-07-15,"Almudévar",NA,NA,2021-06-10
+"765","David García",1994-02-14,"Ibero",2e+07,2e+07,2022-06-03
+"766","Unai García",1992-02-03,"Esquiroz",2500000,2500000,2022-11-07
+"767","Aridane Hernández",1989-03-23,"Tuineje",1e+06,4e+06,2020-03-05
+"768","Manu Sánchez",2000-08-24,"Madrid",1e+07,1e+07,2022-03-21
+"769","Juan Cruz",1992-07-28,"Madrid",2500000,2500000,2020-10-08
+"770","Nacho Vidal",1995-01-24,"El Campello",5e+06,5e+06,2022-03-21
+"771","Rubén Peña",1991-07-18,"Ávila",2500000,1e+07,2019-02-28
+"772","Lucas Torró",1994-07-19,"Cocentaina",7e+06,7e+06,2022-11-07
+"773","Jon Moncayola",1998-05-13,"Garinoain",1.2e+07,1.2e+07,2022-06-03
+"774","Darko Brasanac",1992-02-12,"Čajetina",2e+06,4e+06,2017-06-05
+"775","Pablo Ibáñez",1998-09-20,"Pamplona",NA,NA,2022-06-29
+"776","Aimar Oroz",2001-11-27,"Pamplona",6e+06,6e+06,2022-11-07
+"777","Roberto Torres",1989-03-07,"Arre",2e+06,8e+06,2020-07-23
+"778","Ez Abde",2001-12-17,"Beni Melal",8e+06,8e+06,2021-12-30
+"779","Moi Gómez",1994-06-23,"Rojales",8e+06,9e+06,2020-07-23
+"780","Rubén García",1993-07-14,"Xàtiva",6e+06,1e+07,2020-10-08
+"781","Kike Saverio",1999-06-19,"Génova",NA,NA,2020-02-11
+"782","Kike Barja",1997-04-01,"Noáin",3e+06,3e+06,2021-06-10
+"783","Chimy Ávila",1994-02-06,"Rosario",1e+07,1.5e+07,2019-12-20
+"784","Ante Budimir",1991-07-22,"Zenica",6e+06,1.5e+07,2020-07-23
+"785","Kike García",1989-11-25,"Motilla de Palancar",1800000,3e+06,2015-02-24
+"786","Agustín Marchesín",1988-03-16,"San Cayetano",3e+06,9e+06,2021-01-28
+"787","Iván Villar",1997-07-09,"Aldán",1200000,2500000,2021-06-10
+"788","Joseph Aidoo",1995-09-29,"Tema",7e+06,8e+06,2019-09-10
+"789","Unai Núñez",1997-01-30,"Portugalete",6e+06,2e+07,2020-03-05
+"790","Óscar Mingueza",1999-05-13,"Santa Perpètua de Mogoda",3e+06,1.5e+07,2021-06-10
+"791","Carlos Domínguez",2001-02-11,"Vigo",1e+06,1500000,2021-06-30
+"792","Javi Galán",1994-11-19,"Badajoz",1.2e+07,1.2e+07,2022-06-03
+"793","Hugo Mallo",1991-06-22,"Marín",3500000,1.5e+07,2018-03-22
+"794","Kevin Vázquez",1993-03-23,"Nigrán",1e+06,2e+06,2022-06-03
+"795","Renato Tapia",1995-07-28,"Lima",9e+06,2e+07,2021-03-19
+"796","Fran Beltrán",1999-02-03,"Madrid",1.5e+07,1.8e+07,2018-12-21
+"797","Williot Swedberg",2004-02-01,"Stockholm",5e+06,5e+06,2022-06-24
+"798","Luca de la Torre",1998-05-23,"San Diego, California",2e+06,2e+06,2022-09-23
+"799","Óscar Rodríguez",1998-06-28,"Talavera de la Reina",1e+07,1.5e+07,2020-07-23
+"800","Gabri Veiga",2002-05-27,"Porriño",1e+07,1e+07,2022-11-07
+"801","Denis Suárez",1994-01-06,"Salceda de Caselas",5e+06,1.8e+07,2017-01-24
+"802","Franco Cervi",1994-05-26,"San Lorenzo",3e+06,1.8e+07,2018-06-13
+"803","Carles Pérez",1998-02-16,"Granollers",4e+06,1e+07,2019-09-10
+"804","Augusto Solari",1992-01-03,"Rosario",2500000,6e+06,2019-08-06
+"805","Jörgen Strand Larsen",2000-02-06,"Halden",1.1e+07,1.1e+07,2022-09-23
+"806","Iago Aspas",1987-08-01,"Moaña",7e+06,2.5e+07,2018-05-30
+"807","Gonçalo Paciência",1994-08-01,"Porto",3e+06,1.5e+07,2019-12-17
+"808","Paulo Gazzaniga",1992-01-02,"Murphy",2500000,4e+06,2020-10-13
+"809","Juan Carlos",1988-01-20,"Guadalajara",NA,1e+06,2016-07-15
+"810","Toni Fuidias",2001-04-15,"Berga",NA,NA,2021-10-13
+"811","Santiago Bueno",1998-11-09,"Montevideo",7e+06,7e+06,2022-11-07
+"812","David López",1989-10-09,"Barcelona",2e+06,1.5e+07,2018-07-19
+"813","Bernardo Espinosa",1989-07-11,"Santiago de Cali",1500000,7e+06,2018-01-01
+"814","Juanpe",1991-04-30,"Las Palmas de Gran Canaria",1500000,7500000,2018-12-21
+"815","Miguel Gutiérrez",2001-07-27,"Madrid",8e+06,1e+07,2021-10-13
+"816","Javi Hernández",1998-05-02,"Jerez de la Frontera",2500000,2500000,2022-06-29
+"817","Arnau Martínez",2003-04-25,"Premià de Dalt",9e+06,9e+06,2022-11-07
+"818","Yan Couto",2002-06-03,"Curitiba",6e+06,6e+06,2022-11-07
+"819","Oriol Romeu",1991-09-24,"Ulldecona",5e+06,1.2e+07,2018-01-02
+"820","Ramón Terrats",2000-10-18,"Barcelona",1500000,1500000,2022-11-07
+"821","Ibrahima Kébé",2000-08-01,"Bamako",NA,NA,2021-06-24
+"822","Yangel Herrera",1998-01-06,"La Guaira, Vargas",9e+06,1.8e+07,2021-06-10
+"823","Aleix García",1997-06-28,"Ulldecona",7e+06,7e+06,2022-11-07
+"824","Reinier",2002-01-19,"Brasília",4e+06,2.5e+07,2019-11-27
+"825","Iván Martín",1999-02-14,"Bilbao",1e+06,1e+06,2022-11-07
+"826","Borja García",1990-11-02,"Torremocha de Jarama",1e+06,8e+06,2018-12-21
+"827","Manu Vallejo",1997-02-14,"Chiclana de la Frontera",3e+06,8e+06,2021-03-19
+"828","Toni Villa",1995-01-07,"Lorquí",2500000,6e+06,2018-12-21
+"829","Samu Saiz",1991-01-22,"Madrid",NA,3500000,2018-02-27
+"830","Rodrigo Riquelme",2000-04-02,"Madrid",7500000,7500000,2022-11-07
+"831","Valery Fernández",1999-11-23,"L'Escala",1500000,5e+06,2019-06-11
+"832","Taty Castellanos",1998-10-03,"Mendoza",9e+06,1.2e+07,2022-04-01
+"833","Cristhian Stuani",1986-10-12,"Tala",2e+06,1e+07,2018-10-31
+"834","Stole Dimitrievski",1993-12-25,"Kumanovo",4e+06,4e+06,2022-09-23
+"835","Miguel Ángel Morro",2000-09-11,"Alcalá de Henares",NA,NA,2020-10-08
+"836","Diego López",1981-11-03,"Paradela",NA,1.6e+07,2009-07-22
+"837","Alejandro Catena",1994-10-28,"Madrid",8e+06,8e+06,2022-11-07
+"838","Florian Lejeune",1991-05-20,"Paris",3e+06,8e+06,2018-05-28
+"839","Abdul Mumin",1998-06-06,"Accra",1500000,3e+06,2021-12-27
+"840","Esteban Saveljich",1991-05-20,"Tandil",NA,1e+06,2019-06-29
+"841","Mario Suárez",1987-02-24,"Madrid",NA,1e+07,2013-02-05
+"842","Fran García",1999-08-14,"Bolaños de Calatrava",8e+06,8e+06,2022-11-07
+"843","Pep Chavarría",1998-04-10,"Figueres",1e+06,1e+06,2022-11-07
+"844","Iván Balliu",1992-01-01,"Caldes de Malavella",3500000,3500000,2022-11-07
+"845","Mario Hernández",1999-01-25,"Madrid",NA,NA,2021-12-30
+"846","Pathé Ciss",1994-03-16,"Dakar",4e+06,4e+06,2022-09-23
+"847","Óscar Valentín",1994-08-20,"Ajofrín",4e+06,4e+06,2022-11-07
+"848","Santi Comesaña",1996-10-05,"Vigo",3500000,4e+06,2019-02-28
+"849","Unai López",1995-10-30,"Donostia-San Sebastián",3500000,1.2e+07,2021-06-10
+"850","Óscar Trejo",1988-04-26,"Santiago del Estero",3e+06,4e+06,2008-03-12
+"851","Randy Nteka",1997-12-06,"Paris",2500000,4e+06,2021-12-30
+"852","José Pozo",1996-03-15,"Málaga",1200000,3e+06,2018-01-01
+"853","Álvaro García",1992-10-27,"Utrera",6e+06,6e+06,2022-06-03
+"854","Bebé",1990-07-12,"Lisboa",NA,3e+06,2014-09-30
+"855","Isi Palazón",1994-12-27,"Cieza",7500000,7500000,2022-11-07
+"856","Salvi Sánchez",1991-03-30,"Sanlúcar de Barrameda",1800000,2800000,2021-01-05
+"857","Raúl de Tomás",1994-10-17,"Madrid",1.2e+07,2.5e+07,2022-06-03
+"858","Sergio Camello",2001-02-10,"Madrid",7e+06,7e+06,2022-11-07
+"859","Radamel Falcao",1986-02-10,"Santa Marta",2e+06,6e+07,2013-01-10
+"860","Andrés Martín",1999-07-11,"Aguadulce",1e+06,2500000,2019-09-10
+"861","Benjamin Lecomte",1991-04-26,"Paris",4e+06,1.7e+07,2019-06-03
+"862","Álvaro Fernández",1998-04-13,"Arnedo",3e+06,4e+06,2021-03-19
+"863","Joan García",2001-05-04,"Sallent de Llobregat",NA,NA,2021-12-30
+"864","Leandro Cabrera",1991-06-17,"Montevideo",3500000,1e+07,2019-12-20
+"865","Fernando Calero",1995-09-14,"Boecillo (Valladolid)",2e+06,1e+07,2019-06-11
+"866","Sergi Gómez",1992-03-28,"Arenys de Mar",2e+06,1e+07,2018-10-31
+"867","Simo Keddari",2005-02-03,"Terrassa",NA,NA,2022-03-21
+"868","Adrià Pedrosa",1998-05-13,"Barcelona",5e+06,1e+07,2019-06-11
+"869","Brian Oliván",1994-04-01,"Barcelona",5e+06,5e+06,2022-11-07
+"870","Óscar Gil",1998-04-26,"Elche",3e+06,3e+06,2021-12-30
+"871","Aleix Vidal",1989-08-21,"Valls",1800000,1e+07,2015-07-01
+"872","Omar El Hilali",2003-09-12,"L'Hospitalet de Llobregat",NA,NA,2022-11-07
+"873","Vinicius Souza",1999-06-17,"Rio de Janeiro",7e+06,7e+06,2022-11-07
+"874","Sergi Darder",1993-12-22,"Artà",1.4e+07,1.4e+07,2019-06-11
+"875","Edu Expósito",1996-08-01,"Barcelona",6e+06,6e+06,2022-11-07
+"876","Keidi Bare",1997-08-28,"Fier",3500000,4e+06,2022-03-21
+"877","Pol Lozano",1999-10-06,"Sant Quirze del Vallès",1500000,1500000,2019-09-10
+"878","Javi Puado",1998-05-25,"Barcelona",7e+06,8e+06,2022-03-21
+"879","Nico Melamed",2001-04-11,"Castelldefels",6e+06,7500000,2022-06-03
+"880","José Carlos Lazo",1996-02-16,"Sanlúcar de Barrameda",2500000,3500000,2020-10-08
+"881","Joselu",1990-03-27,"Stuttgart",6e+06,8e+06,2021-06-10
+"882","Martin Braithwaite",1991-06-05,"Esbjerg",5e+06,1.2e+07,2020-03-05
+"883","Dani Gómez",1998-07-30,"Alcorcón",2e+06,2500000,2022-06-03
+"884","Fernando Pacheco",1992-05-18,"Badajoz",3e+06,1.8e+07,2018-12-21
+"885","Fernando Martínez",1990-06-10,"Murcia",1500000,1500000,2022-11-07
+"886","Diego Fuoli",1997-10-20,"Zaragoza",NA,NA,2020-02-11
+"887","Kaiky",2004-01-12,"Santos",8e+06,8e+06,2021-12-17
+"888","Rodrigo Ely",1993-11-03,"Lajeado",3e+06,6e+06,2018-03-22
+"889","Srdjan Babic",1996-04-22,"Banja Luka",3e+06,3e+06,2022-09-23
+"890","Chumi",1999-03-02,"Laracha",2e+06,2500000,2019-02-19
+"891","Iván Martos",1997-05-15,"Manresa",NA,1e+06,2019-12-20
+"892","Sergio Akieme",1997-12-16,"Madrid",7500000,7500000,2022-11-07
+"893","Álex Centelles",1999-08-30,"Valencia",1200000,5e+06,2019-12-30
+"894","Alejandro Pozo",1999-02-22,"Huévar del Aljarafe",3e+06,5e+06,2019-12-20
+"895","Houboulang Mendes",1998-05-04,"Courcouronnes",3e+06,3e+06,2022-05-30
+"896","Juanjo Nieto",1994-10-03,"Castellón",NA,NA,2021-06-24
+"897","Samú Costa",2000-11-27,"Aveiro",5e+06,6e+06,2022-09-23
+"898","Iñigo Eguaras",1992-03-07,"Antsoain",1200000,1200000,2022-11-07
+"899","Lucas Robertone",1997-03-18,"Concordia",6e+06,8e+06,2019-08-06
+"900","Gonzalo Melero",1994-01-02,"Madrid",4e+06,7500000,2018-10-31
+"901","Arnau Puigmal",2001-01-10,NA,2e+06,2e+06,2022-11-07
+"902","Gui Guedes",2002-04-17,"Santa Marta de Penaguião",1500000,1500000,2022-09-23
+"903","César de la Hoz",1992-03-30,"Orejo",1200000,1200000,2022-11-07
+"904","Largie Ramazani",2001-02-27,"Berchem-Sainte-Agathe",9e+06,1e+07,2022-09-23
+"905","Lázaro",2002-03-12,"Belo Horizonte",6e+06,7e+06,2022-08-19
+"906","Adrián Embarba",1992-05-07,"Madrid",3e+06,8e+06,2020-07-23
+"907","Francisco Portillo",1990-06-13,"Málaga",1500000,4e+06,2019-06-11
+"908","Léo Baptistão",1992-08-26,"Santos",1800000,7e+06,2013-06-14
+"909","El Bilal Touré",2001-10-03,"Adjamé",1e+07,1.1e+07,2020-10-15
+"910","Marko Milovanovic",2003-08-04,"Smederevo",1200000,1200000,2021-12-25
+"911","Dyego Sousa",1989-09-14,"São José de Ribamar",1e+06,1.2e+07,2019-06-07
+"912","Predrag Rajković",1995-10-31,"Negotin",1e+07,1e+07,2022-11-07
+"913","Dominik Greif",1997-04-06,"Bratislava",1500000,2e+06,2021-10-13
+"914","Leo Román",2000-07-06,"Ibiza",NA,NA,2021-08-16
+"915","Martin Valjent",1995-12-11,"Dubnica nad Váhom",4500000,5e+06,2020-10-08
+"916","Antonio Raíllo",1991-10-08,"Córdoba",3e+06,3e+06,2021-06-24
+"917","José Copete",1999-10-10,"Écija",2e+06,2e+06,2022-11-07
+"918","Matija Nastasić",1993-03-28,"Valjevo",1500000,2.2e+07,2018-10-22
+"919","Franco Russo",1994-10-25,"Buenos Aires",1e+06,1200000,2021-12-30
+"920","Braian Cufré",1996-12-15,"Mar de Plata",1200000,5e+06,2019-12-05
+"921","Jaume Costa",1988-03-18,"Valencia",1200000,9e+06,2017-06-05
+"922","Pablo Maffeo",1997-07-12,"Sant Joan Despí",6e+06,1e+07,2018-05-30
+"923","Giovanni González",1994-09-20,"Montevideo",2e+06,2e+06,2021-09-10
+"924","Rodrigo Battaglia",1991-07-12,"Morón",1500000,1e+07,2018-11-01
+"925","Iddrisu Baba",1996-01-22,"Accra",3e+06,3500000,2022-03-21
+"926","Iñigo Ruiz de Galarreta",1993-08-06,"Donostia-San Sebastián",2e+06,3e+06,2021-06-24
+"927","Antonio Sánchez",1997-04-22,"Palma de Mallorca",1800000,1800000,2022-11-07
+"928","Clément Grenier",1991-01-07,"Annonay",NA,1.2e+07,2014-08-07
+"929","Kang-in Lee",2001-02-19,"Incheon",1.2e+07,2e+07,2019-09-10
+"930","Dani Rodríguez",1988-06-06,"Betanzos",1200000,1500000,2019-12-20
+"931","Amath Ndiaye",1996-07-16,"Dakar",2e+06,5e+06,2018-05-30
+"932","Lago Júnior",1990-12-31,"Yamoussoukro",NA,4e+06,2019-12-20
+"933","Vedat Muriqi",1994-04-24,"Prizren",1e+07,1.7e+07,2020-10-29
+"934","Tino Kadewere",1996-01-05,"Harare",5e+06,1.4e+07,2021-04-09
+"935","Abdón Prats",1992-12-07,"Artà",1200000,2e+06,2021-06-24
+"936","Ángel Rodríguez",1987-04-26,"Santa Cruz de Tenerife",1e+06,7500000,2020-02-11
+"937","Jeremías Ledesma",1993-02-13,"Pergamino",1e+07,1e+07,2022-11-07
+"938","David Gil",1994-01-11,"Getafe",NA,NA,2021-06-10
+"939","Víctor Chust",2000-03-05,"Valencia",3e+06,3e+06,2022-11-07
+"940","Fali",1993-08-12,"Valencia",2500000,3e+06,2021-03-19
+"941","Luis Hernández",1989-04-14,"Madrid",1e+06,3500000,2016-08-01
+"942","Juan Cala",1989-11-26,"Lebrija",NA,2e+06,2012-02-03
+"943","Momo Mbaye",1998-06-28,"Saint-Louis",NA,NA,2022-11-07
+"944","Alfonso Espino",1992-01-05,"San Jacinto",4e+06,6e+06,2022-06-03
+"945","Santiago Arzamendia",1998-05-05,"Wanda, Misiones",1500000,5e+06,2020-03-02
+"946","Joseba Zaldua",1992-06-24,"Donostia-San Sebastián",2500000,1.5e+07,2020-03-05
+"947","Iza Carcelén",1993-04-23,"El Puerto de Santa María",1500000,2e+06,2020-07-23
+"948","Antonio Blanco",2000-07-23,"Montalbán",3500000,5e+06,2021-06-30
+"949","Tomás Alarcón",1999-01-19,"Rancagua",3e+06,3e+06,2021-10-13
+"950","José Mari",1987-12-06,"Rota (Cádiz)",NA,NA,2013-01-11
+"951","Jon Ander Garrido",1989-10-09,"Bilbao",NA,NA,2019-02-19
+"952","Rubén Alcaraz",1991-05-01,"Barcelona",2e+06,1e+07,2018-12-21
+"953","Fede San Emeterio",1997-03-16,"Sierra de Ibio",2e+06,5e+06,2019-06-29
+"954","Álex Fernández",1992-10-15,"Alcalá de Henares",5e+06,7500000,2020-10-08
+"955","Théo Bongonda",1995-11-20,"Charleroi",4e+06,1.1e+07,2021-06-07
+"956","Awer Mabil",1995-09-15,"Kakuma",1500000,3e+06,2020-07-31
+"957","Brian Ocampo",1999-06-25,"Florida",2e+06,4e+06,2021-09-10
+"958","Iván Alejo",1995-02-10,"Valladolid",1200000,4e+06,2018-07-26
+"959","Choco Lozano",1993-04-25,"Yoro",2800000,4e+06,2021-12-30
+"960","Rubén Sobrino",1992-06-01,"Daimiel",2e+06,5e+06,2019-02-28
+"961","Lucas Pérez",1988-09-10,"A Coruña",2e+06,1.7e+07,2016-10-24
+"962","Álvaro Negredo",1985-08-20,"Madrid",1200000,2.7e+07,2014-01-15
+"963","Álvaro Giménez",1991-05-19,"Elche",NA,2500000,2020-10-08
+"964","Sergio Asenjo",1989-06-28,"Palencia",2500000,1.2e+07,2018-12-21
+"965","Jordi Masip",1989-01-03,"Sabadell",1e+06,6e+06,2018-12-21
+"966","Javi Sánchez",1997-03-14,"Getafe",3e+06,3e+06,2020-07-23
+"967","Joaquín Fernández",1996-05-31,"Huercal de Almería",3e+06,3e+06,2019-06-11
+"968","Zouhair Feddal",1989-12-23,"Tétouan",1800000,6e+06,2021-05-21
+"969","Jawad El Yamiq",1992-02-29,"Khouribga",1200000,1200000,2020-10-08
+"970","Lucas Olaza",1994-07-21,"Montevideo",2500000,6e+06,2021-01-05
+"971","Sergio Escudero",1989-09-02,"Valladolid",1800000,7500000,2017-06-05
+"972","Luis Pérez",1995-02-04,"Utrera",1500000,1500000,2022-06-29
+"973","Iván Fresneda",2004-09-28,"Madrid",1e+06,1e+06,2022-09-23
+"974","Lucas Rosa",2000-04-03,"Ribeirão Preto",1e+06,1e+06,2022-11-07
+"975","Mickaël Malsa",1996-10-12,"Paris",1500000,5e+06,2021-03-19
+"976","Monchu",1999-09-13,"Palma de Mallorca",5e+06,5e+06,2020-10-08
+"977","Kike Pérez",1997-02-14,"Toledo",4e+06,4e+06,2022-11-07
+"978","Álvaro Aguado",1996-05-01,"Jaén",3e+06,3e+06,2022-11-07
+"979","Roque Mesa",1989-06-07,"Telde",2500000,1.2e+07,2017-06-05
+"980","Anuar",1995-01-15,"Ceuta",1e+06,1500000,2019-06-11
+"981","Kenedy",1996-02-08,"Santa Rita do Sapucaí",3e+06,1.2e+07,2019-12-20
+"982","Gonzalo Plata",2000-11-01,"Guayaquil",5e+06,6e+06,2022-06-29
+"983","Óscar Plano",1991-02-11,"Móstoles",3e+06,4e+06,2019-06-11
+"984","Iván Sánchez",1992-09-23,"Jaén",NA,1200000,2021-03-10
+"985","Shon Weissman",1996-02-14,"Haifa",5e+06,8e+06,2022-06-29
+"986","Sergi Guardiola",1991-05-29,"Manacor",2500000,7500000,2018-07-12
+"987","Sergio León",1989-01-06,"La Palma del Río",2e+06,5e+06,2018-01-01
+"988","Juanjo Narváez",1995-02-12,"San Juan de Pasto",1200000,1500000,2021-06-24
+"989","Édgar Badía",1992-02-12,"Barcelona",4e+06,4e+06,2022-11-07
+"990","Axel Werner",1996-02-28,"Rafaela",NA,1500000,2021-04-21
+"991","Enzo Roco",1992-08-16,"Ovalle",2e+06,3e+06,2015-07-01
+"992","Diego González",1995-01-28,"Chiclana de la Frontera (Cádiz)",1500000,2e+06,2018-05-30
+"993","Federico Fernández",1989-02-21,"Tres Algarrobos",1e+06,9e+06,2015-02-12
+"994","Pedro Bigas",1990-05-15,"Palma de Mallorca",1e+06,5e+06,2017-06-05
+"995","Gonzalo Verdú",1988-10-21,"Cartagena",NA,NA,2021-01-05
+"996","John Nwankwo",2000-09-25,"Murcia",NA,NA,2022-09-23
+"997","Nicolás Fernández Mercau",2000-01-11,"Buenos Aires",2500000,2500000,2022-02-08
+"998","Carlos Clerc",1992-02-21,"Badalona",2e+06,3e+06,2021-03-19
+"999","Pol Lirola",1997-08-13,"Mollet del Vallès",3e+06,1.3e+07,2019-06-06
+"1000","Helibelton Palacios",1993-06-11,"Santander de Quilichao",1200000,1500000,2018-12-23
+"1001","Omar Mascarell",1993-02-02,"Santa Cruz de Tenerife",3500000,1.4e+07,2019-12-17
+"1002","Gerard Gumbau",1994-12-18,"Campllong",3e+06,3e+06,2022-06-03
+"1003","Raúl Guti",1996-12-30,"Zaragoza",3e+06,5e+06,2020-10-08
+"1004","Domingos Quina",1999-11-18,"Bissau",1800000,5e+06,2019-03-05
+"1005","Javier Pastore",1989-06-20,"Córdoba",NA,3e+07,2011-08-12
+"1006","Pere Milla",1992-09-23,"Lleida",3e+06,3e+06,2022-03-21
+"1007","Tete Morente",1996-12-04,"La Línea de la Concepción",2500000,3e+06,2022-06-03
+"1008","Fidel",1989-10-27,"Dehesa de Riotinto",1e+06,3e+06,2013-06-15
+"1009","Álex Collado",1999-04-22,"Sabadell",5e+06,5e+06,2020-02-11
+"1010","Josan",1989-12-03,"Crevillente",1e+06,1e+06,2021-03-19
+"1011","Lucas Boyé",1996-02-28,"San Gregorio",8e+06,1.5e+07,2022-03-21
+"1012","Ezequiel Ponce",1997-03-29,"Rosario",4e+06,7e+06,2020-12-29
+"1013","Roger Martí",1991-01-03,"Torrent",2500000,1e+07,2019-02-28
+"1014","Gianluigi Donnarumma",1999-02-25,"Castellammare di Stabia",5e+07,6.5e+07,2021-07-15
+"1015","Keylor Navas",1986-12-15,"San Isidro de El General",5e+06,2e+07,2016-07-15
+"1016","Sergio Rico",1993-09-01,"Sevilla",4e+06,2e+07,2017-01-24
+"1017","Alexandre Letellier",1990-12-11,"Paris",NA,1500000,2017-10-12
+"1018","Lucas Lavallée",2003-02-18,"Armentières",NA,NA,2022-03-23
+"1019","Marquinhos",1994-05-14,"São Paulo",7e+07,7.5e+07,2021-06-04
+"1020","Presnel Kimpembe",1995-08-13,"Beaumont-sur-Oise",4e+07,4e+07,2021-01-07
+"1021","Sergio Ramos",1986-03-30,"Camas",6e+06,5e+07,2018-03-22
+"1022","El Chadaille Bitshiabu",2005-05-16,"Villeneuve-Saint-Georges",2e+06,2e+06,2022-05-30
+"1023","Nuno Mendes",2002-06-19,"Lisboa",6e+07,6e+07,2022-11-02
+"1024","Juan Bernat",1993-03-01,"Cullera",1.2e+07,2e+07,2015-07-01
+"1025","Achraf Hakimi",1998-11-04,"Madrid",6.5e+07,7e+07,2021-10-08
+"1026","Nordi Mukiele",1997-11-01,"Montreuil",2e+07,2.5e+07,2019-12-17
+"1027","Timothée Pembélé",2002-09-09,"Beaumont-sur-Oise",5e+06,7e+06,2021-10-08
+"1028","Danilo Pereira",1991-09-09,"Bissau",1.2e+07,3e+07,2019-06-07
+"1029","Warren Zaïre-Emery",2006-03-08,"Montreuil",6e+06,6e+06,2022-11-02
+"1030","Marco Verratti",1992-11-05,"Pescara",5e+07,7.5e+07,2019-03-07
+"1031","Fabián Ruiz",1996-04-03,"Los Palacios y Villafranca",4.5e+07,6e+07,2019-10-08
+"1032","Vitinha",2000-02-13,"Santo Tirso",4.5e+07,4.5e+07,2022-11-02
+"1033","Carlos Soler",1997-01-02,"Valencia",3.5e+07,5e+07,2019-06-11
+"1034","Renato Sanches",1997-08-18,"Lisboa",2.5e+07,3e+07,2016-07-22
+"1035","Ayman Kari",2004-11-19,"Ivry-sur-Seine",NA,NA,2022-11-02
+"1036","Ismaël Gharbi",2004-04-10,"Paris",1500000,1500000,2022-05-30
+"1037","Neymar",1992-02-05,"Mogi das Cruzes",7.5e+07,1.8e+08,2018-01-24
+"1038","Lionel Messi",1987-06-24,"Rosario",5e+07,1.8e+08,2018-01-01
+"1039","Pablo Sarabia",1992-05-11,"Madrid",2e+07,4e+07,2018-12-21
+"1040","Kylian Mbappé",1998-12-20,"Paris",1.6e+08,2e+08,2018-12-17
+"1041","Hugo Ekitiké",2002-06-20,"Reims",2.5e+07,2.8e+07,2022-05-30
+"1042","Alexander Nübel",1996-09-30,"Paderborn",1e+07,1.6e+07,2019-12-17
+"1043","Thomas Didillon",1995-11-28,"Séclin",1200000,5e+06,2019-03-04
+"1044","Yann Lienard",2003-03-16,"Aubagne",NA,NA,2022-03-30
+"1045","Benoît Badiashile",2001-03-26,"Limoges",4e+07,4e+07,2022-11-02
+"1046","Axel Disasi",1998-03-11,"Gonesse",2.5e+07,2.5e+07,2022-11-02
+"1047","Guillermo Maripán",1994-05-06,"Vitacura",1.3e+07,1.5e+07,2019-06-11
+"1048","Malang Sarr",1999-01-23,"Nice",8e+06,1.8e+07,2019-06-03
+"1049","Yllan Okou",2002-12-23,"Poitiers",NA,NA,2022-03-30
+"1050","Caio Henrique",1997-07-31,"Santos",2e+07,2e+07,2022-05-30
+"1051","Ismail Jakobs",1999-08-17,"Köln",7e+06,7e+06,2021-03-31
+"1052","Vanderson",2001-06-21,"Rondonópolis",1.8e+07,1.8e+07,2022-05-30
+"1053","Ruben Aguilar",1993-04-26,"Grenoble",1e+07,1.2e+07,2021-04-09
+"1054","Mohamed Camara",2000-01-06,"Bamako",2.5e+07,2.7e+07,2022-05-27
+"1055","Soungoutou Magassa",2003-10-08,"Stains",NA,NA,2022-11-02
+"1056","Youssouf Fofana",1999-01-10,"Paris",2.5e+07,2.5e+07,2022-11-02
+"1057","Jean Lucas",1998-06-22,"Rio de Janeiro",7e+06,8e+06,2021-10-08
+"1058","Eliot Matazo",2002-02-15,"Woluwe-Saint-Lambert",7e+06,8e+06,2021-10-08
+"1059","Félix Lemaréchal",2003-08-07,"Tours",NA,NA,2022-03-23
+"1060","Aleksandr Golovin",1996-05-30,"Kaltan, Kemerovo Oblast",2.2e+07,3e+07,2018-09-06
+"1061","Maghnes Akliouche",2002-02-25,"Tremblay-en-France",4e+06,4e+06,2022-11-02
+"1062","Takumi Minamino",1995-01-16,"Izumisano, Osaka",1e+07,12500000,2019-12-16
+"1063","Willem Geubbels",2001-08-16,"Villeurbanne",2500000,1.2e+07,2018-09-06
+"1064","Krépin Diatta",1999-02-25,"Dakar",1.3e+07,2.1e+07,2020-03-30
+"1065","Gelson Martins",1995-05-11,"Praia",1e+07,3.5e+07,2018-06-13
+"1066","Wissam Ben Yedder",1990-08-12,"Sarcelles",2e+07,5e+07,2020-03-13
+"1067","Breel Embolo",1997-02-14,"Yaoundé",2e+07,2.2e+07,2016-07-22
+"1068","Kevin Volland",1992-07-30,"Marktoberdorf",1.6e+07,3.5e+07,2019-10-02
+"1069","Myron Boadu",2001-01-14,"Amsterdam",1e+07,2e+07,2019-12-18
+"1070","Dogan Alemdar",2002-10-29,"Kayseri",4e+06,4e+06,2022-09-19
+"1071","Alfred Gomis",1993-09-05,"Ziguinchor",3e+06,9e+06,2020-10-15
+"1072","Steve Mandanda",1985-03-28,"Kinshasa",1500000,1.7e+07,2012-05-23
+"1073","Romain Salin",1984-07-29,"Mayenne",NA,2200000,2014-08-04
+"1074","Elias Damergy",2002-10-17,"Mantes-la-Jolie",NA,NA,2022-03-23
+"1075","Arthur Theate",2000-05-25,"Liège",2e+07,2e+07,2022-11-02
+"1076","Joe Rodon",1997-10-22,"Swansea",9e+06,1e+07,2020-12-17
+"1077","Warmed Omari",2000-04-23,"Bandraboua",8e+06,8e+06,2022-03-23
+"1078","Christopher Wooh",2001-09-18,"Louvres",6e+06,6e+06,2022-09-19
+"1079","Jeanuël Belocian",2005-02-17,"Les Abymes",NA,NA,2022-03-23
+"1080","Adrien Truffert",2001-11-20,"Liège",1.5e+07,1.5e+07,2022-11-02
+"1081","Birger Meling",1994-12-17,"Stavanger",6e+06,7e+06,2022-05-30
+"1082","Hamari Traoré",1992-01-27,"Bamako",1e+07,1e+07,2022-05-30
+"1083","Lorenz Assignon",2000-06-22,"Grasse",4e+06,4e+06,2022-11-02
+"1084","Guéla Doué",2002-10-17,"Angers",NA,NA,2022-09-19
+"1085","Lesley Ugochukwu",2004-03-26,"Rennes",4e+06,4e+06,2022-11-02
+"1086","Noah Françoise",2003-07-05,"Rennes",NA,NA,2022-03-30
+"1087","Baptiste Santamaria",1995-03-09,"Saint-Doulchard",1.6e+07,1.6e+07,2022-09-19
+"1088","Flavien Tait",1993-02-02,"Longjumeau",9e+06,9e+06,2022-11-02
+"1089","Xeka",1994-11-10,"Paredes",9e+06,1e+07,2019-06-03
+"1090","Benjamin Bourigeaud",1994-01-14,"Calais",1.8e+07,1.8e+07,2022-05-30
+"1091","Lovro Majer",1998-01-17,"Zagreb",2.2e+07,2.2e+07,2022-11-02
+"1092","Désiré Doué",2005-06-03,"Angers",1.5e+07,1.5e+07,2022-11-02
+"1093","Martin Terrier",1997-03-04,"Armentières",3.5e+07,3.5e+07,2022-11-02
+"1094","Kamaldeen Sulemana",2002-02-15,"Techiman",1.8e+07,2e+07,2021-12-16
+"1095","Jérémy Doku",2002-05-27,"Borgerhout",1.8e+07,2.6e+07,2021-07-15
+"1096","Amine Gouiri",2000-02-16,"Bourgoin-Jallieu",3.8e+07,5e+07,2022-03-23
+"1097","Arnaud Kalimuendo",2002-01-20,"Suresnes",2.5e+07,2.5e+07,2022-11-02
+"1098","Matthis Abline",2003-03-28,"Angers",3e+06,3e+06,2022-06-02
+"1099","Anthony Lopes",1990-10-01,"Givors",9e+06,2.5e+07,2019-03-07
+"1100","Julian Pollersbeck",1994-08-16,"Altötting",NA,3e+06,2019-01-08
+"1101","Rémy Riou",1987-08-06,"Lyon",NA,4e+06,2016-02-04
+"1102","Kayne Bonnevie",2001-07-22,"Écully",NA,NA,2022-05-30
+"1103","Castello Lukeba",2002-12-17,"Lyon",2e+07,2e+07,2022-05-30
+"1104","Sinaly Diomandé",2001-04-09,"Yopougon",5e+06,7e+06,2021-04-09
+"1105","Jérôme Boateng",1988-09-03,"Berlin",2e+06,4.5e+07,2016-07-22
+"1106","Damien Da Silva",1988-05-17,"Talence",NA,5500000,2018-06-04
+"1107","Nicolás Tagliafico",1992-08-31,"Rafael Calzada",9e+06,3.5e+07,2019-12-18
+"1108","Henrique Silva",1994-04-25,"Rio de Janeiro",1200000,1500000,2022-05-30
+"1109","Malo Gusto",2003-05-19,"Décines-Charpieu",1.5e+07,1.5e+07,2022-09-19
+"1110","Saël Kumbedi",2005-03-26,"Stains",1e+06,1e+06,2022-11-02
+"1111","Johann Lepenant",2002-10-22,"Granville",1e+07,1e+07,2022-11-02
+"1112","Thiago Mendes",1992-03-15,"São Luís",8e+06,2.5e+07,2019-06-03
+"1113","Maxence Caqueret",2000-02-15,"Vénissieux",2.5e+07,2.5e+07,2022-05-30
+"1114","Houssem Aouar",1998-06-30,"Lyon",2e+07,5.5e+07,2020-03-13
+"1115","Corentin Tolisso",1994-08-03,"Tarare",1.4e+07,4.5e+07,2018-07-16
+"1116","Mohamed El Arouch",2004-04-06,"Orange",1500000,1500000,2022-09-19
+"1117","Florent Sanchez",2003-04-02,"Vaulx-en-Velin",NA,NA,2022-06-21
+"1118","Romain Faivre",1998-07-14,"Asnières-sur-Seine",1e+07,1.5e+07,2021-12-16
+"1119","Jeff Reine-Adélaïde",1998-01-17,"Champigny-sur-Marne",1e+07,2.5e+07,2019-09-27
+"1120","Karl Toko Ekambi",1992-09-14,"Paris",1.2e+07,1.8e+07,2018-06-04
+"1121","Bradley Barcola",2002-09-02,"Lyon",2e+06,2e+06,2022-09-19
+"1122","Tetê",2000-02-15,"Alvorada",2.5e+07,2.8e+07,2022-09-19
+"1123","Rayan Cherki",2003-08-17,"Lyon",1.8e+07,2.7e+07,2021-06-04
+"1124","Moussa Dembélé",1996-07-12,"Pontoise",1.8e+07,5e+07,2020-03-13
+"1125","Alexandre Lacazette",1991-05-28,"Lyon",1.2e+07,7e+07,2019-06-13
+"1126","Pau López",1994-12-13,"Girona",1.2e+07,2.4e+07,2019-12-12
+"1127","Rubén Blanco",1995-07-25,"Mos",3e+06,1e+07,2020-03-05
+"1128","Simon Ngapandouetnbu",2003-04-12,"Foumban",NA,NA,2022-03-23
+"1129","Jelle Van Neck",2004-03-07,"Brugge",NA,NA,2022-09-19
+"1130","Chancel Mbemba",1994-08-08,"Kinshasa",1.7e+07,1.7e+07,2022-05-31
+"1131","Samuel Gigot",1993-10-12,"Avignon",1e+07,1.1e+07,2020-12-29
+"1132","Leonardo Balerdi",1999-01-26,"Villa Mercedes",1e+07,1.5e+07,2019-03-06
+"1133","Eric Bailly",1994-04-12,"Bingerville",8e+06,3.5e+07,2018-01-02
+"1134","Isaak Touré",2003-03-28,"Gonesse",5e+06,5e+06,2022-06-02
+"1135","Sead Kolasinac",1993-06-20,"Karlsruhe",3e+06,2e+07,2018-12-19
+"1136","Issa Kaboré",2001-05-12,"Bobo-Dioulasso",5e+06,5e+06,2022-11-02
+"1137","Pape Gueye",1999-01-24,"Montreuil",1e+07,1.2e+07,2022-05-30
+"1138","Bartug Elmaz",2003-02-19,"Tekirdag",NA,NA,2022-06-01
+"1139","Mattéo Guendouzi",1999-04-14,"Poissy",2.5e+07,5e+07,2019-12-10
+"1140","Valentin Rongier",1994-12-07,"Mâcon",1.4e+07,2e+07,2019-12-19
+"1141","Jordan Veretout",1993-03-01,"Ancenis",1.4e+07,3.5e+07,2021-03-23
+"1142","Jonathan Clauss",1992-09-25,"Strasbourg",1.5e+07,1.5e+07,2022-05-30
+"1143","Nuno Tavares",2000-01-26,"Lisboa",1.8e+07,1.8e+07,2022-09-19
+"1144","Gerson",1997-05-20,"Belford Roxo",1.8e+07,2.2e+07,2022-05-30
+"1145","Amine Harit",1997-06-18,"Pontoise",1.4e+07,3e+07,2019-12-17
+"1146","Dimitri Payet",1987-03-29,"Saint-Pierre",3e+06,3e+07,2016-08-01
+"1147","Salim Ben Seghir",2003-02-24,"Saint-Tropez",NA,NA,2021-03-09
+"1148","Cengiz Ünder",1997-07-14,"Balikesir",1.7e+07,3.5e+07,2018-12-20
+"1149","Luis Suárez",1997-12-02,"Santa Marta",9e+06,1e+07,2020-10-08
+"1150","Bamba Dieng",2000-03-23,"Pikine",8e+06,1e+07,2022-05-30
+"1151","Alexis Sánchez",1988-12-19,"Tocopilla",4500000,7e+07,2018-01-02
+"1152","Aylan Benyahia-Tani",2005-07-19,"Marseille",NA,NA,2022-03-30
+"1153","Kasper Schmeichel",1986-11-05,"Kopenhagen",2500000,1.2e+07,2018-07-16
+"1154","Marcin Bulka",1999-10-04,"Płock",2e+06,2e+06,2022-05-30
+"1155","Teddy Boulhendi",2001-04-09,"Martigues",NA,NA,2020-08-03
+"1156","Jean-Clair Todibo",1999-12-30,"Cayenne",2e+07,2e+07,2022-05-30
+"1157","Mattia Viti",2002-01-24,"Borgo San Lorenzo",1e+07,1e+07,2022-09-19
+"1158","Mads Bech Sörensen",1999-01-07,"Horsens",4e+06,5e+06,2022-06-15
+"1159","Dante",1983-10-18,"Salvador da Bahia",NA,1.7e+07,2013-06-30
+"1160","Melvin Bard",2000-11-06,"Ecully",8e+06,9e+06,2021-12-16
+"1161","Joe Bryan",1993-09-17,"Bristol",3e+06,7e+06,2020-02-27
+"1162","Youcef Atal",1996-05-17,"Boghni",1.4e+07,2.5e+07,2019-09-27
+"1163","Jordan Lotomba",1998-09-29,"Yverdon-les-Bains",6e+06,7e+06,2022-05-30
+"1164","Antoine Mendy",2004-05-27,"Marseille",NA,NA,2022-03-30
+"1165","Khéphren Thuram",2001-03-26,"Reggio Emilia",2.5e+07,2.5e+07,2022-09-19
+"1166","Pablo Rosario",1997-01-07,"Amsterdam",7e+06,1.3e+07,2019-06-12
+"1167","Mario Lemina",1993-09-01,"Libreville",7e+06,1.5e+07,2018-01-02
+"1168","Alexis Beka Beka",2001-03-29,"Paris",6e+06,7e+06,2022-09-19
+"1169","Morgan Schneiderlin",1989-11-08,"Strasbourg",2500000,3e+07,2016-02-09
+"1170","Ross Barkley",1993-12-05,"Liverpool",1e+07,3e+07,2019-06-13
+"1171","Hicham Boudaoui",1999-09-23,"Béchar",5e+06,6500000,2022-05-30
+"1172","Aaron Ramsey",1990-12-26,"Caerphilly",3e+06,4.5e+07,2018-05-28
+"1173","Sofiane Diop",2000-06-09,"Tours",1.8e+07,2e+07,2021-10-08
+"1174","Billal Brahimi",2000-03-14,"Paris",4e+06,5e+06,2022-05-30
+"1175","Rares Ilie",2003-04-19,"Bucharest",3e+06,3e+06,2022-09-19
+"1176","Nicolas Pépé",1995-05-29,"Mantes-la-Jolie",2.2e+07,7.5e+07,2019-09-12
+"1177","Lucas Da Cunha",2001-06-09,"Roanne",3e+06,4e+06,2022-05-30
+"1178","Badredine Bouanani",2004-12-08,"Lille",NA,NA,2022-09-19
+"1179","Gaëtan Laborde",1994-05-03,"Mont-de-Marsan",1.4e+07,1.8e+07,2021-12-16
+"1180","Andy Delort",1991-10-09,"Sète",1.2e+07,1.6e+07,2021-04-09
+"1181","Lucas Chevalier",2001-11-06,"Calais",5e+06,5e+06,2022-11-02
+"1182","Léo Jardim",1995-03-20,"Ribeirão Preto",3e+06,4e+06,2019-09-27
+"1183","Adam Jakubech",1997-01-02,"Prešov",NA,1200000,2020-10-16
+"1184","Tiago Djaló",2000-04-09,"Amadora",1.2e+07,1.2e+07,2022-03-23
+"1185","Bafodé Diakité",2001-01-06,"Toulouse",4500000,8e+06,2019-12-19
+"1186","Alexsandro",1999-08-09,"Rio de Janeiro",2500000,2500000,2022-11-02
+"1187","Leny Yoro",2005-11-13,"Saint-Maurice",2500000,2500000,2022-11-02
+"1188","José Fonte",1983-12-22,"Penafiel",NA,7e+06,2017-02-20
+"1189","Gabriel Gudmundsson",1999-04-29,"Malmö",5e+06,6e+06,2022-05-30
+"1190","Ismaily",1990-01-11,"Ivinhema",3e+06,1.9e+07,2019-06-20
+"1191","Akim Zedadka",1995-05-30,"Pertuis",3e+06,4e+06,2022-05-30
+"1192","Benjamin André",1990-08-03,"Nizza",1e+07,1.5e+07,2021-04-09
+"1193","Jonas Martin",1990-04-09,"Besançon",1800000,5e+06,2018-12-17
+"1194","André Gomes",1993-07-30,"Vila Nova de Gaia",1.4e+07,3e+07,2016-07-15
+"1195","Carlos Baleba",2004-01-03,"Douala",NA,NA,2022-11-02
+"1196","Angel Gomes",2000-08-31,"London",1.3e+07,1.3e+07,2022-11-02
+"1197","Rémy Cabella",1990-03-08,"Ajaccio",5e+06,1.4e+07,2018-12-17
+"1198","Jonathan Bamba",1996-03-26,"Alfortville",2e+07,2.5e+07,2021-01-07
+"1199","Alan Virginius",2003-01-03,"Soisy-sous-Montmorency",4e+06,4e+06,2022-09-19
+"1200","Adam Ounas",1996-11-11,"Chambray-lès-Tours",8e+06,1e+07,2019-03-01
+"1201","Edon Zhegrova",1999-03-31,"Herford",5e+06,5e+06,2022-05-30
+"1202","Isaac Lihadji",2002-04-10,"Marseille",1500000,4e+06,2021-01-07
+"1203","Jonathan David",2000-01-14,"Brooklyn, New York",4.5e+07,5e+07,2021-12-16
+"1204","Timothy Weah",2000-02-22,"New York City, New York",1.2e+07,1.5e+07,2021-12-16
+"1205","Mohamed Bayo",1998-06-04,"Clermont-Ferrand",1e+07,1.2e+07,2022-05-30
+"1206","Brice Samba",1994-04-25,"Linzolo",8e+06,8e+06,2022-11-02
+"1207","Wuilker Fariñez",1998-02-15,"Caracas, Distrito Capital",4e+06,5e+06,2019-06-21
+"1208","Jean-Louis Leca",1985-09-21,"Bastia",NA,1300000,2020-08-14
+"1209","Yannick Pandor",2001-05-01,"Marseille",NA,NA,2022-03-30
+"1210","Facundo Medina",1999-05-28,"Buenos Aires",1.5e+07,1.5e+07,2022-11-02
+"1211","Kevin Danso",1998-09-19,"Voitsberg",1.4e+07,1.4e+07,2022-11-02
+"1212","Jonathan Gradit",1992-11-24,"Talence",4500000,4500000,2022-05-30
+"1213","Steven Fortes",1992-04-17,"Marseille",NA,1e+06,2017-06-15
+"1214","Adrien Louveau",2000-02-01,"Lille",NA,NA,2022-03-30
+"1215","Deiver Machado",1993-09-02,"Tadó",3e+06,3e+06,2022-11-02
+"1216","Massadio Haidara",1992-12-02,"Trappes",3e+06,3e+06,2014-01-15
+"1217","Ismaël Boura",2000-08-14,"Bandrele",1200000,1500000,2020-10-15
+"1218","Julien Le Cardinal",1997-08-03,"Saint-Brieuc",1e+06,1e+06,2022-10-28
+"1219","Salis Abdul Samed",2000-03-26,"Accra",1e+07,1e+07,2022-11-02
+"1220","Jean Onana",2000-01-08,"Yaoundé",5e+06,5e+06,2022-05-30
+"1221","Lukasz Poreba",2000-03-13,"Legnica",2500000,2500000,2022-09-19
+"1222","Seko Fofana",1995-05-07,"Paris",3e+07,3e+07,2022-09-19
+"1223","Yaya Fofana",2004-06-12,"Abidjan",NA,NA,2022-11-02
+"1224","Przemyslaw Frankowski",1995-04-12,"Gdańsk",7e+06,8e+06,2022-05-30
+"1225","Jimmy Cabot",1994-04-18,"Chambéry",4e+06,5e+06,2022-05-30
+"1226","David Costa",2001-01-05,"Almada",1e+07,1e+07,2022-11-02
+"1227","Alexis Claude-Maurice",1998-06-06,"Noisy-le-Grand",5e+06,1.2e+07,2021-06-04
+"1228","Wesley Saïd",1995-04-19,"Noisy-le-Grand",2500000,8e+06,2019-09-27
+"1229","Loïs Openda",2000-02-16,"Luik",1.2e+07,1.2e+07,2022-09-19
+"1230","Adam Buksa",1996-07-12,"Kraków",7e+06,9e+06,2022-04-01
+"1231","Florian Sotoca",1990-10-25,"Narbonne",4e+06,4e+06,2022-11-02
+"1232","Jonas Omlin",1994-01-10,"Sarnen",7e+06,8e+06,2021-01-07
+"1233","Dimitry Bertaud",1998-06-06,"Montpellier",1500000,1500000,2022-05-30
+"1234","Bingourou Kamara",1996-10-21,"Longjumeau",NA,2500000,2018-01-24
+"1235","Matis Carvalho",1999-04-28,"Nantes",NA,NA,2022-11-02
+"1236","Maxime Estève",2002-05-26,"Montpellier",4e+06,4500000,2022-05-30
+"1237","Christopher Jullien",1993-03-22,"Lagny-sur-Marne",3500000,6500000,2020-02-05
+"1238","Mamadou Sakho",1990-02-13,"Paris",3500000,1.9e+07,2013-09-18
+"1239","Pedro Mendes",1990-10-01,"Neuchâtel",3e+06,7e+06,2021-01-07
+"1240","Enzo Tchato",2002-11-23,"Montpellier",2500000,2500000,2022-11-02
+"1241","Faitout Maouassa",1998-07-06,"Villepinte",5e+06,1.3e+07,2020-10-15
+"1242","Nicolas Cozza",1999-01-08,"Ganges",5e+06,5e+06,2022-03-23
+"1243","Théo Sainte-Luce",1998-10-20,"Chauny",2e+06,2e+06,2022-11-02
+"1244","Thibault Tamas",2001-02-20,"Colombes",NA,NA,2020-08-04
+"1245","Falaye Sacko",1995-05-01,"Bamako",4e+06,4e+06,2022-05-30
+"1246","Arnaud Souquet",1992-02-12,"Paris",2e+06,5e+06,2019-12-19
+"1247","Mathías Suárez",1996-06-24,"Montevideo",NA,1500000,2019-06-03
+"1248","Joris Chotard",2001-09-24,"Orange",9e+06,1e+07,2022-03-23
+"1249","Jordan Ferri",1992-03-12,"Cavaillon",5e+06,7500000,2015-06-06
+"1250","Léo Leroy",2000-02-14,"Marseille",1200000,1800000,2021-12-16
+"1251","Sacha Delaye",2002-04-23,"Rennes",NA,NA,2022-05-30
+"1252","Khalil Fayad",2004-06-09,"Montpellier",NA,NA,2022-09-19
+"1253","Téji Savanier",1991-12-22,"Montpellier",1.2e+07,1.2e+07,2019-06-03
+"1254","Stephy Mavididi",1998-05-31,"Derby",8e+06,1e+07,2022-03-23
+"1255","Béni Makouana",2002-09-28,"Brazzaville",NA,1e+06,2022-03-23
+"1256","Arnaud Nordin",1998-06-17,"Paris",4e+06,5e+06,2019-12-19
+"1257","Elye Wahi",2003-01-02,"Courcouronnes",1.8e+07,1.8e+07,2022-11-02
+"1258","Wahbi Khazri",1991-02-08,"Ajaccio",3e+06,1.6e+07,2019-03-07
+"1259","Valère Germain",1990-04-17,"Marseille",2e+06,1e+07,2017-06-01
+"1260","Alban Lafont",1999-01-23,"Ouagadougou",1.6e+07,1.8e+07,2018-01-24
+"1261","Rémy Descamps",1996-06-25,"Marcq-en-Barœul",NA,1200000,2019-06-03
+"1262","Denis Petric",1988-05-24,"Ljubljana",NA,1500000,2015-06-06
+"1263","Andrei Girotto",1992-02-17,"Bento Gonçalves",4e+06,5e+06,2019-12-19
+"1264","Jean-Charles Castelletto",1995-01-26,"Clamart",4e+06,5e+06,2022-09-19
+"1265","Nicolas Pallois",1987-09-19,"Elbeuf",1e+06,3500000,2015-06-06
+"1266","Robin Voisine",2002-04-07,"Nantes",NA,NA,2022-05-30
+"1267","Quentin Merlin",2002-05-16,"Nantes",7e+06,7e+06,2022-09-19
+"1268","Charles Traoré",1992-01-01,"Aulnay-sous-Bois",NA,3e+06,2019-06-03
+"1269","Fabien Centonze",1996-01-16,"Voiron",5e+06,8e+06,2021-04-09
+"1270","Dennis Appiah",1992-06-09,"Toulouse",1500000,3e+06,2016-07-15
+"1271","Fábio",1990-07-09,"Petrópolis",1200000,8e+06,2011-08-08
+"1272","Sébastien Corchia",1990-11-01,"Noisy-le-Sec",1200000,7500000,2016-11-01
+"1273","Pedro Chirivella",1997-05-23,"Valencia",6e+06,7e+06,2022-05-30
+"1274","Lohann Doucet",2002-09-14,"Nantes",NA,NA,2022-11-02
+"1275","Samuel Moutoussamy",1996-08-12,"Paris",3500000,5e+06,2019-06-03
+"1276","Moussa Sissoko",1989-08-16,"Le Blanc-Mesnil",3500000,2.5e+07,2019-06-13
+"1277","Mohamed Achi",2002-01-16,"Bondy",NA,NA,2022-11-02
+"1278","Ludovic Blas",1997-12-31,"Colombes",1.5e+07,1.6e+07,2021-12-16
+"1279","Gor Manvelyan",2002-04-09,NA,NA,NA,2021-07-01
+"1280","Samuel Yépié Yépié",2002-10-02,"Gonesse",NA,NA,2022-09-19
+"1281","Moses Simon",1995-07-12,"Jos",9e+06,1e+07,2022-03-23
+"1282","Marcus Coco",1996-06-24,"Les Abymes",1500000,3e+06,2017-06-01
+"1283","Abdoul Kader Bamba",1994-05-25,"Sarcelles",1e+06,2e+06,2020-03-13
+"1284","Mostafa Mohamed",1997-11-28,"Giza",6e+06,6500000,2021-05-21
+"1285","Evann Guessand",2001-07-01,"Ajaccio",5e+06,5e+06,2022-09-19
+"1286","Ignatius Ganago",1999-02-16,"Douala",4e+06,8e+06,2021-01-07
+"1287","Joe-Loic Affamah",2002-06-29,"Lomé",NA,NA,2022-09-19
+"1288","Matz Sels",1992-02-26,"Lint",8e+06,8e+06,2019-12-19
+"1289","Eiji Kawashima",1983-03-20,"Yono, Saitama",NA,3e+06,2013-06-25
+"1290","Robin Risser",2004-12-02,"Colmar",NA,NA,2022-09-19
+"1291","Alexandre Pierre",2001-02-25,"Aubervilliers",NA,NA,2021-03-09
+"1292","Alexander Djiku",1994-08-09,"Montpellier",8e+06,1e+07,2022-05-30
+"1293","Gerzino Nyamsi",1997-01-22,"Saint-Brieuc",6500000,7500000,2022-05-30
+"1294","Lucas Perrin",1998-11-19,"Marseille",3500000,5e+06,2022-05-30
+"1295","Ismaël Doukouré",2003-07-24,"Lille",2e+06,2e+06,2022-09-19
+"1296","Maxime Le Marchand",1989-10-11,"Saint-Malo",1200000,5e+06,2018-08-13
+"1297","Thomas Delaine",1992-03-24,"Lens",1500000,2e+06,2021-12-16
+"1298","Colin Dagba",1998-09-09,"Béthune",5e+06,1.8e+07,2019-09-27
+"1299","Ronaël Pierre-Gabriel",1998-06-13,"Paris",4500000,6e+06,2018-09-06
+"1300","Karol Fila",1998-06-13,"Gdańsk",1e+06,1500000,2020-01-15
+"1301","Ibrahima Sissoko",1997-10-27,"Meaux",8e+06,8e+06,2022-03-23
+"1302","Jean-Eudes Aholou",1994-03-20,"Yopougon",3e+06,1e+07,2018-09-06
+"1303","Habib Diarra",2004-01-03,"Guédiawaye",3e+06,3e+06,2022-09-19
+"1304","Jean-Ricner Bellegarde",1998-06-27,"Colombes",8e+06,8e+06,2022-05-30
+"1305","Sanjin Prcic",1993-11-20,"Belfort",3500000,4e+06,2019-06-03
+"1306","Dimitri Liénard",1988-02-13,"Belfort",NA,2e+06,2018-01-24
+"1307","Adrien Thomasson",1993-12-10,"Bourg-Saint-Maurice",5e+06,9e+06,2022-05-30
+"1308","Nordine Kandil",2001-10-31,"Strasbourg",NA,NA,2022-05-30
+"1309","Habib Diallo",1995-06-18,"Thies",1.2e+07,1.5e+07,2020-03-13
+"1310","Ludovic Ajorque",1994-02-25,"Saint-Denis",1.1e+07,1.6e+07,2022-05-30
+"1311","Kévin Gameiro",1987-05-09,"Senlis",1500000,2.5e+07,2016-10-27
+"1312","Lebo Mothiba",1996-01-28,"Johannesburg, Gauteng",1500000,7e+06,2018-12-17
+"1313","Patrick Pentz",1997-01-02,"Salzburg",1500000,2500000,2021-03-24
+"1314","Yehvann Diouf",1999-11-16,"Montreuil-sous-Bois",1e+06,1e+06,2022-11-02
+"1315","Nicolas Penneteau",1981-02-28,"Marseille",NA,2800000,2011-05-24
+"1316","Florent Duparchy",2000-06-20,"Lyon",NA,NA,2022-09-19
+"1317","Andreaw Gravillon",1998-02-08,"Pointe-à-Pitre",7e+06,7e+06,2022-11-02
+"1318","Emmanuel Agbadou",1997-06-17,"Abidjan",3e+06,3e+06,2022-01-06
+"1319","Yunis Abdelhamid",1987-09-28,"Montpellier",NA,2500000,2019-06-03
+"1320","Bradley Locko",2002-05-06,"Ivry-sur-Seine",3500000,3500000,2022-11-02
+"1321","Thibault De Smet",1998-06-05,"Brugge",NA,NA,2021-06-04
+"1322","Thomas Foket",1994-09-25,"Brüssel",4500000,6e+06,2019-03-07
+"1323","Maxime Busi",1999-10-14,"Liège",3e+06,5e+06,2020-10-29
+"1324","Azor Matusiwa",1998-04-28,"Hilversum",6e+06,7e+06,2022-05-30
+"1325","Marshall Munetsi",1996-06-22,"Harare",5e+06,5e+06,2022-05-30
+"1326","Jens Cajuste",1999-08-10,"Göteborg",4500000,7e+06,2021-10-06
+"1327","Dion Lopy",2002-02-02,"Dakar",3e+06,3e+06,2022-11-02
+"1328","Martin Adeline",2003-12-02,"Épernay",NA,NA,2022-03-23
+"1329","Kamory Doumbia",2003-02-18,"Bamako",2500000,2500000,2022-11-02
+"1330","Rafik Guitane",1999-05-26,"Évreux",1500000,5e+06,2018-05-16
+"1331","Nathanaël Mbuku",2002-03-16,"Villeneuve-Saint-Georges",5e+06,9e+06,2021-06-04
+"1332","Arbër Zeneli",1995-02-25,"Falun",4e+06,6e+06,2018-12-28
+"1333","Mitchell van Bergen",1999-08-27,"Oss",1500000,4e+06,2019-12-18
+"1334","Junya Ito",1993-03-09,"Yokosuka, Kanagawa",9e+06,9e+06,2022-11-02
+"1335","Alexis Flips",2000-01-18,"Villeneuve-d'Ascq",3e+06,3e+06,2022-11-02
+"1336","Folarin Balogun",2001-07-03,"New York City, New York",1.4e+07,1.4e+07,2022-11-02
+"1337","Kaj Sierhuis",1998-04-27,"Athen",1500000,3e+06,2020-02-11
+"1338","Noah Jean Holm",2001-05-23,"Drammen",NA,NA,2022-11-02
+"1339","Timothé Nkada",1999-07-20,"Lille",NA,NA,2019-12-19
+"1340","Yvon Mvogo",1994-06-06,"Yaounde",3500000,4500000,2021-05-25
+"1341","Vito Mannone",1988-03-02,"Desio",NA,3500000,2014-08-12
+"1342","Teddy Bartouche",1997-06-05,"Lagny-sur-Marne",NA,NA,2020-08-14
+"1343","Montassar Talbi",1998-05-26,"Paris",4e+06,4e+06,2022-11-02
+"1344","Chrislain Matsima",2002-05-15,"Colombes",4e+06,6e+06,2021-06-04
+"1345","Julien Laporte",1993-11-04,"Aurillac",3e+06,3e+06,2022-05-30
+"1346","Maxime Wackers",1998-01-01,"Villeneuve-d'Ascq",NA,NA,2022-03-30
+"1347","Vincent Le Goff",1989-10-15,"Quimper",1200000,2e+06,2020-10-15
+"1348","Darlin Yongwa",2000-09-22,"Douala",1e+06,1200000,2022-06-02
+"1349","Samuel Loric",2000-07-05,"Vannes",NA,NA,2021-12-16
+"1350","Gédéon Kalulu",1997-08-29,"Lyon",4e+06,4e+06,2022-11-02
+"1351","Igor Silva",1996-08-21,"Niterói",2e+06,2500000,2021-10-08
+"1352","Théo Le Bris",2002-10-01,"Rennes",2e+06,2e+06,2022-11-02
+"1353","Laurent Abergel",1993-02-01,"Marseille",3e+06,3e+06,2022-05-30
+"1354","Bonke Innocent",1996-01-20,"Kaduna",2e+06,2e+06,2022-05-30
+"1355","Bamo Meïté",2001-06-20,"Kani",NA,NA,2021-06-25
+"1356","Enzo Le Fée",2000-02-03,"Lorient",1.2e+07,1.2e+07,2022-11-02
+"1357","Adil Aouchiche",2002-07-15,"Le Blanc-Mesnil",3e+06,1e+07,2020-10-15
+"1358","Julien Ponceau",2000-11-28,"Catumbela",2500000,2500000,2022-11-02
+"1359","Quentin Boisgard",1997-03-17,"Toulouse",1500000,2500000,2020-10-15
+"1360","Yoann Cathline",2002-07-22,"Champigny-sur-Marne",2500000,2500000,2022-09-19
+"1361","Dango Ouattara",2002-02-11,"Ouagadougou",1e+07,1e+07,2022-11-02
+"1362","Stéphane Diarra",1998-12-09,"Abidjan",3e+06,3e+06,2022-11-02
+"1363","Terem Moffi",1999-05-25,"Calabar",1.5e+07,1.5e+07,2022-11-02
+"1364","Ibrahima Koné",1999-06-16,"Bamako",4e+06,4500000,2022-05-30
+"1365","Adrian Grbic",1996-08-04,"Wien",1200000,9e+06,2020-10-15
+"1366","Siriné Doucouré",2002-04-08,"Nogent-sur-Marne",NA,NA,2021-06-25
+"1367","Gauthier Gallon",1993-04-23,"Nice",2e+06,2500000,2021-12-16
+"1368","Mateusz Lis",1997-02-27,"Żary",1e+06,1100000,2022-03-31
+"1369","Jessy Moulin",1986-01-13,"Valence",NA,1e+06,2020-10-15
+"1370","Jackson Porozo",2000-08-04,"San Lorenzo",3e+06,3e+06,2022-05-31
+"1371","Erik Palmer-Brown",1997-04-24,"Napoleon, Ohio",3e+06,3e+06,2022-05-30
+"1372","Yoann Salmier",1992-11-21,"Villiers-le-Bel",2e+06,2e+06,2022-05-30
+"1373","Tanguy Zoukrou",2003-05-07,"Le Chesnay",NA,NA,2021-12-16
+"1374","Adil Rami",1985-12-27,"Bastia",NA,1.4e+07,2012-02-03
+"1375","Eric N'Jo",2004-06-01,"Sens",NA,NA,2022-05-30
+"1376","Gabriel Mutombo",1996-01-19,"Villeurbanne",NA,NA,2019-06-27
+"1377","Yasser Larouci",2001-01-01,"El Oued",3e+06,3500000,2022-09-19
+"1378","Abdu Conté",1998-03-24,"Bissau",2500000,3e+06,2022-05-30
+"1379","Thierno Baldé",2002-06-10,"Villeneuve-Saint-Georges",4e+06,4e+06,2022-11-02
+"1380","Andreas Bruus",1999-01-16,NA,2e+06,2e+06,2022-06-20
+"1381","Lucien Agoumé",2002-02-09,"Yaoundé",7e+06,7e+06,2022-05-30
+"1382","Rominigue Kouamé",1996-12-17,"Lopou",5e+06,5e+06,2022-05-30
+"1383","Florian Tardieu",1992-04-22,"Istres",3e+06,3e+06,2022-05-30
+"1384","Ante Palaversa",2000-04-06,"Split",1200000,5e+06,2019-03-11
+"1385","Tristan Dingomé",1991-02-17,"Les Ulis",NA,2500000,2019-06-03
+"1386","Xavier Chavalerin",1991-03-07,"Villeurbanne",1800000,5e+06,2019-12-19
+"1387","Papa Ndiaga Yade",2000-01-05,"Saint-Louis",1800000,3e+06,2021-06-04
+"1388","Amar Abdirahman Ahmed",2004-02-19,"Solna",1500000,1500000,2022-09-02
+"1389","Levi Lumeka",1998-09-05,"Beckton",NA,NA,2020-11-11
+"1390","Wilson Odobert",2004-11-28,"Meaux",5e+06,5e+06,2022-11-02
+"1391","Rony Lopes",1995-12-28,"Belém",4e+06,2.8e+07,2018-06-04
+"1392","Renaud Ripart",1993-03-14,"Nîmes",3e+06,5e+06,2021-06-04
+"1393","Marlos Moreno",1996-09-20,"Medellín",NA,1e+06,2016-07-28
+"1394","Mama Baldé",1995-11-06,"Bissau",6e+06,6e+06,2021-01-07
+"1395","Iké Ugbo",1998-09-21,"London",4e+06,5e+06,2022-05-30
+"1396","Marco Bizot",1991-03-10,"Hoorn",4e+06,7e+06,2020-03-12
+"1397","Joaquín Blázquez",2001-01-28,"Luque",NA,NA,2022-09-19
+"1398","Grégoire Coudert",1999-04-03,"Rodez",NA,NA,2021-06-25
+"1399","Brendan Chardonnet",1994-12-22,"Saint-Renan",5e+06,5e+06,2022-05-30
+"1400","Jean-Kévin Duverne",1997-07-12,"Paris",4e+06,4e+06,2021-01-07
+"1401","Lilian Brassier",1999-11-02,"Argenteuil",4e+06,4e+06,2022-05-30
+"1402","Achraf Dari",1999-05-06,"Casablanca",2500000,2500000,2022-09-19
+"1403","Christophe Hérelle",1992-08-22,"Nizza",2500000,9e+06,2019-06-03
+"1404","Jere Uronen",1994-07-13,"Turku",1e+06,3500000,2019-03-04
+"1405","Noah Fadiga",1999-12-03,"Brugge",1e+06,1e+06,2022-11-02
+"1406","Pierre Lees-Melou",1993-05-25,"Langon",4500000,1e+07,2020-03-13
+"1407","Haris Belkebla",1994-01-28,"Drancy",4e+06,4e+06,2022-05-30
+"1408","Mahdi Camara",1998-06-30,"Martigues",4e+06,6e+06,2021-10-08
+"1409","Hugo Magnetti",1998-05-30,"Marseille",1800000,2e+06,2022-05-30
+"1410","Mathias Pereira Lage",1996-11-30,"Clermont-Ferrand",2500000,3500000,2019-09-27
+"1411","Axel Camblan",2003-08-30,"Brest",NA,NA,2022-11-02
+"1412","Franck Honorat",1996-08-11,"Toulon",9e+06,1e+07,2022-03-23
+"1413","Romain Del Castillo",1996-03-29,"Lyon",3e+06,6e+06,2020-03-13
+"1414","Karamoko Dembélé",2003-02-22,"London",NA,NA,2022-09-19
+"1415","Taïryk Arconte",2003-11-12,"Les Abymes",NA,NA,2022-06-02
+"1416","Steve Mounié",1994-09-29,"Parakou",6e+06,1e+07,2017-08-16
+"1417","Jérémy Le Douaron",1998-04-21,"Ploufragan",3e+06,3e+06,2022-05-30
+"1418","Irvin Cardona",1997-08-08,"Nîmes",2500000,8e+06,2021-01-07
+"1419","Islam Slimani",1988-06-18,"El Hammamet",1500000,2.5e+07,2016-10-24
+"1420","Paul Bernardoni",1997-04-18,"Évry",5e+06,1e+07,2021-01-07
+"1421","Yahia Fofana",2000-08-21,"Paris",2500000,2500000,2022-11-02
+"1422","Melvin Zinga",2002-03-16,"Montivilliers",NA,NA,2022-09-19
+"1423","Théo Borne",2002-07-15,"Montbéliard",NA,NA,2022-09-19
+"1424","Cédric Hountondji",1994-01-19,"Toulouse",3e+06,3e+06,2022-05-30
+"1425","Miha Blazic",1993-05-08,"Koper",2e+06,2e+06,2020-10-23
+"1426","Ousmane Camara",2003-03-06,"Paris",2e+06,2e+06,2022-06-02
+"1427","Souleyman Doumbia",1996-09-24,"Paris",3e+06,3e+06,2019-03-07
+"1428","Ilyes Chetti",1995-01-22,"Annaba",NA,NA,2020-01-07
+"1429","Yan Valery",1999-02-22,"Champigny-sur-Marne",2500000,7e+06,2019-06-13
+"1430","Halid Sabanovic",1999-08-22,"Sarajevo",NA,NA,2022-09-19
+"1431","Abdoulaye Bamba",1990-04-25,"Abidjan",NA,3e+06,2019-06-03
+"1432","Ali Kalla",1998-04-23,"Paris",NA,NA,2022-03-30
+"1433","Batista Mendy",2000-01-12,"Saint-Nazaire",3e+06,3e+06,2022-05-30
+"1434","Ibrahim Amadou",1993-04-06,"Douala",1800000,1.5e+07,2018-07-12
+"1435","Zinédine Ould Khaled",2000-01-14,"Alfortville",NA,NA,2021-06-04
+"1436","Nabil Bentaleb",1994-11-24,"Lille",5e+06,2e+07,2018-12-18
+"1437","Azzedine Ounahi",2000-04-19,"Casablanca",3500000,3500000,2022-11-02
+"1438","Antonin Bobichon",1995-09-14,"Bagnols-sur-Cèze",1200000,5e+06,2019-06-03
+"1439","Yassin Belkhdim",2002-02-14,"Meulan-en-Yvelines",NA,NA,2022-03-30
+"1440","Pierrick Capelle",1987-04-15,"Lesquin",NA,2e+06,2018-12-17
+"1441","Himad Abdelli",1999-11-17,"Montivilliers",1200000,1800000,2021-06-25
+"1442","Waniss Taïbi",2002-03-07,"Limoges",NA,NA,2021-12-16
+"1443","Jean-Mattéo Bahoya",2005-05-07,NA,NA,NA,2022-09-19
+"1444","Sofiane Boufal",1993-09-17,"Paris",8e+06,1.5e+07,2016-10-24
+"1445","Marin Jakolis",1996-12-26,"Šibenik",NA,1200000,2021-12-30
+"1446","Farid El Melali",1997-05-05,"Blida",NA,2e+06,2019-09-27
+"1447","Abdallah Sima",2001-06-17,"Dakar",7e+06,1.1e+07,2021-04-19
+"1448","Sada Thioub",1995-06-01,"Nanterre",2e+06,5500000,2018-10-24
+"1449","Adrien Hunou",1994-01-19,"Évry",3500000,6e+06,2019-06-03
+"1450","Amine Salama",2000-07-18,"Paris",1800000,1800000,2022-11-02
+"1451","Loïs Diony",1992-12-20,"Mont-de-Marsan",1e+06,6e+06,2017-10-12
+"1452","Ulrick Eneme-Ella",2001-05-22,"Sens",NA,NA,2019-07-24
+"1453","Maxime Dupé",1993-03-04,"Malestroit",2e+06,2e+06,2022-11-02
+"1454","Isak Pettersson",1997-06-06,"Laholm",NA,1200000,2019-11-20
+"1455","Kjetil Haug",1998-06-12,"Halden",NA,NA,2022-07-01
+"1456","Thomas Himeur",2001-01-17,"Toulouse",NA,NA,2021-08-06
+"1457","Anthony Rouault",2001-05-29,"Villeneuve-sur-Lot",6e+06,6e+06,2022-11-02
+"1458","Rasmus Nicolaisen",1997-03-16,"Aulum",5e+06,5e+06,2022-11-02
+"1459","Logan Costa",2001-04-01,"Saint-Denis",NA,NA,2020-11-11
+"1460","Kévin Keben",2004-01-26,NA,NA,NA,2022-11-02
+"1461","Issiaga Sylla",1994-01-01,"Conakry",2e+06,3500000,2019-06-03
+"1462","Oliver Zandén",2001-08-14,NA,1200000,1200000,2022-11-02
+"1463","Moussa Diarra",2000-11-10,"Stains",NA,NA,2022-09-19
+"1464","Mikkel Desler",1995-02-19,"Assens",2500000,2500000,2022-11-02
+"1465","Stijn Spierings",1996-03-12,"Alkmaar",4e+06,4e+06,2022-11-02
+"1466","Branco van den Boomen",1995-07-21,"Eindhoven",7e+06,7e+06,2022-09-19
+"1467","Brecht Dejaegere",1991-05-29,"Handzame",1800000,4e+06,2016-02-07
+"1468","Theocharis Tsingaras",2000-08-20,"Chalkidiki",1800000,1800000,2022-06-09
+"1469","Farès Chaïbi",2002-11-28,"Lyon",4e+06,4e+06,2022-11-02
+"1470","Denis Genreau",1999-05-21,"Paris",1200000,1200000,2022-06-02
+"1471","Veljko Birmancevic",1998-03-05,"Šabac",3500000,4e+06,2022-09-02
+"1472","Rafael Ratão",1995-11-30,"Cascavel",2500000,2500000,2022-11-02
+"1473","Junior Flemmings",1996-01-16,"Kingston",NA,NA,2021-04-10
+"1474","Zakaria Aboukhlal",2000-02-18,"Rotterdam",3500000,3500000,2022-09-19
+"1475","Rhys Healey",1994-12-06,"Manchester",3e+06,3e+06,2022-06-02
+"1476","Thijs Dallinga",2000-08-03,"Groningen",3e+06,3e+06,2022-11-02
+"1477","Ado Onaiwu",1995-11-08,"Kamikawa, Saitama",1500000,1500000,2021-10-27
+"1478","Yanis Begraoui",2001-07-04,"Étampes",NA,1500000,2019-06-27
+"1479","Mory Diaw",1993-06-22,"Poissy",1500000,1500000,2022-11-02
+"1480","Ouparine Djoco",1998-04-22,"Juvisy-sur-Orge",NA,1800000,2022-05-30
+"1481","Lucas Margueron",2001-02-12,"Décines",NA,NA,2020-08-14
+"1482","Alidu Seidu",2000-06-04,"Accra",4500000,4500000,2022-11-02
+"1483","Mateusz Wieteska",1997-02-11,"Warszawa",3e+06,3e+06,2022-11-02
+"1484","Maximiliano Caufriez",1997-02-16,"Beveren",1200000,1200000,2021-09-15
+"1485","Florent Ogier",1989-03-21,"Lyon",NA,NA,2019-06-27
+"1486","Souleymane Cissé",2002-08-08,NA,NA,NA,2022-09-19
+"1487","Neto Borges",1996-09-13,"Saubara",1200000,1800000,2019-03-04
+"1488","Arial Mendy",1994-11-07,"Ziguinchor",NA,NA,2022-11-02
+"1489","Baïla Diallo",2001-06-24,"Toulouse",NA,NA,2021-12-27
+"1490","Mehdi Zeffane",1992-05-19,"Sainte-Foy-lès-Lyon",NA,2e+06,2019-06-03
+"1491","Oliver Kamdem",2002-10-15,NA,NA,NA,2022-03-30
+"1492","Yohann Magnin",1997-06-21,"Clermont-Ferrand",2e+06,2e+06,2022-05-30
+"1493","Maxime Gonalons",1989-03-10,"Vénissieux",1e+06,1.6e+07,2015-06-06
+"1494","Johan Gastien",1988-01-25,"Niort",NA,1e+06,2014-11-20
+"1495","Brandon Baiye",2000-12-27,"Mamfe",NA,NA,2022-05-25
+"1496","Yanis Massolin",2002-09-20,NA,NA,NA,2022-09-19
+"1497","Muhammed Cham",2000-09-26,"Linz",4e+06,4e+06,2022-11-02
+"1498","Saîf-Eddine Khaoui",1995-04-27,"Paris",1500000,5e+06,2018-01-24
+"1499","Elbasan Rashani",1993-05-09,"Hillerstorp",2500000,2500000,2022-05-30
+"1500","Jim Allevinah",1995-02-27,"Agen",2e+06,2500000,2021-06-25
+"1501","Jérémie Bela",1993-04-08,"Melun",1800000,3e+06,2020-10-15
+"1502","Jodel Dossou",1992-03-17,"Dassa-Zoumé",1e+06,2e+06,2021-10-08
+"1503","Komnen Andric",1995-07-01,"Novi Pazar",2e+06,2e+06,2022-09-19
+"1504","Grejohn Kyei",1995-08-12,"Gonesse",1500000,2500000,2021-06-23
+"1505","Benoît Costil",1987-07-03,"Caen",1500000,8e+06,2014-01-14
+"1506","Donovan Léon",1992-11-03,"Cayenne",NA,1200000,2022-06-02
+"1507","Théo De Percin",2001-02-02,"Tarbes",NA,NA,2022-06-02
+"1508","Jubal",1993-08-29,"Inhuma",2e+06,2e+06,2022-06-02
+"1509","Théo Pellenard",1994-03-04,"Lille",1200000,2e+06,2018-01-24
+"1510","Julian Jeanvier",1992-03-31,"Clichy",NA,2500000,2018-05-16
+"1511","Denys Bain",1993-07-02,"Dijon",NA,2500000,2019-09-27
+"1512","Alexandre Coeff",1992-02-20,"Brest",NA,1500000,2016-02-04
+"1513","Gideon Mensah",1998-07-18,"Accra",2e+06,3e+06,2020-03-30
+"1514","Kenji-Van Boto",1996-03-07,"Saint-Denis",NA,1500000,2019-06-27
+"1515","Quentin Bernard",1989-07-07,"Poitiers",NA,NA,2018-05-16
+"1516","Paul Joly",2000-06-07,"Orléans",1500000,1500000,2022-11-02
+"1517","Brayann Pereira",2003-05-21,"Saint-Quentin",NA,NA,2022-05-30
+"1518","Birama Touré",1992-06-06,"Kayes",1500000,2e+06,2014-08-07
+"1519","Rayan Raveloson",1997-01-16,"Anosibe Ifanja",1500000,2e+06,2021-11-09
+"1520","Ousoumane Camara",1998-12-19,"Pontoise",NA,NA,2020-11-11
+"1521","Natanaël Bouekou",2002-05-10,"Paris",NA,NA,2022-09-19
+"1522","Kays Ruiz-Atil",2002-08-26,"Lyon",1200000,3e+06,2021-01-07
+"1523","Gaëtan Perrin",1996-06-07,"Lyon",1200000,1300000,2022-06-02
+"1524","Hamza Sakhi",1996-06-07,"Rabat",2e+06,2e+06,2022-06-02
+"1525","Youssouf M'Changama",1990-08-29,"Marseille",1e+06,1500000,2022-06-02
+"1526","Mathias Autret",1991-03-01,"Saint-Thégonnec",1e+06,2500000,2019-09-27
+"1527","Kévin Danois",2004-06-28,"Basse-Terre",NA,NA,2022-09-19
+"1528","Ousmane Camara",2001-11-03,"Conakry",NA,NA,2022-09-19
+"1529","Rémy Dugimont",1986-07-01,"Saint-Cloud",NA,NA,2017-06-15
+"1530","Gauthier Hein",1996-08-07,"Thionville",2500000,3e+06,2022-06-02
+"1531","Lassine Sinayoko",1999-12-08,"Bamako",1200000,1500000,2022-09-19
+"1532","M'Baye Niang",1994-12-19,"Meulan",3e+06,1.5e+07,2016-10-14
+"1533","Nuno Da Costa",1991-02-10,"Praïa",1e+06,5e+06,2018-12-17
+"1534","Gaëtan Charbonnier",1988-12-27,"Saint-Mandé",NA,2500000,2019-06-03
+"1535","Idjessi Metsoko",2002-03-14,"Stains",NA,NA,2022-09-19
+"1536","Benjamin Leroy",1989-04-07,"Cucq",NA,1250000,2016-02-04
+"1537","François-Joseph Sollacaro",1994-03-21,"Ajaccio",NA,NA,2021-12-27
+"1538","Ghjuvanni Quilichini",2002-09-01,NA,NA,NA,2022-11-02
+"1539","Oumar Gonzalez",1998-02-25,"Douala",2500000,2500000,2022-06-02
+"1540","Clément Vidal",2000-06-18,"Montpellier",1500000,1500000,2022-06-02
+"1541","Fernand Mayembo",1996-01-09,"Brazzaville",NA,NA,2019-09-30
+"1542","Cédric Avinel",1986-09-11,"Paris",NA,NA,2018-05-16
+"1543","Youssouf Koné",1995-07-05,"Bamako",1800000,9e+06,2019-09-27
+"1544","Ismaël Diallo",1997-01-29,"Abidjan",1500000,1500000,2022-06-02
+"1545","Chaker Alhadhur",1991-12-04,"Nantes",NA,1250000,2015-09-06
+"1546","Mickaël Alphonse",1989-07-12,"Champigny-sur-Marne",NA,NA,2018-05-16
+"1547","Mohamed Youssouf",1988-03-26,"Paris",NA,NA,2008-05-18
+"1548","Vincent Marchetti",1997-07-04,"Ajaccio",3e+06,3e+06,2022-11-02
+"1549","Qazim Laçi",1996-01-19,"Peshkopi",1800000,3e+06,2022-06-02
+"1550","Thomas Mangani",1987-04-29,"Carpentras",NA,3500000,2017-06-01
+"1551","Mathieu Coutadeur",1986-03-20,"Le Mans",NA,5e+06,2009-05-18
+"1552","Alassane N'Diaye",1991-06-14,"Limoges",NA,NA,2019-01-08
+"1553","Yanis Cimignani",2002-01-22,"Lyon",1800000,2e+06,2022-06-02
+"1554","Mickaël Barreto",1991-01-18,"Paris",NA,1e+06,2021-06-25
+"1555","Florian Chabrolle",1998-04-07,"Montmorency",NA,NA,2020-10-15
+"1556","Youcef Belaïli",1992-03-14,"Oran",1800000,3e+06,2020-01-07
+"1557","Kevin Spadanuda",1997-01-16,"Bülach ZH",NA,NA,2022-09-19
+"1558","Jean Botué",2002-08-07,"Macory",NA,NA,2021-10-27
+"1559","Cyrille Bayala",1996-05-24,"Ouagadougou",1e+06,1e+06,2022-11-02
+"1560","Riad Nouri",1985-06-07,"Marseille",NA,NA,2011-05-30
+"1561","Mounaïm El Idrissy",1999-02-10,"Martigues",1800000,1800000,2022-11-02
+"1562","Bevic Moussiti-Oko",1995-01-28,"Brazzaville",NA,NA,2020-01-06
+"1563","Romain Hamouma",1987-03-29,"Lure",NA,7e+06,2014-08-07
+"1564","Yoann Touzghar",1986-11-28,"Avignon",NA,1750000,2015-01-14
+"1565","Mike Maignan",1995-07-03,"Cayenne",3.5e+07,3.5e+07,2022-06-07
+"1566","Ciprian Tatarusanu",1986-02-09,"Bukarest",NA,5e+06,2016-01-04
+"1567","Antonio Mirante",1983-07-08,"Castellammare di Stabia",NA,6e+06,2014-07-01
+"1568","Andreas Jungdal",2002-02-22,"Singapore",NA,NA,2021-06-30
+"1569","Fikayo Tomori",1997-12-19,"Calgary, Alberta",5e+07,5e+07,2022-06-07
+"1570","Pierre Kalulu",2000-06-05,"Lyon",3.5e+07,3.5e+07,2022-11-11
+"1571","Matteo Gabbia",1999-10-21,"Busto Arsizio",7e+06,9e+06,2020-12-29
+"1572","Malick Thiaw",2001-08-08,"Düsseldorf",6e+06,6e+06,2022-06-16
+"1573","Simon Kjaer",1989-03-26,"Horsens",5e+06,1.3e+07,2018-01-01
+"1574","Theo Hernández",1997-10-06,"Marseille",5.5e+07,5.5e+07,2022-06-07
+"1575","Fodé Ballo-Touré",1997-01-03,"Conflans-Sainte-Honorine",3500000,1.2e+07,2019-03-07
+"1576","Davide Calabria",1996-12-06,"Brescia",2.5e+07,2.5e+07,2021-03-23
+"1577","Sergiño Dest",2000-11-03,"Almere",1.6e+07,3e+07,2021-06-10
+"1578","Alessandro Florenzi",1991-03-11,"Roma",2500000,3e+07,2018-06-07
+"1579","Sandro Tonali",2000-05-08,"Lodi",5e+07,5e+07,2022-06-07
+"1580","Ismaël Bennacer",NA,"Arles",4e+07,4e+07,2020-12-29
+"1581","Tiemoué Bakayoko",1994-08-17,"Paris",4e+06,4e+07,2018-01-02
+"1582","Tommaso Pobega",1999-07-15,"Trieste",1.8e+07,1.8e+07,2022-11-11
+"1583","Aster Vranckx",2002-10-04,"Erps-Kwerps",1e+07,1e+07,2021-12-22
+"1584","Rade Krunic",1993-10-07,"Foča",9e+06,9e+06,2022-06-07
+"1585","Charles De Ketelaere",2001-03-10,"Brugge",3e+07,3e+07,2022-04-12
+"1586","Brahim Díaz",1999-08-03,"Málaga",2e+07,2.5e+07,2021-12-28
+"1587","Yacine Adli",2000-07-29,"Vitry-sur-Seine",9e+06,9e+06,2021-04-09
+"1588","Rafael Leão",1999-06-10,"Almada",8.5e+07,8.5e+07,2022-11-11
+"1589","Ante Rebic",1993-09-21,"Split",1.3e+07,4e+07,2019-06-05
+"1590","Alexis Saelemaekers",1999-06-27,"Berchem-Sainte-Agathe",1.5e+07,2e+07,2021-12-28
+"1591","Junior Messias",1991-05-13,"Belo Horizonte",6e+06,6500000,2021-12-28
+"1592","Divock Origi",1995-04-18,"Oostende",1e+07,2e+07,2019-06-13
+"1593","Olivier Giroud",1986-09-30,"Chambéry",4e+06,2.7e+07,2016-02-09
+"1594","Marko Lazetić",2004-01-22,"Belgrad",3e+06,3e+06,2022-03-15
+"1595","Zlatan Ibrahimović",1981-10-03,"Malmö",2e+06,4.6e+07,2009-12-03
+"1596","André Onana",1996-04-02,"Nkol Ngok",1.4e+07,4.5e+07,2019-12-18
+"1597","Samir Handanovic",1984-07-14,"Ljubljana",1e+06,2.4e+07,2013-06-19
+"1598","Gabriel Brazão",2000-10-05,"Uberlândia",NA,2e+06,2019-03-01
+"1599","Alex Cordaz",1983-01-01,"Vittorio Veneto",NA,1e+06,2017-06-08
+"1600","Milan Skriniar",1995-02-11,"Žiar nad Hronom",6e+07,6.5e+07,2021-12-28
+"1601","Alessandro Bastoni",1999-04-13,"Casalmaggiore",5.5e+07,6e+07,2021-05-25
+"1602","Stefan de Vrij",1992-02-05,"Ouderkerk aan den IJssel",1.5e+07,6e+07,2019-12-12
+"1603","Francesco Acerbi",1988-02-10,"Vizzolo Predabissi",4e+06,1.5e+07,2019-12-12
+"1604","Danilo D'Ambrosio",1988-09-09,"Napoli",2e+06,1.3e+07,2017-12-29
+"1605","Alessandro Fontanarosa",2003-02-07,"San Gennaro Vesuviano",NA,NA,2022-11-11
+"1606","Federico Dimarco",1997-11-10,"Milano",2.5e+07,2.5e+07,2022-11-11
+"1607","Dalbert",1993-09-08,"Barra Mansa",2e+06,1.2e+07,2017-10-13
+"1608","Raoul Bellanova",2000-05-17,"Rho",7e+06,7e+06,2022-06-07
+"1609","Matteo Darmian",1989-12-02,"Legnano",4e+06,1.5e+07,2015-10-14
+"1610","Mattia Zanotti",2003-01-11,"Brescia",NA,NA,2022-06-23
+"1611","Marcelo Brozovic",1992-11-16,"Zagreb",3.5e+07,6e+07,2019-12-12
+"1612","Kristjan Asllani",2002-03-09,"Elbasan",1.2e+07,1.2e+07,2022-09-27
+"1613","Nicolò Barella",1997-02-07,"Cagliari",7e+07,7e+07,2021-12-28
+"1614","Hakan Calhanoglu",1994-02-08,"Mannheim",3.5e+07,3.5e+07,2020-12-29
+"1615","Roberto Gagliardini",1994-04-07,"Bergamo",6500000,2e+07,2017-12-29
+"1616","Denzel Dumfries",1996-04-18,"Rotterdam",2.8e+07,2.8e+07,2022-11-11
+"1617","Robin Gosens",1994-07-05,"Emmerich",1.8e+07,3.5e+07,2021-03-23
+"1618","Henrikh Mkhitaryan",1989-01-21,"Yerevan",6e+06,3.7e+07,2016-08-01
+"1619","Valentín Carboni",2005-03-05,NA,1500000,1500000,2022-11-11
+"1620","Joaquín Correa",1994-08-13,"Juan Bautista Alberdi",2e+07,3.8e+07,2019-12-12
+"1621","Lautaro Martínez",1997-08-22,"Bahía Blanca",7.5e+07,8e+07,2019-12-12
+"1622","Romelu Lukaku",1993-05-13,"Antwerpen",5.5e+07,1e+08,2018-07-16
+"1623","Edin Dzeko",1986-03-17,"Sarajevo",4e+06,3.2e+07,2012-02-06
+"1624","Alex Meret",1997-03-22,"Udine",1.3e+07,4e+07,2019-12-12
+"1625","Salvatore Sirigu",1987-01-12,"Nuoro",NA,21500000,2014-08-01
+"1626","Hubert Idasiak",2002-02-03,"Sławno",NA,NA,2021-06-29
+"1627","Davide Marfella",1999-09-15,"Pozzuoli",NA,NA,2018-06-27
+"1628","Min-jae Kim",1996-11-15,"Tongyeong, Gyeongnam",3.5e+07,3.5e+07,2022-11-11
+"1629","Amir Rrahmani",1994-02-24,"Prishtinë",2.5e+07,2.5e+07,2022-03-15
+"1630","Leo Östigard",1999-11-28,"Åndalsnes",7e+06,7e+06,2022-11-11
+"1631","Juan Jesus",1991-06-10,"Belo Horizonte",4e+06,1.4e+07,2014-11-08
+"1632","Mathías Olivera",1997-10-31,"Montevideo",1.5e+07,1.5e+07,2022-03-21
+"1633","Mário Rui",1991-05-27,"Sines",8e+06,1.5e+07,2018-12-20
+"1634","Giovanni Di Lorenzo",1993-08-04,"Castelnuovo di Garfagnana",2.5e+07,2.5e+07,2021-12-28
+"1635","Alessandro Zanoli",2000-10-03,"Carpi",4e+06,4e+06,2022-06-07
+"1636","Frank Anguissa",1995-11-16,"Yaoundé",3.8e+07,3.8e+07,2022-11-11
+"1637","Stanislav Lobotka",1994-11-25,"Trenčín",3e+07,3e+07,2022-11-11
+"1638","Diego Demme",1991-11-21,"Herford",5e+06,1.7e+07,2019-03-06
+"1639","Tanguy Ndombélé",1996-12-28,"Longjumeau",2.8e+07,6.5e+07,2019-06-03
+"1640","Karim Zedadka",2000-06-09,"Pertuis",NA,NA,2022-01-06
+"1641","Piotr Zielinski",1994-05-20,"Ząbkowice Śląskie",4e+07,5e+07,2021-05-31
+"1642","Eljif Elmas",1999-09-24,"Skopje",2.3e+07,2.4e+07,2021-12-28
+"1643","Gianluca Gaetano",2000-05-05,"Cimitile",4500000,4500000,2022-06-06
+"1644","Khvicha Kvaratskhelia",2001-02-12,"Tiflis",6e+07,6e+07,2022-11-11
+"1645","Alessio Zerbin",1999-03-03,"Novara",4e+06,4e+06,2022-09-27
+"1646","Hirving Lozano",1995-07-30,"Mexico City",2.8e+07,4.5e+07,2021-03-23
+"1647","Matteo Politano",1993-08-03,"Roma",2e+07,3e+07,2018-12-20
+"1648","Giacomo Raspadori",2000-02-18,"Bentivoglio",3.5e+07,3.5e+07,2022-11-11
+"1649","Victor Osimhen",1998-12-29,"Lagos",7e+07,7e+07,2022-11-11
+"1650","Giovanni Simeone",1995-07-05,"Buenos Aires",1.7e+07,2.5e+07,2018-06-07
+"1651","Wojciech Szczesny",1990-04-18,"Warszawa",1.3e+07,4e+07,2019-12-12
+"1652","Mattia Perin",1992-11-10,"Latina",4e+06,1.8e+07,2017-01-02
+"1653","Carlo Pinsoglio",1990-03-16,"Moncalieri",NA,1e+06,2015-02-10
+"1654","Bremer",1997-03-18,"Itapitanga",4e+07,4e+07,2022-09-27
+"1655","Federico Gatti",1998-06-24,"Rivoli",5e+06,5e+06,2022-06-06
+"1656","Leonardo Bonucci",1987-05-01,"Viterbo",4e+06,4.5e+07,2017-06-08
+"1657","Daniele Rugani",1994-07-29,"Lucca",2500000,2.2e+07,2018-06-07
+"1658","Mattia De Sciglio",1992-10-20,"Milano",4500000,1.4e+07,2018-06-07
+"1659","Alex Sandro",1991-01-26,"Catanduva",4500000,5e+07,2018-03-24
+"1660","Danilo",1991-07-15,"Bicas",1.2e+07,2.5e+07,2015-07-01
+"1661","Manuel Locatelli",1998-01-08,"Lecco",3e+07,3.5e+07,2020-12-29
+"1662","Leandro Paredes",1994-06-29,"San Justo",1.5e+07,4e+07,2019-03-07
+"1663","Paul Pogba",1993-03-15,"Lagny-sur-Marne",3.5e+07,1e+08,2019-06-13
+"1664","Weston McKennie",1998-08-28,"Little Elm, Texas",2.1e+07,2.5e+07,2020-12-29
+"1665","Adrien Rabiot",1995-04-03,"Saint-Maurice",1.8e+07,5e+07,2018-06-04
+"1666","Fabio Miretti",2003-08-03,"Pinerolo",1.5e+07,1.5e+07,2022-09-27
+"1667","Nicolò Fagioli",2001-02-12,"Piacenza",8e+06,8e+06,2022-11-11
+"1668","Juan Cuadrado",1988-05-26,"Necoclí",5e+06,3.2e+07,2014-07-11
+"1669","Filip Kostić",1992-11-01,"Kragujevac",2.4e+07,4e+07,2020-03-11
+"1670","Marley Aké",2001-01-05,"Béziers",2500000,2500000,2020-10-15
+"1671","Federico Chiesa",1997-10-25,"Genova",6e+07,7e+07,2021-07-15
+"1672","Ángel Di María",1988-02-14,"Rosario",1e+07,6.5e+07,2014-10-05
+"1673","Matías Soulé",2003-04-15,"Mar del Plata",4e+06,4e+06,2022-11-11
+"1674","Dušan Vlahović",2000-01-28,"Belgrad",8e+07,8.5e+07,2022-03-15
+"1675","Moise Kean",2000-02-28,"Vercelli",2e+07,4e+07,2019-06-06
+"1676","Arkadiusz Milik",1994-02-28,"Tychy",1e+07,4e+07,2019-06-06
+"1677","Kaio Jorge",2002-01-24,"Olinda",5e+06,1.2e+07,2020-10-08
+"1678","Rui Patrício",1988-02-15,"Leiria",5e+06,2e+07,2013-03-28
+"1679","Mile Svilar",1999-08-27,"Antwerpen",1800000,2500000,2017-11-06
+"1680","Pietro Boer",2002-05-12,"Mestre",NA,NA,2021-06-30
+"1681","Roger Ibañez",1998-11-23,"Canela",2.7e+07,2.7e+07,2022-11-11
+"1682","Gianluca Mancini",1996-04-17,"Pontedera",1.8e+07,3e+07,2021-03-23
+"1683","Marash Kumbulla",2000-02-08,"Peschiera del Garda",1.4e+07,2.7e+07,2020-12-29
+"1684","Chris Smalling",1989-11-22,"London",8e+06,2e+07,2016-06-01
+"1685","William Bianda",2000-04-30,"Suresnes",NA,2e+06,2018-07-01
+"1686","Filippo Tripi",2002-01-06,"Roma",NA,NA,2021-06-30
+"1687","Leonardo Spinazzola",1993-03-25,"Foligno",1.5e+07,2.6e+07,2021-03-23
+"1688","Matías Viña",1997-11-09,"Empalme Olmos",6e+06,1.2e+07,2021-10-14
+"1689","Zeki Celik",1997-02-17,"Bursa",1.5e+07,2e+07,2019-12-19
+"1690","Rick Karsdorp",1995-02-11,"Schoonhoven",9e+06,1.5e+07,2021-10-14
+"1691","Bryan Cristante",1995-03-03,"San Vito al Tagliamento",2e+07,2.5e+07,2018-06-07
+"1692","Nemanja Matić",1988-08-01,"Šabac",4e+06,4e+07,2015-07-01
+"1693","Ebrima Darboe",2001-06-06,"Bakoteh",2e+06,2e+06,2021-06-30
+"1694","Georginio Wijnaldum",1990-11-11,"Rotterdam",1.2e+07,5e+07,2019-06-13
+"1695","Mady Camara",1997-02-28,"Matam",1.1e+07,1.5e+07,2021-02-12
+"1696","Edoardo Bove",2002-05-16,"Roma",1500000,1500000,2022-11-11
+"1697","Nicola Zalewski",2002-01-23,"Tivoli",1.5e+07,1.5e+07,2022-11-11
+"1698","Lorenzo Pellegrini",1996-06-19,"Roma",4.5e+07,4.5e+07,2021-10-14
+"1699","Nicolò Zaniolo",1999-07-02,"Massa",3e+07,5.5e+07,2020-08-25
+"1700","Cristian Volpato",2003-11-15,"Camperdown",3e+06,3e+06,2022-11-11
+"1701","Ante Coric",1997-04-14,"Zagreb",NA,1e+07,2016-09-14
+"1702","Stephan El Shaarawy",1992-10-27,"Savona",5e+06,3e+07,2019-06-06
+"1703","Paulo Dybala",1993-11-15,"Laguna Larga",3e+07,1.1e+08,2018-06-07
+"1704","Tammy Abraham",1997-10-02,"London",4.5e+07,5e+07,2019-12-10
+"1705","Andrea Belotti",1993-12-20,"Calcinate",1.5e+07,4e+07,2017-12-29
+"1706","Eldor Shomurodov",1995-06-29,"Jarkurgan, Surxondaryo Region",7e+06,1.4e+07,2021-10-14
+"1707","Juan Musso",1994-05-06,"San Nicolás",1.6e+07,2e+07,2020-08-25
+"1708","Marco Sportiello",1992-05-10,"Desio",1500000,1e+07,2016-07-15
+"1709","Francesco Rossi",1991-04-27,"Merate",NA,NA,2013-02-27
+"1710","Merih Demiral",1998-03-05,"Kocaeli",2.5e+07,3e+07,2020-03-03
+"1711","Giorgio Scalvini",2003-12-11,"Chiari",2e+07,2e+07,2022-11-11
+"1712","Berat Djimsiti",1993-02-19,"Zürich",1.3e+07,2.2e+07,2021-03-23
+"1713","Caleb Okoli",2001-07-13,"Vicenza",1e+07,1e+07,2022-11-11
+"1714","Rafael Tolói",1990-10-10,"Glória D'Oeste",8e+06,1.6e+07,2020-08-25
+"1715","José Luis Palomino",1990-01-05,"San Miguel de Tucumán",3500000,1e+07,2019-06-06
+"1716","Joakim Maehle",1997-05-20,"Østervrå",1.4e+07,1.9e+07,2021-07-15
+"1717","Matteo Ruggeri",2002-07-11,"San Giovanni Bianco",2e+06,2e+06,2021-06-03
+"1718","Hans Hateboer",1994-01-09,"Beerta",1e+07,1.8e+07,2020-08-25
+"1719","Brandon Soppy",2002-02-21,"Aubervilliers",1e+07,1e+07,2022-11-11
+"1720","Davide Zappacosta",1992-06-11,"Sora",7e+06,2e+07,2018-01-02
+"1721","Nadir Zortea",1999-06-19,"Feltre",1800000,1800000,2022-11-11
+"1722","Teun Koopmeiners",1998-02-28,"Castricum",3e+07,3e+07,2022-11-11
+"1723","Marten de Roon",1991-03-29,"Zwijndrecht",1.2e+07,2.4e+07,2019-06-06
+"1724","Éderson",1999-07-07,"Campo Grande",2e+07,2e+07,2022-09-27
+"1725","Simone Muratore",1998-05-30,"Cuneo",NA,NA,2020-07-24
+"1726","Mario Pasalic",1995-02-09,"Mainz",2.5e+07,2.8e+07,2021-12-28
+"1727","Ruslan Malinovskyi",1993-05-04,"Zhytomyr",1.8e+07,3e+07,2021-05-27
+"1728","Ademola Lookman",1997-10-20,"London",2e+07,2e+07,2018-10-17
+"1729","Jérémie Boga",1997-01-03,"Marseille",1.5e+07,2.5e+07,2020-08-25
+"1730","Duván Zapata",1991-04-01,"Santiago de Cali",1.8e+07,4.5e+07,2019-10-08
+"1731","Rasmus Höjlund",2003-02-04,NA,1.5e+07,1.5e+07,2022-09-27
+"1732","Luis Muriel",1991-04-16,"Santo Tomás",1.2e+07,3e+07,2021-06-03
+"1733","Luís Maximiano",1999-01-05,"Celeirós",8e+06,1.2e+07,2022-06-03
+"1734","Ivan Provedel",1994-03-17,"Pordenone",7e+06,7e+06,2022-11-11
+"1735","Marius Adamonis",1997-05-13,"Panevezys",NA,NA,2017-12-21
+"1736","Alessio Romagnoli",1995-01-12,"Anzio",1.8e+07,5e+07,2019-03-01
+"1737","Nicolò Casale",1998-02-14,"Negrar",9e+06,9e+06,2022-11-11
+"1738","Patric",1993-04-17,"Mula",6e+06,9e+06,2020-08-25
+"1739","Mario Gila",2000-08-29,"Barcelona",3e+06,3e+06,2022-09-27
+"1740","Stefan Radu",1986-10-22,"Bukarest",NA,1e+07,2013-06-19
+"1741","Dimitrije Kamenovic",2000-07-16,"Pirot",1400000,2e+06,2021-06-12
+"1742","Manuel Lazzari",1993-11-29,"Valdagno",1.5e+07,2.3e+07,2021-03-23
+"1743","Adam Marusic",1992-10-17,"Belgrad",7500000,1e+07,2018-06-07
+"1744","Elseid Hysaj",1994-02-02,"Shkodër",4e+06,2.5e+07,2018-06-07
+"1745","Danilo Cataldi",1994-08-06,"Roma",7e+06,7e+06,2015-07-01
+"1746","Marco Bertini",2002-08-07,"Roma",NA,NA,2021-06-30
+"1747","Sergej Milinković-Savić",1995-02-27,"Lleida",6e+07,9e+07,2018-06-07
+"1748","Luis Alberto",1992-09-28,"San José del Valle",1.8e+07,5.5e+07,2020-03-03
+"1749","Marcos Antônio",2000-06-13,"Poções",8e+06,8e+06,2021-01-14
+"1750","Toma Basic",1996-11-25,"Zagreb",7e+06,1e+07,2021-01-07
+"1751","Matías Vecino",1991-08-24,"San Jacinto",4500000,2.5e+07,2018-10-12
+"1752","Mohamed Fares",1996-02-15,"Aubervilliers",3500000,7e+06,2020-08-25
+"1753","Mattia Zaccagni",1995-06-16,"Cesena",2.2e+07,2.2e+07,2022-11-11
+"1754","Felipe Anderson",1993-04-15,"Brasília",1.5e+07,4.5e+07,2019-09-12
+"1755","Matteo Cancellieri",2002-02-12,"Roma",5e+06,5e+06,2022-09-27
+"1756","Pedro",1987-07-28,"Santa Cruz de Tenerife",2500000,3e+07,2013-01-10
+"1757","Luka Romero",2004-11-18,"Victoria de Durango",1e+06,1e+06,2020-11-23
+"1758","Ciro Immobile",1990-02-20,"Torre Annunziata",2.3e+07,5e+07,2018-06-07
+"1759","Pierluigi Gollini",1995-03-18,"Bologna",5e+06,1.7e+07,2020-08-25
+"1760","Pietro Terracciano",1990-03-08,"San Felice a Cancello",2e+06,2e+06,2022-11-11
+"1761","Michele Cerofolini",1999-01-04,"Arezzo",NA,NA,2021-02-22
+"1762","Nikola Milenković",1997-10-12,"Belgrad",2e+07,3.5e+07,2018-12-20
+"1763","Igor",1998-02-07,"Bom Sucesso",1.1e+07,1.4e+07,2022-06-07
+"1764","Lucas Martínez Quarta",1996-05-10,"Mar del Plata",1e+07,1.5e+07,2021-12-28
+"1765","Cristiano Biraghi",1992-09-01,"Cernusco sul Naviglio",6500000,1.2e+07,2019-12-12
+"1766","Luca Ranieri",1999-04-23,"La Spezia",2300000,2500000,2021-06-24
+"1767","Aleksa Terzić",1999-08-17,"Belgrad",1500000,2e+06,2021-06-24
+"1768","Dodô",1998-11-17,"Taubaté",1.7e+07,2e+07,2021-06-07
+"1769","Lorenzo Venuti",1995-04-12,"Montevarchi",2500000,3e+06,2021-06-03
+"1770","Sofyan Amrabat",1996-08-21,"Huizen",1e+07,2e+07,2020-08-25
+"1771","Rolando Mandragora",1997-06-29,"Napoli",9e+06,1.5e+07,2018-10-12
+"1772","Gaetano Castrovilli",1997-02-17,"Canosa di Puglia",1e+07,2.5e+07,2019-12-12
+"1773","Alfred Duncan",1993-03-10,"Accra",6500000,1.8e+07,2018-12-20
+"1774","Szymon Zurkowski",1997-09-25,"Tychy",5800000,7e+06,2022-06-07
+"1775","Youssef Maleh",1998-08-22,"Castel S. Pietro Terme",4500000,5e+06,2022-03-15
+"1776","Giacomo Bonaventura",1989-08-22,"San Severino Marche",2500000,2.4e+07,2017-01-02
+"1777","Marco Benassi",1994-09-08,"Modena",1500000,2e+07,2018-12-20
+"1778","Alessandro Bianco",2002-10-01,"Torino",NA,NA,2022-06-23
+"1779","Antonin Barak",1994-12-03,"Příbram",1.2e+07,2e+07,2022-03-15
+"1780","Riccardo Saponara",1991-12-21,"Forlì",2e+06,1.5e+07,2016-01-04
+"1781","Nicolás González",1998-04-06,"Belén de Escobar",2.3e+07,2.5e+07,2021-02-10
+"1782","Riccardo Sottil",1999-06-03,"Torino",9e+06,9e+06,2021-12-28
+"1783","Jonathan Ikoné",1998-05-02,"Bondy",1.6e+07,4e+07,2020-03-13
+"1784","Luka Jović",1997-12-23,"Bijeljina",1.4e+07,6e+07,2019-06-05
+"1785","Christian Kouamé",1997-12-06,"Abidjan",1.3e+07,2.2e+07,2019-10-08
+"1786","Arthur Cabral",1998-04-25,"Campina Grande",1.2e+07,1.5e+07,2021-10-04
+"1787","Andrea Consigli",1987-01-27,"Milano",1500000,8e+06,2014-07-01
+"1788","Alessandro Russo",2001-03-31,"Reggio Calabria",NA,NA,2021-02-22
+"1789","Gianluca Pegolo",1981-03-25,"Bassano del Grappa",NA,2e+06,2013-06-19
+"1790","Martin Erlic",1998-01-24,"Zadar",5500000,5500000,2022-06-07
+"1791","Gian Marco Ferrari",1992-05-15,"Parma",5e+06,1.4e+07,2018-12-20
+"1792","Kaan Ayhan",1994-11-10,"Gelsenkirchen",4500000,9e+06,2019-06-05
+"1793","Ruan Tressoldi",1999-06-07,"Tramandaí",3800000,5e+06,2021-12-17
+"1794","Filippo Romagna",1997-05-26,"Fano",1400000,7e+06,2018-03-24
+"1795","Rogério",1998-01-13,"Nobres",5800000,1e+07,2019-06-06
+"1796","Georgios Kyriakopoulos",1996-02-05,"Patras",5e+06,5e+06,2022-03-15
+"1797","Riccardo Marchizza",1998-03-26,"Roma",1800000,2e+06,2021-12-28
+"1798","Mert Müldür",1999-04-03,"Wien",7e+06,1e+07,2020-08-25
+"1799","Jeremy Toljan",1994-08-08,"Stuttgart",4500000,6e+06,2017-10-18
+"1800","Maxime López",1997-12-04,"Marseille",1.5e+07,1.7e+07,2019-12-19
+"1801","Davide Frattesi",1999-09-22,"Roma",2.2e+07,2.2e+07,2022-11-11
+"1802","Matheus Henrique",1997-12-19,"São Paulo",8500000,2.2e+07,2019-11-27
+"1803","Abdou Harroui",1998-01-13,"Leiden",3e+06,3500000,2021-01-06
+"1804","Pedro Obiang",1992-03-27,"Alcalá de Henares",NA,1e+07,2015-01-07
+"1805","Hamed Junior Traorè",2000-02-16,"Abidjan",2.2e+07,2.2e+07,2022-03-15
+"1806","Kristian Thorstvedt",1999-03-13,"Stavanger",8500000,8500000,2022-09-27
+"1807","Armand Laurienté",1998-12-04,"Gonesse",1.4e+07,1.4e+07,2022-11-11
+"1808","Emil Konradsen Ceide",2001-09-03,"Finnsnes",2500000,2500000,2022-11-11
+"1809","Domenico Berardi",1994-08-01,"Cariati",2.3e+07,3.5e+07,2021-05-25
+"1810","Luca D'Andrea",2004-09-06,NA,2500000,2500000,2022-11-11
+"1811","Brian Oddei",2002-09-18,"Accra",NA,1e+06,2021-06-03
+"1812","Andrea Pinamonti",1999-05-19,"Cles",2e+07,2e+07,2022-06-07
+"1813","Agustín Álvarez",2001-05-19,"San Bautista",8500000,8500000,2022-09-27
+"1814","Janis Antiste",2002-08-18,"Toulouse",4e+06,4500000,2021-10-14
+"1815","Grégoire Defrel",1991-06-17,"Meudon",2e+06,1.2e+07,2018-10-12
+"1816","Vanja Milinković-Savić",1997-02-20,"Ourense",2500000,4500000,2021-12-28
+"1817","Etrit Berisha",1989-03-10,"Prishtinë",NA,7e+06,2017-12-29
+"1818","Luca Gemello",2000-07-03,"Savigliano",NA,NA,2022-06-07
+"1819","Matteo Fiorenza",2003-06-15,NA,NA,NA,2022-11-11
+"1820","Perr Schuurs",1999-11-26,"Nieuwstadt",1.2e+07,1.2e+07,2021-01-06
+"1821","David Zima",2000-11-08,"Olomouc",5500000,7500000,2021-05-28
+"1822","Alessandro Buongiorno",1999-06-06,"Torino",5e+06,5e+06,2022-11-11
+"1823","Ricardo Rodríguez",1992-08-25,"Zürich",3500000,2.8e+07,2014-07-10
+"1824","Koffi Djidji",1992-11-30,"Bagnolet",3e+06,5e+06,2019-06-06
+"1825","Stephane Singo",2000-12-25,"Odienné",1.4e+07,1.5e+07,2022-03-15
+"1826","Valentino Lazaro",1996-03-24,"Graz",6500000,1.9e+07,2019-10-08
+"1827","Mërgim Vojvoda",1995-02-01,"Hof (Saale)",5e+06,5500000,2022-06-07
+"1828","Ola Aina",1996-10-08,"London",3500000,1e+07,2019-06-06
+"1829","Brian Bayeye",2000-06-30,"Paris",NA,NA,2022-09-27
+"1830","Samuele Ricci",2001-08-21,"Pontedera",1.2e+07,1.2e+07,2021-12-28
+"1831","Saša Lukić",1996-08-13,"Šabac",1.3e+07,1.5e+07,2022-06-07
+"1832","Emirhan Ilkhan",2004-06-01,"Istanbul",4500000,4500000,2022-09-27
+"1833","Karol Linetty",1995-02-02,"Żnin",3500000,1.5e+07,2018-03-24
+"1834","Michel Adopo",2000-07-19,"Villeneuve-Saint-Georges",NA,NA,2022-11-11
+"1835","Matthew Garbett",2002-04-13,"London",NA,NA,2022-06-23
+"1836","Nikola Vlasic",1997-10-04,"Split",2e+07,3e+07,2020-12-29
+"1837","Aleksey Miranchuk",1995-10-17,"Slavyansk-na-Kubani, Krasnodar Region",1e+07,1.8e+07,2019-12-23
+"1838","Nemanja Radonjić",1996-02-15,"Nis",4e+06,1e+07,2018-10-24
+"1839","Yann Karamoh",1998-07-08,"Abidjan",3e+06,1e+07,2018-12-17
+"1840","Demba Seck",2001-02-10,"Guédiawaye",3e+06,3e+06,2022-03-15
+"1841","Simone Edera",1997-01-09,"Torino",NA,1500000,2018-06-07
+"1842","Antonio Sanabria",1996-03-04,"San Lorenzo",7e+06,1e+07,2019-03-01
+"1843","Pietro Pellegri",2001-03-17,"Genova",5e+06,8e+06,2017-12-29
+"1844","Marco Silvestri",1991-03-02,"Castelnovo né Monti",5e+06,1e+07,2020-12-29
+"1845","Daniele Padelli",1985-10-25,"Lecco",NA,2e+06,2014-07-01
+"1846","Edoardo Piana",2003-09-29,"Soave",NA,NA,2022-06-23
+"1847","Jaka Bijol",1999-02-05,"Vuzenica",1e+07,1e+07,2022-11-11
+"1848","Rodrigo Becão",1996-01-19,"Salvador",1e+07,1e+07,2022-11-11
+"1849","Nehuén Pérez",2000-06-24,"Hurlingham",8e+06,8e+06,2022-11-11
+"1850","Bram Nuytinck",1990-05-04,"Malden",2e+06,5e+06,2013-06-25
+"1851","Axel Guessand",2004-11-06,"Schiltigheim",NA,NA,2021-10-27
+"1852","James Abankwah",2004-01-16,"Dublin",NA,NA,2022-09-27
+"1853","Destiny Udogie",2002-11-28,"Verona",2.2e+07,2.2e+07,2022-11-11
+"1854","Enzo Ebosse",1999-03-11,"Amiens",4500000,4500000,2022-11-11
+"1855","Adam Masina",1994-01-02,"Khouribga",2500000,7e+06,2018-06-07
+"1856","Leonardo Buta",2002-06-05,"Águeda",2e+06,2e+06,2022-09-27
+"1857","Festy Ebosele",2002-08-02,"Enniscorthy, Wexford",3500000,3500000,2022-05-13
+"1858","Kingsley Ehizibue",1995-05-25,"München",1300000,2500000,2019-10-02
+"1859","Walace",1995-04-04,"Salvador",7e+06,1.4e+07,2018-12-18
+"1860","Mato Jajalo",1988-05-25,"Jajce",NA,3500000,2011-10-18
+"1861","Jean-Victor Makengo",1998-06-12,"Etampes",7500000,7500000,2022-06-07
+"1862","Roberto Pereyra",1991-01-07,"San Miguel de Tucumán",6500000,1.7e+07,2015-07-01
+"1863","Sandi Lovric",1998-03-28,"Lienz",5e+06,5e+06,2022-11-11
+"1864","Tolgay Arslan",1990-08-16,"Paderborn",2e+06,7500000,2018-05-29
+"1865","Lazar Samardzic",2002-02-24,"Berlin",4500000,4500000,2022-11-11
+"1866","Simone Pafundi",2006-03-14,"Monfalcone",1500000,1500000,2022-11-11
+"1867","Gerard Deulofeu",1994-03-13,"Riudarenes",1.6e+07,2.5e+07,2019-06-13
+"1868","Beto",1998-01-31,"Lisboa",1.3e+07,1.3e+07,2022-09-27
+"1869","Isaac Success",1996-01-07,"Benin City",4e+06,5e+06,2018-12-19
+"1870","Ilija Nestorovski",1990-03-12,"Prilep",NA,5e+06,2017-12-21
+"1871","Lukasz Skorupski",1991-05-05,"Zabrze",3e+06,7e+06,2017-06-08
+"1872","Francesco Bardi",1992-01-18,"Livorno",NA,9e+06,2014-07-01
+"1873","Nicola Bagnolini",2004-03-14,"Cesena",NA,NA,2022-09-27
+"1874","Jhon Lucumí",1998-06-26,"Cali",9e+06,1.3e+07,2021-10-06
+"1875","Stefan Posch",1997-05-14,"Judenburg",7e+06,1.4e+07,2019-12-17
+"1876","Adama Soumaoro",1992-06-18,"Fontenay-aux-Roses",3500000,1e+07,2018-12-17
+"1877","Kevin Bonifazi",1996-05-19,"Rieti",3300000,7e+06,2021-06-03
+"1878","Joaquín Sosa",2002-01-10,"Fray Bentos",1200000,1200000,2022-09-27
+"1879","Wisdom Amey",2005-08-11,"Bassano del Grappa",NA,NA,2022-09-27
+"1880","Andrea Cambiaso",2000-02-20,"Genova",6500000,6500000,2022-09-27
+"1881","Charalampos Lykogiannis",1993-10-22,"Piräus",1500000,2500000,2021-06-03
+"1882","Denso Kasius",2002-10-06,"Delft",2e+06,2e+06,2022-03-15
+"1883","Lorenzo De Silvestri",1988-05-23,"Roma",NA,6e+06,2010-07-19
+"1884","Jerdy Schouten",1997-01-12,"Spijkenisse",8500000,9e+06,2021-06-03
+"1885","Nikola Moro",1998-03-12,"Split",7e+06,9e+06,2021-12-29
+"1886","Gary Medel",1987-08-03,"Conchalí",1e+06,1.3e+07,2013-09-18
+"1887","Kacper Urbanski",2004-09-07,"Gdańsk",NA,NA,2022-09-27
+"1888","Nicolás Domínguez",1998-06-28,"Haedo",1.2e+07,17500000,2019-12-05
+"1889","Lewis Ferguson",1999-08-24,"Hamilton",4e+06,4e+06,2022-11-11
+"1890","Michel Aebischer",1997-01-06,"Fribourg",3500000,5500000,2020-01-06
+"1891","Roberto Soriano",1991-02-08,"Darmstadt",3500000,1.6e+07,2017-06-05
+"1892","Musa Barrow",1998-11-14,"Banjul",1.2e+07,2e+07,2021-06-03
+"1893","Nicola Sansone",1991-09-10,"München",1500000,1.6e+07,2017-01-24
+"1894","Musa Juwara",2001-12-26,"Tujereng",NA,2e+06,2020-08-25
+"1895","Riccardo Orsolini",1997-01-24,"Ascoli Piceno",7500000,2.5e+07,2020-03-03
+"1896","Emanuel Vignato",2000-08-24,"Negrar",4500000,6e+06,2021-06-03
+"1897","Orji Okwonkwo",1998-01-19,"Benin City",NA,2e+06,2021-12-29
+"1898","Joshua Zirkzee",2001-05-22,"Schiedam",1.1e+07,1.1e+07,2022-04-12
+"1899","Marko Arnautovic",1989-04-19,"Wien",9e+06,3.5e+07,2018-12-19
+"1900","Antonio Raimondo",2004-03-18,"Ravenna",NA,NA,2022-09-27
+"1901","Michele Di Gregorio",1997-07-27,"Milano",4500000,4500000,2022-09-27
+"1902","Alessio Cragno",1994-06-28,"Fiesole",4e+06,2e+07,2019-06-06
+"1903","Alessandro Sorrentino",2002-04-03,"Guardiagrele",NA,NA,2022-06-21
+"1904","Eugenio Lamanna",1989-08-07,"Como",NA,2500000,2016-07-15
+"1905","Marlon",1995-09-07,"Duque de Caxias",7500000,1e+07,2018-07-12
+"1906","Pablo Marí",1993-08-31,"Almussafes",5e+06,7e+06,2020-10-13
+"1907","Andrea Carboni",2001-02-04,"Sorgono",4e+06,5e+06,2021-06-03
+"1908","Armando Izzo",1992-03-02,"Napoli",2800000,2.5e+07,2019-12-12
+"1909","Luca Caldirola",1991-02-01,"Desio",1e+06,4e+06,2014-07-10
+"1910","Valentin Antov",2000-11-09,"Sofia",NA,2e+06,2021-03-23
+"1911","Luca Marrone",1990-03-28,"Torino",NA,7e+06,2014-01-07
+"1912","Gabriel Paletta",1986-02-15,"Longchamps",NA,1e+07,2014-03-10
+"1913","Carlos Augusto",1999-01-07,"Campinas",4500000,5500000,2021-06-24
+"1914","Samuele Birindelli",1999-07-19,"Pisa",2300000,2500000,2022-03-15
+"1915","Gabriele Ferrarini",2000-04-09,"La Spezia",NA,NA,2022-06-06
+"1916","Giulio Donati",1990-02-05,"Pietrasanta",NA,5e+06,2014-02-12
+"1917","Nicolò Rovella",2001-12-04,"Segrate",1.2e+07,1.2e+07,2022-11-11
+"1918","Andrea Barberis",1993-12-11,"Genova",1300000,2e+06,2017-06-08
+"1919","Antonis Siatounis",2002-08-26,"Ilion",NA,NA,2021-12-29
+"1920","Matteo Scozzarella",1988-06-05,"Trieste",NA,1e+06,2019-12-12
+"1921","Nicola Rigoni",1990-11-12,"Schio",NA,2e+06,2016-07-15
+"1922","Stefano Sensi",1995-08-05,"Urbino",8e+06,3e+07,2019-10-08
+"1923","Andrea Colpani",1999-05-11,"Brescia",2500000,2500000,2022-03-15
+"1924","Filippo Ranocchia",2001-05-14,"Perugia",1800000,1800000,2022-06-06
+"1925","Mattia Valoti",1993-09-06,"Vicenza",1700000,2500000,2021-06-24
+"1926","José Machín",1996-08-14,"Bata",1500000,2600000,2019-12-30
+"1927","Warren Bondo",2003-09-15,"Évry",NA,NA,2021-12-27
+"1928","Salvatore Molina",1992-01-01,"Garbagnate Milanese",NA,1400000,2014-07-15
+"1929","Matteo Pessina",1997-04-21,"Monza",1.4e+07,2e+07,2021-03-23
+"1930","Samuele Vignato",2004-02-24,"Fumane",NA,NA,2021-12-29
+"1931","Marco D'Alessandro",1991-02-17,"Roma",NA,2500000,2014-07-15
+"1932","Gianluca Caprari",1993-07-30,"Roma",9e+06,1e+07,2018-10-12
+"1933","Patrick Ciurria",1995-02-09,"Sassuolo",1800000,2800000,2021-06-24
+"1934","Andrea Petagna",1995-06-30,"Trieste",1e+07,2e+07,2019-06-06
+"1935","Dany Mota",1998-05-02,"Niederkorn",5500000,6e+06,2022-06-06
+"1936","Mirko Maric",1995-05-16,"Mostar",1700000,4500000,2020-07-27
+"1937","Christian Gytkjaer",1990-05-06,"Roskilde",1300000,3e+06,2020-10-29
+"1938","Luigi Sepe",1991-05-08,"Torre del Greco",1500000,6e+06,2020-08-25
+"1939","Vincenzo Fiorillo",1990-01-13,"Genova",NA,NA,2009-08-06
+"1940","Alessandro Micai",1993-07-24,"Mantova",NA,NA,2019-12-30
+"1941","Jacopo De Matteis",2002-12-28,"Roma",NA,NA,2022-06-23
+"1942","Flavius Daniliuc",2001-04-27,"Wien",8e+06,8e+06,2022-05-30
+"1943","Matteo Lovato",2000-02-14,"Monselice",6500000,7e+06,2020-12-29
+"1944","Dylan Bronn",1995-06-19,"Cannes",3e+06,7e+06,2019-03-04
+"1945","Lorenzo Pirola",2002-02-20,"Carate Brianza",2500000,2500000,2021-06-24
+"1946","Norbert Gyomber",1992-07-03,"Revúca",1e+06,1200000,2014-07-01
+"1947","Federico Fazio",1987-03-17,"Buenos Aires",NA,1.3e+07,2018-06-07
+"1948","Andrei Motoc",2002-04-13,"Chișinău",NA,NA,2022-06-23
+"1949","Domagoj Bradaric",1999-12-10,"Split",5e+06,6500000,2019-09-27
+"1950","Sanasi Sy",1999-04-04,"Paris",NA,NA,2020-11-11
+"1951","Pasquale Mazzocchi",1995-07-27,"Napoli",5e+06,5e+06,2022-11-11
+"1952","Junior Sambia",1996-09-07,"Lyon",3500000,6500000,2021-06-04
+"1953","Ivan Radovanovic",1988-08-29,"Kosovska Mitrovica",NA,3500000,2017-12-29
+"1954","Giulio Maggiore",1998-03-12,"Genova",7500000,8500000,2022-06-07
+"1955","Emil Bohinen",1999-03-12,"Derby",4e+06,4e+06,2022-06-07
+"1956","Lassana Coulibaly",1996-04-10,"Bamako",4e+06,4e+06,2022-11-11
+"1957","Tonny Vilhena",1995-01-03,"Maassluis",3800000,1.4e+07,2019-06-12
+"1958","Grigoris Kastanos",1998-01-30,"Sotira",1300000,1500000,2022-06-07
+"1959","Leonardo Capezzi",1995-03-28,"Figline Valdarno",NA,1800000,2017-01-02
+"1960","Antonio Candreva",1987-02-28,"Roma",1500000,2.7e+07,2015-07-01
+"1961","Francesco Orlando",1996-10-01,"Taranto",NA,NA,2017-06-09
+"1962","Boulaye Dia",1996-11-16,"Oyonnax",1.2e+07,1.4e+07,2021-04-09
+"1963","Krzysztof Piatek",1995-07-01,"Dzierżoniów",1.1e+07,4e+07,2019-03-01
+"1964","Federico Bonazzoli",1997-05-21,"Manerbio",5e+06,5e+06,2020-08-25
+"1965","Erik Botheim",2000-01-10,"Oslo",3800000,4e+06,2022-01-03
+"1966","Diego Valencia",2000-01-14,"Viña del Mar",2500000,2500000,2022-09-27
+"1967","Julian Kristoffersen",1997-05-10,"Horten",NA,NA,2020-06-23
+"1968","Guglielmo Vicario",1996-10-07,"Udine",1.2e+07,1.2e+07,2022-11-11
+"1969","Samuele Perisan",1997-08-21,"San Vito al Tagliamento",NA,1300000,2021-06-24
+"1970","Samir Ujkani",1988-07-05,"Resnik, Vushtrri",NA,3500000,2012-06-07
+"1971","Lovro Stubljar",2004-08-09,NA,NA,NA,2022-09-27
+"1972","Koni De Winter",2002-06-12,"Antwerpen",4e+06,4e+06,2022-11-11
+"1973","Sebastian Walukiewicz",2000-04-05,"Gorzów Wielkopolski",3500000,1e+07,2020-12-29
+"1974","Sebastiano Luperto",1996-09-06,"Lecce",3e+06,5e+06,2019-12-12
+"1975","Ardian Ismajli",1996-09-30,"Majac, Besianë",2200000,2500000,2021-06-03
+"1976","Lorenzo Tonelli",1990-01-17,"Firenze",NA,8500000,2016-07-15
+"1977","Gabriele Guarino",2004-04-14,"Molfetta",NA,NA,2022-11-11
+"1978","Fabiano Parisi",2000-11-09,"Solofra",8e+06,8e+06,2022-11-11
+"1979","Liberato Cacace",2000-09-27,"Wellington",2500000,2500000,2022-03-15
+"1980","Petar Stojanovic",1995-10-07,"Ljubljana",2800000,3e+06,2022-06-07
+"1981","Tyronne Ebuehi",1995-12-16,"Haarlem",1400000,1500000,2018-03-27
+"1982","Duccio Degli Innocenti",2003-04-28,"Montevarchi",NA,NA,2022-06-23
+"1983","Razvan Marin",1996-05-23,"Bukarest",8e+06,1.5e+07,2021-06-03
+"1984","Filippo Bandinelli",1995-03-29,"Firenze",3500000,3500000,2022-11-11
+"1985","Liam Henderson",1996-04-25,"Livingston",3e+06,3e+06,2021-12-28
+"1986","Nicolas Haas",1996-01-23,"Sursee",3e+06,3500000,2021-10-14
+"1987","Alberto Grassi",1995-03-07,"Lumezzane",2e+06,7e+06,2018-06-07
+"1988","Jean-Daniel Akpa Akpro",1992-10-11,"Toulouse",1400000,3500000,2015-06-06
+"1989","Jacopo Fazzini",2003-03-16,"Massa",NA,NA,2022-11-11
+"1990","Nedim Bajrami",1999-02-28,"Zürich",8e+06,1e+07,2021-10-14
+"1991","Tommaso Baldanzi",2003-03-23,"Poggibonsi",3e+06,3e+06,2022-11-11
+"1992","Marko Pjaca",1995-05-06,"Zagreb",3e+06,1.8e+07,2016-07-21
+"1993","Nicolò Cambiaghi",2000-12-28,"Monza",2e+06,2e+06,2022-06-06
+"1994","Martín Satriano",2001-02-20,"Montevideo",8e+06,8e+06,2022-11-11
+"1995","Sam Lammers",1997-04-30,"Tilburg",2800000,9e+06,2019-06-12
+"1996","Mattia Destro",1991-03-20,"Ascoli Piceno",2500000,1.7e+07,2014-07-01
+"1997","Emmanuel Ekong",2002-06-25,"Reggio Emilia",NA,NA,2021-12-28
+"1998","Lorenzo Montipò",1996-02-20,"Novara",4e+06,4500000,2022-06-07
+"1999","Simone Perilli",1995-01-07,"Roma",NA,NA,2021-02-22
+"2000","Mattia Chiesa",2000-07-16,"Rovereto",NA,NA,2022-06-07
+"2001","Alessandro Berardi",1991-01-16,"Roma",NA,NA,2012-06-08
+"2002","Koray Günter",1994-08-16,"Höxter",4500000,5e+06,2021-03-23
+"2003","Pawel Dawidowicz",1995-05-20,"Olsztyn",3500000,5e+06,2021-12-28
+"2004","Isak Hien",1999-01-13,"Kista",3e+06,3e+06,2022-09-02
+"2005","Federico Ceccherini",1992-05-11,"Livorno",3e+06,4e+06,2022-06-07
+"2006","Diego Coppola",2003-12-28,"Verona",3e+06,3e+06,2022-09-27
+"2007","Giangiacomo Magnani",1995-10-04,"Correggio",2800000,5e+06,2018-12-20
+"2008","Juan Cabal",2001-01-08,"Cali",2500000,2500000,2022-09-27
+"2009","Josh Doig",2002-05-18,"Edinburgh",6e+06,6e+06,2022-11-11
+"2010","Davide Faraoni",1991-10-25,"Bracciano",3500000,7e+06,2021-03-23
+"2011","Fabio Depaoli",1997-04-24,"Riva del Garda",3e+06,5e+06,2019-03-01
+"2012","Adrien Tamèze",1994-02-04,"Lille",8e+06,1e+07,2022-06-07
+"2013","Martin Hongla",1998-03-16,"Yaoundé",3500000,5e+06,2021-06-07
+"2014","Ibrahim Sulemana",2003-05-22,NA,NA,NA,2022-11-11
+"2015","Miguel Veloso",1986-05-11,"Coimbra",NA,11500000,2010-07-13
+"2016","Ivan Ilić",2001-03-17,"Niš",1.3e+07,1.4e+07,2022-06-07
+"2017","Filippo Terracciano",2003-02-08,"Verona",1e+06,1e+06,2022-09-27
+"2018","Darko Lazović",1990-09-15,"Cacak",2500000,5e+06,2020-03-03
+"2019","Simone Verdi",1992-07-12,"Broni",4500000,2.5e+07,2018-06-07
+"2020","Ajdin Hrustic",1996-07-05,"Melbourne",1800000,3e+06,2021-10-07
+"2021","Mateusz Praszelik",2000-09-26,"Racibórz",1200000,1500000,2021-12-31
+"2022","Alessandro Cortinovis",2001-01-25,"Bergamo",NA,1e+06,2021-12-29
+"2023","Yayah Kallon",2001-06-30,"Kono",1500000,2e+06,2021-10-14
+"2024","Thomas Henry",1994-09-20,"Argenteuil",4500000,5e+06,2021-06-07
+"2025","Roberto Piccoli",2001-01-27,"Bergamo",3500000,4e+06,2021-10-14
+"2026","Kevin Lasagna",1992-08-10,"Suzzara",2500000,8e+06,2018-12-20
+"2027","Milan Djuric",1990-05-22,"Tuzla",1e+06,1500000,2010-01-12
+"2028","Marco Carnesecchi",2000-07-01,"Rimini",8e+06,8e+06,2022-06-06
+"2029","Ionut Radu",1997-05-28,"Bucarest",3500000,1.5e+07,2019-06-06
+"2030","Gianluca Saro",2000-06-25,"San Daniele del Friuli",NA,NA,2021-06-21
+"2031","Mouhamadou Sarr",1997-01-05,"Kaolack",NA,NA,2021-12-29
+"2032","Dorian Ciezkowski",2001-03-22,"Kraków",NA,NA,2021-12-29
+"2033","Jack Hendry",1995-05-07,"Glasgow",3800000,6e+06,2022-01-06
+"2034","Johan Vásquez",1998-10-22,"Navojoa",3600000,6e+06,2021-04-21
+"2035","Emanuel Aiwu",2000-12-25,"Innsbruck",3500000,3500000,2022-11-11
+"2036","Luka Lochoshvili",1998-05-29,"Tiflis",1500000,1500000,2022-05-27
+"2037","Vlad Chiriches",1989-11-14,"Bacău",1300000,1.1e+07,2014-01-15
+"2038","Matteo Bianchetti",1993-03-17,"Como",NA,1400000,2014-07-15
+"2039","Maissa Ndiaye",2002-01-28,"Dakar",NA,NA,2022-06-23
+"2040","Emanuele Valeri",1998-12-07,"Roma",2200000,2200000,2022-11-11
+"2041","Giacomo Quagliata",2000-02-19,"Palermo",2e+06,2e+06,2022-09-27
+"2042","Leonardo Sernicola",1997-07-30,"Civita Castellana",1900000,1900000,2022-11-11
+"2043","Paolo Ghiglione",1997-02-02,"Voghera",1600000,4e+06,2019-12-12
+"2044","Santiago Ascacíbar",1997-02-25,"La Plata",6500000,2.5e+07,2018-08-22
+"2045","Charles Pickel",1997-05-15,"Solothurn",3800000,3800000,2022-09-27
+"2046","Michele Castagnetti",1989-12-27,"Montecchio Emilia",NA,1e+06,2018-06-18
+"2047","Soualiho Meïté",1994-03-17,"Paris",4800000,1.3e+07,2018-12-20
+"2048","Gonzalo Escalante",1993-03-27,"Bella Vista",2e+06,5e+06,2017-06-05
+"2049","Tommaso Milanese",2002-07-31,"Galatina",1500000,2e+06,2022-06-06
+"2050","Christian Acella",2002-07-07,"Milano",NA,NA,2022-11-11
+"2051","Jaime Báez",1995-04-25,"Montevideo",1400000,2500000,2015-08-14
+"2052","Cristian Buonaiuto",1992-12-29,"Napoli",NA,1e+06,2018-06-18
+"2053","Luca Zanimacchia",1998-07-19,"Desio",2e+06,2e+06,2022-06-06
+"2054","Cyriel Dessers",1994-12-08,"Leuven",6e+06,6e+06,2022-06-08
+"2055","Felix Afena-Gyan",2003-01-19,"Sunyani",5500000,6e+06,2022-06-07
+"2056","David Okereke",1997-08-29,"Lagos",4300000,1.1e+07,2019-09-13
+"2057","Frank Tsadjout",1999-07-28,"Perugia",NA,NA,2022-06-06
+"2058","Daniel Ciofani",1985-07-31,"Avezzano",NA,1500000,2016-01-04
+"2059","Wladimiro Falcone",1995-04-12,"Roma",3500000,3500000,2022-11-11
+"2060","Marco Bleve",1995-10-18,"San Cesario di Lecce",NA,NA,2015-06-25
+"2061","Federico Brancolini",2001-07-14,"Modena",NA,NA,2020-08-25
+"2062","Jasper Samooja",2003-07-21,NA,NA,NA,2022-06-23
+"2063","Marin Pongracic",1997-09-11,"Landshut",6e+06,1e+07,2020-07-08
+"2064","Federico Baschirotto",1996-09-20,"Isola della Scala",2200000,2200000,2022-11-11
+"2065","Samuel Umtiti",1993-11-14,"Yaoundé",2e+06,7e+07,2018-07-16
+"2066","Mert Cetin",1997-01-01,"Ankara",1500000,4e+06,2020-10-29
+"2067","Alessandro Tuia",1990-06-08,"Civitacastellana",NA,NA,2022-06-06
+"2068","Kastriot Dermaku",1992-01-15,"Scandiano",NA,1500000,2020-08-25
+"2069","Giuseppe Pezzella",1997-11-29,"Napoli",3e+06,6e+06,2020-12-29
+"2070","Antonino Gallo",2000-01-05,"Palermo",2e+06,2e+06,2022-11-11
+"2071","Valentin Gendrey",2000-06-21,"La Garenne-Colombes",2600000,2600000,2022-11-11
+"2072","Mats Lemmens",2002-03-10,NA,NA,NA,2022-06-23
+"2073","Morten Hjulmand",1999-06-25,"Kastrup",8e+06,8e+06,2022-11-11
+"2074","Daniel Samek",2004-02-19,"Hradec Králové",2e+06,2200000,2021-12-26
+"2075","Alexis Blin",1996-09-16,"Le Mans",2e+06,8e+06,2018-01-24
+"2076","Joan González",2002-02-01,"Barcelona",3e+06,3e+06,2022-11-11
+"2077","Kristijan Bistrovic",1998-04-09,"Koprivnica",2200000,3500000,2018-12-20
+"2078","Kristoffer Askildsen",2001-01-09,"Oslo",2e+06,2e+06,2021-12-28
+"2079","Thórir Jóhann Helgason",2000-09-28,"Hafnarfjörður",NA,NA,2022-11-11
+"2080","John Björkengren",1998-12-09,"Falkenberg",NA,1e+06,2021-06-24
+"2081","Medon Berisha",2003-10-21,"Münsingen",NA,NA,2022-11-11
+"2082","Lameck Banda",2001-01-29,"Lusaka",3e+06,3e+06,2022-11-11
+"2083","Federico Di Francesco",1994-06-14,"Pisa",1500000,5e+06,2018-10-12
+"2084","Gabriel Strefezza",1997-04-18,"São Paulo",8500000,8500000,2022-11-11
+"2085","Rémi Oudin",1996-11-18,"Châlons-en-Champagne",4e+06,1.1e+07,2019-06-03
+"2086","Marcin Listkowski",1998-02-10,"Rypin",NA,NA,2020-08-18
+"2087","Pablo Rodríguez",2001-08-04,"Las Palmas",2e+06,2e+06,2021-06-24
+"2088","Lorenzo Colombo",2002-03-08,"Vimercate",3500000,4e+06,2021-12-29
+"2089","Assan Ceesay",1994-03-17,"Banjul",3e+06,3e+06,2022-11-11
+"2090","Joel Voelkerling Persson",2003-01-15,"Dalkopinge",NA,NA,2022-06-23
+"2091","Bartlomiej Dragowski",1997-08-19,"Białystok",4500000,1.6e+07,2021-06-03
+"2092","Jeroen Zoet",1991-01-06,"Veendam",NA,12500000,2018-12-28
+"2093","Petar Zovko",2002-03-25,"Mostar",NA,NA,2022-06-07
+"2094","Ethan Ampadu",2000-09-14,"Exeter",9e+06,1.5e+07,2021-05-25
+"2095","Jakub Kiwior",2000-02-15,"Tychy",6e+06,6e+06,2022-09-27
+"2096","Dimitrios Nikolaou",1998-08-13,"Chalkida",3800000,4e+06,2022-06-07
+"2097","Mattia Caldara",1994-05-05,"Bergamo",2500000,2.5e+07,2018-03-24
+"2098","Petko Hristov",1999-03-01,"Sofia",1e+06,1e+06,2021-12-28
+"2099","Arkadiusz Reca",1995-06-17,"Chojnice",3e+06,4e+06,2018-07-03
+"2100","Kelvin Amian",1998-02-08,"Toulouse",3500000,7e+06,2019-09-27
+"2101","Emil Holm",2000-05-13,"Göteborg",2500000,2500000,2022-11-11
+"2102","Salva Ferrer",1998-01-21,"Martorell",1e+06,1300000,2021-06-03
+"2103","Mehdi Bourabia",1991-08-07,"Dijon",1300000,4e+06,2019-06-06
+"2104","Albin Ekdal",1989-07-28,"Stockholm",NA,5e+06,2018-12-20
+"2105","Aurélien Nguiamba",1999-01-18,"Colmar",NA,NA,2019-09-30
+"2106","Simone Bastoni",1996-11-05,"La Spezia",7500000,7500000,2022-06-07
+"2107","Mikael Egill Ellertsson",2002-03-11,"Reykjavík",1e+06,1e+06,2022-11-11
+"2108","Aimar Sher",2002-12-20,"Kirkuk",1e+06,1200000,2021-06-09
+"2109","Jacopo Sala",1991-12-05,"Alzano Lombardo",NA,2500000,2015-07-01
+"2110","Kevin Agudelo",1998-11-14,"Puerto Caicedo",3500000,3500000,2020-08-25
+"2111","Viktor Kovalenko",1996-02-14,"Kherson",2e+06,6e+06,2017-01-03
+"2112","Daniel Maldini",2001-10-11,"Milano",2e+06,2e+06,2021-10-14
+"2113","Emmanuel Gyasi",1994-01-11,"Palermo",2500000,2500000,2021-03-23
+"2114","Daniele Verde",1996-06-20,"Napoli",4e+06,5e+06,2022-06-07
+"2115","Leandro Sanca",2000-01-04,"Lisboa",NA,NA,2022-11-11
+"2116","M'Bala Nzola",1996-08-18,"Buco-Zau",3500000,4e+06,2020-12-29
+"2117","David Strelec",2001-04-04,"Nové Zámky",1300000,1500000,2021-10-14
+"2118","Emil Audero",1997-01-18,"Mataram",6e+06,1.5e+07,2019-03-01
+"2119","Nikita Contini",1996-05-21,"Cherkasy",NA,NA,2021-12-29
+"2120","Nicola Ravaglia",1988-12-12,"Forlì",NA,NA,2012-01-10
+"2121","Elia Tantalocchi",2004-06-30,"Civitanova Marche",NA,NA,2021-01-12
+"2122","Omar Colley",1992-10-24,"Banjul",3500000,8e+06,2019-06-06
+"2123","Jeison Murillo",1992-05-27,"Barranquilla",2500000,1.8e+07,2016-01-04
+"2124","Bruno Amione",2002-01-03,"Calchaquí",2e+06,2500000,2019-12-05
+"2125","Alex Ferrari",1994-07-01,"Modena",1500000,2500000,2019-12-12
+"2126","Tommaso Augello",1994-08-30,"Milano",2500000,4e+06,2021-06-03
+"2127","Nicola Murru",1994-12-16,"Cagliari",1600000,7e+06,2019-06-06
+"2128","Bartosz Bereszynski",1992-07-12,"Poznań",3e+06,1.2e+07,2018-06-07
+"2129","Andrea Conti",1994-03-02,"Lecco",1e+06,1.8e+07,2019-03-01
+"2130","Harry Winks",1996-02-02,"Hemel Hempstead",1.2e+07,4e+07,2019-09-12
+"2131","Tomás Rincón",1988-01-13,"San Cristóbal",NA,9e+06,2017-01-02
+"2132","Gerard Yepes",2002-08-25,"Barcelona",NA,NA,2022-06-23
+"2133","Gonzalo Villar",1998-03-23,"Murcia",4500000,1.5e+07,2021-03-23
+"2134","Ronaldo Vieira",1998-07-19,"Bissau",3e+06,7e+06,2019-12-12
+"2135","Simone Trimboli",2002-04-19,"Lavagna",NA,NA,2022-06-07
+"2136","Telasco Segovia",2003-04-02,"Barquisimeto, Lara",NA,NA,2022-06-06
+"2137","Lorenzo Malagrida",2003-10-24,"Pietra Ligure",NA,NA,2022-06-23
+"2138","Abdelhamid Sabiri",1996-11-28,"Goulmima",3e+06,3e+06,2022-06-07
+"2139","Filip Djuricic",1992-01-30,"Obrenovac",2500000,1e+07,2020-12-29
+"2140","Valerio Verre",1994-01-11,"Roma",1800000,4e+06,2016-10-14
+"2141","Ignacio Pussetto",1995-12-21,"Cañada Rosquín",2500000,1e+07,2019-06-06
+"2142","Mehdi Léris",1998-05-23,"Mont de Marsan",2200000,2500000,2019-06-06
+"2143","Manolo Gabbiadini",1991-11-26,"Calcinate",3e+06,1.8e+07,2015-07-01
+"2144","Manuel De Luca",1998-07-17,"Bolzano/Bozen",2500000,3e+06,2022-03-15
+"2145","Francesco Caputo",1987-08-06,"Altamura",1500000,7500000,2020-08-25
+"2146","Fabio Quagliarella",1983-01-31,"Castellammare di Stabia",1e+06,17500000,2011-01-20
+"2147","Manuel Neuer",1986-03-27,"Gelsenkirchen",1.2e+07,4.5e+07,2015-02-04
+"2148","Sven Ulreich",1988-08-03,"Schorndorf",NA,6e+06,2012-06-29
+"2149","Johannes Schenk",2003-01-13,"Schweinfurt",NA,NA,2022-09-21
+"2150","Matthijs de Ligt",1999-08-12,"Leiderdorp",7e+07,7.5e+07,2019-06-12
+"2151","Dayot Upamecano",1998-10-27,"Évreux",5e+07,6e+07,2020-09-16
+"2152","Lucas Hernández",1996-02-14,"Marseille",5e+07,7e+07,2019-02-28
+"2153","Alphonso Davies",2000-11-02,"Buduburam",7e+07,8e+07,2020-09-16
+"2154","Benjamin Pavard",1996-03-28,"Maubeuge",3.5e+07,4.5e+07,2020-09-16
+"2155","Noussair Mazraoui",1997-11-14,"Leiderdorp",2.5e+07,2.5e+07,2022-11-09
+"2156","Josip Stanisic",2000-04-02,"München",8e+06,8e+06,2022-09-21
+"2157","Bouna Sarr",1992-01-31,"Lyon",2500000,9e+06,2020-08-03
+"2158","Joshua Kimmich",1995-02-08,"Rottweil",8e+07,9e+07,2021-02-10
+"2159","Leon Goretzka",1995-02-06,"Bochum",6.5e+07,7e+07,2021-02-10
+"2160","Ryan Gravenberch",2002-05-16,"Amsterdam",3e+07,3.5e+07,2022-01-05
+"2161","Marcel Sabitzer",1994-03-17,"Wels",2e+07,4.2e+07,2021-02-10
+"2162","Jamal Musiala",2003-02-26,"Stuttgart",1e+08,1e+08,2022-11-09
+"2163","Paul Wanner",2005-12-23,"Dornbirn",3e+06,3e+06,2022-11-09
+"2164","Leroy Sané",1996-01-11,"Essen",7e+07,1e+08,2018-12-19
+"2165","Sadio Mané",1992-04-10,"Sedhiou",6e+07,1.5e+08,2019-12-10
+"2166","Serge Gnabry",1995-07-14,"Stuttgart",6.5e+07,9e+07,2020-03-11
+"2167","Kingsley Coman",1996-06-13,"Paris",6e+07,6.5e+07,2021-03-31
+"2168","Thomas Müller",1989-09-13,"Weilheim in Oberbayern",1.8e+07,7.5e+07,2015-10-16
+"2169","Mathys Tel",2005-04-27,"Sarcelles",2e+07,2e+07,2022-09-21
+"2170","Eric Maxim Choupo-Moting",1989-03-23,"Hamburg",6e+06,1e+07,2015-02-04
+"2171","Gregor Kobel",1997-12-06,"Zürich",2.5e+07,2.5e+07,2022-11-09
+"2172","Marcel Lotka",2001-05-25,"Duisburg",1300000,1300000,2022-06-09
+"2173","Alexander Meyer",1991-04-13,"Bad Oldesloe",1e+06,1e+06,2022-09-21
+"2174","Luca Unbehaun",2001-02-27,"Bochum",1e+06,1500000,2021-06-09
+"2175","Niklas Süle",1995-09-03,"Frankfurt am Main",3.5e+07,6e+07,2019-06-05
+"2176","Nico Schlotterbeck",NA,"Waiblingen",3.3e+07,3.3e+07,2022-06-09
+"2177","Mats Hummels",1988-12-16,"Bergisch Gladbach",6500000,6e+07,2018-04-04
+"2178","Soumaïla Coulibaly",2003-10-14,"Montfermeil",NA,NA,2022-10-05
+"2179","Antonios Papadopoulos",1999-09-10,"Stuttgart",NA,NA,2022-10-05
+"2180","Raphaël Guerreiro",1993-12-22,"Le Blanc-Mesnil",2e+07,4e+07,2021-06-01
+"2181","Tom Rothe",2004-10-29,"Rendsburg",3500000,3500000,2022-11-09
+"2182","Nico Schulz",1993-04-01,"Berlin",2e+06,2.5e+07,2019-06-05
+"2183","Marius Wolf",1995-05-27,"Coburg",6500000,1e+07,2018-06-05
+"2184","Thomas Meunier",1991-09-12,"Sainte-Ode",6500000,3.5e+07,2018-12-17
+"2185","Mateu Morey Bauzà",2000-03-02,"Palma de Mallorca",1500000,7e+06,2021-03-31
+"2186","Felix Passlack",1998-05-29,"Bottrop",1500000,3e+06,2016-10-13
+"2187","Salih Özcan",1998-01-11,"Köln",1.7e+07,1.7e+07,2022-11-09
+"2188","Emre Can",1994-01-12,"Frankfurt am Main",1.4e+07,4e+07,2019-06-06
+"2189","Abdoulaye Kamara",2004-11-06,"Conakry",1e+06,1e+06,2021-08-07
+"2190","Jude Bellingham",2003-06-29,"Stourbridge",1e+08,1e+08,2022-11-09
+"2191","Mahmoud Dahoud",1996-01-01,"Amûdê‎",1.8e+07,1.8e+07,2018-04-04
+"2192","Giovanni Reyna",2002-11-13,"Durham",3.5e+07,4.2e+07,2021-10-07
+"2193","Julian Brandt",1996-05-02,"Bremen",2.8e+07,5e+07,2019-06-05
+"2194","Marco Reus",1989-05-31,"Dortmund",9e+06,5e+07,2014-07-10
+"2195","Göktan Gürpüz",2003-01-22,"Duisburg",NA,NA,2021-12-22
+"2196","Donyell Malen",1999-01-19,"Wieringen",2e+07,3e+07,2021-03-09
+"2197","Thorgan Hazard",1993-03-29,"La Louvière",9e+06,4.5e+07,2019-03-06
+"2198","Karim Adeyemi",2002-01-18,"München",3.5e+07,3.5e+07,2021-12-16
+"2199","Jamie Bynoe-Gittens",2004-08-08,"London",8e+06,8e+06,2022-09-21
+"2200","Sébastien Haller",1994-06-22,"Ris-Orangis",3.5e+07,4.5e+07,2019-09-12
+"2201","Youssoufa Moukoko",2004-11-20,"Yaoundé",3e+07,3e+07,2022-11-09
+"2202","Anthony Modeste",1988-04-14,"Cannes",4e+06,2e+07,2017-06-19
+"2203","Péter Gulácsi",1990-05-06,"Budapest",6e+06,1.3e+07,2021-06-01
+"2204","Janis Blaswich",1991-05-02,"Willich",1e+06,1e+06,2018-12-28
+"2205","Örjan Nyland",1990-09-10,"Volda",NA,3e+06,2018-09-24
+"2206","Jonas Nickisch",2004-05-21,"Dresden",NA,NA,2022-09-21
+"2207","Timo Schlieck",2006-03-02,"Oelde",NA,NA,2022-09-21
+"2208","Josko Gvardiol",2002-01-23,"Zagreb",6e+07,6e+07,2022-09-21
+"2209","Mohamed Simakan",2000-05-03,"Marseille",2.8e+07,2.8e+07,2022-11-09
+"2210","Abdou Diallo",1996-05-04,"Tours",1.5e+07,3.5e+07,2019-06-05
+"2211","Willi Orbán",1992-11-03,"Kaiserslautern",1e+07,2e+07,2019-06-05
+"2212","David Raum",1998-04-22,"Nürnberg",2.6e+07,2.6e+07,2022-09-21
+"2213","Marcel Halstenberg",1991-09-27,"Laatzen",4e+06,2.2e+07,2019-06-05
+"2214","Sanoussy Ba",2004-01-05,"Hof",NA,NA,2022-11-09
+"2215","Benjamin Henrichs",1997-02-23,"Bocholt",1.5e+07,2e+07,2018-12-17
+"2216","Lukas Klostermann",1996-06-03,"Gevelsberg",1.4e+07,3.8e+07,2020-09-16
+"2217","Konrad Laimer",1997-05-27,"Salzburg",2.8e+07,3e+07,2020-03-11
+"2218","Xaver Schlager",1997-09-28,"Linz",2.2e+07,2.7e+07,2021-05-27
+"2219","Amadou Haidara",1998-01-31,"Bamako",1.7e+07,2.4e+07,2021-06-09
+"2220","Kevin Kampl",1990-10-09,"Solingen",5e+06,2.2e+07,2019-03-06
+"2221","Dani Olmo",1998-05-07,"Terrassa",4e+07,5e+07,2021-07-15
+"2222","Dominik Szoboszlai",2000-10-25,"Székesfehérvár",3.5e+07,3.5e+07,2022-11-09
+"2223","Emil Forsberg",1991-10-23,"Sundsvall",9e+06,2.8e+07,2019-12-17
+"2224","Hugo Novoa",2003-01-24,"Bertamiráns",5e+06,5e+06,2022-09-21
+"2225","Christopher Nkunku",1997-11-14,"Lagny-sur-Marne",8e+07,8e+07,2022-06-09
+"2226","Timo Werner",1996-03-06,"Stuttgart",2.5e+07,8e+07,2020-03-11
+"2227","André Silva",1995-11-06,"Baguim do Monte",2.4e+07,4.5e+07,2021-06-01
+"2228","Yussuf Poulsen",1994-06-15,"Kopenhagen",1e+07,3.5e+07,2019-06-05
+"2229","Lukas Hradecky",1989-11-24,"Bratislava",2500000,1.2e+07,2018-08-22
+"2230","Andrey Lunev",1991-11-13,"Moskau",1500000,10500000,2019-06-14
+"2231","Niklas Lomb",1993-07-28,"Köln",NA,NA,2016-07-22
+"2232","Edmond Tapsoba",1999-02-02,"Ouagadougou",3e+07,4e+07,2021-02-10
+"2233","Piero Hincapié",2002-01-09,"Esmeraldas",2.2e+07,2.2e+07,2022-09-21
+"2234","Jonathan Tah",1996-02-11,"Hamburg",2e+07,4e+07,2018-08-22
+"2235","Odilon Kossounou",2001-01-04,"Abidjan",2e+07,2.3e+07,2021-10-07
+"2236","Mitchel Bakker",2000-06-20,"Purmerend",9e+06,1.4e+07,2022-03-24
+"2237","Daley Sinkgraven",1995-07-04,"Assen",3e+06,9e+06,2021-02-10
+"2238","Jeremie Frimpong",2000-12-10,"Amsterdam",2.5e+07,2.5e+07,2022-09-21
+"2239","Timothy Fosu-Mensah",1998-01-02,"Amsterdam",3e+06,7e+06,2018-01-02
+"2240","Ayman Azhil",2001-04-10,"Düsseldorf",NA,NA,2022-06-08
+"2241","Joshua Eze",2003-03-20,"Leverkusen",NA,NA,2022-07-05
+"2242","Exequiel Palacios",1998-10-05,"Famaillá",1.5e+07,2.5e+07,2019-12-05
+"2243","Kerem Demirbay",1993-07-03,"Herten",1.2e+07,3.2e+07,2019-06-05
+"2244","Robert Andrich",1994-09-22,"Potsdam",1.1e+07,1.3e+07,2022-03-24
+"2245","Nadiem Amiri",1996-10-27,"Ludwigshafen am Rhein",6e+06,2.2e+07,2021-02-10
+"2246","Charles Aránguiz",1989-04-17,"Puente Alto",3500000,1.5e+07,2018-08-22
+"2247","Zidan Sertdemir",2005-02-04,"Ishøj",2e+06,2e+06,2021-08-07
+"2248","Florian Wirtz",2003-05-03,"Pulheim",7e+07,7e+07,2021-12-22
+"2249","Moussa Diaby",1999-07-07,"Paris",5e+07,6e+07,2022-06-09
+"2250","Callum Hudson-Odoi",2000-11-07,"London",2.5e+07,3.5e+07,2019-06-13
+"2251","Adam Hlozek",2002-07-25,"Ivančice",1.5e+07,2e+07,2022-06-22
+"2252","Paulinho",2000-07-15,"Rio de Janeiro",7e+06,2.5e+07,2018-05-23
+"2253","Amine Adli",2000-05-10,"Eu",1.2e+07,1.2e+07,2021-12-22
+"2254","Karim Bellarabi",1990-04-08,"Berlin",2500000,2.2e+07,2016-07-22
+"2255","Patrik Schick",1996-01-24,"Praha",3.8e+07,5e+07,2022-06-09
+"2256","Sardar Azmoun",1995-01-01,"Gonbad-e Kavus, Golestan",1.2e+07,2.5e+07,2021-06-02
+"2257","Kevin Trapp",1990-07-08,"Merzig",8500000,1.2e+07,2016-02-04
+"2258","Diant Ramaj",2001-09-19,"Stuttgart",NA,NA,2022-06-09
+"2259","Matteo Bignetti",2004-05-06,"Bruck an der Mur",NA,NA,2022-07-05
+"2260","Jens Grahl",1988-09-22,"Stuttgart",NA,NA,2014-07-10
+"2261","Evan Ndicka",1999-08-20,"Paris",3.2e+07,3.2e+07,2022-06-09
+"2262","Tuta",1999-07-04,"São Paulo",1.5e+07,1.5e+07,2022-11-09
+"2263","Jérôme Onguéné",1997-12-22,"Mbalmayo",3500000,5e+06,2019-12-16
+"2264","Almamy Touré",1996-04-28,"Bamako",3500000,8e+06,2018-01-24
+"2265","Hrvoje Smolcic",2000-08-17,"Gospić",3e+06,3e+06,2021-12-30
+"2266","Makoto Hasebe",1984-01-18,"Fujieda, Shizuoka",NA,5e+06,2010-07-16
+"2267","Luca Pellegrini",1999-03-07,"Roma",9e+06,1.5e+07,2019-12-12
+"2268","Christopher Lenz",1994-09-22,"Berlin",5e+06,5e+06,2021-02-10
+"2269","Jan Schröder",2003-04-15,"Herrenberg",NA,NA,2021-08-24
+"2270","Aurélio Buta",1997-02-10,NA,3e+06,6e+06,2020-03-30
+"2271","Timothy Chandler",1990-03-29,"Frankfurt am Main",1200000,5e+06,2018-04-04
+"2272","Kristijan Jakic",1997-05-14,"Split",9e+06,9e+06,2022-06-09
+"2273","Djibril Sow",1997-02-06,"Zürich",2.2e+07,2.2e+07,2022-06-09
+"2274","Sebastian Rode",1990-10-11,"Seeheim-Jugenheim",2500000,1e+07,2015-07-01
+"2275","Marcel Wenig",2004-05-04,"Nürnberg",NA,NA,2022-11-09
+"2276","Mehdi Loune",2004-05-14,"Hanau",NA,NA,2022-07-05
+"2277","Junior Dina Ebimbe",2000-11-21,"Stains",7500000,7500000,2022-11-09
+"2278","Daichi Kamada",1996-08-05,"---, Ehime",3e+07,3e+07,2022-11-09
+"2279","Jesper Lindström",2000-02-29,"Taastrup",2.8e+07,2.8e+07,2022-11-09
+"2280","Mario Götze",1992-06-03,"Memmingen",1.3e+07,5.5e+07,2014-02-12
+"2281","Faride Alidou",2001-07-18,"Hamburg",2500000,2500000,2022-11-09
+"2282","Ansgar Knauff",2002-01-10,"Göttingen",1e+07,1e+07,2022-06-09
+"2283","Randal Kolo Muani",1998-12-05,"Bondy",3e+07,3e+07,2022-11-09
+"2284","Rafael Borré",1995-09-15,"Barranquilla",1.6e+07,2e+07,2022-06-09
+"2285","Lucas Alario",1992-10-08,"Tostado, Santa Fe",5500000,2e+07,2017-10-18
+"2286","Nacho Ferri",2004-10-05,"Montaverner",NA,NA,NA
+"2287","Yann Sommer",1988-12-17,"Morges",5e+06,1.3e+07,2018-10-22
+"2288","Tobias Sippel",1988-03-22,"Bad Dürkheim",NA,3e+06,2011-01-12
+"2289","Jan Olschowsky",2001-11-18,"Neuss",NA,NA,2021-01-05
+"2290","Nico Elvedi",1996-09-30,"Zürich",2e+07,3.5e+07,2019-03-06
+"2291","Marvin Friedrich",1995-12-13,"Kassel",8e+06,1e+07,2021-06-09
+"2292","Ko Itakura",1997-01-27,"Yokohama, Kanagawa",7500000,7500000,2022-09-21
+"2293","Tony Jantschke",1990-04-07,"Hoyerswerda",NA,9e+06,2015-07-01
+"2294","Mamadou Doucouré",1998-05-21,"Dakar",NA,NA,2016-07-22
+"2295","Ramy Bensebaini",1995-04-16,"Constantine",2e+07,2.2e+07,2021-02-10
+"2296","Luca Netz",2003-05-15,"Berlin",6500000,6500000,2022-06-09
+"2297","Joe Scally",2002-12-31,"Lake Grove, New York",1.2e+07,1.2e+07,2022-11-09
+"2298","Stefan Lainer",1992-08-27,"Salzburg",3500000,1.8e+07,2019-12-17
+"2299","Julian Weigl",1995-09-08,"Bad Aibling",1.5e+07,3e+07,2017-12-28
+"2300","Christoph Kramer",1991-02-19,"Solingen",2500000,1.4e+07,2017-12-28
+"2301","Manu Koné",2001-05-17,"Colombes",2.5e+07,2.5e+07,2022-09-21
+"2302","Florian Neuhaus",1997-03-16,"Landsberg am Lech",2e+07,3.8e+07,2021-02-10
+"2303","Oscar Fraulo",2003-12-06,"Odense",2e+06,2e+06,2022-09-21
+"2304","Rocco Reitz",2002-05-29,"Duisburg",NA,NA,2022-04-12
+"2305","Hannes Wolf",1999-04-16,"Graz",4e+06,1.2e+07,2019-06-03
+"2306","Lars Stindl",1988-08-26,"Speyer",2500000,1.8e+07,2017-12-28
+"2307","Conor Noß",2001-01-01,"Düsseldorf",NA,NA,2022-06-09
+"2308","Torben Müsel",1999-07-25,"Grünstadt",NA,NA,2021-12-22
+"2309","Alassane Plea",1993-03-10,"Lille",1.5e+07,3.8e+07,2018-12-18
+"2310","Yvandro Borges Sanches",2004-05-24,"Luxemburg",1500000,1500000,2022-11-09
+"2311","Jonas Hofmann",1992-07-14,"Heidelberg",1.3e+07,1.6e+07,2021-02-10
+"2312","Nathan Ngoumou",2000-03-14,"Toulouse",7e+06,7e+06,2022-09-21
+"2313","Patrick Herrmann",1991-02-12,"Uchtelfangen",2e+06,1.2e+07,2015-07-01
+"2314","Marcus Thuram",1997-08-06,"Parma",3e+07,4e+07,2020-11-26
+"2315","Koen Casteels",1992-06-25,"Bonheiden",8e+06,1.4e+07,2021-06-09
+"2316","Pavao Pervan",1987-11-13,"Livno",NA,NA,2018-06-14
+"2317","Philipp Schulze",2003-01-29,NA,NA,NA,2021-08-07
+"2318","Niklas Klinger",1995-10-13,"Wolfsburg",NA,NA,2019-02-24
+"2319","Maxence Lacroix",2000-04-06,"Villeneuve-Saint-Georges",2e+07,2.8e+07,2021-06-09
+"2320","Sebastiaan Bornauw",1999-03-22,"Wemmel",8500000,1.4e+07,2021-10-07
+"2321","Micky van de Ven",2001-04-19,"Wormer",8e+06,8e+06,2022-09-21
+"2322","Paulo Otávio",1994-11-23,"Ourinhos",6500000,8e+06,2021-06-09
+"2323","Jérôme Roussillon",1993-01-06,"Sarcelles",3e+06,2e+07,2019-06-05
+"2324","Ridle Baku",1998-04-08,"Mainz",1.3e+07,2.5e+07,2021-06-09
+"2325","Kilian Fischer",2000-10-12,"Miltenberg",1500000,2e+06,2022-06-16
+"2326","Bartol Franjic",2000-01-14,"Zagreb",6500000,6500000,2022-09-21
+"2327","Josuha Guilavogui",1990-09-19,"Toulon",3e+06,1.4e+07,2019-12-17
+"2328","Maximilian Arnold",1994-05-27,"Riesa",1.7e+07,1.9e+07,2021-02-10
+"2329","Mattias Svanberg",1999-01-05,"Malmö",1.5e+07,1.5e+07,2021-12-28
+"2330","Yannick Gerhardt",1994-03-13,"Würselen",6e+06,1.2e+07,2017-02-07
+"2331","Kevin Paredes",2003-05-07,"South Riding, Virginia",5e+06,5e+06,2022-06-09
+"2332","Felix Nmecha",2000-10-10,"Hamburg",3e+06,3e+06,2022-11-09
+"2333","Jakub Kaminski",2002-06-05,"Ruda Śląska",1e+07,1e+07,2021-12-31
+"2334","Josip Brekalo",1998-06-23,"Zagreb",7500000,1.5e+07,2019-10-02
+"2335","Omar Marmoush",1999-02-07,"Kairo",6e+06,6e+06,2022-06-09
+"2336","Patrick Wimmer",2001-05-30,"Tulln",8e+06,8e+06,2022-03-24
+"2337","Luca Waldschmidt",1996-05-19,"Siegen",4500000,2e+07,2019-10-02
+"2338","Maximilian Philipp",1994-03-01,"Berlin",2500000,2e+07,2017-10-18
+"2339","Lukas Nmecha",1998-12-14,"Hamburg",1.8e+07,1.8e+07,2021-12-22
+"2340","Jonas Wind",1999-02-07,"Hvidovre",1.4e+07,1.4e+07,2022-06-09
+"2341","Dzenan Pejcinovic",2005-02-15,"München",1e+06,1e+06,2022-09-21
+"2342","Mark Flekken",1993-06-13,"Bocholtz",7e+06,7e+06,2022-06-09
+"2343","Noah Atubolu",2002-05-25,"Freiburg im Breisgau",2e+06,2e+06,2022-11-09
+"2344","Benjamin Uphoff",1993-08-08,"Burghausen",NA,NA,2019-12-13
+"2345","Philipp Lienhart",1996-07-11,"Lilienfeld",2e+07,2e+07,2022-11-09
+"2346","Matthias Ginter",1994-01-19,"Freiburg im Breisgau",2e+07,3.5e+07,2018-12-18
+"2347","Keven Schlotterbeck",1997-04-28,"Weinstadt",3e+06,7500000,2021-02-10
+"2348","Manuel Gulde",1991-02-12,"Mannheim",1700000,4e+06,2018-12-18
+"2349","Christian Günter",1993-02-28,"Villingen-Schwenningen",1e+07,1.2e+07,2019-12-17
+"2350","Kimberly Ezekwem",2001-06-19,"München",NA,NA,2021-06-30
+"2351","Kiliann Sildillia",2002-05-16,"Montigny-lès-Metz",9e+06,9e+06,2022-11-09
+"2352","Hugo Siquet",2002-07-09,"Marche-en-Famenne",3e+06,7e+06,2021-10-06
+"2353","Lukas Kübler",1992-08-30,"Bonn",2300000,2500000,2019-03-06
+"2354","Jonathan Schmid",1990-06-22,"Strasbourg",1200000,5e+06,2013-06-30
+"2355","Yannik Keitel",2000-02-15,"Breisach am Rhein",4e+06,4e+06,2021-10-07
+"2356","Nicolas Höfler",1990-03-09,"Überlingen",2500000,4500000,2019-12-17
+"2357","Maximilian Eggestein",1996-12-08,"Hannover",8e+06,3e+07,2019-06-05
+"2358","Merlin Röhl",2002-07-05,"Berlin",2e+06,2e+06,2022-09-21
+"2359","Robert Wagner",2003-07-14,"Lahr",NA,NA,2022-10-05
+"2360","Daniel-Kofi Kyereh",1996-03-08,"Accra",8e+06,8e+06,2022-11-09
+"2361","Vincenzo Grifo",1993-04-07,"Pforzheim",1.2e+07,1.2e+07,2021-05-25
+"2362","Noah Weißhaupt",2001-09-20,"Rostock",2500000,2500000,2022-11-09
+"2363","Kevin Schade",2001-11-27,"Potsdam",1.2e+07,1.2e+07,2022-09-21
+"2364","Roland Sallai",1997-05-22,"Budapest",1.2e+07,1.6e+07,2021-07-15
+"2365","Ritsu Doan",1998-06-16,"Amagasaki, Hyogo",1.2e+07,1.2e+07,2022-11-09
+"2366","Woo-yeong Jeong",1999-09-20,"Ulsan",5500000,5500000,2021-12-22
+"2367","Michael Gregoritsch",1994-04-18,"Graz",8e+06,2e+07,2018-12-18
+"2368","Lucas Höler",1994-07-10,"Achim",5e+06,6500000,2021-12-22
+"2369","Nils Petersen",1988-12-06,"Wernigerode",1500000,1.2e+07,2018-06-05
+"2370","Oliver Baumann",1990-06-02,"Breisach am Rhein",4500000,1e+07,2018-06-05
+"2371","Philipp Pentke",1985-05-01,"Freiberg",NA,NA,2018-06-19
+"2372","Luca Philipp",2000-11-28,"Stuttgart",NA,NA,2021-12-22
+"2373","Nahue Noll",2003-03-17,"München",NA,NA,2021-08-07
+"2374","Ozan Kabak",2000-03-25,"Ankara",1e+07,3.2e+07,2020-03-11
+"2375","Stanley Nsoki",1999-04-09,"Poissy",8500000,1.2e+07,2020-03-13
+"2376","Kevin Akpoguma",1995-04-19,"Neustadt an der Weinstraße",5e+06,1.2e+07,2018-08-22
+"2377","Eduardo Quaresma",2002-03-02,"Barreiro",4e+06,7e+06,2020-08-17
+"2378","Kevin Vogt",1991-09-23,"Witten",3500000,1.7e+07,2018-10-22
+"2379","Ermin Bicakcic",1990-01-24,"Zvornik",1e+06,4e+06,2018-12-18
+"2380","Benjamin Hübner",1989-07-04,"Wiesbaden",NA,8e+06,2018-06-05
+"2381","Angeliño",1997-01-04,"Coristanco",2e+07,3.5e+07,2021-02-10
+"2382","Pavel Kaderabek",1992-04-25,"Praha",4e+06,2e+07,2019-06-05
+"2383","Angelo Stiller",2001-04-04,"München",6e+06,7e+06,2022-06-09
+"2384","Sebastian Rudy",1990-02-28,"Villingen-Schwenningen",1500000,1.5e+07,2017-12-28
+"2385","Dennis Geiger",1998-06-10,"Mosbach",9e+06,1.3e+07,2020-11-26
+"2386","Grischa Prömel",1995-01-09,"Stuttgart",7500000,7500000,2022-06-09
+"2387","Finn Ole Becker",2000-06-08,"Elmshorn",2e+06,2500000,2021-03-29
+"2388","Christoph Baumgartner",1999-08-01,"Horn",2e+07,2.2e+07,2021-02-10
+"2389","Muhammed Damar",2004-04-09,"Berlin",1e+06,1e+06,2022-11-09
+"2390","Tom Bischof",2005-06-28,"Aschaffenburg",1e+06,1e+06,2022-06-09
+"2391","Jacob Bruun Larsen",1998-09-19,"Lyngby",4e+06,2e+07,2018-12-18
+"2392","Robert Skov",1996-05-20,"Marbella",9e+06,1.4e+07,2020-07-08
+"2393","Georginio Rutter",2002-04-20,"Plescop",1.6e+07,1.6e+07,2022-06-09
+"2394","Ihlas Bebou",1994-04-23,"Aledjo Kadara",1.1e+07,1.6e+07,2021-06-09
+"2395","Andrej Kramaric",1991-06-19,"Zagreb",9e+06,3.8e+07,2019-06-05
+"2396","Munas Dabbur",1992-05-14,"Nazareth",4e+06,1.5e+07,2018-12-19
+"2397","Fisnik Asllani",2002-08-08,"Berlin",NA,NA,2021-02-15
+"2398","Florian Müller",1997-11-13,"Saarlouis",3e+06,1e+07,2019-06-05
+"2399","Fabian Bredlow",1995-03-02,"Berlin",NA,1e+06,2018-06-19
+"2400","Florian Schock",2001-05-22,"Ostfildern",NA,NA,2021-10-07
+"2401","Konstantinos Mavropanos",1997-12-11,"Athens",1.5e+07,1.7e+07,2021-12-22
+"2402","Hiroki Ito",1999-05-12,"Hamamatsu, Shizuoka",5500000,5500000,2022-11-09
+"2403","Dan-Axel Zagadou",1999-06-03,"Créteil",5e+06,3.5e+07,2020-03-11
+"2404","Waldemar Anton",1996-07-20,"Almalyk",4500000,1.5e+07,2018-08-22
+"2405","Antonis Aidonis",2001-05-22,"Neustadt an der Weinstraße",NA,NA,2018-12-18
+"2406","Borna Sosa",1998-01-21,"Zagreb",2e+07,2.3e+07,2022-06-09
+"2407","Josha Vagnoman",2000-12-11,"Hamburg",3700000,4e+06,2020-09-10
+"2408","Pascal Stenzel",1996-03-20,"Bünde",1500000,6500000,2018-12-18
+"2409","Wataru Endo",1993-02-09,"Yokohama, Kanagawa",6500000,1e+07,2021-06-09
+"2410","Naouirou Ahamada",2002-03-29,"Marseille",5500000,5500000,2022-11-09
+"2411","Atakan Karazor",1996-10-13,"Essen",4500000,4500000,2022-06-09
+"2412","Enzo Millot",2002-07-17,"Lucé",2500000,2500000,2022-11-09
+"2413","Nikolas Nartey",2000-02-22,"Bagsværd, Copenhagen",1800000,1800000,2021-12-22
+"2414","Silas",1998-10-06,"Kinshasa",1.3e+07,2.5e+07,2021-02-10
+"2415","Lilian Egloff",2002-08-20,"Heilbronn",1500000,1500000,2020-09-16
+"2416","Laurin Ulrich",2005-01-31,"Heidenheim",NA,NA,2022-09-21
+"2417","Tanguy Coulibaly",2001-02-18,"Sèvres",2e+06,5e+06,2021-02-10
+"2418","Chris Führich",1998-01-09,"Castrop-Rauxel",4e+06,4e+06,2022-03-24
+"2419","Serhou Guirassy",1996-03-12,"Arles",1e+07,1.5e+07,2020-10-15
+"2420","Tiago Tomás",2002-06-16,"Cascais",7e+06,7e+06,2022-06-09
+"2421","Luca Pfeiffer",1996-08-20,"Bad Mergentheim",2800000,2800000,2022-09-21
+"2422","Juan José Perea",2000-02-23,"Bogotá",2400000,2400000,2022-09-21
+"2423","Thomas Kastanaras",2003-01-09,"Stuttgart",NA,NA,2022-10-17
+"2424","Alou Kuol",2001-07-05,"Kairo",NA,NA,2021-03-30
+"2425","Frederik Rönnow",1992-08-04,"Horsens",3500000,3500000,2020-11-26
+"2426","Lennart Grill",1999-01-25,"Idar-Oberstein",1e+06,1500000,2020-07-01
+"2427","Jakob Busk",1993-09-12,"Kopenhagen",NA,NA,2017-01-23
+"2428","Diogo Leite",1999-01-23,"Porto",9e+06,1e+07,2021-01-28
+"2429","Paul Jaeckel",1998-07-22,"Eisenhüttenstadt",7500000,7500000,2022-09-21
+"2430","Timo Baumgartl",1996-03-04,"Böblingen",5e+06,1.5e+07,2018-12-18
+"2431","Robin Knoche",1992-05-22,"Braunschweig",5e+06,1.2e+07,2015-02-04
+"2432","Danilho Doekhi",1998-06-30,"Rotterdam",4e+06,4e+06,2022-06-08
+"2433","Niko Gießelmann",1991-09-26,"Hannover",2e+06,4e+06,2019-06-05
+"2434","Tymoteusz Puchacz",1999-01-23,"Sulechów",1500000,4e+06,2021-01-15
+"2435","Julian Ryerson",1997-11-17,"Lyngdal",7500000,7500000,2022-11-09
+"2436","Christopher Trimmel",1987-02-24,"Oberpullendorf",NA,1200000,2020-11-26
+"2437","Laurenz Dehl",2001-12-12,"Berlin",NA,NA,2020-11-11
+"2438","Rani Khedira",1994-01-27,"Stuttgart",8e+06,1e+07,2019-06-05
+"2439","Morten Thorsby",1996-05-05,"Oslo",7e+06,7e+06,2021-06-03
+"2440","András Schäfer",1999-04-13,"Szombathely",5e+06,5e+06,2022-11-09
+"2441","Janik Haberer",1994-04-02,"Wangen im Allgäu",5e+06,1e+07,2019-06-05
+"2442","Paul Seguin",1995-03-29,"Magdeburg",2200000,2500000,2021-06-16
+"2443","Levin Öztunali",1996-03-15,"Hamburg",1500000,6500000,2017-06-19
+"2444","Kevin Möhwald",1993-07-03,"Erfurt",1e+06,4e+06,2019-06-05
+"2445","Fabio Schneider",2002-07-31,"Berlin",NA,NA,2020-09-16
+"2446","Milos Pantovic",1996-07-07,"München",2200000,2200000,2022-06-09
+"2447","Genki Haraguchi",1991-05-09,"Kumagaya, Saitama",2e+06,4500000,2018-07-16
+"2448","Tim Skarke",1996-09-07,"Heidenheim an der Brenz",1e+06,1e+06,2022-06-16
+"2449","Tim Maciejewski",2001-03-05,"Berlin",NA,NA,2021-05-26
+"2450","Sheraldo Becker",1995-02-09,"Amsterdam",1.5e+07,1.5e+07,2022-09-21
+"2451","Jamie Leweling",2001-02-26,"Nürnberg",4500000,4500000,2022-03-24
+"2452","Jordan",1996-04-26,"Washington, D. C.",1e+07,1e+07,2022-09-21
+"2453","Sven Michel",1990-07-15,"Freudenberg",1200000,1250000,2019-06-12
+"2454","Kevin Behrens",1991-02-03,"Bremen",NA,1e+06,2020-11-18
+"2455","Robin Zentner",1994-10-28,"Rüdesheim am Rhein",5e+06,5e+06,2021-06-09
+"2456","Finn Dahmen",1998-03-27,"Wiesbaden",1e+06,2e+06,2021-06-09
+"2457","Lasse Rieß",2001-07-27,NA,NA,NA,2021-12-31
+"2458","Maxim Leitsch",1998-05-18,"Essen",5e+06,5e+06,2022-03-24
+"2459","Stefan Bell",1991-08-24,"Andernach",2500000,6e+06,2016-07-22
+"2460","Alexander Hack",1993-09-08,"Memmingen",2500000,3e+06,2018-06-05
+"2461","Philipp Schulz",2005-05-25,NA,NA,NA,2022-07-05
+"2462","Aarón Martín",1997-04-22,"Montmeló",7e+06,2e+07,2018-03-22
+"2463","Anthony Caci",1997-07-01,"Forbach",7e+06,7e+06,2022-05-30
+"2464","Silvan Widmer",1993-03-05,"Aarau",5e+06,9e+06,2017-06-08
+"2465","Danny da Costa",1993-07-13,"Neuss",2e+06,1.5e+07,2019-06-05
+"2466","Anton Stach",1998-11-15,"Buchholz in der Nordheide",1.5e+07,1.5e+07,2022-11-09
+"2467","Niklas Tauer",2001-02-17,"Mainz",1500000,1500000,2022-06-09
+"2468","Leandro Barreiro",2000-01-03,"Erpeldingen",8e+06,1.1e+07,2021-06-09
+"2469","Dominik Kohr",1994-01-31,"Trier",4e+06,8500000,2019-10-02
+"2470","Edimilson Fernandes",1996-04-15,"Sion",3e+06,8e+06,2019-03-01
+"2471","Aymen Barkok",1998-05-21,"Frankfurt am Main",1500000,3500000,2021-02-10
+"2472","Eniss Shabani",2003-05-29,"Gießen",NA,NA,2022-06-28
+"2473","Angelo Fulgini",1996-08-20,"Abidjan",9e+06,1.2e+07,2021-04-09
+"2474","Jae-sung Lee",1992-08-10,"Ulsan",3e+06,3500000,2021-12-22
+"2475","Delano Burgzorg",1998-11-07,"Amsterdam",2e+06,2e+06,2022-06-09
+"2476","Ben Bobzien",2003-04-29,"Gießen",NA,NA,2022-11-09
+"2477","Jonathan Burkardt",2000-07-11,"Darmstadt",1.5e+07,1.7e+07,2021-12-22
+"2478","Karim Onisiwo",1992-03-17,"Wien",3500000,4500000,2019-12-17
+"2479","Marcus Ingvartsen",1996-01-04,"Farum",3500000,3500000,2017-10-20
+"2480","Marlon Mustapha",2001-05-24,"Wien",1e+06,1e+06,2022-05-27
+"2481","Nelson Weiper",2005-03-17,"Mainz",1e+06,1e+06,2022-11-09
+"2482","Oliver Christensen",1999-03-22,"Kerteminde",4500000,4500000,2022-11-09
+"2483","Tjark Ernst",2003-03-15,"Stuttgart",NA,NA,2022-09-21
+"2484","Rune Jarstein",1984-09-29,"Porsgrunn",NA,2500000,2017-06-19
+"2485","Agustín Rogel",1997-10-17,"Montevideo",4500000,4500000,2022-05-24
+"2486","Marc Oliver Kempf",1995-01-28,"Lich",4500000,8e+06,2021-06-09
+"2487","Linus Gechter",2004-02-27,"Berlin",4500000,4500000,2022-06-09
+"2488","Filip Uremovic",1997-02-11,"Požega",4e+06,7e+06,2020-12-29
+"2489","Márton Dárdai",2002-02-12,"Berlin",4e+06,6e+06,2021-06-09
+"2490","Maximilian Mittelstädt",1997-03-18,"Berlin",2e+06,1.4e+07,2019-12-17
+"2491","Marvin Plattenhardt",1992-01-26,"Filderstadt",2e+06,1.7e+07,2018-07-16
+"2492","Lukas Ullrich",2004-03-16,"Berlin",NA,NA,2022-10-06
+"2493","Jonjoe Kenny",1997-03-15,"Liverpool",4e+06,1.2e+07,2019-12-17
+"2494","Deyovaisio Zeefuik",1998-03-11,"Amsterdam",1500000,5e+06,2020-09-16
+"2495","Peter Pekarik",1986-10-30,"Žilina",NA,3500000,2014-07-10
+"2496","Julian Eitschberger",2004-03-05,"Hohen Neuendorf",NA,NA,2022-07-01
+"2497","Lucas Tousart",1997-04-29,"Arras",1.1e+07,2.5e+07,2018-01-24
+"2498","Ivan Sunjic",1996-10-09,"Zenica",5e+06,6e+06,2019-10-17
+"2499","Suat Serdar",1997-04-11,"Bingen",8e+06,2.5e+07,2020-03-11
+"2500","Vladimir Darida",1990-08-08,"Plzeň",1500000,1e+07,2016-06-01
+"2501","Jean-Paul Boëtius",1994-03-22,"Rotterdam",3e+06,6e+06,2019-06-05
+"2502","Kevin-Prince Boateng",1987-03-06,"Berlin",NA,2.3e+07,2012-06-08
+"2503","Chidera Ejuke",1998-01-02,"Zaria",7500000,9e+06,2021-12-29
+"2504","Myziane Maolida",1999-02-14,"Paris",1750000,9e+06,2018-09-06
+"2505","Dodi Lukébakio",1997-09-24,"Asse",1.2e+07,2.1e+07,2019-12-17
+"2506","Marco Richter",1997-11-24,"Friedberg",6e+06,1e+07,2019-10-02
+"2507","Kelian Nsona",2002-05-11,"Ivry-sur-Seine",1200000,1200000,2021-03-11
+"2508","Dong-jun Lee",1997-02-01,"Busan",NA,1300000,2021-06-22
+"2509","Wilfried Kanga",1998-02-21,"Montreuil-sous-Bois",4e+06,4e+06,2022-09-21
+"2510","Stevan Jovetic",1989-11-02,"Titograd",2e+06,3e+07,2013-01-15
+"2511","Jessic Ngankam",2000-07-20,"Berlin",2e+06,2e+06,2022-06-09
+"2512","Davie Selke",1995-01-20,"Schorndorf",1800000,2e+07,2019-03-06
+"2513","Derry Scherhant",2002-11-10,"Berlin",NA,NA,2022-06-17
+"2514","Rafal Gikiewicz",1987-10-26,"Olsztyn",1200000,1500000,2020-03-11
+"2515","Tomas Koubek",1992-08-26,"Hradec Králové",1e+06,7e+06,2018-06-04
+"2516","Daniel Klein",2001-03-13,"Heidelberg",NA,NA,2022-11-09
+"2517","Benjamin Leneis",1999-03-08,"München",NA,NA,2019-06-05
+"2518","Reece Oxford",1998-12-16,"London",1.2e+07,1.2e+07,2022-06-09
+"2519","Felix Uduokhai",1997-09-09,"Annaberg-Buchholz",1e+07,1.6e+07,2021-06-09
+"2520","Jeffrey Gouweleeuw",1991-07-10,"Heemskerk",3500000,1.2e+07,2018-12-18
+"2521","Maximilian Bauer",2000-02-09,"Vilshofen",3500000,3500000,2022-11-09
+"2522","Frederik Winther",2001-01-04,"Gentofte",1e+06,1e+06,2021-12-22
+"2523","Iago",1997-03-23,"Monte Azul Paulista",5500000,6500000,2020-11-26
+"2524","Mads Pedersen",1996-09-01,"Hørsholm",2500000,2500000,2022-11-09
+"2525","Aaron Zehnter",2004-10-31,"Sonderhofen",NA,NA,2022-07-05
+"2526","Robert Gumny",1998-06-04,"Poznań",3500000,5e+06,2018-07-03
+"2527","Raphael Framberger",1995-09-06,"Augsburg",1e+06,2e+06,2020-11-26
+"2528","Niklas Dorsch",1998-01-15,"Lichtenfels",1e+07,1e+07,2021-12-22
+"2529","Carlos Gruezo",1995-04-19,"Santo Domingo",4e+06,6e+06,2021-02-10
+"2530","Tobias Strobl",1990-05-12,"München",NA,8e+06,2019-03-06
+"2531","Julian Baumgartlinger",1988-01-02,"Salzburg",NA,6e+06,2016-06-01
+"2532","Arne Maier",1999-01-08,"Ludwigsfelde",5500000,2.4e+07,2019-06-05
+"2533","Elvis Rexhbecaj",1997-11-01,"Gjonaj, Prizren",3500000,8e+06,2019-06-05
+"2534","Fredrik Jensen",1997-09-09,"Porvoo",2500000,3e+06,2018-08-22
+"2535","Rubén Vargas",1998-08-05,"Adligenswil",6e+06,1.3e+07,2020-11-26
+"2536","André Hahn",1990-08-13,"Otterndorf",2e+06,8e+06,2015-02-04
+"2537","Noah Joel Sarenren Bazee",1996-08-21,"Celle",NA,1500000,2017-01-23
+"2538","Daniel Caligiuri",1988-01-15,"Villingen-Schwenningen",NA,7500000,2015-07-01
+"2539","Lukas Petkov",2000-11-01,"Friedberg",NA,NA,2022-11-09
+"2540","Ermedin Demirovic",1998-03-25,"Hamburg",9e+06,1.2e+07,2021-06-09
+"2541","Mergim Berisha",1998-05-11,"Berchtesgaden",6e+06,1e+07,2020-12-21
+"2542","Florian Niederlechner",1990-10-24,"Ebersberg",2200000,1e+07,2020-03-11
+"2543","Marvin Schwäbe",1995-04-25,"Dieburg",5e+06,5e+06,2022-11-09
+"2544","Timo Horn",1993-05-12,"Köln",1500000,1.2e+07,2017-06-19
+"2545","Jonas Urbig",2003-08-08,"Euskirchen",NA,NA,2021-12-22
+"2546","Matthias Köbbing",1997-05-28,"Koblenz",NA,NA,2017-08-21
+"2547","Timo Hübers",1996-07-20,"Hildesheim",7500000,7500000,2022-06-09
+"2548","Luca Kilian",1999-09-01,"Witten",4500000,4500000,2022-06-09
+"2549","Julian Chabot",1998-02-12,"Hanau",2e+06,3500000,2019-06-12
+"2550","Nikola Soldo",2001-01-25,"Stuttgart",1500000,1800000,2022-06-06
+"2551","Rijad Smajic",2004-05-02,"Köln",NA,NA,2022-09-21
+"2552","Jonas Hector",1990-05-27,"Saarbrücken",3500000,2e+07,2017-06-19
+"2553","Kristian Pedersen",1994-08-04,"Ringsted",2e+06,5e+06,2020-02-27
+"2554","Benno Schmitz",1994-11-17,"München",3e+06,3e+06,2022-06-09
+"2555","Kingsley Schindler",1993-07-12,"Hamburg",1e+06,3e+06,2019-01-08
+"2556","Ellyes Skhiri",1995-05-10,"Lunel",1.3e+07,1.3e+07,2021-10-07
+"2557","Dejan Ljubicic",1997-10-08,"Wien",1e+07,1e+07,2022-11-09
+"2558","Eric Martel",2002-04-29,"Straubing",4e+06,4e+06,2022-11-09
+"2559","Georg Strauch",2001-03-30,"Bonn",NA,NA,2022-09-21
+"2560","Denis Huseinbasic",2001-07-03,"Erbach",2e+06,2e+06,2022-11-09
+"2561","Mathias Olesen",2001-03-21,"Kopenhagen",NA,NA,2022-09-21
+"2562","Ondrej Duda",1994-12-05,"Snina",4e+06,1.7e+07,2019-06-05
+"2563","Florian Kainz",1992-10-24,"Graz",4e+06,4500000,2016-06-01
+"2564","Jan Thielmann",2002-05-26,"Föhren",9e+06,9e+06,2022-09-21
+"2565","Linton Maina",1999-06-23,"Berlin",3500000,9e+06,2020-07-15
+"2566","Dimitrios Limnios",1998-05-27,"Volos",2e+06,4500000,2019-12-18
+"2567","Mark Uth",1991-08-24,"Köln",3e+06,2.3e+07,2018-08-22
+"2568","Steffen Tigges",1998-07-31,"Osnabrück",3500000,3500000,2022-11-09
+"2569","Sargis Adamyan",1993-05-23,"Yerevan",2500000,5e+06,2020-03-11
+"2570","Tim Lemperle",2002-02-05,"Frankfurt am Main",2e+06,2e+06,2022-06-09
+"2571","Sebastian Andersson",1991-07-15,"Ängelholm",1e+06,7e+06,2020-07-08
+"2572","Florian Dietz",1998-08-03,"Bad Neustadt an der Saale",1e+06,1e+06,2022-11-09
+"2573","Jiri Pavlenka",1992-04-14,"Hlučín",3e+06,1.2e+07,2019-03-06
+"2574","Michael Zetterer",1995-07-12,"München",NA,NA,2020-03-12
+"2575","Mio Backhaus",2004-04-16,"Mönchengladbach",NA,NA,2022-07-05
+"2576","Dudu",1999-02-10,"Duisburg",NA,NA,2021-10-06
+"2577","Louis Lord",2003-10-22,"Vechta",NA,NA,2022-10-06
+"2578","Marco Friedl",1998-03-16,"Kirchbichl",6500000,7500000,2021-02-10
+"2579","Amos Pieper",1998-01-17,"Lüdinghausen",6e+06,7e+06,2021-06-09
+"2580","Miloš Veljković",1995-09-26,"Basel",5e+06,1.2e+07,2018-10-22
+"2581","Niklas Stark",1995-04-14,"Neustadt an der Aisch",4500000,2e+07,2018-10-22
+"2582","Fabio Chiarodia",2005-06-05,"Oldenburg",1e+06,1e+06,2022-11-09
+"2583","Lee Buchanan",2001-03-07,"Mansfield",3500000,3500000,2022-05-13
+"2584","Anthony Jung",1991-11-03,"Villajoyosa",1e+06,1e+06,2022-06-16
+"2585","Mitchell Weiser",1994-04-21,"Troisdorf",3500000,1.4e+07,2019-06-05
+"2586","Felix Agu",1999-09-27,"Osnabrück",1500000,2500000,2021-03-31
+"2587","Ilia Gruev",2000-05-06,"Sofia",3e+06,3e+06,2022-11-09
+"2588","Christian Groß",1989-02-08,"Bremen",NA,NA,2020-11-26
+"2589","Dikeni Salifou",2003-06-08,"München",NA,NA,2022-07-05
+"2590","Jens Stage",1996-11-08,"Højbjerg",3500000,4e+06,2022-09-21
+"2591","Jean Manuel Mbom",2000-02-24,"Göttingen",1500000,3e+06,2021-02-10
+"2592","Nicolai Rapp",1996-12-13,"Heidelberg",NA,NA,2019-01-08
+"2593","Romano Schmid",2000-01-27,"Graz",4500000,5e+06,2021-03-31
+"2594","Leonardo Bittencourt",1993-12-19,"Leipzig",3500000,7e+06,2018-08-22
+"2595","Niklas Schmidt",1998-03-01,"Kassel",1500000,1500000,2022-11-09
+"2596","Benjamin Goller",1999-01-01,"Reutlingen",NA,NA,2019-12-17
+"2597","Marvin Ducksch",1994-03-07,"Dortmund",5e+06,5e+06,2022-11-09
+"2598","Niclas Füllkrug",1993-02-09,"Hannover",5e+06,1.5e+07,2018-08-22
+"2599","Oliver Burke",1997-04-07,"Kirkcaldy",3e+06,1.2e+07,2017-10-23
+"2600","Eren Dinkci",2001-12-13,"Bremen",NA,NA,2022-06-16
+"2601","Alexander Schwolow",1992-06-02,"Wiesbaden",1500000,9e+06,2019-06-05
+"2602","Ralf Fährmann",1988-09-27,"Karl-Marx-Stadt",NA,1.3e+07,2018-06-05
+"2603","Justin Heekeren",2000-11-27,"Veen",NA,NA,2022-06-13
+"2604","Michael Langer",1985-01-06,"Bregenz",NA,NA,2008-06-04
+"2605","Sepp van den Berg",2001-12-20,"Zwolle",5e+06,5e+06,2022-05-13
+"2606","Leo Greiml",2001-07-03,"Horn",2500000,2500000,2021-09-06
+"2607","Timothée Kolodziejczak",1991-10-01,"Avion",2e+06,7e+06,2016-02-22
+"2608","Maya Yoshida",1988-08-24,"Nagasaki, Nagasaki",1500000,7e+06,2018-01-02
+"2609","Marcin Kaminski",1992-01-15,"Konin",1e+06,3500000,2019-06-05
+"2610","Ibrahima Cissé",2001-02-15,"Dreux",NA,NA,2022-05-26
+"2611","Thomas Ouwejan",1996-09-30,"Alkmaar",2500000,3e+06,2018-12-28
+"2612","Kerim Calhanoglu",2002-08-26,"Mannheim",NA,1200000,2021-03-31
+"2613","Cédric Brunner",1994-02-17,"Zollikon",2500000,3200000,2021-10-07
+"2614","Mehmet Aydin",2002-02-09,"Würselen",1e+06,2e+06,2021-12-15
+"2615","Henning Matriciani",2000-03-14,"Lippstadt",NA,NA,2022-11-09
+"2616","Alex Kral",1998-05-19,"Košice",4500000,1e+07,2021-05-28
+"2617","Florian Flick",2000-05-01,"Mannheim",2e+06,2e+06,2022-09-21
+"2618","Tom Krauß",2001-06-22,"Leipzig",6e+06,6e+06,2022-11-09
+"2619","Danny Latza",1989-12-07,"Gelsenkirchen",NA,5e+06,2017-12-28
+"2620","Rodrigo Zalazar",1999-08-12,"Albacete",3500000,3500000,2022-06-16
+"2621","Florent Mollet",1991-11-19,"Fontaine-lès-Dijon",2500000,9e+06,2019-06-03
+"2622","Dominick Drexler",1990-05-26,"Bonn",NA,4e+06,2018-08-21
+"2623","Marius Bülter",1993-03-29,"Ibbenbüren",2500000,3e+06,2020-03-11
+"2624","Tobias Mohr",1995-08-24,"Aachen",1800000,1800000,2022-09-21
+"2625","Jordan Larsson",1997-06-20,"Rotterdam",4e+06,1.5e+07,2021-05-31
+"2626","Sebastian Polter",1991-04-01,"Wilhelmshaven",1700000,2250000,2018-01-22
+"2627","Kenan Karaman",1994-03-05,"Stuttgart",1400000,3500000,2020-07-08
+"2628","Simon Terodde",1988-03-02,"Bocholt",1e+06,4e+06,2017-06-27
+"2629","Manuel Riemann",1988-09-09,"Mühldorf am Inn",1200000,1200000,2022-06-09
+"2630","Marko Johansson",1998-08-25,"Malmö",NA,NA,2020-12-10
+"2631","Michael Esser",1987-11-22,"Castrop-Rauxel",NA,2e+06,2017-06-19
+"2632","Paul Grave",2001-04-10,"Borken",NA,NA,2019-03-13
+"2633","Erhan Masovic",1998-11-22,"Novi Pazar",4e+06,4e+06,2022-11-09
+"2634","Ivan Ordets",1992-07-08,"Blyzhnye, Donetsk Oblast",3500000,5e+06,2021-12-29
+"2635","Dominique Heintz",1993-08-15,"Neustadt an der Weinstraße",2500000,1e+07,2019-12-17
+"2636","Tim Oermann",2003-10-06,"Bochum",NA,NA,2022-11-09
+"2637","Vasilios Lampropoulos",1990-03-31,"Pyrgos",NA,1e+06,2018-05-22
+"2638","Mohammed Tolba",2004-07-19,"Essen",NA,NA,2022-09-21
+"2639","Danilo Soares",1991-10-29,"Belo Horizonte",2200000,2200000,2022-06-09
+"2640","Konstantinos Stafylidis",1993-12-02,"Thessaloniki",1800000,4500000,2017-06-19
+"2641","Jannes Horn",1997-02-06,"Braunschweig",1800000,4e+06,2017-06-19
+"2642","Jordi Osei-Tutu",1998-10-02,"Slough",1500000,1500000,2020-10-15
+"2643","Saidy Janko",1995-10-22,"Zürich",1e+06,3e+06,2018-01-24
+"2644","Cristian Gamboa",1989-10-24,"Liberia",NA,2e+06,2014-08-12
+"2645","Jacek Goralski",1992-09-21,"Bydgoszcz",1e+06,3e+06,2018-09-18
+"2646","Anthony Losilla",1986-03-10,"Firminy",NA,NA,2013-06-29
+"2647","Patrick Osterhage",2000-02-01,"Göttingen",1500000,1500000,2022-11-09
+"2648","Kevin Stöger",1993-08-27,"Steyr",2500000,6e+06,2020-07-08
+"2649","Philipp Förster",1995-02-04,"Bretten",2e+06,3500000,2021-06-09
+"2650","Gerrit Holtmann",1995-03-25,"Bremen",4500000,4500000,2022-03-24
+"2651","Christopher Antwi-Adjei",1994-02-07,"Hagen",1e+06,2e+06,2019-12-17
+"2652","Takuma Asano",1994-11-10,"Komono, Mie",3e+06,3e+06,2021-06-12
+"2653","Tarsis Bonga",1997-01-10,"Neuwied",NA,NA,2020-07-15
+"2654","Philipp Hofmann",1993-03-30,"Arnsberg",2500000,2500000,2022-09-21
+"2655","Lys Mousset",1996-02-08,"Montivilliers",1500000,1.4e+07,2020-07-30
+"2656","Simon Zoller",1991-06-26,"Friedrichshafen",1100000,3e+06,2014-06-30
+"2657","Silvère Ganvoula",1996-06-29,"Brazzaville",NA,2500000,2019-12-13

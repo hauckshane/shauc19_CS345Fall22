@@ -1,0 +1,2658 @@
+,player_name,date_of_birth,place_of_birth,age,height,citizenship,foot
+1,Ederson,8/17/1993,Osasco (SP),29,1.88,Brazil Portugal,left
+2,Stefan Ortega,11/6/1992,Hofgeismar,30,1.85,Germany Spain,right
+3,Scott Carson,9/3/1985,Whitehaven,37,1.88,England,right
+4,Rúben Dias,5/14/1997,Amadora,25,1.87,Portugal,right
+5,Aymeric Laporte,5/27/1994,Agen,28,1.89,Spain France,left
+6,John Stones,5/28/1994,Barnsley,28,1.88,England,right
+7,Nathan Aké,2/18/1995,Den Haag,27,1.8,Netherlands Cote d'Ivoire,left
+8,Manuel Akanji,7/19/1995,Wiesendangen,27,1.88,Switzerland Nigeria,right
+9,Sergio Gómez,9/4/2000,Badalona,22,1.71,Spain,left
+10,Benjamin Mendy,7/17/1994,Longjumeau,28,1.85,France Senegal,left
+11,João Cancelo,5/27/1994,Barreiro,28,1.82,Portugal,right
+12,Kyle Walker,5/28/1990,Sheffield,32,1.83,England,right
+13,Rodri,6/22/1996,Madrid,26,1.91,Spain,right
+14,Kalvin Phillips,12/2/1995,Leeds,26,1.79,England Jamaica,right
+15,Phil Foden,5/28/2000,Stockport,22,1.71,England,left
+16,Ilkay Gündogan,10/24/1990,Gelsenkirchen,32,1.8,Germany,right
+17,Kevin De Bruyne,6/28/1991,Drongen,31,1.81,Belgium,right
+18,Bernardo Silva,8/10/1994,Lisboa,28,1.73,Portugal,left
+19,Cole Palmer,5/6/2002,Manchester,20,1.82,England,left
+20,Jack Grealish,9/10/1995,Birmingham,27,1.8,England Ireland,right
+21,Riyad Mahrez,2/21/1991,Sarcelles,31,1.79,Algeria France,left
+22,Erling Haaland,7/21/2000,Leeds,22,1.95,Norway England,left
+23,Julián Álvarez,1/31/2000,Calchín,22,1.7,Argentina,right
+24,Alisson,10/2/1992,Novo Hamburgo,30,1.93,Brazil,right
+25,Caoimhín Kelleher,11/23/1998,Cork,24,1.88,Ireland,right
+26,Adrián,1/3/1987,Sevilla,35,1.9,Spain,right
+27,Virgil van Dijk,7/8/1991,Breda,31,1.93,Netherlands Suriname,right
+28,Ibrahima Konaté,5/25/1999,Paris,23,1.94,France Mali,right
+29,Joe Gomez,5/23/1997,London,25,1.88,England The Gambia,right
+30,Joel Matip,8/8/1991,Bochum,31,1.95,Cameroon Germany,right
+31,Nathaniel Phillips,3/21/1997,Bolton,25,1.9,England,right
+32,Andrew Robertson,3/11/1994,Glasgow,28,1.78,Scotland,left
+33,Konstantinos Tsimikas,5/12/1996,Thessaloniki,26,1.79,Greece,left
+34,Trent Alexander-Arnold,10/7/1998,Liverpool,24,1.8,England,right
+35,Calvin Ramsay,7/31/2003,Aberdeen,19,1.77,Scotland,right
+36,Fabinho,10/23/1993,Campinas,29,1.88,Brazil,right
+37,Curtis Jones,1/30/2001,Liverpool,21,1.85,England,right
+38,Naby Keïta,2/10/1995,Conakry,27,1.72,Guinea,right
+39,Thiago,4/11/1991,San Pietro Vernotico,31,1.74,Spain Brazil,right
+40,Arthur Melo,8/12/1996,Goiânia,26,1.72,Brazil,right
+41,Jordan Henderson,6/17/1990,Sunderland,32,1.87,England,right
+42,Alex Oxlade-Chamberlain,8/15/1993,Portsmouth,29,1.75,England,right
+43,James Milner,1/4/1986,Leeds,36,1.75,England,right
+44,Harvey Elliott,4/4/2003,London,19,1.7,England,left
+45,Fábio Carvalho,8/30/2002,Torres Vedras,20,1.7,Portugal,right
+46,Luis Díaz,1/13/1997,Barrancas,25,1.8,Colombia,right
+47,Diogo Jota,12/4/1996,Porto,25,1.78,Portugal,right
+48,Mohamed Salah,6/15/1992,"Nagrig, Basyoun",30,1.75,Egypt,left
+49,Darwin Núñez,6/24/1999,Artigas,23,1.87,Uruguay,right
+50,Roberto Firmino,10/2/1991,Maceió,31,1.81,Brazil,right
+51,Edouard Mendy,3/1/1992,Montivilliers,30,1.94,Senegal Guinea-Bissau,right
+52,Kepa Arrizabalaga,10/3/1994,Ondarroa,28,1.86,Spain,right
+53,Marcus Bettinelli,5/24/1992,London,30,1.93,England Italy,right
+54,Wesley Fofana,12/17/2000,Marseille,21,1.88,France Cote d'Ivoire,right
+55,Kalidou Koulibaly,6/20/1991,Saint-Dié-des-Vosges,31,1.86,Senegal France,right
+56,Trevoh Chalobah,7/5/1999,Freetown,23,1.92,England Sierra Leone,right
+57,Thiago Silva,9/22/1984,Rio de Janeiro,38,1.81,Brazil France,right
+58,Marc Cucurella,7/22/1998,Alella,24,1.73,Spain,left
+59,Ben Chilwell,12/21/1996,Milton Keynes,25,1.8,England,left
+60,Reece James,12/8/1999,London,22,1.8,England,right
+61,César Azpilicueta,8/28/1989,Pamplona,33,1.78,Spain,right
+62,Jorginho,12/20/1991,Imbituba,30,1.78,Italy Brazil,right
+63,N'Golo Kanté,3/29/1991,Paris,31,1.68,France Mali,right
+64,Denis Zakaria,11/20/1996,Genf,26,1.91,Switzerland DR Congo,right
+65,Mateo Kovacic,5/6/1994,Linz,28,1.76,Croatia,right
+66,Conor Gallagher,2/6/2000,Epsom,22,1.82,England,right
+67,Ruben Loftus-Cheek,1/23/1996,London,26,1.9,England Guyana,right
+68,Carney Chukwuemeka,10/20/2003,Eisenstadt,19,1.87,England Nigeria,right
+69,Mason Mount,1/10/1999,Portsmouth,23,1.81,England,right
+70,Kai Havertz,6/11/1999,Aachen,23,1.9,Germany,left
+71,Hakim Ziyech,3/19/1993,Dronten,29,1.81,Morocco Netherlands,left
+72,Raheem Sterling,12/8/1994,Kingston,27,1.7,England Jamaica,right
+73,Christian Pulisic,9/18/1998,"Hershey, Pennsylvania",24,1.78,United States Croatia,right
+74,Armando Broja,9/10/2001,Slough,21,1.91,Albania England,right
+75,Pierre-Emerick Aubameyang,6/18/1989,Laval,33,1.86,Gabon France,right
+76,Aaron Ramsdale,5/14/1998,Chesterton,24,1.9,England,right
+77,Matt Turner,6/24/1994,"Park Ridge, New Jersey",28,1.91,United States Lithuania,right
+78,William Saliba,3/24/2001,Bondy,21,1.92,France Cameroon,right
+79,Ben White,10/8/1997,Poole,25,1.86,England,right
+80,Gabriel Magalhães,12/19/1997,São Paulo,24,1.9,Brazil,left
+81,Rob Holding,9/20/1995,Stalybridge,27,1.89,England,right
+82,Oleksandr Zinchenko,12/15/1996,"Radomyshl, Zhytomyr Oblast",25,1.75,Ukraine,left
+83,Kieran Tierney,6/5/1997,Douglas,25,1.8,Scotland Isle of Man,left
+84,Takehiro Tomiyasu,11/5/1998,"Fukuoka, Fukuoka",24,1.88,Japan,right
+85,Cédric Soares,8/31/1991,Singen,31,1.71,Portugal Germany,right
+86,Thomas Partey,6/13/1993,Odumase Krobo,29,1.85,Ghana,right
+87,Mohamed Elneny,7/11/1992,Mahalla,30,1.79,Egypt,right
+88,Granit Xhaka,9/27/1992,Basel,30,1.86,Switzerland,left
+89,Albert Sambi Lokonga,10/22/1999,Verviers,23,1.83,Belgium DR Congo,right
+90,Bukayo Saka,9/5/2001,London,21,1.78,England Nigeria,left
+91,Martin Ødegaard,12/17/1998,Drammen,23,1.78,Norway,left
+92,Emile Smith Rowe,7/28/2000,London,22,1.82,England,right
+93,Fábio Vieira,5/30/2000,Santa Maria da Feira,22,1.7,Portugal,left
+94,Gabriel Martinelli,6/18/2001,Guarulhos,21,1.78,Brazil Italy,right
+95,Marquinhos,4/7/2003,São Paulo,19,1.75,Brazil,left
+96,Reiss Nelson,12/10/1999,London,22,1.75,England,right
+97,Gabriel Jesus,4/3/1997,São Paulo,25,1.75,Brazil,right
+98,Eddie Nketiah,5/30/1999,London,23,1.75,England Ghana,right
+99,David de Gea,11/7/1990,Madrid,32,1.89,Spain,right
+100,Martin Dúbravka,1/15/1989,Žilina,33,1.91,Slovakia,right
+101,Tom Heaton,4/15/1986,Chester,36,1.88,England,right
+102,Lisandro Martínez,1/18/1998,Gualeguay,24,1.75,Argentina,left
+103,Raphaël Varane,4/25/1993,Lille,29,1.91,France Martinique,right
+104,Harry Maguire,3/5/1993,Sheffield,29,1.94,England,right
+105,Victor Lindelöf,7/17/1994,Västerås,28,1.87,Sweden,right
+106,Axel Tuanzebe,11/14/1997,Bunia,25,1.85,England DR Congo,right
+107,Phil Jones,2/21/1992,Preston,30,1.85,England,right
+108,Teden Mengi,4/30/2002,Manchester,20,1.86,England Angola,right
+109,Luke Shaw,7/12/1995,Kingston upon Thames,27,1.78,England,left
+110,Tyrell Malacia,8/17/1999,Rotterdam,23,1.69,Netherlands Curacao,left
+111,Brandon Williams,9/3/2000,Crumpsall,22,1.8,England,right
+112,Diogo Dalot,3/18/1999,Braga,23,1.83,Portugal,right
+113,Aaron Wan-Bissaka,11/26/1997,London,25,1.83,England DR Congo,right
+114,Casemiro,2/23/1992,São José dos Campos,30,1.85,Brazil Spain,right
+115,Scott McTominay,12/8/1996,Lancaster,25,1.91,Scotland England,right
+116,Fred,3/5/1993,Belo Horizonte,29,1.69,Brazil,left
+117,Donny van de Beek,4/18/1997,Nijkerkerveen,25,1.84,Netherlands,right
+118,Bruno Fernandes,9/8/1994,Maia,28,1.79,Portugal,right
+119,Christian Eriksen,2/14/1992,Middelfart,30,1.82,Denmark,right
+120,Jadon Sancho,3/25/2000,London,22,1.8,England Trinidad and Tobago,right
+121,Marcus Rashford,10/31/1997,Manchester,25,1.85,England St. Kitts & Nevis,right
+122,Anthony Elanga,4/27/2002,Hyllie,20,1.78,Sweden Cameroon,right
+123,Alejandro Garnacho,7/1/2004,Madrid,18,1.8,Argentina Spain,right
+124,Antony,2/24/2000,São Paulo,22,1.72,Brazil,left
+125,Facundo Pellistri,12/20/2001,Montevideo,20,1.74,Uruguay Spain,right
+126,Mason Greenwood,10/1/2001,Bradford,21,1.81,England,both
+127,Anthony Martial,12/5/1995,Massy,26,1.81,France Guadeloupe,right
+128,Hugo Lloris,12/26/1986,Nizza,35,1.88,France,left
+129,Fraser Forster,3/17/1988,Hexham,34,2.01,England,right
+130,Alfie Whiteman,10/2/1998,London,24,1.88,England,right
+131,Brandon Austin,1/8/1999,Hemel Hempstead,23,1.88,England United States,right
+132,Cristian Romero,4/27/1998,Córdoba,24,1.85,Argentina,right
+133,Eric Dier,1/15/1994,Cheltenham,28,1.88,England Portugal,right
+134,Davinson Sánchez,6/12/1996,Caloto,26,1.87,Colombia,right
+135,Clément Lenglet,6/17/1995,Beauvais,27,1.86,France,left
+136,Japhet Tanganga,3/31/1999,London,23,1.84,England DR Congo,right
+137,Ben Davies,4/24/1993,Neath,29,1.81,Wales,left
+138,Emerson Royal,1/14/1999,São Paulo,23,1.83,Brazil Spain,right
+139,Djed Spence,8/9/2000,London,22,1.84,England Jamaica,right
+140,Matt Doherty,1/16/1992,Dublin,30,1.85,Ireland,right
+141,Oliver Skipp,9/16/2000,Welwyn Garden City,22,1.75,England,right
+142,Pierre-Emile Höjbjerg,8/5/1995,København,27,1.85,Denmark France,right
+143,Rodrigo Bentancur,6/25/1997,Nueva Helvecia,25,1.87,Uruguay,right
+144,Yves Bissouma,8/30/1996,Issia,26,1.82,Mali Cote d'Ivoire,right
+145,Pape Matar Sarr,9/14/2002,Thiaroye,20,1.84,Senegal,right
+146,Ryan Sessegnon,5/18/2000,London,22,1.78,England,left
+147,Ivan Perisic,2/2/1989,Split,33,1.86,Croatia,both
+148,Heung-min Son,7/8/1992,"Chuncheon, Gangwon",30,1.84,"Korea, South",both
+149,Bryan Gil,2/11/2001,Barbate (Cádiz),21,1.75,Spain,left
+150,Dejan Kulusevski,4/25/2000,Stockholm,22,1.86,Sweden North Macedonia,left
+151,Lucas Moura,8/13/1992,São Paulo,30,1.72,Brazil,right
+152,Harry Kane,7/28/1993,London,29,1.88,England,right
+153,Richarlison,5/10/1997,Nova Venécia,25,1.84,Brazil,right
+154,Emiliano Martínez,9/2/1992,Mar del Plata,30,1.95,Argentina Spain,right
+155,Robin Olsen,1/8/1990,Malmö,32,1.96,Sweden Denmark,right
+156,Jed Steer,9/23/1992,Norwich,30,1.83,England Scotland,left
+157,Diego Carlos,3/15/1993,Barra Bonita (SP),29,1.85,Brazil Spain,right
+158,Tyrone Mings,3/13/1993,Bath,29,1.96,England,left
+159,Ezri Konsa,10/23/1997,London,25,1.83,England DR Congo,right
+160,Jan Bednarek,4/12/1996,Słupca,26,1.89,Poland,right
+161,Calum Chambers,1/20/1995,Petersfield,27,1.82,England,right
+162,Lucas Digne,7/20/1993,Meaux,29,1.78,France,left
+163,Ludwig Augustinsson,4/21/1994,Stockholm,28,1.81,Sweden,left
+164,Ashley Young,7/9/1985,Stevenage,37,1.75,England Jamaica,both
+165,Matty Cash,8/7/1997,Slough,25,1.85,Poland England,right
+166,Frédéric Guilbert,12/24/1994,Valognes,27,1.78,France,right
+167,Douglas Luiz,5/9/1998,Rio de Janeiro,24,1.77,Brazil,right
+168,Boubacar Kamara,11/23/1999,Marseille,23,1.84,France Senegal,right
+169,Leander Dendoncker,4/15/1995,Passendale,27,1.88,Belgium,right
+170,Marvelous Nakamba,1/19/1994,Hwange,28,1.77,Zimbabwe,left
+171,John McGinn,10/18/1994,Glasgow,28,1.78,Scotland,left
+172,Jacob Ramsey,5/28/2001,Birmingham,21,1.8,England,right
+173,Morgan Sanson,8/18/1994,Saint-Doulchard,28,1.8,France,right
+174,Leon Bailey,8/9/1997,Kingston,25,1.78,Jamaica,left
+175,Philippe Coutinho,6/12/1992,Rio de Janeiro,30,1.72,Brazil Portugal,right
+176,Emiliano Buendía,12/25/1996,Mar del Plata,25,1.72,Argentina Spain,right
+177,Ollie Watkins,12/30/1995,Torquay,26,1.8,England,right
+178,Danny Ings,7/23/1992,Winchester,30,1.77,England,right
+179,Cameron Archer,12/9/2001,Walsall,20,1.75,England Jamaica,right
+180,Alphonse Areola,2/27/1993,Paris,29,1.95,France Philippines,right
+181,Lukasz Fabianski,4/18/1985,Kostrzyn nad Odrą,37,1.9,Poland,right
+182,Darren Randolph,5/12/1987,Bray,35,1.87,Ireland United States,right
+183,Kurt Zouma,10/27/1994,Lyon,28,1.9,France Central African Republic,right
+184,Nayef Aguerd,3/30/1996,Kénitra,26,1.88,Morocco,left
+185,Thilo Kehrer,9/21/1996,Tübingen,26,1.86,Germany Burundi,right
+186,Craig Dawson,5/6/1990,Rochdale,32,1.88,England,right
+187,Angelo Ogbonna,5/23/1988,Cassino,34,1.91,Italy Nigeria,left
+188,Emerson,8/3/1994,Santos,28,1.76,Italy Brazil,left
+189,Aaron Cresswell,12/15/1989,Liverpool,32,1.7,England,left
+190,Ben Johnson,1/24/2000,London,22,1.84,England,right
+191,Vladimir Coufal,8/22/1992,Ostrava,30,1.79,Czech Republic,right
+192,Declan Rice,1/14/1999,London,23,1.88,England Ireland,right
+193,Tomas Soucek,2/27/1995,Havlíčkův Brod,27,1.92,Czech Republic,right
+194,Conor Coventry,3/25/2000,London,22,1.77,Ireland England,right
+195,Flynn Downes,1/20/1999,Brentwood,23,1.78,England,right
+196,Lucas Paquetá,8/27/1997,Rio de Janeiro,25,1.8,Brazil Portugal,left
+197,Pablo Fornals,2/22/1996,Castelló de la Plana,26,1.78,Spain,right
+198,Manuel Lanzini,2/15/1993,Ituzaingó,29,1.67,Argentina Italy,right
+199,Saïd Benrahma,8/10/1995,Aïn Témouchent,27,1.72,Algeria France,right
+200,Maxwel Cornet,9/27/1996,Bregbo,26,1.79,Cote d'Ivoire France,left
+201,Jarrod Bowen,12/20/1996,Leominster,25,1.82,England,left
+202,Gianluca Scamacca,1/1/1999,Roma,23,1.95,Italy,right
+203,Michail Antonio,3/28/1990,London,32,1.8,Jamaica England,right
+204,Nick Pope,4/19/1992,Soham,30,1.98,England,right
+205,Karl Darlow,10/8/1990,Northampton,32,1.9,England Wales,right
+206,Loris Karius,6/22/1993,Biberach an der Riß,29,1.91,Germany,right
+207,Mark Gillespie,3/27/1992,Newcastle upon Tyne,30,1.91,England,right
+208,Sven Botman,1/12/2000,Badhoevedorp,22,1.95,Netherlands,left
+209,Dan Burn,5/9/1992,Blyth,30,2.01,England,left
+210,Fabian Schär,12/20/1991,Wil,30,1.86,Switzerland,right
+211,Jamaal Lascelles,11/11/1993,Derby,29,1.88,England Barbados,right
+212,Matt Targett,9/18/1995,Eastleigh,27,1.83,England Scotland,left
+213,Jamal Lewis,1/25/1998,Luton,24,1.78,Northern Ireland England,left
+214,Paul Dummett,9/26/1991,Newcastle upon Tyne,31,1.83,Wales England,left
+215,Kieran Trippier,9/19/1990,Bury,32,1.73,England,right
+216,Emil Krafth,8/2/1994,Ljungby,28,1.84,Sweden,right
+217,Javier Manquillo,5/5/1994,Madrid,28,1.78,Spain,right
+218,Bruno Guimarães,11/16/1997,Rio de Janeiro,25,1.82,Brazil Spain,right
+219,Joe Willock,8/20/1999,London,23,1.86,England Montserrat,right
+220,Sean Longstaff,10/30/1997,Newcastle upon Tyne,25,1.81,England,right
+221,Jonjo Shelvey,2/27/1992,Romford,30,1.84,England Ireland,right
+222,Matt Ritchie,9/10/1989,Gosport,33,1.73,Scotland England,left
+223,Joelinton,8/14/1996,Aliança,26,1.86,Brazil,right
+224,Miguel Almirón,2/10/1994,Asunción,28,1.74,Paraguay,left
+225,Elliot Anderson,11/6/2002,Whitley Bay,20,1.79,Scotland England,right
+226,Allan Saint-Maximin,3/12/1997,Châtenay-Malabry,25,1.73,France Guadeloupe,right
+227,Ryan Fraser,2/24/1994,Aberdeen,28,1.63,Scotland,right
+228,Jacob Murphy,2/24/1995,London,27,1.73,England,right
+229,Alexander Isak,9/21/1999,Solna,23,1.92,Sweden Eritrea,right
+230,Callum Wilson,2/27/1992,Coventry,30,1.8,England,right
+231,Chris Wood,12/7/1991,Auckland,30,1.91,New Zealand,right
+232,Danny Ward,6/22/1993,Wrexham,29,1.91,Wales,right
+233,Daniel Iversen,7/19/1997,Gørding,25,1.91,Denmark,NA
+234,Alex Smithies,3/5/1990,Huddersfield,32,1.89,England,right
+235,Caglar Söyüncü,5/23/1996,Izmir,26,1.87,Turkey,right
+236,Wout Faes,4/3/1998,Mol,24,1.87,Belgium,right
+237,Daniel Amartey,12/21/1994,Accra,27,1.86,Ghana,right
+238,Jannik Vestergaard,8/3/1992,Hvidovre,30,1.99,Denmark Germany,both
+239,Jonny Evans,1/3/1988,Belfast,34,1.88,Northern Ireland,both
+240,Luke Thomas,6/10/2001,Syston,21,1.81,England,left
+241,Ryan Bertrand,8/5/1989,London,33,1.79,England Egypt,left
+242,Timothy Castagne,12/5/1995,Arlon,26,1.85,Belgium,right
+243,James Justin,2/23/1998,Luton,24,1.83,England St. Lucia,right
+244,Ricardo Pereira,10/6/1993,Lisboa,29,1.75,Portugal Cape Verde,right
+245,Wilfred Ndidi,12/16/1996,Lagos,25,1.83,Nigeria,right
+246,Boubakary Soumaré,2/27/1999,Noisy-le-Sec,23,1.88,France Senegal,right
+247,Nampalys Mendy,6/23/1992,La Seyne-sur-Mer,30,1.67,Senegal France,right
+248,Youri Tielemans,5/7/1997,Sint-Pieters-Leeuw,25,1.76,Belgium DR Congo,right
+249,Kiernan Dewsbury-Hall,9/6/1998,Shepshed,24,1.78,England,left
+250,Dennis Praet,5/14/1994,Leuven,28,1.81,Belgium,right
+251,Marc Albrighton,11/18/1989,Tamworth,33,1.75,England,right
+252,Harvey Barnes,12/9/1997,Burnley,24,1.82,England Scotland,right
+253,James Maddison,11/23/1996,Coventry,26,1.75,England,right
+254,Ayoze Pérez,7/29/1993,Santa Cruz de Tenerife,29,1.78,Spain,right
+255,Patson Daka,10/9/1998,Chingola,24,1.83,Zambia,right
+256,Kelechi Iheanacho,10/3/1996,Imo,26,1.85,Nigeria,left
+257,Jamie Vardy,1/11/1987,Sheffield,35,1.79,England,right
+258,Jordan Pickford,3/7/1994,Washington,28,1.85,England,left
+259,Asmir Begovic,6/20/1987,Trebinje,35,1.99,Bosnia-Herzegovina Canada,right
+260,Andy Lonergan,10/19/1983,Preston,39,1.93,England,left
+261,Eldin Jakupovic,10/2/1984,Kozarac,38,1.91,Switzerland Bosnia-Herzegovina,right
+262,James Tarkowski,11/19/1992,Manchester,30,1.85,England Poland,right
+263,Yerry Mina,9/23/1994,Guachené,28,1.95,Colombia,right
+264,Ben Godfrey,1/15/1998,York,24,1.84,England Jamaica,right
+265,Conor Coady,2/25/1993,Liverpool,29,1.85,England,right
+266,Mason Holgate,10/22/1996,Doncaster,26,1.87,England Jamaica,right
+267,Michael Keane,1/11/1993,Manchester,29,1.88,England Ireland,right
+268,Vitaliy Mykolenko,5/29/1999,Cherkasy,23,1.8,Ukraine,left
+269,Rúben Vinagre,4/9/1999,Charneca da Caparica,23,1.74,Portugal,left
+270,Nathan Patterson,10/16/2001,Glasgow,21,1.89,Scotland,right
+271,Seamus Coleman,10/11/1988,Donegal,34,1.77,Ireland,right
+272,Amadou Onana,8/16/2001,Dakar,21,1.95,Belgium Senegal,right
+273,James Garner,3/13/2001,Birkenhead,21,1.82,England,right
+274,Abdoulaye Doucouré,1/1/1993,Meulan-en-Yvelines,29,1.83,Mali France,right
+275,Tom Davies,6/30/1998,Liverpool,24,1.8,England,right
+276,Idrissa Gueye,9/26/1989,Dakar,33,1.74,Senegal,right
+277,Alex Iwobi,5/3/1996,Lagos,26,1.83,Nigeria England,right
+278,Anthony Gordon,2/24/2001,Liverpool,21,1.82,England,right
+279,Demarai Gray,6/28/1996,Birmingham,26,1.83,England Jamaica,right
+280,Dwight McNeil,11/22/1999,Rochdale,23,1.83,England,left
+281,Andros Townsend,7/16/1991,Walthamstow,31,1.81,England,left
+282,Dominic Calvert-Lewin,3/16/1997,Sheffield,25,1.89,England,right
+283,Neal Maupay,8/14/1996,Versailles,26,1.73,France Argentina,right
+284,Salomón Rondón,9/16/1989,Caracas,33,1.86,Venezuela,right
+285,José Sá,1/17/1993,Braga,29,1.92,Portugal,right
+286,Matija Sarkic,7/23/1997,Grimsby,25,1.94,Montenegro England,right
+287,Nathan Collins,4/30/2001,Leixlip,21,1.93,Ireland,right
+288,Max Kilman,5/23/1997,London,25,1.94,England Ukraine,left
+289,Yerson Mosquera,5/2/2001,Apartadó,21,1.88,Colombia,right
+290,Toti,1/16/1999,Bissau,23,1.87,Portugal Guinea-Bissau,left
+291,Rayan Aït-Nouri,6/6/2001,Montreuil,21,1.8,France Algeria,left
+292,Jonny Otto,3/3/1994,Vigo,28,1.75,Spain,both
+293,Nélson Semedo,11/16/1993,Lisboa,29,1.77,Portugal Cape Verde,right
+294,Rúben Neves,3/13/1997,Santa Maria da Feira,25,1.8,Portugal,right
+295,Matheus Nunes,8/27/1998,Rio de Janeiro,24,1.83,Portugal Brazil,right
+296,Boubacar Traoré,8/20/2001,Bamako,21,1.83,Mali,NA
+297,João Moutinho,9/8/1986,Portimão,36,1.7,Portugal,right
+298,Connor Ronan,3/6/1998,Rochdale,24,1.71,Ireland England,right
+299,Pedro Neto,3/9/2000,Viana do Castelo,22,1.72,Portugal,left
+300,Gonçalo Guedes,11/29/1996,Benavente,26,1.79,Portugal,right
+301,Chiquinho,2/5/2000,Cascais,22,1.79,Portugal Cape Verde,right
+302,Daniel Podence,10/21/1995,Oeiras,27,1.65,Portugal,right
+303,Adama Traoré,1/25/1996,L'Hospitalet de Llobregat,26,1.78,Spain Mali,right
+304,Sasa Kalajdzic,7/7/1997,Wien,25,2,Austria Serbia,right
+305,Raúl Jiménez,5/5/1991,Tepeji del Río de Ocampo,31,1.88,Mexico,right
+306,Hee-chan Hwang,1/26/1996,"Chuncheon, Gangwon",26,1.77,"Korea, South",right
+307,Diego Costa,10/7/1988,Lagarto,34,1.86,Spain Brazil,right
+308,Léo Bonatini,3/28/1994,Belo Horizonte,28,1.85,Brazil Italy,right
+309,Gavin Bazunu,2/20/2002,Dublin,20,1.88,Ireland Nigeria,right
+310,Alex McCarthy,12/3/1989,Guildford,32,1.93,England,right
+311,Willy Caballero,9/28/1981,Villa Constitución,41,1.86,Argentina Spain,right
+312,Mohammed Salisu,4/17/1999,Accra,23,1.88,Ghana,left
+313,Armel Bella-Kotchap,12/11/2001,Paris,20,1.9,Germany Cameroon,right
+314,Duje Caleta-Car,9/17/1996,Šibenik,26,1.92,Croatia,right
+315,Lyanco,2/1/1997,Vitória,25,1.87,Brazil Serbia,right
+316,Romain Perraud,9/22/1997,Toulouse,25,1.73,France,left
+317,Juan Larios,1/12/2004,Tomares,18,1.7,Spain,left
+318,Kyle Walker-Peters,4/13/1997,London,25,1.73,England,right
+319,Tino Livramento,11/12/2002,London,20,1.73,England Scotland,right
+320,Roméo Lavia,1/6/2004,Brussels,18,1.81,Belgium,right
+321,Ibrahima Diallo,3/8/1999,Tours,23,1.79,France Senegal,right
+322,James Ward-Prowse,11/1/1994,Portsmouth,28,1.77,England,right
+323,Stuart Armstrong,3/30/1992,Inverness,30,1.83,Scotland,right
+324,Ainsley Maitland-Niles,8/29/1997,London,25,1.8,England Jamaica,right
+325,Joe Aribo,7/21/1996,London,26,1.83,Nigeria England,left
+326,Mohamed Elyounoussi,8/4/1994,Al-Hoceima,28,1.78,Norway,right
+327,Moussa Djenepo,6/15/1998,Bamako,24,1.77,Mali,right
+328,Samuel Edozie,1/28/2003,London,19,1.81,England Nigeria,right
+329,Theo Walcott,3/16/1989,London,33,1.75,England,both
+330,Ché Adams,7/13/1996,Leicester,26,1.79,Scotland England,right
+331,Adam Armstrong,2/10/1997,West Denton,25,1.73,England,right
+332,Sékou Mara,7/30/2002,Paris,20,1.83,France Senegal,right
+333,Robert Sánchez,11/18/1997,Cartagena,25,1.97,Spain England,right
+334,Jason Steele,8/18/1990,Newton Aycliffe,32,1.88,England,right
+335,Adam Webster,1/4/1995,West Wittering,27,1.9,England,right
+336,Lewis Dunk,11/21/1991,Brighton,31,1.92,England,right
+337,Levi Colwill,2/26/2003,Southampton,19,1.87,England,left
+338,Jan Paul van Hecke,6/8/2000,Arnemuiden,22,1.89,Netherlands,right
+339,Pervis Estupiñán,1/21/1998,Esmeraldas,24,1.75,Ecuador Spain,left
+340,Tariq Lamptey,9/30/2000,London,22,1.63,Ghana England,right
+341,Joël Veltman,1/15/1992,Velsen,30,1.84,Netherlands,right
+342,Moisés Caicedo,11/2/2001,Santo Domingo,21,1.78,Ecuador,right
+343,Alexis Mac Allister,12/24/1998,Santa Rosa,23,1.74,Argentina,right
+344,Jakub Moder,4/7/1999,Szczecinek,23,1.91,Poland,right
+345,Billy Gilmour,6/11/2001,Irvine,21,1.7,Scotland,right
+346,Pascal Groß,6/15/1991,Mannheim,31,1.81,Germany,right
+347,Solly March,7/20/1994,Eastbourne,28,1.8,England,left
+348,Jeremy Sarmiento,6/16/2002,Madrid,20,1.78,Ecuador England,right
+349,Adam Lallana,5/10/1988,St Albans,34,1.72,England,both
+350,Leandro Trossard,12/4/1994,Waterschei,27,1.72,Belgium,right
+351,Kaoru Mitoma,5/20/1997,"Kawasaki, Kanagawa",25,1.78,Japan,right
+352,Julio Enciso,1/23/2004,Caaguazú,18,1.73,Paraguay,right
+353,Danny Welbeck,11/26/1990,Manchester,32,1.85,England Ghana,right
+354,Deniz Undav,7/19/1996,Achim,26,1.78,Germany Turkey,right
+355,Evan Ferguson,10/19/2004,Bettystown,18,1.83,Ireland,NA
+356,David Raya,9/15/1995,Barcelona,27,1.83,Spain,right
+357,Thomas Strakosha,3/19/1995,Athens,27,1.93,Albania Greece,right
+358,Kristoffer Ajer,4/17/1998,Rælingen,24,1.98,Norway,right
+359,Ethan Pinnock,5/29/1993,London,29,1.94,Jamaica England,left
+360,Pontus Jansson,2/13/1991,Arlöv,31,1.96,Sweden,right
+361,Ben Mee,9/21/1989,Sale,33,1.8,England,left
+362,Zanka,4/23/1990,Kopenhagen,32,1.89,Denmark The Gambia,right
+363,Charlie Goode,8/3/1995,Watford,27,1.96,England,right
+364,Rico Henry,7/8/1997,Birmingham,25,1.7,England,left
+365,Aaron Hickey,6/10/2002,Glasgow,20,1.85,Scotland,both
+366,Mads Roerslev Rasmussen,6/24/1999,Copenhagen,23,1.84,Denmark,right
+367,Vitaly Janelt,5/10/1998,Hamburg,24,1.84,Germany,left
+368,Christian Nörgaard,3/10/1994,København,28,1.87,Denmark,right
+369,Mathias Jensen,1/1/1996,"Jerslev, West Zealand",26,1.8,Denmark,right
+370,Josh Dasilva,10/23/1998,London,24,1.84,England Angola,left
+371,Frank Onyeka,1/1/1998,Abuya,24,1.83,Nigeria,right
+372,Shandon Baptiste,4/8/1998,NA,24,1.8,Grenada England,right
+373,Saman Ghoddos,9/6/1993,Malmö,29,1.75,Iran Sweden,right
+374,Keane Lewis-Potter,2/22/2001,Hull,21,1.7,England,right
+375,Yoane Wissa,9/3/1996,Epinay-sur-Seine,26,1.8,DR Congo France,right
+376,Mikkel Damsgaard,7/3/2000,Jyllinge,22,1.8,Denmark,right
+377,Bryan Mbeumo,8/7/1999,Avallon,23,1.71,Cameroon France,left
+378,Sergi Canós,2/2/1997,Nules,25,1.77,Spain,right
+379,Ivan Toney,3/16/1996,Northampton,26,1.85,England Jamaica,right
+380,Sam Johnstone,3/25/1993,Preston,29,1.93,England,right
+381,Jack Butland,3/10/1993,Bristol,29,1.96,England,right
+382,Vicente Guaita,1/10/1987,Torrente,35,1.9,Spain,right
+383,Marc Guéhi,7/13/2000,Abidjan,22,1.82,England Cote d'Ivoire,right
+384,Joachim Andersen,5/31/1996,Frederiksberg,26,1.92,Denmark,right
+385,Chris Richards,3/28/2000,"Birmingham, Alabama",22,1.88,United States,right
+386,Nathan Ferguson,10/6/2000,Birmingham,22,1.84,England Jamaica,right
+387,James Tomkins,3/29/1989,Basildon,33,1.92,England,right
+388,Tyrick Mitchell,9/1/1999,London,23,1.75,England Jamaica,left
+389,Nathaniel Clyne,4/5/1991,London,31,1.75,England Grenada,right
+390,Joel Ward,10/29/1989,Emsworth,33,1.86,England,right
+391,Cheick Doucouré,1/8/2000,Bamako,22,1.8,Mali,right
+392,Jairo Riedewald,9/9/1996,Haarlem,26,1.82,Netherlands Suriname,left
+393,Luka Milivojevic,4/7/1991,Kragujevac,31,1.86,Serbia,right
+394,Will Hughes,4/17/1995,Weybridge,27,1.85,England,left
+395,James McArthur,10/7/1987,Glasgow,35,1.78,Scotland,both
+396,Michael Olise,12/12/2001,London,20,1.84,France England,left
+397,Jeffrey Schlupp,12/23/1992,Hamburg,29,1.78,Ghana Germany,left
+398,Eberechi Eze,6/29/1998,London,24,1.78,England Nigeria,right
+399,Wilfried Zaha,11/10/1992,Abidjan,30,1.8,Cote d'Ivoire England,right
+400,Malcolm Ebiowei,9/4/2003,NA,19,1.85,England Netherlands,left
+401,Odsonne Edouard,1/16/1998,Kourou,24,1.87,France French Guiana,right
+402,Jean-Philippe Mateta,6/28/1997,Sevran,25,1.92,France DR Congo,right
+403,Jordan Ayew,9/11/1991,Marseille,31,1.82,Ghana France,right
+404,Dean Henderson,3/12/1997,Whitehaven,25,1.88,England,right
+405,Wayne Hennessey,1/24/1987,Beaumaris,35,1.98,Wales,right
+406,Jordan Smith,12/8/1994,Nottingham,27,1.83,England,left
+407,Adnan Kanuric,8/8/2000,Linz,22,1.94,Bosnia-Herzegovina Austria,right
+408,Moussa Niakhaté,3/8/1996,Roubaix,26,1.9,Senegal France,left
+409,Scott McKenna,11/12/1996,Kirriemuir,26,1.89,Scotland,left
+410,Loïc Badé,4/11/2000,Sèvres,22,1.91,France Cote d'Ivoire,right
+411,Joe Worrall,1/10/1997,Nottingham,25,1.9,England,right
+412,Willy Boly,2/3/1991,Melun,31,1.95,Cote d'Ivoire France,right
+413,Steve Cook,4/19/1991,Hastings,31,1.85,England,right
+414,Loïc Mbe Soh,6/13/2001,Souza Gare,21,1.87,France Cameroon,right
+415,Renan Lodi,4/8/1998,Serrana,24,1.73,Brazil Italy,left
+416,Omar Richards,2/15/1998,London,24,NA,England Jamaica,left
+417,Harry Toffolo,8/19/1995,Welwyn Garden City,27,1.83,England,left
+418,Neco Williams,4/13/2001,Wrexham,21,1.83,Wales,right
+419,Giulian Biancone,3/31/2000,Fréjus,22,1.87,France,right
+420,Serge Aurier,12/24/1992,Ouragahio,29,1.76,Cote d'Ivoire,right
+421,Cheikhou Kouyaté,12/21/1989,Dakar,32,1.89,Senegal Belgium,right
+422,Jack Colback,10/24/1989,Killingworth,33,1.77,England,left
+423,Remo Freuler,4/15/1992,Ennenda,30,1.8,Switzerland,right
+424,Orel Mangala,3/18/1998,Brüssel,24,1.78,Belgium DR Congo,right
+425,Lewis O'Brien,10/14/1998,Colchester,24,1.73,England,left
+426,Ryan Yates,11/21/1997,Nottingham,25,1.9,England,right
+427,Cafú,2/26/1993,Guimarães,29,1.85,Portugal Guinea-Bissau,right
+428,Harry Arter,12/28/1989,London,32,1.77,Ireland England,left
+429,Morgan Gibbs-White,1/27/2000,Stafford,22,1.78,England Jamaica,right
+430,Jesse Lingard,12/15/1992,Warrington,29,1.74,England,right
+431,Brennan Johnson,5/23/2001,Nottingham,21,1.79,Wales England,right
+432,Taiwo Awoniyi,8/12/1997,Ilorin,25,1.83,Nigeria,right
+433,Emmanuel Dennis,11/15/1997,Abuja,25,1.75,Nigeria,right
+434,Sam Surridge,7/28/1998,Slough,24,1.9,England,right
+435,Lyle Taylor,3/29/1990,London,32,1.88,Montserrat England,right
+436,Illan Meslier,3/2/2000,Lorient,22,1.97,France,left
+437,Kristoffer Klaesson,11/27/2000,Oslo,22,1.89,Norway,left
+438,Joel Robles,6/17/1990,Getafe,32,1.97,Spain,right
+439,Pascal Struijk,8/11/1999,Deurne,23,1.9,Netherlands,left
+440,Robin Koch,7/17/1996,Kaiserslautern,26,1.91,Germany,right
+441,Diego Llorente,8/16/1993,Madrid,29,1.86,Spain,right
+442,Liam Cooper,8/30/1991,Kingston upon Hull,31,1.86,Scotland England,left
+443,Junior Firpo,8/22/1996,Santo Domingo de Guzmán,26,1.84,Dominican Republic Spain,left
+444,Leo Fuhr Hjelde,8/26/2003,Nottingham,19,1.88,Norway England,left
+445,Rasmus Kristensen,7/11/1997,Brande,25,1.87,Denmark,right
+446,Cody Drameh,12/8/2001,London,20,1.75,England The Gambia,right
+447,Luke Ayling,8/25/1991,London,31,1.83,England,right
+448,Stuart Dallas,4/19/1991,Cookstown,31,1.83,Northern Ireland,right
+449,Tyler Adams,2/14/1999,"Wappingers Falls, New York",23,1.75,United States,right
+450,Marc Roca,11/26/1996,Vilafranca del Penedès,26,1.84,Spain,left
+451,Mateusz Klich,6/13/1990,Tarnów,32,1.83,Poland,right
+452,Adam Forshaw,10/8/1991,Liverpool,31,1.75,England,right
+453,Brenden Aaronson,10/22/2000,"Medford, New Jersey",22,1.77,United States,right
+454,Sam Greenwood,1/26/2002,Sunderland,20,1.8,England,right
+455,Jack Harrison,11/20/1996,Stoke-on-Trent,26,1.75,England,left
+456,Luis Sinisterra,6/17/1999,Santander de Quilichao,23,1.72,Colombia,right
+457,Crysencio Summerville,10/30/2001,Rotterdam,21,1.74,Netherlands Suriname,right
+458,Wilfried Gnonto,11/5/2003,Verbania,19,1.7,Italy Cote d'Ivoire,right
+459,Rodrigo,3/6/1991,Rio de Janeiro,31,1.82,Spain Brazil,left
+460,Patrick Bamford,9/5/1993,Grantham,29,1.85,England Ireland,left
+461,Joe Gelhardt,5/4/2002,Liverpool,20,1.79,England,left
+462,Bernd Leno,3/4/1992,Bietigheim-Bissingen,30,1.9,Germany,right
+463,Marek Rodak,12/13/1996,Košice,25,1.94,Slovakia,right
+464,Tosin Adarabioyo,9/24/1997,Manchester,25,1.96,England Nigeria,right
+465,Issa Diop,1/9/1997,Toulouse,25,1.94,France Senegal,right
+466,Shane Duffy,1/1/1992,Derry,30,1.93,Ireland Northern Ireland,right
+467,Tim Ream,10/5/1987,"St. Louis, Missouri",35,1.86,United States,left
+468,Antonee Robinson,8/8/1997,Milton Keynes,25,1.83,United States England,left
+469,Layvin Kurzawa,9/4/1992,Fréjus,30,1.82,France Guadeloupe,left
+470,Kenny Tete,10/9/1995,Amsterdam,27,1.8,Netherlands Mozambique,right
+471,Kevin Mbabu,4/19/1995,Chêne-Bougeries,27,1.84,Switzerland DR Congo,right
+472,João Palhinha,7/9/1995,Lisboa,27,1.9,Portugal,right
+473,Nathaniel Chalobah,12/12/1994,Freetown,27,1.85,England Sierra Leone,right
+474,Harrison Reed,1/27/1995,Worthing,27,1.81,England,right
+475,Josh Onomah,4/27/1997,London,25,1.85,England,right
+476,Tom Cairney,1/20/1991,Nottingham,31,1.85,Scotland England,left
+477,Andreas Pereira,1/1/1996,Duffel,26,1.78,Brazil Belgium,right
+478,Bobby Reid,2/2/1993,Bristol,29,1.7,Jamaica England,right
+479,Manor Solomon,7/24/1999,Kfar Saba,23,1.7,Israel Portugal,right
+480,Neeskens Kebano,3/10/1992,Montereau,30,1.7,DR Congo France,right
+481,Harry Wilson,3/22/1997,Wrexham,25,1.73,Wales England,left
+482,Daniel James,11/10/1997,Beverley,25,1.71,Wales England,right
+483,Willian,8/9/1988,Ribeirão Pires,34,1.75,Brazil,right
+484,Aleksandar Mitrović,9/16/1994,Smederevo,28,1.89,Serbia,right
+485,Carlos Vinícius,3/25/1995,Rio de Janeiro,27,1.9,Brazil,left
+486,Neto,7/19/1989,Araxá,33,1.9,Brazil Italy,right
+487,Mark Travers,5/18/1999,Maynooth,23,1.91,Ireland,right
+488,Will Dennis,7/10/2000,NA,22,1.88,England,right
+489,Marcos Senesi,5/10/1997,Concordia,25,1.85,Argentina Italy,left
+490,Lloyd Kelly,10/6/1998,Bristol,24,1.9,England,left
+491,Chris Mepham,11/5/1997,London,25,1.9,Wales England,right
+492,Jack Stephens,1/27/1994,Torpoint,28,1.85,England,right
+493,James Hill,1/10/2002,Bristol,20,1.84,England,right
+494,Jordan Zemura,11/14/1999,London,23,1.73,Zimbabwe England,left
+495,Jack Stacey,4/6/1996,Ascot,26,1.8,England,right
+496,Ryan Fredericks,10/10/1992,Potters Bar,30,1.81,England Scotland,right
+497,Adam Smith,4/29/1991,London,31,1.74,England,right
+498,Jefferson Lerma,10/25/1994,Cerrito,28,1.79,Colombia,right
+499,Philip Billing,6/11/1996,Copenhagen,26,1.93,Denmark Nigeria,left
+500,Lewis Cook,2/3/1997,York,25,1.75,England,right
+501,Joe Rothwell,1/11/1995,Manchester,27,1.85,England,right
+502,Ben Pearson,1/4/1995,Oldham,27,1.76,England,right
+503,Marcus Tavernier,3/22/1999,Leeds,23,1.78,England,left
+504,Ryan Christie,2/22/1995,Inverness,27,1.78,Scotland,left
+505,Emiliano Marcondes,3/9/1995,Hvidovre,27,1.82,Denmark Brazil,right
+506,Jaidon Anthony,NA,London,23,1.83,England,right
+507,Siriki Dembélé,9/7/1996,Ouragahio,26,1.73,Scotland Cote d'Ivoire,right
+508,Junior Stanislas,11/26/1989,London,33,1.83,England St. Lucia,right
+509,David Brooks,7/8/1997,Warrington,25,1.73,Wales England,left
+510,Jamal Lowe,7/21/1994,London,28,1.83,Jamaica England,right
+511,Dominic Solanke,9/14/1997,Basingstoke,25,1.86,England Nigeria,right
+512,Kieffer Moore,8/8/1992,Torquay,30,1.96,Wales England,right
+513,Thibaut Courtois,5/11/1992,Bree,30,2,Belgium,left
+514,Andriy Lunin,2/11/1999,"Krasnograd, Kharkiv Oblast",23,1.91,Ukraine,right
+515,Éder Militão,1/18/1998,Sertãozinho,24,1.86,Brazil Spain,right
+516,David Alaba,6/24/1992,Wien,30,1.8,Austria,left
+517,Antonio Rüdiger,3/3/1993,Berlin,29,1.9,Germany Sierra Leone,right
+518,Nacho Fernández,1/18/1990,Madrid,32,1.8,Spain,right
+519,Jesús Vallejo,1/5/1997,Zaragoza,25,1.84,Spain,right
+520,Ferland Mendy,6/8/1995,Meulan-en-Yvelines,27,1.8,France Senegal,left
+521,Daniel Carvajal,1/11/1992,Leganés,30,1.73,Spain,right
+522,Álvaro Odriozola,12/14/1995,San Sebastián,26,1.76,Spain,right
+523,Aurélien Tchouameni,1/27/2000,Rouen,22,1.88,France Cameroon,right
+524,Federico Valverde,7/22/1998,Montevideo,24,1.82,Uruguay Spain,right
+525,Eduardo Camavinga,11/10/2002,Cabinda,20,1.82,France Congo,left
+526,Toni Kroos,1/4/1990,Greifswald,32,1.83,Germany,right
+527,Luka Modric,9/9/1985,Zadar,37,1.72,Croatia,both
+528,Dani Ceballos,8/7/1996,Utrera,26,1.79,Spain,right
+529,Vinicius Junior,7/12/2000,São Gonçalo,22,1.76,Brazil Spain,right
+530,Eden Hazard,1/7/1991,La Louvière,31,1.75,Belgium,right
+531,Rodrygo,1/9/2001,Osasco,21,1.74,Brazil Spain,right
+532,Marco Asensio,1/21/1996,Palma de Mallorca,26,1.82,Spain Netherlands,left
+533,Lucas Vázquez,7/1/1991,A Coruña,31,1.73,Spain,right
+534,Karim Benzema,12/19/1987,Lyon,34,1.85,France Algeria,right
+535,Mariano Díaz,8/1/1993,Premià de Mar,29,1.8,Dominican Republic Spain,right
+536,Marc-André ter Stegen,4/30/1992,Mönchengladbach,30,1.87,Germany,right
+537,Iñaki Peña,3/2/1999,Alicante,23,1.84,Spain,right
+538,Arnau Tenas,5/30/2001,Vic,21,1.85,Spain,right
+539,Ronald Araújo,3/7/1999,Rivera,23,1.88,Uruguay,right
+540,Jules Koundé,11/12/1998,Paris,24,1.8,France Benin,right
+541,Andreas Christensen,4/10/1996,Lillerød,26,1.87,Denmark,right
+542,Eric García,1/9/2001,Barcelona,21,1.82,Spain,right
+543,Gerard Piqué,2/2/1987,Barcelona,35,1.94,Spain,right
+544,Alejandro Balde,10/18/2003,Barcelona,19,1.75,Spain Dominican Republic,left
+545,Marcos Alonso,12/28/1990,Madrid,31,1.89,Spain,left
+546,Jordi Alba,3/21/1989,L'Hospitalet de Llobregat,33,1.7,Spain,left
+547,Héctor Bellerín,3/19/1995,Badalona,27,1.77,Spain,right
+548,Sergi Roberto,2/7/1992,Reus,30,1.78,Spain,right
+549,Sergio Busquets,7/16/1988,Badia del Vallès,34,1.89,Spain,right
+550,Pedri,11/25/2002,Tegueste,20,1.74,Spain,right
+551,Gavi,8/5/2004,Los Palacios y Villafranca,18,1.73,Spain,right
+552,Frenkie de Jong,5/12/1997,Arkel,25,1.81,Netherlands,right
+553,Franck Kessié,12/19/1996,Ouragahio,25,1.83,Cote d'Ivoire Italy,right
+554,Pablo Torre,4/3/2003,Soto de la Marina,19,1.73,Spain,right
+555,Ansu Fati,10/31/2002,Bissau,20,1.78,Spain Guinea-Bissau,right
+556,Ferran Torres,2/29/2000,Foios,22,1.84,Spain,right
+557,Ousmane Dembélé,5/15/1997,Vernon,25,1.78,France,both
+558,Raphinha,12/14/1996,Porto Alegre,25,1.76,Brazil Italy,left
+559,Robert Lewandowski,8/21/1988,Warszawa,34,1.85,Poland,right
+560,Memphis Depay,2/13/1994,Moordrecht,28,1.78,Netherlands Ghana,right
+561,Jan Oblak,1/7/1993,Škofja Loka,29,1.88,Slovenia,right
+562,Ivo Grbic,1/18/1996,Split,26,1.95,Croatia,right
+563,José María Giménez,1/20/1995,Toledo,27,1.85,Uruguay Spain,right
+564,Mario Hermoso,6/18/1995,Madrid,27,1.84,Spain,left
+565,Stefan Savic,1/8/1991,Mojkovac,31,1.87,Montenegro Serbia,right
+566,Felipe,5/16/1989,Mogi das Cruzes,33,1.9,Brazil,right
+567,Reinildo Mandava,1/21/1994,Beira,28,1.8,Mozambique,left
+568,Sergio Reguilón,12/16/1996,Madrid,25,1.78,Spain,left
+569,Nahuel Molina,4/6/1998,Embalse,24,1.75,Argentina,right
+570,Geoffrey Kondogbia,2/15/1993,Nemours,29,1.88,Central African Republic France,left
+571,Axel Witsel,1/12/1989,Liège,33,1.86,Belgium Martinique,right
+572,Rodrigo de Paul,5/24/1994,Sarandí,28,1.8,Argentina Italy,right
+573,Marcos Llorente,1/30/1995,Madrid,27,1.84,Spain,right
+574,Koke,1/8/1992,Madrid,30,1.76,Spain,right
+575,Saúl Ñíguez,11/21/1994,Elche,28,1.84,Spain,left
+576,Thomas Lemar,11/12/1995,Baie-Mahault,27,1.71,France Guadeloupe,left
+577,Yannick Carrasco,9/4/1993,Ixelles,29,1.81,Belgium Spain,right
+578,Ángel Correa,3/9/1995,Rosario,27,1.71,Argentina Spain,right
+579,João Félix,11/10/1999,Viseu,23,1.81,Portugal,both
+580,Antoine Griezmann,3/21/1991,Mâcon,31,1.76,France,left
+581,Álvaro Morata,10/23/1992,Madrid,30,1.89,Spain,right
+582,Matheus Cunha,5/27/1999,João Pessoa,23,1.84,Brazil,right
+583,Álex Remiro,3/24/1995,Cascante,27,1.91,Spain,right
+584,Andoni Zubiaurre,12/4/1996,Ordizia,25,1.89,Spain,left
+585,Robin Le Normand,11/11/1996,Pabu,26,1.87,France,right
+586,Igor Zubeldia,3/30/1997,Azkoitia,25,1.81,Spain,right
+587,Aritz Elustondo,3/28/1994,Beasain,28,1.82,Spain,right
+588,Jon Pacheco,1/8/2001,Elizondo,21,1.84,Spain,left
+589,Aihen Muñoz,8/16/1997,Etxauri,25,1.75,Spain,left
+590,Diego Rico,2/23/1993,Burgos,29,1.83,Spain,left
+591,Andoni Gorosabel,8/4/1996,Arrasate,26,1.74,Spain,right
+592,Álex Sola,6/9/1999,Donostia-San Sebastián,23,1.78,Spain,right
+593,Martín Zubimendi,2/2/1999,Donostia-San Sebastián,23,1.81,Spain,right
+594,Asier Illarramendi,3/8/1990,Mutriku,32,1.79,Spain,right
+595,Mikel Merino,6/22/1996,Pamplona,26,1.89,Spain,left
+596,Brais Méndez,1/7/1997,Mos,25,1.84,Spain,left
+597,Ander Guevara,7/7/1997,Vitoria-Gasteiz,25,1.8,Spain,right
+598,Beñat Turrientes,1/31/2002,Beasain,20,1.81,Spain,right
+599,Robert Navarro,4/12/2002,Barcelona,20,1.78,Spain,right
+600,David Silva,1/8/1986,Arguineguín,36,1.7,Spain,left
+601,Mikel Oyarzabal,4/21/1997,Eibar,25,1.81,Spain,left
+602,Ander Barrenetxea,12/27/2001,Donostia-San Sebastián,20,1.75,Spain,right
+603,Martín Merquelanz,6/12/1995,Irún,27,1.76,Spain,left
+604,Takefusa Kubo,6/4/2001,"Kawasaki, Kanagawa",21,1.73,Japan,left
+605,Umar Sadiq,2/2/1997,Kaduna,25,1.91,Nigeria,right
+606,Momo Cho,1/19/2004,Stains,18,1.82,France England,left
+607,Alexander Sörloth,12/5/1995,Trondheim,26,1.95,Norway,left
+608,Jon Karrikaburu,9/19/2002,Elizondo,20,1.83,Spain,right
+609,Carlos Fernández,5/22/1996,Castilleja de Guzmán,26,1.85,Spain,left
+610,Gerónimo Rulli,5/20/1992,La Plata,30,1.89,Argentina Italy,right
+611,Filip Jörgensen,4/16/2002,Lomma,20,1.9,Denmark Sweden,right
+612,Pepe Reina,8/31/1982,Madrid,40,1.88,Spain,right
+613,Pau Torres,1/16/1997,Villarreal,25,1.91,Spain,left
+614,Jorge Cuenca,11/17/1999,Madrid,23,1.9,Spain,left
+615,Aïssa Mandi,10/22/1991,Châlons-en-Champagne,31,1.84,Algeria France,right
+616,Raúl Albiol,9/4/1985,Vilamarxant,37,1.9,Spain,right
+617,Alfonso Pedraza,4/9/1996,San Sebastián de los Ballesteros,26,1.84,Spain,left
+618,Johan Mojica,8/21/1992,Santiago de Cali,30,1.85,Colombia Spain,left
+619,Alberto Moreno,7/5/1992,Sevilla,30,1.71,Spain,left
+620,Juan Foyth,1/12/1998,La Plata,24,1.87,Argentina Spain,right
+621,Kiko Femenía,2/2/1991,Sanet y Negrals,31,1.71,Spain,right
+622,Francis Coquelin,5/13/1991,Laval,31,1.77,France Réunion,right
+623,Étienne Capoue,7/11/1988,Niort,34,1.89,France Guadeloupe,right
+624,Giovani Lo Celso,4/9/1996,Rosario,26,1.77,Argentina Italy,left
+625,Dani Parejo,4/16/1989,Coslada,33,1.82,Spain,right
+626,Manu Trigueros,10/17/1991,Talavera de la Reina,31,1.78,Spain,right
+627,Manu Morlanes,1/12/1999,Zaragoza,23,1.78,Spain,right
+628,Álex Baena,7/20/2001,Roquetas de Mar,21,1.74,Spain,right
+629,Yéremy Pino,10/20/2002,Las Palmas,20,1.72,Spain,right
+630,Samuel Chukwueze,5/22/1999,Umahaia,23,1.72,Nigeria,left
+631,Nicolas Jackson,6/20/2001,Banjul,21,1.88,Senegal The Gambia,right
+632,Gerard Moreno,4/7/1992,Santa Perpètua de Mogoda,30,1.8,Spain,left
+633,Arnaut Danjuma,1/31/1997,Lagos,25,1.78,Netherlands Nigeria,right
+634,José Luis Morales,7/23/1987,Madrid,35,1.8,Spain,right
+635,Rui Silva,2/7/1994,Maia,28,1.91,Portugal,left
+636,Dani Martín,7/8/1998,Gijón,24,1.87,Spain,right
+637,Claudio Bravo,4/13/1983,Viluco,39,1.84,Chile Spain,right
+638,Luiz Felipe,3/22/1997,Colina,25,1.87,Italy Brazil,right
+639,Edgar González,4/1/1997,Sant Joan Despí,25,1.93,Spain,right
+640,Germán Pezzella,6/27/1991,Bahia Blanca,31,1.87,Argentina Italy,right
+641,Víctor Ruiz,1/25/1989,Esplugues de Llobregat,33,1.84,Spain,left
+642,Álex Moreno,6/8/1993,Sant Sadurní d'Anoia,29,1.79,Spain,left
+643,Juan Miranda,1/19/2000,Olivares,22,1.85,Spain,left
+644,Aitor Ruibal,3/22/1996,Sallent de Llobregat,26,1.76,Spain,right
+645,Youssouf Sabaly,3/5/1993,Chesnay,29,1.73,Senegal France,right
+646,Martín Montoya,4/14/1991,Gavà,31,1.75,Spain,right
+647,Guido Rodríguez,4/12/1994,Sáenz Peña,28,1.85,Argentina Italy,right
+648,William Carvalho,4/7/1992,Luanda,30,1.87,Portugal Angola,right
+649,Paul Akouokou,12/20/1997,Abiyán,24,1.81,Cote d'Ivoire,right
+650,Andrés Guardado,9/28/1986,Guadalajara,36,1.67,Mexico Spain,left
+651,Víctor Camarasa,5/28/1994,Meliana,28,1.83,Spain,right
+652,Nabil Fekir,7/18/1993,Lyon,29,1.73,France Algeria,left
+653,Sergio Canales,2/16/1991,Santander,31,1.78,Spain,left
+654,Rodri Sánchez,2/16/2000,Talayuela,22,1.75,Spain,left
+655,Juanmi,5/20/1993,Coín,29,1.72,Spain,right
+656,Luiz Henrique,1/2/2001,Petrópolis,21,1.82,Brazil,left
+657,Joaquín,7/21/1981,El Puerto de Santa María,41,1.81,Spain,right
+658,Juan Cruz,4/25/2000,Quilmes,22,1.8,Spain Argentina,left
+659,Borja Iglesias,1/17/1993,Santiago de Compostela,29,1.87,Spain,right
+660,Willian José,11/23/1991,Porto Calvo,31,1.89,Brazil Spain,right
+661,Loren Morón,12/30/1993,Marbella,28,1.85,Spain,right
+662,Giorgi Mamardashvili,9/29/2000,Tiflis,22,1.97,Georgia,left
+663,Jaume Doménech,11/5/1990,Almenara,32,1.85,Spain,right
+664,Iago Herrerín,1/25/1988,Bilbao,34,1.87,Spain,right
+665,Cristian Rivero,3/21/1998,Gandia,24,1.88,Spain,right
+666,Mouctar Diakhaby,12/19/1996,Vendôme,25,1.92,Guinea France,right
+667,Gabriel Paulista,11/26/1990,São Paulo,32,1.87,Brazil Spain,right
+668,Eray Cömert,2/4/1998,Rheinfelden,24,1.83,Switzerland Turkey,right
+669,Cenk Özkacar,10/6/2000,Izmir,22,1.9,Turkey,left
+670,Cristhian Mosquera,6/27/2004,Alicante,18,1.91,Spain Colombia,right
+671,José Gayà,5/25/1995,Pedreguer,27,1.72,Spain,left
+672,Jesús Vázquez,1/2/2003,Mérida,19,1.82,Spain,left
+673,Toni Lato,11/21/1997,La Pobla de Vallbona,25,1.71,Spain,left
+674,Thierry Correia,3/9/1999,Amadora,23,1.76,Portugal Cape Verde,right
+675,Dimitri Foulquier,3/23/1993,Sarcelles,29,1.83,Guadeloupe France,right
+676,Hugo Guillamón,1/31/2000,Donostia-San Sebastián,22,1.78,Spain,right
+677,Yunus Musah,11/29/2002,"New York City, New York",20,1.78,United States England,right
+678,Nico González,1/3/2002,A Coruña,20,1.88,Spain,right
+679,André Almeida,5/30/2000,Guimarães,22,1.76,Portugal,right
+680,Ilaix Moriba,1/19/2003,Conakry,19,1.85,Guinea Spain,right
+681,Samuel Lino,12/23/1999,Santo André (SP),22,1.78,Brazil,right
+682,Justin Kluivert,5/5/1999,Zaandam,23,1.72,Netherlands Suriname,both
+683,Samu Castillejo,1/18/1995,Málaga,27,1.82,Spain,left
+684,Hugo Duro,11/10/1999,Getafe,23,1.82,Spain,left
+685,Edinson Cavani,2/14/1987,Salto,35,1.84,Uruguay Italy,right
+686,Marcos André,10/20/1996,Coroatá,26,1.85,Brazil Spain,right
+687,Bono,4/5/1991,Montreal,31,1.92,Morocco Canada,left
+688,Marko Dmitrović,1/24/1992,Subotica,30,1.94,Serbia,left
+689,Marcão,6/5/1996,Londrina (PR),26,1.85,Brazil,left
+690,Tanguy Nianzou,6/7/2002,Paris,20,1.91,France Cote d'Ivoire,right
+691,Karim Rekik,12/2/1994,Den Haag,27,1.86,Netherlands Tunisia,left
+692,Kike Salas,4/23/2002,Sevilla,20,1.89,Spain,NA
+693,Alex Telles,12/15/1992,Caxias do Sul,29,1.81,Brazil Italy,left
+694,Marcos Acuña,10/28/1991,Zapala,31,1.72,Argentina,left
+695,Gonzalo Montiel,1/1/1997,González Catán,25,1.76,Argentina,right
+696,José Ángel Carmona,1/29/2002,El Viso del Alcor,20,1.84,Spain,right
+697,Jesús Navas,11/21/1985,Los Palacios y Villafranca,37,1.72,Spain,right
+698,Nemanja Gudelj,11/16/1991,Belgrad,31,1.87,Serbia Netherlands,right
+699,Fernando,7/25/1987,Brasília,35,1.83,Brazil Portugal,right
+700,Joan Jordán,7/6/1994,Regencós,28,1.85,Spain,right
+701,Óliver Torres,11/10/1994,Navalmoral de la Mata,28,1.75,Spain,right
+702,Ivan Rakitic,3/10/1988,Möhlin,34,1.84,Croatia Switzerland,right
+703,Thomas Delaney,9/3/1991,Frederiksberg,31,1.82,Denmark United States,left
+704,Isco,4/21/1992,Benalmádena,30,1.76,Spain,right
+705,Papu Gómez,2/15/1988,Buenos Aires,34,1.67,Argentina Italy,right
+706,Tecatito,1/6/1993,Hermosillo,29,1.73,Mexico Portugal,both
+707,Erik Lamela,3/4/1992,Carapachay,30,1.84,Argentina Spain,left
+708,Suso,11/19/1993,Cádiz,29,1.77,Spain,left
+709,Adnan Januzaj,2/5/1995,Brussel,27,1.86,Belgium Kosovo,left
+710,Kasper Dolberg,10/6/1997,Silkeborg,25,1.87,Denmark,right
+711,Rafa Mir,6/18/1997,Cartagena,25,1.91,Spain,right
+712,Youssef En-Nesyri,6/1/1997,Fès,25,1.92,Morocco,left
+713,Unai Simón,6/11/1997,Vitoria-Gasteiz,25,1.9,Spain,right
+714,Julen Agirrezabala,12/26/2000,Donostia-San Sebastián,21,1.87,Spain,left
+715,Iñigo Martínez,5/17/1991,Ondarroa,31,1.82,Spain,left
+716,Yeray Álvarez,1/24/1995,Barakaldo,27,1.82,Spain,right
+717,Dani Vivian,7/5/1999,Vitoria-Gasteiz,23,1.84,Spain,right
+718,Aitor Paredes,4/29/2000,Bilbao,22,1.85,Spain,right
+719,Yuri Berchiche,2/10/1990,Zarautz,32,1.81,Spain Algeria,left
+720,Mikel Balenziaga,2/29/1988,Zumarraga,34,1.77,Spain,left
+721,Iñigo Lekue,5/4/1993,Bilbao,29,1.8,Spain,right
+722,Ander Capa,2/8/1992,Portugalete,30,1.75,Spain,right
+723,Óscar de Marcos,4/14/1989,Laguardia,33,1.82,Spain,right
+724,Mikel Vesga,4/8/1993,Vitoria-Gasteiz,29,1.91,Spain,left
+725,Unai Vencedor,11/15/2000,Bilbao,22,1.76,Spain,right
+726,Ander Herrera,8/14/1989,Bilbao,33,1.82,Spain,right
+727,Oier Zarraga,1/4/1999,Getxo,23,1.75,Spain,right
+728,Dani García,5/24/1990,Zumarraga,32,1.79,Spain,right
+729,Oihan Sancet,4/25/2000,Pamplona,22,1.88,Spain,right
+730,Iker Muniain,12/19/1992,Pamplona,29,1.69,Spain,right
+731,Álex Berenguer,7/4/1995,Barañain,27,1.75,Spain,right
+732,Jon Morcillo,9/15/1998,Amorebieta-Etxano,24,1.83,Spain,left
+733,Nico Williams,7/12/2002,Pamplona,20,1.81,Spain Ghana,right
+734,Iñaki Williams,6/15/1994,Bilbao,28,1.86,Ghana Spain,right
+735,Asier Villalibre,9/30/1997,Gernika,25,1.84,Spain,left
+736,Raúl García,7/11/1986,Zizur Mayor,36,1.84,Spain,right
+737,Gorka Guruzeta,9/12/1996,Donostia-San Sebastián,26,1.88,Spain,right
+738,David Soria,4/4/1993,Madrid,29,1.92,Spain,right
+739,Kiko Casilla,10/2/1986,Alcover,36,1.9,Spain,right
+740,Diego Conde,10/28/1998,Madrid,24,1.88,Spain,NA
+741,Domingos Duarte,3/10/1995,Cascais,27,1.92,Portugal,right
+742,Djené,12/31/1991,Lome Dapaong,30,1.78,Togo,right
+743,Gastón Álvarez,3/24/2000,Melo,22,1.84,Uruguay,left
+744,Omar Alderete,12/26/1996,Asunción,25,1.88,Paraguay,left
+745,Stefan Mitrović,5/22/1990,Belgrad,32,1.89,Serbia,both
+746,Fabrizio Angileri,3/15/1994,Junín,28,1.85,Argentina Italy,left
+747,Jordan Amavi,3/9/1994,Toulon,28,1.76,France Senegal,left
+748,Juan Iglesias,7/3/1998,Valladolid,24,1.87,Spain,right
+749,Damián Suárez,4/27/1988,Montevideo,34,1.73,Uruguay Spain,right
+750,Nemanja Maksimović,1/26/1995,Banja Koviljača,27,1.84,Serbia,right
+751,Mauro Arambarri,9/30/1995,Salto,27,1.75,Uruguay,right
+752,Carles Aleñá,1/5/1998,Mataró,24,1.8,Spain,left
+753,Luis Milla,10/7/1994,Madrid,28,1.75,Spain,right
+754,Jaime Seoane,1/22/1997,Madrid,25,1.77,Spain,right
+755,Ángel Algobia,6/23/1999,Velilla de San Antonio,23,1.88,Spain Portugal,right
+756,Portu,5/21/1992,Beniel,30,1.67,Spain,right
+757,Enes Ünal,5/10/1997,Bursa,25,1.87,Turkey,right
+758,Borja Mayoral,4/5/1997,Parla,25,1.82,Spain,right
+759,Munir El Haddadi,9/1/1995,El Escorial,27,1.75,Morocco Spain,left
+760,Jaime Mata,10/24/1988,Madrid,34,1.86,Spain,right
+761,Juanmi Latasa,3/23/2001,Madrid,21,1.92,Spain,left
+762,Sergio Herrera,6/5/1993,Miranda de Ebro,29,1.92,Spain,right
+763,Aitor Fernández,5/3/1991,Arrasate,31,1.82,Spain,right
+764,Juan Pérez,7/15/1996,Almudévar,26,1.91,Spain,right
+765,David García,2/14/1994,Ibero,28,1.86,Spain,both
+766,Unai García,2/3/1992,Esquiroz,30,1.86,Spain,right
+767,Aridane Hernández,3/23/1989,Tuineje,33,1.88,Spain,right
+768,Manu Sánchez,8/24/2000,Madrid,22,1.71,Spain,left
+769,Juan Cruz,7/28/1992,Madrid,30,1.82,Spain,left
+770,Nacho Vidal,1/24/1995,El Campello,27,1.8,Spain,right
+771,Rubén Peña,7/18/1991,Ávila,31,1.7,Spain,right
+772,Lucas Torró,7/19/1994,Cocentaina,28,1.9,Spain,right
+773,Jon Moncayola,5/13/1998,Garinoain,24,1.82,Spain,right
+774,Darko Brasanac,2/12/1992,Čajetina,30,1.78,Serbia,right
+775,Pablo Ibáñez,9/20/1998,Pamplona,24,1.79,Spain,right
+776,Aimar Oroz,11/27/2001,Pamplona,21,1.77,Spain,right
+777,Roberto Torres,3/7/1989,Arre,33,1.78,Spain,right
+778,Ez Abde,12/17/2001,Beni Melal,20,1.77,Morocco Spain,right
+779,Moi Gómez,6/23/1994,Rojales,28,1.76,Spain,right
+780,Rubén García,7/14/1993,Xàtiva,29,1.71,Spain,left
+781,Kike Saverio,6/19/1999,Génova,23,1.78,Ecuador Spain,both
+782,Kike Barja,4/1/1997,Noáin,25,1.79,Spain,right
+783,Chimy Ávila,2/6/1994,Rosario,28,1.72,Argentina Spain,right
+784,Ante Budimir,7/22/1991,Zenica,31,1.9,Croatia,left
+785,Kike García,11/25/1989,Motilla de Palancar,33,1.86,Spain,right
+786,Agustín Marchesín,3/16/1988,San Cayetano,34,1.88,Argentina Italy,right
+787,Iván Villar,7/9/1997,Aldán,25,1.86,Spain,right
+788,Joseph Aidoo,9/29/1995,Tema,27,1.77,Ghana,right
+789,Unai Núñez,1/30/1997,Portugalete,25,1.86,Spain,right
+790,Óscar Mingueza,5/13/1999,Santa Perpètua de Mogoda,23,1.84,Spain,right
+791,Carlos Domínguez,2/11/2001,Vigo,21,1.87,Spain,left
+792,Javi Galán,11/19/1994,Badajoz,28,1.72,Spain,left
+793,Hugo Mallo,6/22/1991,Marín,31,1.74,Spain,right
+794,Kevin Vázquez,3/23/1993,Nigrán,29,1.75,Spain,right
+795,Renato Tapia,7/28/1995,Lima,27,1.85,Peru Netherlands,right
+796,Fran Beltrán,2/3/1999,Madrid,23,1.65,Spain,right
+797,Williot Swedberg,2/1/2004,Stockholm,18,1.85,Sweden,right
+798,Luca de la Torre,5/23/1998,"San Diego, California",24,1.77,United States Spain,right
+799,Óscar Rodríguez,6/28/1998,Talavera de la Reina,24,1.74,Spain,right
+800,Gabri Veiga,5/27/2002,Porriño,20,1.85,Spain,right
+801,Denis Suárez,1/6/1994,Salceda de Caselas,28,1.76,Spain,right
+802,Franco Cervi,5/26/1994,San Lorenzo,28,1.66,Argentina Italy,left
+803,Carles Pérez,2/16/1998,Granollers,24,1.73,Spain,left
+804,Augusto Solari,1/3/1992,Rosario,30,1.76,Argentina Italy,right
+805,Jörgen Strand Larsen,2/6/2000,Halden,22,1.93,Norway,right
+806,Iago Aspas,8/1/1987,Moaña,35,1.76,Spain,left
+807,Gonçalo Paciência,8/1/1994,Porto,28,1.84,Portugal,right
+808,Paulo Gazzaniga,1/2/1992,Murphy,30,1.96,Argentina Italy,right
+809,Juan Carlos,1/20/1988,Guadalajara,34,1.87,Spain,NA
+810,Toni Fuidias,4/15/2001,Berga,21,1.95,Spain,right
+811,Santiago Bueno,11/9/1998,Montevideo,24,1.92,Uruguay Italy,right
+812,David López,10/9/1989,Barcelona,33,1.85,Spain,right
+813,Bernardo Espinosa,7/11/1989,Santiago de Cali,33,1.92,Colombia Spain,right
+814,Juanpe,4/30/1991,Las Palmas de Gran Canaria,31,1.9,Spain,right
+815,Miguel Gutiérrez,7/27/2001,Madrid,21,1.8,Spain,left
+816,Javi Hernández,5/2/1998,Jerez de la Frontera,24,1.85,Spain,left
+817,Arnau Martínez,4/25/2003,Premià de Dalt,19,1.82,Spain,right
+818,Yan Couto,6/3/2002,Curitiba,20,1.68,Brazil Portugal,right
+819,Oriol Romeu,9/24/1991,Ulldecona,31,1.83,Spain,right
+820,Ramón Terrats,10/18/2000,Barcelona,22,1.81,Spain,left
+821,Ibrahima Kébé,8/1/2000,Bamako,22,1.8,Mali,right
+822,Yangel Herrera,1/6/1998,"La Guaira, Vargas",24,1.84,Venezuela,right
+823,Aleix García,6/28/1997,Ulldecona,25,1.73,Spain,right
+824,Reinier,1/19/2002,Brasília,20,1.85,Brazil,right
+825,Iván Martín,2/14/1999,Bilbao,23,1.78,Spain,left
+826,Borja García,11/2/1990,Torremocha de Jarama,32,1.75,Spain,right
+827,Manu Vallejo,2/14/1997,Chiclana de la Frontera,25,1.67,Spain,right
+828,Toni Villa,1/7/1995,Lorquí,27,1.72,Spain,right
+829,Samu Saiz,1/22/1991,Madrid,31,1.74,Spain,right
+830,Rodrigo Riquelme,4/2/2000,Madrid,22,1.74,Spain,right
+831,Valery Fernández,11/23/1999,L'Escala,23,1.82,Spain,right
+832,Taty Castellanos,10/3/1998,Mendoza,24,1.78,Argentina,right
+833,Cristhian Stuani,10/12/1986,Tala,36,1.84,Uruguay Italy,right
+834,Stole Dimitrievski,12/25/1993,Kumanovo,28,1.88,North Macedonia Spain,right
+835,Miguel Ángel Morro,9/11/2000,Alcalá de Henares,22,1.95,Spain,left
+836,Diego López,11/3/1981,Paradela,41,1.96,Spain,right
+837,Alejandro Catena,10/28/1994,Madrid,28,1.94,Spain,right
+838,Florian Lejeune,5/20/1991,Paris,31,1.9,France,right
+839,Abdul Mumin,6/6/1998,Accra,24,1.88,Ghana Nigeria,right
+840,Esteban Saveljich,5/20/1991,Tandil,31,1.87,Montenegro Argentina,right
+841,Mario Suárez,2/24/1987,Madrid,35,1.89,Spain,right
+842,Fran García,8/14/1999,Bolaños de Calatrava,23,1.69,Spain,left
+843,Pep Chavarría,4/10/1998,Figueres,24,1.74,Spain,left
+844,Iván Balliu,1/1/1992,Caldes de Malavella,30,1.72,Albania Spain,right
+845,Mario Hernández,1/25/1999,Madrid,23,1.77,Spain,right
+846,Pathé Ciss,3/16/1994,Dakar,28,1.86,Senegal,right
+847,Óscar Valentín,8/20/1994,Ajofrín,28,1.77,Spain,right
+848,Santi Comesaña,10/5/1996,Vigo,26,1.88,Spain,both
+849,Unai López,10/30/1995,Donostia-San Sebastián,27,1.7,Spain,right
+850,Óscar Trejo,4/26/1988,Santiago del Estero,34,1.8,Argentina Italy,right
+851,Randy Nteka,12/6/1997,Paris,24,1.89,France Angola,left
+852,José Pozo,3/15/1996,Málaga,26,1.71,Spain,left
+853,Álvaro García,10/27/1992,Utrera,30,1.67,Spain,both
+854,Bebé,7/12/1990,Lisboa,32,1.9,Cape Verde Portugal,right
+855,Isi Palazón,12/27/1994,Cieza,27,1.69,Spain,left
+856,Salvi Sánchez,3/30/1991,Sanlúcar de Barrameda,31,1.7,Spain,right
+857,Raúl de Tomás,10/17/1994,Madrid,28,1.8,Spain Dominican Republic,right
+858,Sergio Camello,2/10/2001,Madrid,21,1.77,Spain,right
+859,Radamel Falcao,2/10/1986,Santa Marta,36,1.77,Colombia,right
+860,Andrés Martín,7/11/1999,Aguadulce,23,1.78,Spain,left
+861,Benjamin Lecomte,4/26/1991,Paris,31,1.86,France,left
+862,Álvaro Fernández,4/13/1998,Arnedo,24,1.86,Spain,left
+863,Joan García,5/4/2001,Sallent de Llobregat,21,1.81,Spain,right
+864,Leandro Cabrera,6/17/1991,Montevideo,31,1.9,Uruguay Spain,left
+865,Fernando Calero,9/14/1995,Boecillo (Valladolid),27,1.84,Spain,right
+866,Sergi Gómez,3/28/1992,Arenys de Mar,30,1.85,Spain,right
+867,Simo Keddari,2/3/2005,Terrassa,17,NA,Spain Algeria,NA
+868,Adrià Pedrosa,5/13/1998,Barcelona,24,1.72,Spain,left
+869,Brian Oliván,4/1/1994,Barcelona,28,1.75,Spain,left
+870,Óscar Gil,4/26/1998,Elche,24,1.75,Spain,both
+871,Aleix Vidal,8/21/1989,Valls,33,1.77,Spain,right
+872,Omar El Hilali,9/12/2003,L'Hospitalet de Llobregat,19,1.83,Morocco Spain,right
+873,Vinicius Souza,6/17/1999,Rio de Janeiro,23,1.87,Brazil,right
+874,Sergi Darder,12/22/1993,Artà,28,1.8,Spain,right
+875,Edu Expósito,8/1/1996,Barcelona,26,1.78,Spain,right
+876,Keidi Bare,8/28/1997,Fier,25,1.74,Albania,right
+877,Pol Lozano,10/6/1999,Sant Quirze del Vallès,23,1.76,Spain,right
+878,Javi Puado,5/25/1998,Barcelona,24,1.77,Spain,right
+879,Nico Melamed,4/11/2001,Castelldefels,21,1.73,Spain Argentina,right
+880,José Carlos Lazo,2/16/1996,Sanlúcar de Barrameda,26,1.78,Spain,both
+881,Joselu,3/27/1990,Stuttgart,32,1.92,Spain,right
+882,Martin Braithwaite,6/5/1991,Esbjerg,31,1.77,Denmark,right
+883,Dani Gómez,7/30/1998,Alcorcón,24,1.78,Spain,right
+884,Fernando Pacheco,5/18/1992,Badajoz,30,1.87,Spain,left
+885,Fernando Martínez,6/10/1990,Murcia,32,1.83,Spain,right
+886,Diego Fuoli,10/20/1997,Zaragoza,25,1.88,Spain,right
+887,Kaiky,1/12/2004,Santos,18,1.86,Brazil,right
+888,Rodrigo Ely,11/3/1993,Lajeado,29,1.91,Brazil Italy,right
+889,Srdjan Babic,4/22/1996,Banja Luka,26,1.94,Serbia Bosnia-Herzegovina,left
+890,Chumi,3/2/1999,Laracha,23,1.85,Spain,right
+891,Iván Martos,5/15/1997,Manresa,25,1.83,Spain,left
+892,Sergio Akieme,12/16/1997,Madrid,24,1.75,Spain Equatorial Guinea,left
+893,Álex Centelles,8/30/1999,Valencia,23,1.85,Spain,left
+894,Alejandro Pozo,2/22/1999,Huévar del Aljarafe,23,1.73,Spain,right
+895,Houboulang Mendes,5/4/1998,Courcouronnes,24,1.84,Guinea-Bissau France,right
+896,Juanjo Nieto,10/3/1994,Castellón,28,1.74,Spain,right
+897,Samú Costa,11/27/2000,Aveiro,22,1.85,Portugal,left
+898,Iñigo Eguaras,3/7/1992,Antsoain,30,1.81,Spain,right
+899,Lucas Robertone,3/18/1997,Concordia,25,1.69,Argentina Italy,right
+900,Gonzalo Melero,1/2/1994,Madrid,28,1.83,Spain,right
+901,Arnau Puigmal,1/10/2001,NA,21,1.74,Spain,right
+902,Gui Guedes,4/17/2002,Santa Marta de Penaguião,20,1.84,Portugal,right
+903,César de la Hoz,3/30/1992,Orejo,30,1.79,Spain,right
+904,Largie Ramazani,2/27/2001,Berchem-Sainte-Agathe,21,1.67,Belgium Burundi,right
+905,Lázaro,3/12/2002,Belo Horizonte,20,1.81,Brazil,right
+906,Adrián Embarba,5/7/1992,Madrid,30,1.73,Spain,right
+907,Francisco Portillo,6/13/1990,Málaga,32,1.69,Spain,right
+908,Léo Baptistão,8/26/1992,Santos,30,1.85,Brazil Spain,right
+909,El Bilal Touré,10/3/2001,Adjamé,21,1.85,Mali Cote d'Ivoire,both
+910,Marko Milovanovic,8/4/2003,Smederevo,19,1.94,Serbia,right
+911,Dyego Sousa,9/14/1989,São José de Ribamar,33,1.89,Portugal Brazil,right
+912,Predrag Rajković,10/31/1995,Negotin,27,1.92,Serbia,right
+913,Dominik Greif,4/6/1997,Bratislava,25,1.97,Slovakia,right
+914,Leo Román,7/6/2000,Ibiza,22,1.89,Spain,right
+915,Martin Valjent,12/11/1995,Dubnica nad Váhom,26,1.87,Slovakia,right
+916,Antonio Raíllo,10/8/1991,Córdoba,31,1.87,Spain,NA
+917,José Copete,10/10/1999,Écija,23,1.9,Spain,left
+918,Matija Nastasić,3/28/1993,Valjevo,29,1.88,Serbia,left
+919,Franco Russo,10/25/1994,Buenos Aires,28,1.86,Argentina Italy,right
+920,Braian Cufré,12/15/1996,Mar de Plata,25,1.78,Argentina,left
+921,Jaume Costa,3/18/1988,Valencia,34,1.71,Spain,left
+922,Pablo Maffeo,7/12/1997,Sant Joan Despí,25,1.72,Spain,right
+923,Giovanni González,9/20/1994,Montevideo,28,1.78,Uruguay Italy,right
+924,Rodrigo Battaglia,7/12/1991,Morón,31,1.87,Argentina Italy,right
+925,Iddrisu Baba,1/22/1996,Accra,26,1.82,Ghana Spain,right
+926,Iñigo Ruiz de Galarreta,8/6/1993,Donostia-San Sebastián,29,1.75,Spain,right
+927,Antonio Sánchez,4/22/1997,Palma de Mallorca,25,1.79,Spain,right
+928,Clément Grenier,1/7/1991,Annonay,31,1.86,France,right
+929,Kang-in Lee,2/19/2001,Incheon,21,1.73,"Korea, South",left
+930,Dani Rodríguez,6/6/1988,Betanzos,34,1.78,Spain,right
+931,Amath Ndiaye,7/16/1996,Dakar,26,1.73,Senegal Spain,right
+932,Lago Júnior,12/31/1990,Yamoussoukro,31,1.8,Cote d'Ivoire,right
+933,Vedat Muriqi,4/24/1994,Prizren,28,1.94,Kosovo Albania,left
+934,Tino Kadewere,1/5/1996,Harare,26,1.83,Zimbabwe,right
+935,Abdón Prats,12/7/1992,Artà,29,1.81,Spain,left
+936,Ángel Rodríguez,4/26/1987,Santa Cruz de Tenerife,35,1.71,Spain,right
+937,Jeremías Ledesma,2/13/1993,Pergamino,29,1.86,Argentina Italy,right
+938,David Gil,1/11/1994,Getafe,28,1.86,Spain,right
+939,Víctor Chust,3/5/2000,Valencia,22,1.82,Spain,both
+940,Fali,8/12/1993,Valencia,29,1.86,Spain,right
+941,Luis Hernández,4/14/1989,Madrid,33,1.82,Spain,right
+942,Juan Cala,11/26/1989,Lebrija,33,1.86,Spain,right
+943,Momo Mbaye,6/28/1998,Saint-Louis,24,1.92,Senegal,left
+944,Alfonso Espino,1/5/1992,San Jacinto,30,1.72,Uruguay Spain,left
+945,Santiago Arzamendia,5/5/1998,"Wanda, Misiones",24,1.72,Paraguay Argentina,left
+946,Joseba Zaldua,6/24/1992,Donostia-San Sebastián,30,1.74,Spain,right
+947,Iza Carcelén,4/23/1993,El Puerto de Santa María,29,1.7,Spain,right
+948,Antonio Blanco,7/23/2000,Montalbán,22,1.76,Spain,right
+949,Tomás Alarcón,1/19/1999,Rancagua,23,1.76,Chile,right
+950,José Mari,12/6/1987,Rota (Cádiz),34,1.82,Spain,right
+951,Jon Ander Garrido,10/9/1989,Bilbao,33,1.85,Spain,right
+952,Rubén Alcaraz,5/1/1991,Barcelona,31,1.8,Spain,right
+953,Fede San Emeterio,3/16/1997,Sierra de Ibio,25,1.76,Spain,right
+954,Álex Fernández,10/15/1992,Alcalá de Henares,30,1.83,Spain,right
+955,Théo Bongonda,11/20/1995,Charleroi,27,1.77,DR Congo Belgium,left
+956,Awer Mabil,9/15/1995,Kakuma,27,1.79,Australia Southern Sudan,right
+957,Brian Ocampo,6/25/1999,Florida,23,1.72,Uruguay,right
+958,Iván Alejo,2/10/1995,Valladolid,27,1.86,Spain,right
+959,Choco Lozano,4/25/1993,Yoro,29,1.83,Honduras Spain,right
+960,Rubén Sobrino,6/1/1992,Daimiel,30,1.85,Spain,right
+961,Lucas Pérez,9/10/1988,A Coruña,34,1.8,Spain,left
+962,Álvaro Negredo,8/20/1985,Madrid,37,1.86,Spain,left
+963,Álvaro Giménez,5/19/1991,Elche,31,1.83,Spain,left
+964,Sergio Asenjo,6/28/1989,Palencia,33,1.89,Spain,right
+965,Jordi Masip,1/3/1989,Sabadell,33,1.8,Spain,right
+966,Javi Sánchez,3/14/1997,Getafe,25,1.89,Spain,right
+967,Joaquín Fernández,5/31/1996,Huercal de Almería,26,1.9,Spain,right
+968,Zouhair Feddal,12/23/1989,Tétouan,32,1.91,Morocco Spain,left
+969,Jawad El Yamiq,2/29/1992,Khouribga,30,1.93,Morocco,right
+970,Lucas Olaza,7/21/1994,Montevideo,28,1.76,Uruguay Spain,left
+971,Sergio Escudero,9/2/1989,Valladolid,33,1.76,Spain,left
+972,Luis Pérez,2/4/1995,Utrera,27,1.73,Spain,right
+973,Iván Fresneda,9/28/2004,Madrid,18,1.82,Spain,right
+974,Lucas Rosa,4/3/2000,Ribeirão Preto,22,1.77,Brazil Italy,right
+975,Mickaël Malsa,10/12/1996,Paris,26,1.79,Martinique France,right
+976,Monchu,9/13/1999,Palma de Mallorca,23,1.73,Spain,right
+977,Kike Pérez,2/14/1997,Toledo,25,1.84,Spain,left
+978,Álvaro Aguado,5/1/1996,Jaén,26,1.75,Spain,right
+979,Roque Mesa,6/7/1989,Telde,33,1.72,Spain,right
+980,Anuar,1/15/1995,Ceuta,27,1.73,Morocco Spain,right
+981,Kenedy,2/8/1996,Santa Rita do Sapucaí,26,1.82,Brazil,left
+982,Gonzalo Plata,11/1/2000,Guayaquil,22,1.78,Ecuador,left
+983,Óscar Plano,2/11/1991,Móstoles,31,1.79,Spain,both
+984,Iván Sánchez,9/23/1992,Jaén,30,1.69,Spain,left
+985,Shon Weissman,2/14/1996,Haifa,26,1.74,Israel Portugal,right
+986,Sergi Guardiola,5/29/1991,Manacor,31,1.85,Spain,left
+987,Sergio León,1/6/1989,La Palma del Río,33,1.76,Spain,right
+988,Juanjo Narváez,2/12/1995,San Juan de Pasto,27,1.81,Colombia Spain,right
+989,Édgar Badía,2/12/1992,Barcelona,30,1.8,Spain,right
+990,Axel Werner,2/28/1996,Rafaela,26,1.91,Argentina Italy,right
+991,Enzo Roco,8/16/1992,Ovalle,30,1.92,Chile,right
+992,Diego González,1/28/1995,Chiclana de la Frontera (Cádiz),27,1.85,Spain,right
+993,Federico Fernández,2/21/1989,Tres Algarrobos,33,1.9,Argentina Italy,right
+994,Pedro Bigas,5/15/1990,Palma de Mallorca,32,1.81,Spain,left
+995,Gonzalo Verdú,10/21/1988,Cartagena,34,1.88,Spain,right
+996,John Nwankwo,9/25/2000,Murcia,22,1.82,Spain Nigeria,right
+997,Nicolás Fernández Mercau,1/11/2000,Buenos Aires,22,1.72,Argentina,left
+998,Carlos Clerc,2/21/1992,Badalona,30,1.81,Spain,left
+999,Pol Lirola,8/13/1997,Mollet del Vallès,25,1.83,Spain,right
+1000,Helibelton Palacios,6/11/1993,Santander de Quilichao,29,1.81,Colombia,right
+1001,Omar Mascarell,2/2/1993,Santa Cruz de Tenerife,29,1.81,Spain Equatorial Guinea,right
+1002,Gerard Gumbau,12/18/1994,Campllong,27,1.88,Spain,left
+1003,Raúl Guti,12/30/1996,Zaragoza,25,1.78,Spain,right
+1004,Domingos Quina,11/18/1999,Bissau,23,1.73,Portugal Guinea-Bissau,right
+1005,Javier Pastore,6/20/1989,Córdoba,33,1.87,Argentina Italy,right
+1006,Pere Milla,9/23/1992,Lleida,30,1.8,Spain,left
+1007,Tete Morente,12/4/1996,La Línea de la Concepción,25,1.84,Spain,right
+1008,Fidel,10/27/1989,Dehesa de Riotinto,33,1.8,Spain,left
+1009,Álex Collado,4/22/1999,Sabadell,23,1.77,Spain,left
+1010,Josan,12/3/1989,Crevillente,32,1.76,Spain,right
+1011,Lucas Boyé,2/28/1996,San Gregorio,26,1.83,Argentina Italy,right
+1012,Ezequiel Ponce,3/29/1997,Rosario,25,1.81,Argentina Spain,right
+1013,Roger Martí,1/3/1991,Torrent,31,1.79,Spain,right
+1014,Gianluigi Donnarumma,2/25/1999,Castellammare di Stabia,23,1.96,Italy,right
+1015,Keylor Navas,12/15/1986,San Isidro de El General,35,1.85,Costa Rica Spain,right
+1016,Sergio Rico,9/1/1993,Sevilla,29,1.95,Spain,right
+1017,Alexandre Letellier,12/11/1990,Paris,31,1.93,France,right
+1018,Lucas Lavallée,2/18/2003,Armentières,19,1.95,France,right
+1019,Marquinhos,5/14/1994,São Paulo,28,1.83,Brazil Portugal,right
+1020,Presnel Kimpembe,8/13/1995,Beaumont-sur-Oise,27,1.83,France DR Congo,left
+1021,Sergio Ramos,3/30/1986,Camas,36,1.84,Spain,right
+1022,El Chadaille Bitshiabu,5/16/2005,Villeneuve-Saint-Georges,17,1.98,France DR Congo,left
+1023,Nuno Mendes,6/19/2002,Lisboa,20,1.83,Portugal,left
+1024,Juan Bernat,3/1/1993,Cullera,29,1.77,Spain,left
+1025,Achraf Hakimi,11/4/1998,Madrid,24,1.81,Morocco Spain,right
+1026,Nordi Mukiele,11/1/1997,Montreuil,25,1.87,France DR Congo,right
+1027,Timothée Pembélé,9/9/2002,Beaumont-sur-Oise,20,1.82,France DR Congo,right
+1028,Danilo Pereira,9/9/1991,Bissau,31,1.88,Portugal Guinea-Bissau,right
+1029,Warren Zaïre-Emery,3/8/2006,Montreuil,16,1.78,France Martinique,right
+1030,Marco Verratti,11/5/1992,Pescara,30,1.65,Italy,right
+1031,Fabián Ruiz,4/3/1996,Los Palacios y Villafranca,26,1.89,Spain,left
+1032,Vitinha,2/13/2000,Santo Tirso,22,1.72,Portugal,right
+1033,Carlos Soler,1/2/1997,Valencia,25,1.8,Spain,right
+1034,Renato Sanches,8/18/1997,Lisboa,25,1.76,Portugal Sao Tome and Principe,right
+1035,Ayman Kari,11/19/2004,Ivry-sur-Seine,18,NA,France Comoros,right
+1036,Ismaël Gharbi,4/10/2004,Paris,18,1.73,Spain France,right
+1037,Neymar,2/5/1992,Mogi das Cruzes,30,1.75,Brazil,right
+1038,Lionel Messi,6/24/1987,Rosario,35,1.7,Argentina Spain,left
+1039,Pablo Sarabia,5/11/1992,Madrid,30,1.74,Spain,left
+1040,Kylian Mbappé,12/20/1998,Paris,23,1.78,France,right
+1041,Hugo Ekitiké,6/20/2002,Reims,20,1.89,France Cameroon,right
+1042,Alexander Nübel,9/30/1996,Paderborn,26,1.93,Germany,right
+1043,Thomas Didillon,11/28/1995,Séclin,27,1.91,France,left
+1044,Yann Lienard,3/16/2003,Aubagne,19,1.94,France,right
+1045,Benoît Badiashile,3/26/2001,Limoges,21,1.94,France DR Congo,left
+1046,Axel Disasi,3/11/1998,Gonesse,24,1.9,France DR Congo,right
+1047,Guillermo Maripán,5/6/1994,Vitacura,28,1.9,Chile,right
+1048,Malang Sarr,1/23/1999,Nice,23,1.83,France Senegal,left
+1049,Yllan Okou,12/23/2002,Poitiers,19,1.89,France Cote d'Ivoire,left
+1050,Caio Henrique,7/31/1997,Santos,25,1.78,Brazil Spain,left
+1051,Ismail Jakobs,8/17/1999,Köln,23,1.84,Senegal Germany,left
+1052,Vanderson,6/21/2001,Rondonópolis,21,1.73,Brazil,right
+1053,Ruben Aguilar,4/26/1993,Grenoble,29,1.7,France Spain,right
+1054,Mohamed Camara,1/6/2000,Bamako,22,1.73,Mali,right
+1055,Soungoutou Magassa,10/8/2003,Stains,19,1.88,France Mali,right
+1056,Youssouf Fofana,1/10/1999,Paris,23,1.85,France Mali,right
+1057,Jean Lucas,6/22/1998,Rio de Janeiro,24,1.79,Brazil,right
+1058,Eliot Matazo,2/15/2002,Woluwe-Saint-Lambert,20,1.7,Belgium DR Congo,right
+1059,Félix Lemaréchal,8/7/2003,Tours,19,1.8,France Cote d'Ivoire,right
+1060,Aleksandr Golovin,5/30/1996,"Kaltan, Kemerovo Oblast",26,1.78,Russia,right
+1061,Maghnes Akliouche,2/25/2002,Tremblay-en-France,20,1.83,France Algeria,left
+1062,Takumi Minamino,1/16/1995,"Izumisano, Osaka",27,1.72,Japan,right
+1063,Willem Geubbels,8/16/2001,Villeurbanne,21,1.85,France Netherlands,right
+1064,Krépin Diatta,2/25/1999,Dakar,23,1.75,Senegal,right
+1065,Gelson Martins,5/11/1995,Praia,27,1.7,Portugal Cape Verde,right
+1066,Wissam Ben Yedder,8/12/1990,Sarcelles,32,1.7,France Tunisia,both
+1067,Breel Embolo,2/14/1997,Yaoundé,25,1.87,Switzerland Cameroon,right
+1068,Kevin Volland,7/30/1992,Marktoberdorf,30,1.74,Germany,left
+1069,Myron Boadu,1/14/2001,Amsterdam,21,1.81,Netherlands Ghana,right
+1070,Dogan Alemdar,10/29/2002,Kayseri,20,1.92,Turkey,right
+1071,Alfred Gomis,9/5/1993,Ziguinchor,29,1.96,Senegal Italy,right
+1072,Steve Mandanda,3/28/1985,Kinshasa,37,1.87,France DR Congo,right
+1073,Romain Salin,7/29/1984,Mayenne,38,1.86,France,left
+1074,Elias Damergy,10/17/2002,Mantes-la-Jolie,20,1.86,Tunisia France,right
+1075,Arthur Theate,5/25/2000,Liège,22,1.85,Belgium,left
+1076,Joe Rodon,10/22/1997,Swansea,25,1.93,Wales,right
+1077,Warmed Omari,4/23/2000,Bandraboua,22,1.88,France Comoros,right
+1078,Christopher Wooh,9/18/2001,Louvres,21,1.91,Cameroon France,right
+1079,Jeanuël Belocian,2/17/2005,Les Abymes,17,1.82,France Guadeloupe,left
+1080,Adrien Truffert,11/20/2001,Liège,21,1.76,France,left
+1081,Birger Meling,12/17/1994,Stavanger,27,1.73,Norway,left
+1082,Hamari Traoré,1/27/1992,Bamako,30,1.75,Mali,right
+1083,Lorenz Assignon,6/22/2000,Grasse,22,1.81,France Togo,right
+1084,Guéla Doué,10/17/2002,Angers,20,1.86,France Cote d'Ivoire,both
+1085,Lesley Ugochukwu,3/26/2004,Rennes,18,1.91,France Nigeria,right
+1086,Noah Françoise,7/5/2003,Rennes,19,1.77,France Senegal,right
+1087,Baptiste Santamaria,3/9/1995,Saint-Doulchard,27,1.83,France,right
+1088,Flavien Tait,2/2/1993,Longjumeau,29,1.76,France,right
+1089,Xeka,11/10/1994,Paredes,28,1.85,Portugal,both
+1090,Benjamin Bourigeaud,1/14/1994,Calais,28,1.78,France,right
+1091,Lovro Majer,1/17/1998,Zagreb,24,1.78,Croatia,left
+1092,Désiré Doué,6/3/2005,Angers,17,1.81,France Cote d'Ivoire,right
+1093,Martin Terrier,3/4/1997,Armentières,25,1.84,France,right
+1094,Kamaldeen Sulemana,2/15/2002,Techiman,20,1.75,Ghana,right
+1095,Jérémy Doku,5/27/2002,Borgerhout,20,1.73,Belgium Ghana,right
+1096,Amine Gouiri,2/16/2000,Bourgoin-Jallieu,22,1.81,France Algeria,right
+1097,Arnaud Kalimuendo,1/20/2002,Suresnes,20,1.75,France DR Congo,right
+1098,Matthis Abline,3/28/2003,Angers,19,1.82,France,right
+1099,Anthony Lopes,10/1/1990,Givors,32,1.84,Portugal France,left
+1100,Julian Pollersbeck,8/16/1994,Altötting,28,1.95,Germany,right
+1101,Rémy Riou,8/6/1987,Lyon,35,1.91,France,right
+1102,Kayne Bonnevie,7/22/2001,Écully,21,1.91,France French Guiana,left
+1103,Castello Lukeba,12/17/2002,Lyon,19,1.84,France Angola,left
+1104,Sinaly Diomandé,4/9/2001,Yopougon,21,1.84,Cote d'Ivoire,right
+1105,Jérôme Boateng,9/3/1988,Berlin,34,1.92,Germany,right
+1106,Damien Da Silva,5/17/1988,Talence,34,1.84,France Portugal,right
+1107,Nicolás Tagliafico,8/31/1992,Rafael Calzada,30,1.72,Argentina Italy,left
+1108,Henrique Silva,4/25/1994,Rio de Janeiro,28,1.73,Brazil,left
+1109,Malo Gusto,5/19/2003,Décines-Charpieu,19,1.79,France Portugal,right
+1110,Saël Kumbedi,3/26/2005,Stains,17,1.75,France,right
+1111,Johann Lepenant,10/22/2002,Granville,20,1.76,France,right
+1112,Thiago Mendes,3/15/1992,São Luís,30,1.77,Brazil,right
+1113,Maxence Caqueret,2/15/2000,Vénissieux,22,1.74,France,right
+1114,Houssem Aouar,6/30/1998,Lyon,24,1.75,France Algeria,right
+1115,Corentin Tolisso,8/3/1994,Tarare,28,1.81,France Togo,right
+1116,Mohamed El Arouch,4/6/2004,Orange,18,1.66,France Morocco,right
+1117,Florent Sanchez,4/2/2003,Vaulx-en-Velin,19,1.78,France Spain,right
+1118,Romain Faivre,7/14/1998,Asnières-sur-Seine,24,1.8,France Algeria,left
+1119,Jeff Reine-Adélaïde,1/17/1998,Champigny-sur-Marne,24,1.84,France Martinique,right
+1120,Karl Toko Ekambi,9/14/1992,Paris,30,1.85,Cameroon France,right
+1121,Bradley Barcola,9/2/2002,Lyon,20,1.86,France Togo,right
+1122,Tetê,2/15/2000,Alvorada,22,1.75,Brazil,left
+1123,Rayan Cherki,8/17/2003,Lyon,19,1.76,France Algeria,both
+1124,Moussa Dembélé,7/12/1996,Pontoise,26,1.87,France Mali,right
+1125,Alexandre Lacazette,5/28/1991,Lyon,31,1.76,France Guadeloupe,right
+1126,Pau López,12/13/1994,Girona,27,1.89,Spain,left
+1127,Rubén Blanco,7/25/1995,Mos,27,1.88,Spain,right
+1128,Simon Ngapandouetnbu,4/12/2003,Foumban,19,1.86,Cameroon France,right
+1129,Jelle Van Neck,3/7/2004,Brugge,18,1.91,Belgium,right
+1130,Chancel Mbemba,8/8/1994,Kinshasa,28,1.82,DR Congo,right
+1131,Samuel Gigot,10/12/1993,Avignon,29,1.87,France,right
+1132,Leonardo Balerdi,1/26/1999,Villa Mercedes,23,1.87,Argentina Italy,right
+1133,Eric Bailly,4/12/1994,Bingerville,28,1.87,Cote d'Ivoire,right
+1134,Isaak Touré,3/28/2003,Gonesse,19,2.06,France Cote d'Ivoire,left
+1135,Sead Kolasinac,6/20/1993,Karlsruhe,29,1.83,Bosnia-Herzegovina Germany,left
+1136,Issa Kaboré,5/12/2001,Bobo-Dioulasso,21,1.8,Burkina Faso,right
+1137,Pape Gueye,1/24/1999,Montreuil,23,1.89,Senegal France,left
+1138,Bartug Elmaz,2/19/2003,Tekirdag,19,1.79,Turkey,right
+1139,Mattéo Guendouzi,4/14/1999,Poissy,23,1.85,France Morocco,right
+1140,Valentin Rongier,12/7/1994,Mâcon,27,1.72,France,right
+1141,Jordan Veretout,3/1/1993,Ancenis,29,1.77,France,right
+1142,Jonathan Clauss,9/25/1992,Strasbourg,30,1.78,France,right
+1143,Nuno Tavares,1/26/2000,Lisboa,22,1.83,Portugal Cape Verde,left
+1144,Gerson,5/20/1997,Belford Roxo,25,1.84,Brazil,left
+1145,Amine Harit,6/18/1997,Pontoise,25,1.8,Morocco France,right
+1146,Dimitri Payet,3/29/1987,Saint-Pierre,35,1.75,France Réunion,right
+1147,Salim Ben Seghir,2/24/2003,Saint-Tropez,19,1.74,France Morocco,right
+1148,Cengiz Ünder,7/14/1997,Balikesir,25,1.73,Turkey,left
+1149,Luis Suárez,12/2/1997,Santa Marta,24,1.85,Colombia Spain,right
+1150,Bamba Dieng,3/23/2000,Pikine,22,1.78,Senegal,right
+1151,Alexis Sánchez,12/19/1988,Tocopilla,33,1.69,Chile,right
+1152,Aylan Benyahia-Tani,7/19/2005,Marseille,17,NA,France Algeria,NA
+1153,Kasper Schmeichel,11/5/1986,Kopenhagen,36,1.89,Denmark,right
+1154,Marcin Bulka,10/4/1999,Płock,23,1.99,Poland,right
+1155,Teddy Boulhendi,4/9/2001,Martigues,21,1.85,Algeria France,NA
+1156,Jean-Clair Todibo,12/30/1999,Cayenne,22,1.9,France French Guiana,right
+1157,Mattia Viti,1/24/2002,Borgo San Lorenzo,20,1.9,Italy,left
+1158,Mads Bech Sörensen,1/7/1999,Horsens,23,1.93,Denmark,left
+1159,Dante,10/18/1983,Salvador da Bahia,39,1.88,Brazil,left
+1160,Melvin Bard,11/6/2000,Ecully,22,1.73,France,left
+1161,Joe Bryan,9/17/1993,Bristol,29,1.7,England,left
+1162,Youcef Atal,5/17/1996,Boghni,26,1.76,Algeria,both
+1163,Jordan Lotomba,9/29/1998,Yverdon-les-Bains,24,1.77,Switzerland DR Congo,right
+1164,Antoine Mendy,5/27/2004,Marseille,18,1.87,France Senegal,right
+1165,Khéphren Thuram,3/26/2001,Reggio Emilia,21,1.92,France Guadeloupe,right
+1166,Pablo Rosario,1/7/1997,Amsterdam,25,1.85,Netherlands Dominican Republic,right
+1167,Mario Lemina,9/1/1993,Libreville,29,1.84,Gabon France,right
+1168,Alexis Beka Beka,3/29/2001,Paris,21,1.78,France Congo,right
+1169,Morgan Schneiderlin,11/8/1989,Strasbourg,33,1.86,France,right
+1170,Ross Barkley,12/5/1993,Liverpool,28,1.89,England,right
+1171,Hicham Boudaoui,9/23/1999,Béchar,23,1.75,Algeria,right
+1172,Aaron Ramsey,12/26/1990,Caerphilly,31,1.78,Wales,right
+1173,Sofiane Diop,6/9/2000,Tours,22,1.75,France Senegal,right
+1174,Billal Brahimi,3/14/2000,Paris,22,1.83,Algeria France,left
+1175,Rares Ilie,4/19/2003,Bucharest,19,1.83,Romania,right
+1176,Nicolas Pépé,5/29/1995,Mantes-la-Jolie,27,1.83,Cote d'Ivoire France,left
+1177,Lucas Da Cunha,6/9/2001,Roanne,21,1.74,France Portugal,left
+1178,Badredine Bouanani,12/8/2004,Lille,17,1.72,France Algeria,left
+1179,Gaëtan Laborde,5/3/1994,Mont-de-Marsan,28,1.81,France,left
+1180,Andy Delort,10/9/1991,Sète,31,1.81,Algeria France,right
+1181,Lucas Chevalier,11/6/2001,Calais,21,1.89,France,right
+1182,Léo Jardim,3/20/1995,Ribeirão Preto,27,1.88,Brazil Italy,right
+1183,Adam Jakubech,1/2/1997,Prešov,25,1.88,Slovakia,right
+1184,Tiago Djaló,4/9/2000,Amadora,22,1.9,Portugal Guinea-Bissau,right
+1185,Bafodé Diakité,1/6/2001,Toulouse,21,1.85,France Guinea,right
+1186,Alexsandro,8/9/1999,Rio de Janeiro,23,1.89,Brazil,right
+1187,Leny Yoro,11/13/2005,Saint-Maurice,17,1.9,France,right
+1188,José Fonte,12/22/1983,Penafiel,38,1.87,Portugal,right
+1189,Gabriel Gudmundsson,4/29/1999,Malmö,23,1.8,Sweden,left
+1190,Ismaily,1/11/1990,Ivinhema,32,1.77,Brazil,left
+1191,Akim Zedadka,5/30/1995,Pertuis,27,1.73,Algeria France,right
+1192,Benjamin André,8/3/1990,Nizza,32,1.8,France,right
+1193,Jonas Martin,4/9/1990,Besançon,32,1.84,France,right
+1194,André Gomes,7/30/1993,Vila Nova de Gaia,29,1.88,Portugal,right
+1195,Carlos Baleba,1/3/2004,Douala,18,1.79,Cameroon,left
+1196,Angel Gomes,8/31/2000,London,22,1.68,England Portugal,right
+1197,Rémy Cabella,3/8/1990,Ajaccio,32,1.72,France Italy,right
+1198,Jonathan Bamba,3/26/1996,Alfortville,26,1.75,France Cote d'Ivoire,right
+1199,Alan Virginius,1/3/2003,Soisy-sous-Montmorency,19,1.75,France,right
+1200,Adam Ounas,11/11/1996,Chambray-lès-Tours,26,1.72,Algeria France,left
+1201,Edon Zhegrova,3/31/1999,Herford,23,1.81,Kosovo,left
+1202,Isaac Lihadji,4/10/2002,Marseille,20,1.77,France Comoros,left
+1203,Jonathan David,1/14/2000,"Brooklyn, New York",22,1.77,Canada United States,both
+1204,Timothy Weah,2/22/2000,"New York City, New York",22,1.83,United States France,right
+1205,Mohamed Bayo,6/4/1998,Clermont-Ferrand,24,1.88,Guinea France,right
+1206,Brice Samba,4/25/1994,Linzolo,28,1.87,France Congo,right
+1207,Wuilker Fariñez,2/15/1998,"Caracas, Distrito Capital",24,1.8,Venezuela,right
+1208,Jean-Louis Leca,9/21/1985,Bastia,37,1.8,France,right
+1209,Yannick Pandor,5/1/2001,Marseille,21,1.92,Comoros France,left
+1210,Facundo Medina,5/28/1999,Buenos Aires,23,1.84,Argentina,left
+1211,Kevin Danso,9/19/1998,Voitsberg,24,1.9,Austria,right
+1212,Jonathan Gradit,11/24/1992,Talence,30,1.8,France,right
+1213,Steven Fortes,4/17/1992,Marseille,30,1.92,Cape Verde France,right
+1214,Adrien Louveau,2/1/2000,Lille,22,1.89,France,right
+1215,Deiver Machado,9/2/1993,Tadó,29,1.8,Colombia,left
+1216,Massadio Haidara,12/2/1992,Trappes,29,1.79,Mali France,left
+1217,Ismaël Boura,8/14/2000,Bandrele,22,1.73,France Comoros,left
+1218,Julien Le Cardinal,8/3/1997,Saint-Brieuc,25,1.84,France,right
+1219,Salis Abdul Samed,3/26/2000,Accra,22,1.79,Ghana,right
+1220,Jean Onana,1/8/2000,Yaoundé,22,1.89,Cameroon,right
+1221,Lukasz Poreba,3/13/2000,Legnica,22,1.79,Poland,right
+1222,Seko Fofana,5/7/1995,Paris,27,1.85,Cote d'Ivoire France,right
+1223,Yaya Fofana,6/12/2004,Abidjan,18,1.8,Mali,right
+1224,Przemyslaw Frankowski,4/12/1995,Gdańsk,27,1.75,Poland,right
+1225,Jimmy Cabot,4/18/1994,Chambéry,28,1.64,France,right
+1226,David Costa,1/5/2001,Almada,21,1.68,Portugal France,left
+1227,Alexis Claude-Maurice,6/6/1998,Noisy-le-Grand,24,1.75,France Guadeloupe,right
+1228,Wesley Saïd,4/19/1995,Noisy-le-Grand,27,1.71,France Comoros,right
+1229,Loïs Openda,2/16/2000,Luik,22,1.77,Belgium Morocco,right
+1230,Adam Buksa,7/12/1996,Kraków,26,1.93,Poland,left
+1231,Florian Sotoca,10/25/1990,Narbonne,32,1.87,France,right
+1232,Jonas Omlin,1/10/1994,Sarnen,28,1.9,Switzerland,right
+1233,Dimitry Bertaud,6/6/1998,Montpellier,24,1.8,France DR Congo,right
+1234,Bingourou Kamara,10/21/1996,Longjumeau,26,1.95,Senegal France,right
+1235,Matis Carvalho,4/28/1999,Nantes,23,1.86,Portugal France,right
+1236,Maxime Estève,5/26/2002,Montpellier,20,1.93,France,left
+1237,Christopher Jullien,3/22/1993,Lagny-sur-Marne,29,1.96,France,right
+1238,Mamadou Sakho,2/13/1990,Paris,32,1.87,France Senegal,left
+1239,Pedro Mendes,10/1/1990,Neuchâtel,32,1.86,Portugal,right
+1240,Enzo Tchato,11/23/2002,Montpellier,20,1.82,Cameroon France,right
+1241,Faitout Maouassa,7/6/1998,Villepinte,24,1.7,France Congo,left
+1242,Nicolas Cozza,1/8/1999,Ganges,23,1.78,France Italy,left
+1243,Théo Sainte-Luce,10/20/1998,Chauny,24,1.76,France Guadeloupe,left
+1244,Thibault Tamas,2/20/2001,Colombes,21,1.78,France Guadeloupe,left
+1245,Falaye Sacko,5/1/1995,Bamako,27,1.79,Mali,right
+1246,Arnaud Souquet,2/12/1992,Paris,30,1.79,France,right
+1247,Mathías Suárez,6/24/1996,Montevideo,26,1.82,Uruguay,right
+1248,Joris Chotard,9/24/2001,Orange,21,1.79,France,right
+1249,Jordan Ferri,3/12/1992,Cavaillon,30,1.73,France,right
+1250,Léo Leroy,2/14/2000,Marseille,22,1.87,France,NA
+1251,Sacha Delaye,4/23/2002,Rennes,20,1.71,France,right
+1252,Khalil Fayad,6/9/2004,Montpellier,18,1.76,France Morocco,right
+1253,Téji Savanier,12/22/1991,Montpellier,30,1.72,France Algeria,right
+1254,Stephy Mavididi,5/31/1998,Derby,24,1.82,England DR Congo,right
+1255,Béni Makouana,9/28/2002,Brazzaville,20,1.81,Congo,NA
+1256,Arnaud Nordin,6/17/1998,Paris,24,1.7,France Martinique,left
+1257,Elye Wahi,1/2/2003,Courcouronnes,19,1.84,France Cote d'Ivoire,right
+1258,Wahbi Khazri,2/8/1991,Ajaccio,31,1.76,Tunisia France,right
+1259,Valère Germain,4/17/1990,Marseille,32,1.81,France,right
+1260,Alban Lafont,1/23/1999,Ouagadougou,23,1.96,France Burkina Faso,right
+1261,Rémy Descamps,6/25/1996,Marcq-en-Barœul,26,1.96,France,left
+1262,Denis Petric,5/24/1988,Ljubljana,34,1.87,Slovenia Serbia,right
+1263,Andrei Girotto,2/17/1992,Bento Gonçalves,30,1.86,Brazil Italy,right
+1264,Jean-Charles Castelletto,1/26/1995,Clamart,27,1.86,Cameroon France,both
+1265,Nicolas Pallois,9/19/1987,Elbeuf,35,1.89,France,left
+1266,Robin Voisine,4/7/2002,Nantes,20,NA,France,left
+1267,Quentin Merlin,5/16/2002,Nantes,20,1.73,France,left
+1268,Charles Traoré,1/1/1992,Aulnay-sous-Bois,30,1.8,Mali France,left
+1269,Fabien Centonze,1/16/1996,Voiron,26,1.82,France,right
+1270,Dennis Appiah,6/9/1992,Toulouse,30,1.79,France Ghana,right
+1271,Fábio,7/9/1990,Petrópolis,32,1.72,Brazil Portugal,right
+1272,Sébastien Corchia,11/1/1990,Noisy-le-Sec,32,1.76,France Italy,right
+1273,Pedro Chirivella,5/23/1997,Valencia,25,1.78,Spain,right
+1274,Lohann Doucet,9/14/2002,Nantes,20,1.8,France Burkina Faso,right
+1275,Samuel Moutoussamy,8/12/1996,Paris,26,1.76,DR Congo France,left
+1276,Moussa Sissoko,8/16/1989,Le Blanc-Mesnil,33,1.87,France Mali,right
+1277,Mohamed Achi,1/16/2002,Bondy,20,1.81,France Morocco,left
+1278,Ludovic Blas,12/31/1997,Colombes,24,1.8,France Martinique,left
+1279,Gor Manvelyan,4/9/2002,NA,20,1.8,France Armenia,both
+1280,Samuel Yépié Yépié,10/2/2002,Gonesse,20,1.71,France Cote d'Ivoire,left
+1281,Moses Simon,7/12/1995,Jos,27,1.68,Nigeria,right
+1282,Marcus Coco,6/24/1996,Les Abymes,26,1.84,France Guadeloupe,right
+1283,Abdoul Kader Bamba,5/25/1994,Sarcelles,28,1.77,France Senegal,right
+1284,Mostafa Mohamed,11/28/1997,Giza,25,1.85,Egypt,right
+1285,Evann Guessand,7/1/2001,Ajaccio,21,1.87,France Cote d'Ivoire,right
+1286,Ignatius Ganago,2/16/1999,Douala,23,1.76,Cameroon Nigeria,right
+1287,Joe-Loic Affamah,6/29/2002,Lomé,20,1.75,France Togo,right
+1288,Matz Sels,2/26/1992,Lint,30,1.88,Belgium,right
+1289,Eiji Kawashima,3/20/1983,"Yono, Saitama",39,1.85,Japan,right
+1290,Robin Risser,12/2/2004,Colmar,17,1.93,France,right
+1291,Alexandre Pierre,2/25/2001,Aubervilliers,21,1.9,Haiti France,right
+1292,Alexander Djiku,8/9/1994,Montpellier,28,1.82,Ghana France,right
+1293,Gerzino Nyamsi,1/22/1997,Saint-Brieuc,25,1.95,France Cameroon,right
+1294,Lucas Perrin,11/19/1998,Marseille,24,1.88,France,right
+1295,Ismaël Doukouré,7/24/2003,Lille,19,1.83,France Cote d'Ivoire,right
+1296,Maxime Le Marchand,10/11/1989,Saint-Malo,33,1.85,France,left
+1297,Thomas Delaine,3/24/1992,Lens,30,1.8,France,left
+1298,Colin Dagba,9/9/1998,Béthune,24,1.7,France Benin,right
+1299,Ronaël Pierre-Gabriel,6/13/1998,Paris,24,1.77,France Martinique,right
+1300,Karol Fila,6/13/1998,Gdańsk,24,1.83,Poland,right
+1301,Ibrahima Sissoko,10/27/1997,Meaux,25,1.93,France Mali,right
+1302,Jean-Eudes Aholou,3/20/1994,Yopougon,28,1.86,Cote d'Ivoire France,left
+1303,Habib Diarra,1/3/2004,Guédiawaye,18,1.79,France Senegal,right
+1304,Jean-Ricner Bellegarde,6/27/1998,Colombes,24,1.72,France Haiti,right
+1305,Sanjin Prcic,11/20/1993,Belfort,29,1.81,Bosnia-Herzegovina France,right
+1306,Dimitri Liénard,2/13/1988,Belfort,34,1.81,France,left
+1307,Adrien Thomasson,12/10/1993,Bourg-Saint-Maurice,28,1.77,France Croatia,right
+1308,Nordine Kandil,10/31/2001,Strasbourg,21,1.65,France Morocco,left
+1309,Habib Diallo,6/18/1995,Thies,27,1.86,Senegal France,right
+1310,Ludovic Ajorque,2/25/1994,Saint-Denis,28,1.97,France Réunion,left
+1311,Kévin Gameiro,5/9/1987,Senlis,35,1.72,France,right
+1312,Lebo Mothiba,1/28/1996,"Johannesburg, Gauteng",26,1.82,South Africa,right
+1313,Patrick Pentz,1/2/1997,Salzburg,25,1.84,Austria,left
+1314,Yehvann Diouf,11/16/1999,Montreuil-sous-Bois,23,1.84,France Senegal,right
+1315,Nicolas Penneteau,2/28/1981,Marseille,41,1.85,France,left
+1316,Florent Duparchy,6/20/2000,Lyon,22,1.87,France,right
+1317,Andreaw Gravillon,2/8/1998,Pointe-à-Pitre,24,1.88,Guadeloupe France,right
+1318,Emmanuel Agbadou,6/17/1997,Abidjan,25,1.92,Cote d'Ivoire,right
+1319,Yunis Abdelhamid,9/28/1987,Montpellier,35,1.9,Morocco France,left
+1320,Bradley Locko,5/6/2002,Ivry-sur-Seine,20,1.8,France Congo,left
+1321,Thibault De Smet,6/5/1998,Brugge,24,1.83,Belgium,left
+1322,Thomas Foket,9/25/1994,Brüssel,28,1.77,Belgium,right
+1323,Maxime Busi,10/14/1999,Liège,23,1.82,Belgium,right
+1324,Azor Matusiwa,4/28/1998,Hilversum,24,1.73,Netherlands Angola,right
+1325,Marshall Munetsi,6/22/1996,Harare,26,1.88,Zimbabwe,right
+1326,Jens Cajuste,8/10/1999,Göteborg,23,1.88,Sweden United States,right
+1327,Dion Lopy,2/2/2002,Dakar,20,1.86,Senegal,right
+1328,Martin Adeline,12/2/2003,Épernay,18,1.8,France,right
+1329,Kamory Doumbia,2/18/2003,Bamako,19,1.7,Mali,right
+1330,Rafik Guitane,5/26/1999,Évreux,23,1.7,France Algeria,right
+1331,Nathanaël Mbuku,3/16/2002,Villeneuve-Saint-Georges,20,1.7,France DR Congo,left
+1332,Arbër Zeneli,2/25/1995,Falun,27,1.76,Kosovo Sweden,right
+1333,Mitchell van Bergen,8/27/1999,Oss,23,1.7,Netherlands,right
+1334,Junya Ito,3/9/1993,"Yokosuka, Kanagawa",29,1.76,Japan,right
+1335,Alexis Flips,1/18/2000,Villeneuve-d'Ascq,22,1.73,France,right
+1336,Folarin Balogun,7/3/2001,"New York City, New York",21,1.78,England United States,right
+1337,Kaj Sierhuis,4/27/1998,Athen,24,1.8,Netherlands,right
+1338,Noah Jean Holm,5/23/2001,Drammen,21,NA,Norway,NA
+1339,Timothé Nkada,7/20/1999,Lille,23,1.77,France Cameroon,right
+1340,Yvon Mvogo,6/6/1994,Yaounde,28,1.89,Switzerland Cameroon,right
+1341,Vito Mannone,3/2/1988,Desio,34,1.89,Italy,right
+1342,Teddy Bartouche,6/5/1997,Lagny-sur-Marne,25,1.78,France Guadeloupe,right
+1343,Montassar Talbi,5/26/1998,Paris,24,1.9,Tunisia France,right
+1344,Chrislain Matsima,5/15/2002,Colombes,20,1.93,France Congo,right
+1345,Julien Laporte,11/4/1993,Aurillac,29,1.85,France,right
+1346,Maxime Wackers,1/1/1998,Villeneuve-d'Ascq,24,1.84,France,right
+1347,Vincent Le Goff,10/15/1989,Quimper,33,1.77,France,left
+1348,Darlin Yongwa,9/22/2000,Douala,22,1.77,Cameroon,left
+1349,Samuel Loric,7/5/2000,Vannes,22,1.83,France,left
+1350,Gédéon Kalulu,8/29/1997,Lyon,25,1.79,DR Congo France,right
+1351,Igor Silva,8/21/1996,Niterói,26,1.73,Brazil,right
+1352,Théo Le Bris,10/1/2002,Rennes,20,1.7,France,right
+1353,Laurent Abergel,2/1/1993,Marseille,29,1.7,France,right
+1354,Bonke Innocent,1/20/1996,Kaduna,26,1.78,Nigeria,right
+1355,Bamo Meïté,6/20/2001,Kani,21,1.83,Cote d'Ivoire France,NA
+1356,Enzo Le Fée,2/3/2000,Lorient,22,1.7,France,right
+1357,Adil Aouchiche,7/15/2002,Le Blanc-Mesnil,20,1.81,France Algeria,right
+1358,Julien Ponceau,11/28/2000,Catumbela,22,1.7,France Angola,right
+1359,Quentin Boisgard,3/17/1997,Toulouse,25,1.74,France,right
+1360,Yoann Cathline,7/22/2002,Champigny-sur-Marne,20,1.76,France,right
+1361,Dango Ouattara,2/11/2002,Ouagadougou,20,1.77,Burkina Faso,both
+1362,Stéphane Diarra,12/9/1998,Abidjan,23,1.73,Cote d'Ivoire France,left
+1363,Terem Moffi,5/25/1999,Calabar,23,1.88,Nigeria,left
+1364,Ibrahima Koné,6/16/1999,Bamako,23,1.9,Mali,left
+1365,Adrian Grbic,8/4/1996,Wien,26,1.88,Austria Croatia,both
+1366,Siriné Doucouré,4/8/2002,Nogent-sur-Marne,20,1.93,France Mali,right
+1367,Gauthier Gallon,4/23/1993,Nice,29,1.86,France,right
+1368,Mateusz Lis,2/27/1997,Żary,25,1.92,Poland,right
+1369,Jessy Moulin,1/13/1986,Valence,36,1.84,France,right
+1370,Jackson Porozo,8/4/2000,San Lorenzo,22,1.92,Ecuador,right
+1371,Erik Palmer-Brown,4/24/1997,"Napoleon, Ohio",25,1.86,United States,right
+1372,Yoann Salmier,11/21/1992,Villiers-le-Bel,30,1.88,French Guiana France,right
+1373,Tanguy Zoukrou,5/7/2003,Le Chesnay,19,1.89,France Cote d'Ivoire,right
+1374,Adil Rami,12/27/1985,Bastia,36,1.91,France Morocco,right
+1375,Eric N'Jo,6/1/2004,Sens,18,1.87,France Cameroon,NA
+1376,Gabriel Mutombo,1/19/1996,Villeurbanne,26,1.91,France DR Congo,right
+1377,Yasser Larouci,1/1/2001,El Oued,21,1.76,France Algeria,left
+1378,Abdu Conté,3/24/1998,Bissau,24,1.83,Portugal Guinea-Bissau,NA
+1379,Thierno Baldé,6/10/2002,Villeneuve-Saint-Georges,20,1.82,France Guinea,right
+1380,Andreas Bruus,1/16/1999,NA,23,1.83,Denmark,right
+1381,Lucien Agoumé,2/9/2002,Yaoundé,20,1.85,France Cameroon,right
+1382,Rominigue Kouamé,12/17/1996,Lopou,25,1.77,Mali Cote d'Ivoire,left
+1383,Florian Tardieu,4/22/1992,Istres,30,1.84,France,right
+1384,Ante Palaversa,4/6/2000,Split,22,1.87,Croatia,right
+1385,Tristan Dingomé,2/17/1991,Les Ulis,31,1.74,Cameroon France,left
+1386,Xavier Chavalerin,3/7/1991,Villeurbanne,31,1.79,France,left
+1387,Papa Ndiaga Yade,1/5/2000,Saint-Louis,22,1.85,Senegal,left
+1388,Amar Abdirahman Ahmed,2/19/2004,Solna,18,1.8,Sweden Somalia,right
+1389,Levi Lumeka,9/5/1998,Beckton,24,NA,England DR Congo,right
+1390,Wilson Odobert,11/28/2004,Meaux,18,NA,France,NA
+1391,Rony Lopes,12/28/1995,Belém,26,1.74,Portugal Brazil,left
+1392,Renaud Ripart,3/14/1993,Nîmes,29,1.81,France,right
+1393,Marlos Moreno,9/20/1996,Medellín,26,1.73,Colombia,right
+1394,Mama Baldé,11/6/1995,Bissau,27,1.76,Guinea-Bissau Portugal,right
+1395,Iké Ugbo,9/21/1998,London,24,1.84,Canada England,right
+1396,Marco Bizot,3/10/1991,Hoorn,31,1.93,Netherlands,right
+1397,Joaquín Blázquez,1/28/2001,Luque,21,1.93,Argentina Italy,right
+1398,Grégoire Coudert,4/3/1999,Rodez,23,1.88,France,left
+1399,Brendan Chardonnet,12/22/1994,Saint-Renan,27,1.84,France,right
+1400,Jean-Kévin Duverne,7/12/1997,Paris,25,1.84,France Haiti,right
+1401,Lilian Brassier,11/2/1999,Argenteuil,23,1.86,France Guadeloupe,left
+1402,Achraf Dari,5/6/1999,Casablanca,23,1.88,Morocco,right
+1403,Christophe Hérelle,8/22/1992,Nizza,30,1.88,Martinique France,right
+1404,Jere Uronen,7/13/1994,Turku,28,1.77,Finland,left
+1405,Noah Fadiga,12/3/1999,Brugge,22,1.87,Senegal Belgium,both
+1406,Pierre Lees-Melou,5/25/1993,Langon,29,1.85,France,right
+1407,Haris Belkebla,1/28/1994,Drancy,28,1.77,Algeria France,right
+1408,Mahdi Camara,6/30/1998,Martigues,24,1.78,France The Gambia,right
+1409,Hugo Magnetti,5/30/1998,Marseille,24,1.8,France,left
+1410,Mathias Pereira Lage,11/30/1996,Clermont-Ferrand,26,1.8,France Portugal,right
+1411,Axel Camblan,8/30/2003,Brest,19,NA,France,right
+1412,Franck Honorat,8/11/1996,Toulon,26,1.8,France,right
+1413,Romain Del Castillo,3/29/1996,Lyon,26,1.72,France Spain,left
+1414,Karamoko Dembélé,2/22/2003,London,19,1.67,England Scotland,left
+1415,Taïryk Arconte,11/12/2003,Les Abymes,19,1.81,France Guadeloupe,NA
+1416,Steve Mounié,9/29/1994,Parakou,28,1.9,Benin France,right
+1417,Jérémy Le Douaron,4/21/1998,Ploufragan,24,1.89,France,left
+1418,Irvin Cardona,8/8/1997,Nîmes,25,1.85,France Malta,right
+1419,Islam Slimani,6/18/1988,El Hammamet,34,1.88,Algeria,right
+1420,Paul Bernardoni,4/18/1997,Évry,25,1.9,France,left
+1421,Yahia Fofana,8/21/2000,Paris,22,1.94,France Cote d'Ivoire,right
+1422,Melvin Zinga,3/16/2002,Montivilliers,20,1.87,France Congo,left
+1423,Théo Borne,7/15/2002,Montbéliard,20,NA,France,right
+1424,Cédric Hountondji,1/19/1994,Toulouse,28,1.94,Benin France,right
+1425,Miha Blazic,5/8/1993,Koper,29,1.85,Slovenia,right
+1426,Ousmane Camara,3/6/2003,Paris,19,1.97,France Mali,right
+1427,Souleyman Doumbia,9/24/1996,Paris,26,1.83,Cote d'Ivoire France,left
+1428,Ilyes Chetti,1/22/1995,Annaba,27,1.76,Algeria,left
+1429,Yan Valery,2/22/1999,Champigny-sur-Marne,23,1.8,Tunisia France,right
+1430,Halid Sabanovic,8/22/1999,Sarajevo,23,1.82,Bosnia-Herzegovina,right
+1431,Abdoulaye Bamba,4/25/1990,Abidjan,32,1.82,Cote d'Ivoire Italy,right
+1432,Ali Kalla,4/23/1998,Paris,24,1.72,France Cameroon,left
+1433,Batista Mendy,1/12/2000,Saint-Nazaire,22,1.91,France Guinea-Bissau,right
+1434,Ibrahim Amadou,4/6/1993,Douala,29,1.83,France Cameroon,right
+1435,Zinédine Ould Khaled,1/14/2000,Alfortville,22,1.95,France Algeria,right
+1436,Nabil Bentaleb,11/24/1994,Lille,28,1.87,Algeria France,left
+1437,Azzedine Ounahi,4/19/2000,Casablanca,22,1.82,Morocco,right
+1438,Antonin Bobichon,9/14/1995,Bagnols-sur-Cèze,27,1.78,France,right
+1439,Yassin Belkhdim,2/14/2002,Meulan-en-Yvelines,20,1.75,Morocco France,right
+1440,Pierrick Capelle,4/15/1987,Lesquin,35,1.81,France,left
+1441,Himad Abdelli,11/17/1999,Montivilliers,23,1.85,France Algeria,left
+1442,Waniss Taïbi,3/7/2002,Limoges,20,1.84,France Algeria,both
+1443,Jean-Mattéo Bahoya,5/7/2005,NA,17,1.8,France Cameroon,NA
+1444,Sofiane Boufal,9/17/1993,Paris,29,1.75,Morocco France,right
+1445,Marin Jakolis,12/26/1996,Šibenik,25,1.82,Croatia,right
+1446,Farid El Melali,5/5/1997,Blida,25,1.68,Algeria France,both
+1447,Abdallah Sima,6/17/2001,Dakar,21,1.88,Senegal,right
+1448,Sada Thioub,6/1/1995,Nanterre,27,1.79,Senegal France,right
+1449,Adrien Hunou,1/19/1994,Évry,28,1.79,France Poland,right
+1450,Amine Salama,7/18/2000,Paris,22,1.92,France Morocco,right
+1451,Loïs Diony,12/20/1992,Mont-de-Marsan,29,1.83,France Martinique,right
+1452,Ulrick Eneme-Ella,5/22/2001,Sens,21,1.84,Gabon France,right
+1453,Maxime Dupé,3/4/1993,Malestroit,29,1.88,France,right
+1454,Isak Pettersson,6/6/1997,Laholm,25,1.81,Sweden,NA
+1455,Kjetil Haug,6/12/1998,Halden,24,1.91,Norway,right
+1456,Thomas Himeur,1/17/2001,Toulouse,21,1.87,France Algeria,NA
+1457,Anthony Rouault,5/29/2001,Villeneuve-sur-Lot,21,1.86,France,right
+1458,Rasmus Nicolaisen,3/16/1997,Aulum,25,1.91,Denmark,left
+1459,Logan Costa,4/1/2001,Saint-Denis,21,1.9,Cape Verde France,right
+1460,Kévin Keben,1/26/2004,NA,18,NA,Cameroon,NA
+1461,Issiaga Sylla,1/1/1994,Conakry,28,1.8,Guinea,left
+1462,Oliver Zandén,8/14/2001,NA,21,1.83,Sweden,NA
+1463,Moussa Diarra,11/10/2000,Stains,22,1.85,Mali France,left
+1464,Mikkel Desler,2/19/1995,Assens,27,1.84,Denmark,right
+1465,Stijn Spierings,3/12/1996,Alkmaar,26,1.88,Netherlands,right
+1466,Branco van den Boomen,7/21/1995,Eindhoven,27,1.88,Netherlands,right
+1467,Brecht Dejaegere,5/29/1991,Handzame,31,1.73,Belgium,right
+1468,Theocharis Tsingaras,8/20/2000,Chalkidiki,22,1.75,Greece,right
+1469,Farès Chaïbi,11/28/2002,Lyon,20,1.83,France Algeria,right
+1470,Denis Genreau,5/21/1999,Paris,23,1.75,Australia France,right
+1471,Veljko Birmancevic,3/5/1998,Šabac,24,1.79,Serbia,both
+1472,Rafael Ratão,11/30/1995,Cascavel,27,1.83,Brazil,right
+1473,Junior Flemmings,1/16/1996,Kingston,26,1.8,Jamaica,right
+1474,Zakaria Aboukhlal,2/18/2000,Rotterdam,22,1.79,Morocco Netherlands,both
+1475,Rhys Healey,12/6/1994,Manchester,27,1.8,England,right
+1476,Thijs Dallinga,8/3/2000,Groningen,22,1.8,Netherlands,right
+1477,Ado Onaiwu,11/8/1995,"Kamikawa, Saitama",27,1.8,Japan,right
+1478,Yanis Begraoui,7/4/2001,Étampes,21,1.79,France Morocco,both
+1479,Mory Diaw,6/22/1993,Poissy,29,1.95,Senegal France,right
+1480,Ouparine Djoco,4/22/1998,Juvisy-sur-Orge,24,1.88,France Senegal,left
+1481,Lucas Margueron,2/12/2001,Décines,21,1.94,France,right
+1482,Alidu Seidu,6/4/2000,Accra,22,1.73,Ghana,right
+1483,Mateusz Wieteska,2/11/1997,Warszawa,25,1.87,Poland,right
+1484,Maximiliano Caufriez,2/16/1997,Beveren,25,1.89,Belgium,right
+1485,Florent Ogier,3/21/1989,Lyon,33,1.83,France,right
+1486,Souleymane Cissé,8/8/2002,NA,20,1.9,France Senegal,NA
+1487,Neto Borges,9/13/1996,Saubara,26,1.85,Brazil,left
+1488,Arial Mendy,11/7/1994,Ziguinchor,28,1.8,Senegal,left
+1489,Baïla Diallo,6/24/2001,Toulouse,21,1.76,Senegal France,left
+1490,Mehdi Zeffane,5/19/1992,Sainte-Foy-lès-Lyon,30,1.76,Algeria France,right
+1491,Oliver Kamdem,10/15/2002,NA,20,NA,France Cameroon,right
+1492,Yohann Magnin,6/21/1997,Clermont-Ferrand,25,1.83,France,right
+1493,Maxime Gonalons,3/10/1989,Vénissieux,33,1.87,France,right
+1494,Johan Gastien,1/25/1988,Niort,34,1.79,France,right
+1495,Brandon Baiye,12/27/2000,Mamfe,21,1.77,Belgium,right
+1496,Yanis Massolin,9/20/2002,NA,20,NA,France Martinique,right
+1497,Muhammed Cham,9/26/2000,Linz,22,1.8,Austria,left
+1498,Saîf-Eddine Khaoui,4/27/1995,Paris,27,1.8,Tunisia France,left
+1499,Elbasan Rashani,5/9/1993,Hillerstorp,29,1.81,Kosovo Norway,left
+1500,Jim Allevinah,2/27/1995,Agen,27,1.72,Gabon France,right
+1501,Jérémie Bela,4/8/1993,Melun,29,1.73,Angola France,right
+1502,Jodel Dossou,3/17/1992,Dassa-Zoumé,30,1.8,Benin,NA
+1503,Komnen Andric,7/1/1995,Novi Pazar,27,1.89,Serbia,right
+1504,Grejohn Kyei,8/12/1995,Gonesse,27,1.87,France Ghana,right
+1505,Benoît Costil,7/3/1987,Caen,35,1.88,France,right
+1506,Donovan Léon,11/3/1992,Cayenne,30,1.87,French Guiana France,right
+1507,Théo De Percin,2/2/2001,Tarbes,21,1.85,France Martinique,right
+1508,Jubal,8/29/1993,Inhuma,29,1.9,Brazil,right
+1509,Théo Pellenard,3/4/1994,Lille,28,1.82,France,left
+1510,Julian Jeanvier,3/31/1992,Clichy,30,1.83,Guinea France,right
+1511,Denys Bain,7/2/1993,Dijon,29,1.81,France Benin,both
+1512,Alexandre Coeff,2/20/1992,Brest,30,1.85,France Algeria,right
+1513,Gideon Mensah,7/18/1998,Accra,24,1.78,Ghana,left
+1514,Kenji-Van Boto,3/7/1996,Saint-Denis,26,1.83,Madagascar France,left
+1515,Quentin Bernard,7/7/1989,Poitiers,33,1.84,France,left
+1516,Paul Joly,6/7/2000,Orléans,22,1.82,France,right
+1517,Brayann Pereira,5/21/2003,Saint-Quentin,19,1.72,France Congo,right
+1518,Birama Touré,6/6/1992,Kayes,30,1.83,Mali,right
+1519,Rayan Raveloson,1/16/1997,Anosibe Ifanja,25,1.83,Madagascar France,right
+1520,Ousoumane Camara,12/19/1998,Pontoise,23,1.84,France,right
+1521,Natanaël Bouekou,5/10/2002,Paris,20,NA,France Congo,NA
+1522,Kays Ruiz-Atil,8/26/2002,Lyon,20,1.77,Morocco France,right
+1523,Gaëtan Perrin,6/7/1996,Lyon,26,1.69,France,right
+1524,Hamza Sakhi,6/7/1996,Rabat,26,1.76,Morocco France,right
+1525,Youssouf M'Changama,8/29/1990,Marseille,32,1.75,Comoros France,right
+1526,Mathias Autret,3/1/1991,Saint-Thégonnec,31,1.79,France Portugal,right
+1527,Kévin Danois,6/28/2004,Basse-Terre,18,NA,France Guadeloupe,right
+1528,Ousmane Camara,11/3/2001,Conakry,21,NA,Guinea,NA
+1529,Rémy Dugimont,7/1/1986,Saint-Cloud,36,1.82,France,right
+1530,Gauthier Hein,8/7/1996,Thionville,26,1.7,France,left
+1531,Lassine Sinayoko,12/8/1999,Bamako,22,1.86,Mali France,right
+1532,M'Baye Niang,12/19/1994,Meulan,27,1.88,Senegal France,right
+1533,Nuno Da Costa,2/10/1991,Praïa,31,1.82,Cape Verde France,right
+1534,Gaëtan Charbonnier,12/27/1988,Saint-Mandé,33,1.88,France,right
+1535,Idjessi Metsoko,3/14/2002,Stains,20,NA,Togo France,NA
+1536,Benjamin Leroy,4/7/1989,Cucq,33,1.84,France,right
+1537,François-Joseph Sollacaro,3/21/1994,Ajaccio,28,1.82,France,right
+1538,Ghjuvanni Quilichini,9/1/2002,NA,20,NA,France,NA
+1539,Oumar Gonzalez,2/25/1998,Douala,24,1.86,Cameroon France,right
+1540,Clément Vidal,6/18/2000,Montpellier,22,1.81,France,right
+1541,Fernand Mayembo,1/9/1996,Brazzaville,26,1.84,Congo France,right
+1542,Cédric Avinel,9/11/1986,Paris,36,1.87,Guadeloupe France,right
+1543,Youssouf Koné,7/5/1995,Bamako,27,1.74,Mali,left
+1544,Ismaël Diallo,1/29/1997,Abidjan,25,1.78,Cote d'Ivoire,left
+1545,Chaker Alhadhur,12/4/1991,Nantes,30,1.72,Comoros France,right
+1546,Mickaël Alphonse,7/12/1989,Champigny-sur-Marne,33,1.82,Guadeloupe France,right
+1547,Mohamed Youssouf,3/26/1988,Paris,34,1.69,Comoros France,right
+1548,Vincent Marchetti,7/4/1997,Ajaccio,25,1.81,France,left
+1549,Qazim Laçi,1/19/1996,Peshkopi,26,1.75,Albania Greece,right
+1550,Thomas Mangani,4/29/1987,Carpentras,35,1.83,France Italy,left
+1551,Mathieu Coutadeur,3/20/1986,Le Mans,36,1.69,France,right
+1552,Alassane N'Diaye,6/14/1991,Limoges,31,1.8,France Senegal,right
+1553,Yanis Cimignani,1/22/2002,Lyon,20,1.76,France Burkina Faso,left
+1554,Mickaël Barreto,1/18/1991,Paris,31,1.75,France Portugal,right
+1555,Florian Chabrolle,4/7/1998,Montmorency,24,1.71,France Algeria,right
+1556,Youcef Belaïli,3/14/1992,Oran,30,1.82,Algeria,right
+1557,Kevin Spadanuda,1/16/1997,Bülach ZH,25,1.77,Switzerland Italy,right
+1558,Jean Botué,8/7/2002,Macory,20,1.84,Burkina Faso,left
+1559,Cyrille Bayala,5/24/1996,Ouagadougou,26,1.81,Burkina Faso,right
+1560,Riad Nouri,6/7/1985,Marseille,37,1.78,France Algeria,right
+1561,Mounaïm El Idrissy,2/10/1999,Martigues,23,1.81,France Morocco,right
+1562,Bevic Moussiti-Oko,1/28/1995,Brazzaville,27,1.84,Congo France,right
+1563,Romain Hamouma,3/29/1987,Lure,35,1.79,France Algeria,right
+1564,Yoann Touzghar,11/28/1986,Avignon,36,1.8,Tunisia France,right
+1565,Mike Maignan,7/3/1995,Cayenne,27,1.91,France French Guiana,right
+1566,Ciprian Tatarusanu,2/9/1986,Bukarest,36,1.98,Romania,right
+1567,Antonio Mirante,7/8/1983,Castellammare di Stabia,39,1.93,Italy,right
+1568,Andreas Jungdal,2/22/2002,Singapore,20,1.95,Denmark,right
+1569,Fikayo Tomori,12/19/1997,"Calgary, Alberta",24,1.85,England Canada,right
+1570,Pierre Kalulu,6/5/2000,Lyon,22,1.82,France DR Congo,right
+1571,Matteo Gabbia,10/21/1999,Busto Arsizio,23,1.85,Italy,right
+1572,Malick Thiaw,8/8/2001,Düsseldorf,21,1.94,Germany Finland,right
+1573,Simon Kjaer,3/26/1989,Horsens,33,1.91,Denmark,right
+1574,Theo Hernández,10/6/1997,Marseille,25,1.84,France Spain,left
+1575,Fodé Ballo-Touré,1/3/1997,Conflans-Sainte-Honorine,25,1.82,Senegal France,left
+1576,Davide Calabria,12/6/1996,Brescia,25,1.76,Italy,right
+1577,Sergiño Dest,11/3/2000,Almere,22,1.71,United States Netherlands,right
+1578,Alessandro Florenzi,3/11/1991,Roma,31,1.73,Italy,right
+1579,Sandro Tonali,5/8/2000,Lodi,22,1.81,Italy,right
+1580,Ismaël Bennacer,NA,Arles,25,1.75,Algeria France,left
+1581,Tiemoué Bakayoko,8/17/1994,Paris,28,1.89,France Cote d'Ivoire,right
+1582,Tommaso Pobega,7/15/1999,Trieste,23,1.88,Italy,both
+1583,Aster Vranckx,10/4/2002,Erps-Kwerps,20,1.83,Belgium DR Congo,right
+1584,Rade Krunic,10/7/1993,Foča,29,1.84,Bosnia-Herzegovina,right
+1585,Charles De Ketelaere,3/10/2001,Brugge,21,1.92,Belgium,left
+1586,Brahim Díaz,8/3/1999,Málaga,23,1.71,Spain Morocco,both
+1587,Yacine Adli,7/29/2000,Vitry-sur-Seine,22,1.86,France Algeria,right
+1588,Rafael Leão,6/10/1999,Almada,23,1.88,Portugal Angola,right
+1589,Ante Rebic,9/21/1993,Split,29,1.85,Croatia,right
+1590,Alexis Saelemaekers,6/27/1999,Berchem-Sainte-Agathe,23,1.8,Belgium,right
+1591,Junior Messias,5/13/1991,Belo Horizonte,31,1.74,Brazil,left
+1592,Divock Origi,4/18/1995,Oostende,27,1.89,Belgium Kenya,right
+1593,Olivier Giroud,9/30/1986,Chambéry,36,1.92,France,left
+1594,Marko Lazetić,1/22/2004,Belgrad,18,1.92,Serbia,right
+1595,Zlatan Ibrahimović,10/3/1981,Malmö,41,1.95,Sweden Bosnia-Herzegovina,both
+1596,André Onana,4/2/1996,Nkol Ngok,26,1.9,Cameroon,right
+1597,Samir Handanovic,7/14/1984,Ljubljana,38,1.93,Slovenia,right
+1598,Gabriel Brazão,10/5/2000,Uberlândia,22,1.92,Brazil,right
+1599,Alex Cordaz,1/1/1983,Vittorio Veneto,39,1.88,Italy,right
+1600,Milan Skriniar,2/11/1995,Žiar nad Hronom,27,1.88,Slovakia,right
+1601,Alessandro Bastoni,4/13/1999,Casalmaggiore,23,1.9,Italy,left
+1602,Stefan de Vrij,2/5/1992,Ouderkerk aan den IJssel,30,1.89,Netherlands,right
+1603,Francesco Acerbi,2/10/1988,Vizzolo Predabissi,34,1.92,Italy,left
+1604,Danilo D'Ambrosio,9/9/1988,Napoli,34,1.8,Italy,right
+1605,Alessandro Fontanarosa,2/7/2003,San Gennaro Vesuviano,19,NA,Italy,left
+1606,Federico Dimarco,11/10/1997,Milano,25,1.75,Italy,left
+1607,Dalbert,9/8/1993,Barra Mansa,29,1.81,Brazil,left
+1608,Raoul Bellanova,5/17/2000,Rho,22,1.88,Italy,right
+1609,Matteo Darmian,12/2/1989,Legnano,32,1.83,Italy,right
+1610,Mattia Zanotti,1/11/2003,Brescia,19,1.77,Italy,right
+1611,Marcelo Brozovic,11/16/1992,Zagreb,30,1.81,Croatia,both
+1612,Kristjan Asllani,3/9/2002,Elbasan,20,1.75,Albania Italy,right
+1613,Nicolò Barella,2/7/1997,Cagliari,25,1.72,Italy,right
+1614,Hakan Calhanoglu,2/8/1994,Mannheim,28,1.78,Turkey Germany,right
+1615,Roberto Gagliardini,4/7/1994,Bergamo,28,1.88,Italy,right
+1616,Denzel Dumfries,4/18/1996,Rotterdam,26,1.88,Netherlands Aruba,right
+1617,Robin Gosens,7/5/1994,Emmerich,28,1.83,Germany Netherlands,left
+1618,Henrikh Mkhitaryan,1/21/1989,Yerevan,33,1.77,Armenia,both
+1619,Valentín Carboni,3/5/2005,NA,17,NA,Argentina Italy,left
+1620,Joaquín Correa,8/13/1994,Juan Bautista Alberdi,28,1.88,Argentina Italy,right
+1621,Lautaro Martínez,8/22/1997,Bahía Blanca,25,1.74,Argentina,right
+1622,Romelu Lukaku,5/13/1993,Antwerpen,29,1.91,Belgium DR Congo,left
+1623,Edin Dzeko,3/17/1986,Sarajevo,36,1.93,Bosnia-Herzegovina,right
+1624,Alex Meret,3/22/1997,Udine,25,1.9,Italy,left
+1625,Salvatore Sirigu,1/12/1987,Nuoro,35,1.92,Italy,right
+1626,Hubert Idasiak,2/3/2002,Sławno,20,1.88,Poland,right
+1627,Davide Marfella,9/15/1999,Pozzuoli,23,1.82,Italy,right
+1628,Min-jae Kim,11/15/1996,"Tongyeong, Gyeongnam",26,1.9,"Korea, South",right
+1629,Amir Rrahmani,2/24/1994,Prishtinë,28,1.92,Kosovo Albania,both
+1630,Leo Östigard,11/28/1999,Åndalsnes,23,1.82,Norway,right
+1631,Juan Jesus,6/10/1991,Belo Horizonte,31,1.85,Brazil,left
+1632,Mathías Olivera,10/31/1997,Montevideo,25,1.85,Uruguay Spain,left
+1633,Mário Rui,5/27/1991,Sines,31,1.68,Portugal,left
+1634,Giovanni Di Lorenzo,8/4/1993,Castelnuovo di Garfagnana,29,1.83,Italy,right
+1635,Alessandro Zanoli,10/3/2000,Carpi,22,1.88,Italy,right
+1636,Frank Anguissa,11/16/1995,Yaoundé,27,1.84,Cameroon,right
+1637,Stanislav Lobotka,11/25/1994,Trenčín,28,1.7,Slovakia,both
+1638,Diego Demme,11/21/1991,Herford,31,1.7,Germany Italy,right
+1639,Tanguy Ndombélé,12/28/1996,Longjumeau,25,1.81,France DR Congo,right
+1640,Karim Zedadka,6/9/2000,Pertuis,22,1.84,Algeria France,right
+1641,Piotr Zielinski,5/20/1994,Ząbkowice Śląskie,28,1.8,Poland,both
+1642,Eljif Elmas,9/24/1999,Skopje,23,1.82,North Macedonia,right
+1643,Gianluca Gaetano,5/5/2000,Cimitile,22,1.83,Italy,right
+1644,Khvicha Kvaratskhelia,2/12/2001,Tiflis,21,1.83,Georgia,both
+1645,Alessio Zerbin,3/3/1999,Novara,23,1.82,Italy,right
+1646,Hirving Lozano,7/30/1995,Mexico City,27,1.75,Mexico,right
+1647,Matteo Politano,8/3/1993,Roma,29,1.71,Italy,left
+1648,Giacomo Raspadori,2/18/2000,Bentivoglio,22,1.72,Italy,both
+1649,Victor Osimhen,12/29/1998,Lagos,23,1.86,Nigeria,right
+1650,Giovanni Simeone,7/5/1995,Buenos Aires,27,1.8,Argentina Spain,right
+1651,Wojciech Szczesny,4/18/1990,Warszawa,32,1.96,Poland,right
+1652,Mattia Perin,11/10/1992,Latina,30,1.88,Italy,right
+1653,Carlo Pinsoglio,3/16/1990,Moncalieri,32,1.94,Italy,left
+1654,Bremer,3/18/1997,Itapitanga,25,1.88,Brazil,right
+1655,Federico Gatti,6/24/1998,Rivoli,24,1.9,Italy,right
+1656,Leonardo Bonucci,5/1/1987,Viterbo,35,1.9,Italy,right
+1657,Daniele Rugani,7/29/1994,Lucca,28,1.9,Italy,right
+1658,Mattia De Sciglio,10/20/1992,Milano,30,1.83,Italy,right
+1659,Alex Sandro,1/26/1991,Catanduva,31,1.81,Brazil,left
+1660,Danilo,7/15/1991,Bicas,31,1.84,Brazil,right
+1661,Manuel Locatelli,1/8/1998,Lecco,24,1.85,Italy,right
+1662,Leandro Paredes,6/29/1994,San Justo,28,1.8,Argentina,right
+1663,Paul Pogba,3/15/1993,Lagny-sur-Marne,29,1.91,France Guinea,both
+1664,Weston McKennie,8/28/1998,"Little Elm, Texas",24,1.85,United States,right
+1665,Adrien Rabiot,4/3/1995,Saint-Maurice,27,1.88,France,left
+1666,Fabio Miretti,8/3/2003,Pinerolo,19,1.79,Italy,right
+1667,Nicolò Fagioli,2/12/2001,Piacenza,21,1.78,Italy,right
+1668,Juan Cuadrado,5/26/1988,Necoclí,34,1.76,Colombia,right
+1669,Filip Kostić,11/1/1992,Kragujevac,30,1.84,Serbia,left
+1670,Marley Aké,1/5/2001,Béziers,21,1.77,France Cote d'Ivoire,right
+1671,Federico Chiesa,10/25/1997,Genova,25,1.75,Italy,right
+1672,Ángel Di María,2/14/1988,Rosario,34,1.8,Argentina Italy,left
+1673,Matías Soulé,4/15/2003,Mar del Plata,19,1.82,Argentina Italy,left
+1674,Dušan Vlahović,1/28/2000,Belgrad,22,1.9,Serbia,left
+1675,Moise Kean,2/28/2000,Vercelli,22,1.83,Italy Cote d'Ivoire,right
+1676,Arkadiusz Milik,2/28/1994,Tychy,28,1.86,Poland,left
+1677,Kaio Jorge,1/24/2002,Olinda,20,1.82,Brazil,right
+1678,Rui Patrício,2/15/1988,Leiria,34,1.9,Portugal,left
+1679,Mile Svilar,8/27/1999,Antwerpen,23,1.89,Serbia Belgium,right
+1680,Pietro Boer,5/12/2002,Mestre,20,1.93,Italy,right
+1681,Roger Ibañez,11/23/1998,Canela,24,1.86,Brazil Italy,right
+1682,Gianluca Mancini,4/17/1996,Pontedera,26,1.9,Italy,right
+1683,Marash Kumbulla,2/8/2000,Peschiera del Garda,22,1.91,Albania Italy,right
+1684,Chris Smalling,11/22/1989,London,33,1.94,England,right
+1685,William Bianda,4/30/2000,Suresnes,22,1.85,France Cote d'Ivoire,left
+1686,Filippo Tripi,1/6/2002,Roma,20,1.8,Italy,right
+1687,Leonardo Spinazzola,3/25/1993,Foligno,29,1.86,Italy,right
+1688,Matías Viña,11/9/1997,Empalme Olmos,25,1.8,Uruguay Italy,left
+1689,Zeki Celik,2/17/1997,Bursa,25,1.8,Turkey,right
+1690,Rick Karsdorp,2/11/1995,Schoonhoven,27,1.84,Netherlands,right
+1691,Bryan Cristante,3/3/1995,San Vito al Tagliamento,27,1.86,Italy Canada,right
+1692,Nemanja Matić,8/1/1988,Šabac,34,1.94,Serbia Slovakia,left
+1693,Ebrima Darboe,6/6/2001,Bakoteh,21,1.79,The Gambia,right
+1694,Georginio Wijnaldum,11/11/1990,Rotterdam,32,1.75,Netherlands Suriname,right
+1695,Mady Camara,2/28/1997,Matam,25,1.82,Guinea,right
+1696,Edoardo Bove,5/16/2002,Roma,20,1.79,Italy,right
+1697,Nicola Zalewski,1/23/2002,Tivoli,20,1.75,Poland,both
+1698,Lorenzo Pellegrini,6/19/1996,Roma,26,1.86,Italy,both
+1699,Nicolò Zaniolo,7/2/1999,Massa,23,1.9,Italy,left
+1700,Cristian Volpato,11/15/2003,Camperdown,19,1.87,Italy Australia,left
+1701,Ante Coric,4/14/1997,Zagreb,25,1.76,Croatia,both
+1702,Stephan El Shaarawy,10/27/1992,Savona,30,1.78,Italy Egypt,right
+1703,Paulo Dybala,11/15/1993,Laguna Larga,29,1.77,Argentina Italy,left
+1704,Tammy Abraham,10/2/1997,London,25,1.94,England Nigeria,right
+1705,Andrea Belotti,12/20/1993,Calcinate,28,1.81,Italy,right
+1706,Eldor Shomurodov,6/29/1995,"Jarkurgan, Surxondaryo Region",27,1.9,Uzbekistan,right
+1707,Juan Musso,5/6/1994,San Nicolás,28,1.91,Argentina Italy,right
+1708,Marco Sportiello,5/10/1992,Desio,30,1.92,Italy,right
+1709,Francesco Rossi,4/27/1991,Merate,31,1.93,Italy,right
+1710,Merih Demiral,3/5/1998,Kocaeli,24,1.9,Turkey,right
+1711,Giorgio Scalvini,12/11/2003,Chiari,18,1.94,Italy,right
+1712,Berat Djimsiti,2/19/1993,Zürich,29,1.9,Albania Switzerland,right
+1713,Caleb Okoli,7/13/2001,Vicenza,21,1.87,Italy Nigeria,right
+1714,Rafael Tolói,10/10/1990,Glória D'Oeste,32,1.85,Italy Brazil,right
+1715,José Luis Palomino,1/5/1990,San Miguel de Tucumán,32,1.88,Argentina,left
+1716,Joakim Maehle,5/20/1997,Østervrå,25,1.85,Denmark,right
+1717,Matteo Ruggeri,7/11/2002,San Giovanni Bianco,20,1.87,Italy,left
+1718,Hans Hateboer,1/9/1994,Beerta,28,1.85,Netherlands,right
+1719,Brandon Soppy,2/21/2002,Aubervilliers,20,1.81,France Cote d'Ivoire,right
+1720,Davide Zappacosta,6/11/1992,Sora,30,1.82,Italy,right
+1721,Nadir Zortea,6/19/1999,Feltre,23,1.75,Italy,right
+1722,Teun Koopmeiners,2/28/1998,Castricum,24,1.83,Netherlands,left
+1723,Marten de Roon,3/29/1991,Zwijndrecht,31,1.85,Netherlands,right
+1724,Éderson,7/7/1999,Campo Grande,23,1.83,Brazil,right
+1725,Simone Muratore,5/30/1998,Cuneo,24,1.86,Italy,right
+1726,Mario Pasalic,2/9/1995,Mainz,27,1.88,Croatia,right
+1727,Ruslan Malinovskyi,5/4/1993,Zhytomyr,29,1.81,Ukraine,left
+1728,Ademola Lookman,10/20/1997,London,25,1.74,Nigeria England,right
+1729,Jérémie Boga,1/3/1997,Marseille,25,1.74,Cote d'Ivoire France,right
+1730,Duván Zapata,4/1/1991,Santiago de Cali,31,1.89,Colombia,right
+1731,Rasmus Höjlund,2/4/2003,NA,19,1.91,Denmark,left
+1732,Luis Muriel,4/16/1991,Santo Tomás,31,1.79,Colombia,right
+1733,Luís Maximiano,1/5/1999,Celeirós,23,1.9,Portugal,both
+1734,Ivan Provedel,3/17/1994,Pordenone,28,1.94,Italy,right
+1735,Marius Adamonis,5/13/1997,Panevezys,25,1.91,Lithuania,right
+1736,Alessio Romagnoli,1/12/1995,Anzio,27,1.85,Italy,left
+1737,Nicolò Casale,2/14/1998,Negrar,24,1.91,Italy,right
+1738,Patric,4/17/1993,Mula,29,1.84,Spain,right
+1739,Mario Gila,8/29/2000,Barcelona,22,1.85,Spain,right
+1740,Stefan Radu,10/22/1986,Bukarest,36,1.83,Romania,left
+1741,Dimitrije Kamenovic,7/16/2000,Pirot,22,1.88,Serbia,left
+1742,Manuel Lazzari,11/29/1993,Valdagno,29,1.74,Italy,right
+1743,Adam Marusic,10/17/1992,Belgrad,30,1.85,Montenegro Serbia,right
+1744,Elseid Hysaj,2/2/1994,Shkodër,28,1.82,Albania,right
+1745,Danilo Cataldi,8/6/1994,Roma,28,1.8,Italy,right
+1746,Marco Bertini,8/7/2002,Roma,20,1.85,Italy,right
+1747,Sergej Milinković-Savić,2/27/1995,Lleida,27,1.91,Serbia Spain,right
+1748,Luis Alberto,9/28/1992,San José del Valle,30,1.83,Spain,right
+1749,Marcos Antônio,6/13/2000,Poções,22,1.66,Brazil,right
+1750,Toma Basic,11/25/1996,Zagreb,26,1.9,Croatia,left
+1751,Matías Vecino,8/24/1991,San Jacinto,31,1.87,Uruguay Italy,right
+1752,Mohamed Fares,2/15/1996,Aubervilliers,26,1.83,Algeria France,left
+1753,Mattia Zaccagni,6/16/1995,Cesena,27,1.77,Italy,right
+1754,Felipe Anderson,4/15/1993,Brasília,29,1.75,Brazil,right
+1755,Matteo Cancellieri,2/12/2002,Roma,20,1.8,Italy,left
+1756,Pedro,7/28/1987,Santa Cruz de Tenerife,35,1.67,Spain,both
+1757,Luka Romero,11/18/2004,Victoria de Durango,18,1.65,Argentina Spain,left
+1758,Ciro Immobile,2/20/1990,Torre Annunziata,32,1.85,Italy,right
+1759,Pierluigi Gollini,3/18/1995,Bologna,27,1.94,Italy,right
+1760,Pietro Terracciano,3/8/1990,San Felice a Cancello,32,1.93,Italy,right
+1761,Michele Cerofolini,1/4/1999,Arezzo,23,1.88,Italy,right
+1762,Nikola Milenković,10/12/1997,Belgrad,25,1.95,Serbia,right
+1763,Igor,2/7/1998,Bom Sucesso,24,1.85,Brazil,left
+1764,Lucas Martínez Quarta,5/10/1996,Mar del Plata,26,1.83,Argentina Italy,right
+1765,Cristiano Biraghi,9/1/1992,Cernusco sul Naviglio,30,1.85,Italy,left
+1766,Luca Ranieri,4/23/1999,La Spezia,23,1.87,Italy,left
+1767,Aleksa Terzić,8/17/1999,Belgrad,23,1.84,Serbia,left
+1768,Dodô,11/17/1998,Taubaté,24,1.66,Brazil,right
+1769,Lorenzo Venuti,4/12/1995,Montevarchi,27,1.79,Italy,right
+1770,Sofyan Amrabat,8/21/1996,Huizen,26,1.85,Morocco Netherlands,right
+1771,Rolando Mandragora,6/29/1997,Napoli,25,1.83,Italy,left
+1772,Gaetano Castrovilli,2/17/1997,Canosa di Puglia,25,1.87,Italy,right
+1773,Alfred Duncan,3/10/1993,Accra,29,1.78,Ghana Italy,left
+1774,Szymon Zurkowski,9/25/1997,Tychy,25,1.85,Poland,right
+1775,Youssef Maleh,8/22/1998,Castel S. Pietro Terme,24,1.79,Morocco Italy,left
+1776,Giacomo Bonaventura,8/22/1989,San Severino Marche,33,1.8,Italy,right
+1777,Marco Benassi,9/8/1994,Modena,28,1.84,Italy,right
+1778,Alessandro Bianco,10/1/2002,Torino,20,1.73,Italy,right
+1779,Antonin Barak,12/3/1994,Příbram,27,1.9,Czech Republic,left
+1780,Riccardo Saponara,12/21/1991,Forlì,30,1.84,Italy,right
+1781,Nicolás González,4/6/1998,Belén de Escobar,24,1.8,Argentina Italy,left
+1782,Riccardo Sottil,6/3/1999,Torino,23,1.8,Italy,right
+1783,Jonathan Ikoné,5/2/1998,Bondy,24,1.75,France DR Congo,left
+1784,Luka Jović,12/23/1997,Bijeljina,24,1.82,Serbia Bosnia-Herzegovina,both
+1785,Christian Kouamé,12/6/1997,Abidjan,24,1.85,Cote d'Ivoire Italy,right
+1786,Arthur Cabral,4/25/1998,Campina Grande,24,1.86,Brazil,right
+1787,Andrea Consigli,1/27/1987,Milano,35,1.89,Italy,right
+1788,Alessandro Russo,3/31/2001,Reggio Calabria,21,1.93,Italy,right
+1789,Gianluca Pegolo,3/25/1981,Bassano del Grappa,41,1.83,Italy,left
+1790,Martin Erlic,1/24/1998,Zadar,24,1.93,Croatia,right
+1791,Gian Marco Ferrari,5/15/1992,Parma,30,1.89,Italy,left
+1792,Kaan Ayhan,11/10/1994,Gelsenkirchen,28,1.85,Turkey Germany,right
+1793,Ruan Tressoldi,6/7/1999,Tramandaí,23,1.87,Brazil,right
+1794,Filippo Romagna,5/26/1997,Fano,25,1.86,Italy,right
+1795,Rogério,1/13/1998,Nobres,24,1.78,Brazil,left
+1796,Georgios Kyriakopoulos,2/5/1996,Patras,26,1.82,Greece,left
+1797,Riccardo Marchizza,3/26/1998,Roma,24,1.86,Italy,left
+1798,Mert Müldür,4/3/1999,Wien,23,1.84,Turkey Austria,right
+1799,Jeremy Toljan,8/8/1994,Stuttgart,28,1.82,Germany United States,right
+1800,Maxime López,12/4/1997,Marseille,24,1.67,France Algeria,right
+1801,Davide Frattesi,9/22/1999,Roma,23,1.84,Italy,right
+1802,Matheus Henrique,12/19/1997,São Paulo,24,1.75,Brazil,right
+1803,Abdou Harroui,1/13/1998,Leiden,24,1.82,Morocco Netherlands,both
+1804,Pedro Obiang,3/27/1992,Alcalá de Henares,30,1.86,Equatorial Guinea Spain,right
+1805,Hamed Junior Traorè,2/16/2000,Abidjan,22,1.77,Cote d'Ivoire,both
+1806,Kristian Thorstvedt,3/13/1999,Stavanger,23,1.89,Norway,left
+1807,Armand Laurienté,12/4/1998,Gonesse,23,1.77,France Guadeloupe,right
+1808,Emil Konradsen Ceide,9/3/2001,Finnsnes,21,1.75,Norway,right
+1809,Domenico Berardi,8/1/1994,Cariati,28,1.83,Italy,left
+1810,Luca D'Andrea,9/6/2004,NA,18,1.73,Italy,left
+1811,Brian Oddei,9/18/2002,Accra,20,1.75,Italy Ghana,left
+1812,Andrea Pinamonti,5/19/1999,Cles,23,1.85,Italy,right
+1813,Agustín Álvarez,5/19/2001,San Bautista,21,1.77,Uruguay,right
+1814,Janis Antiste,8/18/2002,Toulouse,20,1.83,France Martinique,right
+1815,Grégoire Defrel,6/17/1991,Meudon,31,1.79,Martinique France,left
+1816,Vanja Milinković-Savić,2/20/1997,Ourense,25,2.02,Serbia Spain,right
+1817,Etrit Berisha,3/10/1989,Prishtinë,33,1.94,Albania Sweden,left
+1818,Luca Gemello,7/3/2000,Savigliano,22,1.9,Italy,right
+1819,Matteo Fiorenza,6/15/2003,NA,19,1.95,Italy,right
+1820,Perr Schuurs,11/26/1999,Nieuwstadt,23,1.91,Netherlands,right
+1821,David Zima,11/8/2000,Olomouc,22,1.9,Czech Republic,right
+1822,Alessandro Buongiorno,6/6/1999,Torino,23,1.94,Italy,left
+1823,Ricardo Rodríguez,8/25/1992,Zürich,30,1.8,Switzerland Chile,left
+1824,Koffi Djidji,11/30/1992,Bagnolet,30,1.84,Cote d'Ivoire France,right
+1825,Stephane Singo,12/25/2000,Odienné,21,1.9,Cote d'Ivoire,right
+1826,Valentino Lazaro,3/24/1996,Graz,26,1.8,Austria,right
+1827,Mërgim Vojvoda,2/1/1995,Hof (Saale),27,1.87,Kosovo Albania,right
+1828,Ola Aina,10/8/1996,London,26,1.84,Nigeria England,right
+1829,Brian Bayeye,6/30/2000,Paris,22,1.82,France,right
+1830,Samuele Ricci,8/21/2001,Pontedera,21,1.8,Italy,right
+1831,Saša Lukić,8/13/1996,Šabac,26,1.83,Serbia,right
+1832,Emirhan Ilkhan,6/1/2004,Istanbul,18,1.75,Turkey,right
+1833,Karol Linetty,2/2/1995,Żnin,27,1.76,Poland,right
+1834,Michel Adopo,7/19/2000,Villeneuve-Saint-Georges,22,1.87,France Cote d'Ivoire,right
+1835,Matthew Garbett,4/13/2002,London,20,1.88,New Zealand France,right
+1836,Nikola Vlasic,10/4/1997,Split,25,1.78,Croatia,right
+1837,Aleksey Miranchuk,10/17/1995,"Slavyansk-na-Kubani, Krasnodar Region",27,1.82,Russia,left
+1838,Nemanja Radonjić,2/15/1996,Nis,26,1.85,Serbia,both
+1839,Yann Karamoh,7/8/1998,Abidjan,24,1.85,Cote d'Ivoire France,right
+1840,Demba Seck,2/10/2001,Guédiawaye,21,1.9,Senegal,left
+1841,Simone Edera,1/9/1997,Torino,25,1.74,Italy,left
+1842,Antonio Sanabria,3/4/1996,San Lorenzo,26,1.81,Paraguay Spain,right
+1843,Pietro Pellegri,3/17/2001,Genova,21,1.88,Italy,right
+1844,Marco Silvestri,3/2/1991,Castelnovo né Monti,31,1.91,Italy,right
+1845,Daniele Padelli,10/25/1985,Lecco,37,1.91,Italy,right
+1846,Edoardo Piana,9/29/2003,Soave,19,1.98,Italy,right
+1847,Jaka Bijol,2/5/1999,Vuzenica,23,1.9,Slovenia,right
+1848,Rodrigo Becão,1/19/1996,Salvador,26,1.91,Brazil,right
+1849,Nehuén Pérez,6/24/2000,Hurlingham,22,1.84,Argentina,right
+1850,Bram Nuytinck,5/4/1990,Malden,32,1.9,Netherlands,left
+1851,Axel Guessand,11/6/2004,Schiltigheim,18,1.92,France Cote d'Ivoire,left
+1852,James Abankwah,1/16/2004,Dublin,18,1.82,Ireland Ghana,right
+1853,Destiny Udogie,11/28/2002,Verona,20,1.88,Italy Nigeria,left
+1854,Enzo Ebosse,3/11/1999,Amiens,23,1.85,Cameroon France,left
+1855,Adam Masina,1/2/1994,Khouribga,28,1.91,Morocco Italy,left
+1856,Leonardo Buta,6/5/2002,Águeda,20,1.82,Portugal Angola,left
+1857,Festy Ebosele,8/2/2002,"Enniscorthy, Wexford",20,1.8,Ireland Nigeria,right
+1858,Kingsley Ehizibue,5/25/1995,München,27,1.89,Netherlands Nigeria,right
+1859,Walace,4/4/1995,Salvador,27,1.88,Brazil,right
+1860,Mato Jajalo,5/25/1988,Jajce,34,1.82,Bosnia-Herzegovina Croatia,right
+1861,Jean-Victor Makengo,6/12/1998,Etampes,24,1.77,France DR Congo,left
+1862,Roberto Pereyra,1/7/1991,San Miguel de Tucumán,31,1.82,Argentina,both
+1863,Sandi Lovric,3/28/1998,Lienz,24,1.8,Slovenia Austria,right
+1864,Tolgay Arslan,8/16/1990,Paderborn,32,1.8,Germany Turkey,right
+1865,Lazar Samardzic,2/24/2002,Berlin,20,1.84,Germany Serbia,left
+1866,Simone Pafundi,3/14/2006,Monfalcone,16,1.66,Italy,left
+1867,Gerard Deulofeu,3/13/1994,Riudarenes,28,1.77,Spain,right
+1868,Beto,1/31/1998,Lisboa,24,1.94,Portugal Guinea-Bissau,right
+1869,Isaac Success,1/7/1996,Benin City,26,1.82,Nigeria,right
+1870,Ilija Nestorovski,3/12/1990,Prilep,32,1.82,North Macedonia,left
+1871,Lukasz Skorupski,5/5/1991,Zabrze,31,1.87,Poland,right
+1872,Francesco Bardi,1/18/1992,Livorno,30,1.88,Italy,right
+1873,Nicola Bagnolini,3/14/2004,Cesena,18,1.93,Italy,right
+1874,Jhon Lucumí,6/26/1998,Cali,24,1.87,Colombia,left
+1875,Stefan Posch,5/14/1997,Judenburg,25,1.88,Austria,right
+1876,Adama Soumaoro,6/18/1992,Fontenay-aux-Roses,30,1.86,France Mali,right
+1877,Kevin Bonifazi,5/19/1996,Rieti,26,1.87,Italy,right
+1878,Joaquín Sosa,1/10/2002,Fray Bentos,20,1.85,Uruguay Italy,left
+1879,Wisdom Amey,8/11/2005,Bassano del Grappa,17,1.87,Togo,right
+1880,Andrea Cambiaso,2/20/2000,Genova,22,1.83,Italy,both
+1881,Charalampos Lykogiannis,10/22/1993,Piräus,29,1.9,Greece,left
+1882,Denso Kasius,10/6/2002,Delft,20,1.83,Netherlands,right
+1883,Lorenzo De Silvestri,5/23/1988,Roma,34,1.86,Italy,right
+1884,Jerdy Schouten,1/12/1997,Spijkenisse,25,1.85,Netherlands,right
+1885,Nikola Moro,3/12/1998,Split,24,1.85,Croatia,right
+1886,Gary Medel,8/3/1987,Conchalí,35,1.71,Chile Spain,right
+1887,Kacper Urbanski,9/7/2004,Gdańsk,18,1.78,Poland,right
+1888,Nicolás Domínguez,6/28/1998,Haedo,24,1.79,Argentina Italy,right
+1889,Lewis Ferguson,8/24/1999,Hamilton,23,1.81,Scotland,right
+1890,Michel Aebischer,1/6/1997,Fribourg,25,1.83,Switzerland,right
+1891,Roberto Soriano,2/8/1991,Darmstadt,31,1.82,Italy Germany,right
+1892,Musa Barrow,11/14/1998,Banjul,24,1.84,The Gambia,right
+1893,Nicola Sansone,9/10/1991,München,31,1.73,Italy Germany,right
+1894,Musa Juwara,12/26/2001,Tujereng,20,1.7,The Gambia,left
+1895,Riccardo Orsolini,1/24/1997,Ascoli Piceno,25,1.83,Italy,left
+1896,Emanuel Vignato,8/24/2000,Negrar,22,1.75,Italy Brazil,right
+1897,Orji Okwonkwo,1/19/1998,Benin City,24,1.8,Nigeria,right
+1898,Joshua Zirkzee,5/22/2001,Schiedam,21,1.93,Netherlands Nigeria,right
+1899,Marko Arnautovic,4/19/1989,Wien,33,1.92,Austria Serbia,both
+1900,Antonio Raimondo,3/18/2004,Ravenna,18,1.85,Italy,left
+1901,Michele Di Gregorio,7/27/1997,Milano,25,1.87,Italy,right
+1902,Alessio Cragno,6/28/1994,Fiesole,28,1.84,Italy,right
+1903,Alessandro Sorrentino,4/3/2002,Guardiagrele,20,1.9,Italy,right
+1904,Eugenio Lamanna,8/7/1989,Como,33,1.87,Italy,right
+1905,Marlon,9/7/1995,Duque de Caxias,27,1.82,Brazil,right
+1906,Pablo Marí,8/31/1993,Almussafes,29,1.93,Spain,left
+1907,Andrea Carboni,2/4/2001,Sorgono,21,1.87,Italy,left
+1908,Armando Izzo,3/2/1992,Napoli,30,1.83,Italy,right
+1909,Luca Caldirola,2/1/1991,Desio,31,1.86,Italy,left
+1910,Valentin Antov,11/9/2000,Sofia,22,1.87,Bulgaria,right
+1911,Luca Marrone,3/28/1990,Torino,32,1.86,Italy,right
+1912,Gabriel Paletta,2/15/1986,Longchamps,36,1.9,Italy Argentina,right
+1913,Carlos Augusto,1/7/1999,Campinas,23,1.84,Brazil Italy,left
+1914,Samuele Birindelli,7/19/1999,Pisa,23,1.76,Italy,right
+1915,Gabriele Ferrarini,4/9/2000,La Spezia,22,1.8,Italy,right
+1916,Giulio Donati,2/5/1990,Pietrasanta,32,1.78,Italy,right
+1917,Nicolò Rovella,12/4/2001,Segrate,20,1.79,Italy,right
+1918,Andrea Barberis,12/11/1993,Genova,28,1.77,Italy,right
+1919,Antonis Siatounis,8/26/2002,Ilion,20,1.86,Greece,left
+1920,Matteo Scozzarella,6/5/1988,Trieste,34,1.7,Italy,right
+1921,Nicola Rigoni,11/12/1990,Schio,32,1.85,Italy,right
+1922,Stefano Sensi,8/5/1995,Urbino,27,1.68,Italy,right
+1923,Andrea Colpani,5/11/1999,Brescia,23,1.84,Italy,left
+1924,Filippo Ranocchia,5/14/2001,Perugia,21,1.86,Italy,both
+1925,Mattia Valoti,9/6/1993,Vicenza,29,1.87,Italy,right
+1926,José Machín,8/14/1996,Bata,26,1.84,Equatorial Guinea Spain,right
+1927,Warren Bondo,9/15/2003,Évry,19,1.77,France DR Congo,right
+1928,Salvatore Molina,1/1/1992,Garbagnate Milanese,30,1.77,Italy,right
+1929,Matteo Pessina,4/21/1997,Monza,25,1.87,Italy,left
+1930,Samuele Vignato,2/24/2004,Fumane,18,1.72,Italy Brazil,right
+1931,Marco D'Alessandro,2/17/1991,Roma,31,1.73,Italy,right
+1932,Gianluca Caprari,7/30/1993,Roma,29,1.71,Italy,right
+1933,Patrick Ciurria,2/9/1995,Sassuolo,27,1.78,Italy,both
+1934,Andrea Petagna,6/30/1995,Trieste,27,1.9,Italy,left
+1935,Dany Mota,5/2/1998,Niederkorn,24,1.8,Portugal Luxembourg,right
+1936,Mirko Maric,5/16/1995,Mostar,27,1.88,Croatia Bosnia-Herzegovina,left
+1937,Christian Gytkjaer,5/6/1990,Roskilde,32,1.85,Denmark,right
+1938,Luigi Sepe,5/8/1991,Torre del Greco,31,1.85,Italy,left
+1939,Vincenzo Fiorillo,1/13/1990,Genova,32,1.9,Italy,left
+1940,Alessandro Micai,7/24/1993,Mantova,29,1.86,Italy,right
+1941,Jacopo De Matteis,12/28/2002,Roma,19,1.86,Italy,NA
+1942,Flavius Daniliuc,4/27/2001,Wien,21,1.88,Austria,right
+1943,Matteo Lovato,2/14/2000,Monselice,22,1.88,Italy,right
+1944,Dylan Bronn,6/19/1995,Cannes,27,1.86,Tunisia France,right
+1945,Lorenzo Pirola,2/20/2002,Carate Brianza,20,1.85,Italy,left
+1946,Norbert Gyomber,7/3/1992,Revúca,30,1.89,Slovakia,right
+1947,Federico Fazio,3/17/1987,Buenos Aires,35,1.95,Argentina Italy,right
+1948,Andrei Motoc,4/13/2002,Chișinău,20,1.95,Moldova Romania,right
+1949,Domagoj Bradaric,12/10/1999,Split,22,1.78,Croatia,left
+1950,Sanasi Sy,4/4/1999,Paris,23,1.74,France Senegal,left
+1951,Pasquale Mazzocchi,7/27/1995,Napoli,27,1.83,Italy,right
+1952,Junior Sambia,9/7/1996,Lyon,26,1.85,France Central African Republic,right
+1953,Ivan Radovanovic,8/29/1988,Kosovska Mitrovica,34,1.87,Serbia,right
+1954,Giulio Maggiore,3/12/1998,Genova,24,1.84,Italy,right
+1955,Emil Bohinen,3/12/1999,Derby,23,1.89,Norway,left
+1956,Lassana Coulibaly,4/10/1996,Bamako,26,1.83,Mali,right
+1957,Tonny Vilhena,1/3/1995,Maassluis,27,1.75,Netherlands Angola,left
+1958,Grigoris Kastanos,1/30/1998,Sotira,24,1.79,Cyprus,left
+1959,Leonardo Capezzi,3/28/1995,Figline Valdarno,27,1.78,Italy,right
+1960,Antonio Candreva,2/28/1987,Roma,35,1.8,Italy,right
+1961,Francesco Orlando,10/1/1996,Taranto,26,1.68,Italy,left
+1962,Boulaye Dia,11/16/1996,Oyonnax,26,1.8,Senegal France,right
+1963,Krzysztof Piatek,7/1/1995,Dzierżoniów,27,1.83,Poland,right
+1964,Federico Bonazzoli,5/21/1997,Manerbio,25,1.82,Italy,left
+1965,Erik Botheim,1/10/2000,Oslo,22,1.85,Norway,right
+1966,Diego Valencia,1/14/2000,Viña del Mar,22,1.85,Chile,right
+1967,Julian Kristoffersen,5/10/1997,Horten,25,1.98,Norway,right
+1968,Guglielmo Vicario,10/7/1996,Udine,26,1.94,Italy,right
+1969,Samuele Perisan,8/21/1997,San Vito al Tagliamento,25,1.92,Italy,left
+1970,Samir Ujkani,7/5/1988,"Resnik, Vushtrri",34,1.86,Kosovo Albania,right
+1971,Lovro Stubljar,8/9/2004,NA,18,NA,Slovenia,left
+1972,Koni De Winter,6/12/2002,Antwerpen,20,1.91,Belgium,right
+1973,Sebastian Walukiewicz,4/5/2000,Gorzów Wielkopolski,22,1.88,Poland,right
+1974,Sebastiano Luperto,9/6/1996,Lecce,26,1.91,Italy,left
+1975,Ardian Ismajli,9/30/1996,"Majac, Besianë",26,1.85,Albania Kosovo,right
+1976,Lorenzo Tonelli,1/17/1990,Firenze,32,1.83,Italy,right
+1977,Gabriele Guarino,4/14/2004,Molfetta,18,NA,Italy,NA
+1978,Fabiano Parisi,11/9/2000,Solofra,22,1.78,Italy,left
+1979,Liberato Cacace,9/27/2000,Wellington,22,1.83,New Zealand Italy,left
+1980,Petar Stojanovic,10/7/1995,Ljubljana,27,1.78,Slovenia,right
+1981,Tyronne Ebuehi,12/16/1995,Haarlem,26,1.87,Nigeria Netherlands,right
+1982,Duccio Degli Innocenti,4/28/2003,Montevarchi,19,1.8,Italy,right
+1983,Razvan Marin,5/23/1996,Bukarest,26,1.78,Romania,right
+1984,Filippo Bandinelli,3/29/1995,Firenze,27,1.8,Italy,left
+1985,Liam Henderson,4/25/1996,Livingston,26,1.83,Scotland,right
+1986,Nicolas Haas,1/23/1996,Sursee,26,1.78,Switzerland,right
+1987,Alberto Grassi,3/7/1995,Lumezzane,27,1.83,Italy,right
+1988,Jean-Daniel Akpa Akpro,10/11/1992,Toulouse,30,1.8,Cote d'Ivoire France,right
+1989,Jacopo Fazzini,3/16/2003,Massa,19,1.78,Italy,right
+1990,Nedim Bajrami,2/28/1999,Zürich,23,1.79,Albania Switzerland,right
+1991,Tommaso Baldanzi,3/23/2003,Poggibonsi,19,1.7,Italy,left
+1992,Marko Pjaca,5/6/1995,Zagreb,27,1.86,Croatia,right
+1993,Nicolò Cambiaghi,12/28/2000,Monza,21,1.73,Italy,right
+1994,Martín Satriano,2/20/2001,Montevideo,21,1.87,Uruguay Italy,right
+1995,Sam Lammers,4/30/1997,Tilburg,25,1.91,Netherlands,both
+1996,Mattia Destro,3/20/1991,Ascoli Piceno,31,1.82,Italy,right
+1997,Emmanuel Ekong,6/25/2002,Reggio Emilia,20,1.76,Sweden Nigeria,right
+1998,Lorenzo Montipò,2/20/1996,Novara,26,1.91,Italy,right
+1999,Simone Perilli,1/7/1995,Roma,27,1.95,Italy,right
+2000,Mattia Chiesa,7/16/2000,Rovereto,22,1.9,Italy,right
+2001,Alessandro Berardi,1/16/1991,Roma,31,1.85,Italy,right
+2002,Koray Günter,8/16/1994,Höxter,28,1.86,Germany Turkey,right
+2003,Pawel Dawidowicz,5/20/1995,Olsztyn,27,1.89,Poland,both
+2004,Isak Hien,1/13/1999,Kista,23,1.91,Sweden Burkina Faso,right
+2005,Federico Ceccherini,5/11/1992,Livorno,30,1.87,Italy,right
+2006,Diego Coppola,12/28/2003,Verona,18,1.92,Italy Netherlands,right
+2007,Giangiacomo Magnani,10/4/1995,Correggio,27,1.91,Italy,right
+2008,Juan Cabal,1/8/2001,Cali,21,1.86,Colombia,left
+2009,Josh Doig,5/18/2002,Edinburgh,20,1.89,Scotland,left
+2010,Davide Faraoni,10/25/1991,Bracciano,31,1.8,Italy,right
+2011,Fabio Depaoli,4/24/1997,Riva del Garda,25,1.82,Italy,right
+2012,Adrien Tamèze,2/4/1994,Lille,28,1.8,Cameroon France,right
+2013,Martin Hongla,3/16/1998,Yaoundé,24,1.81,Cameroon,right
+2014,Ibrahim Sulemana,5/22/2003,NA,19,NA,Ghana,right
+2015,Miguel Veloso,5/11/1986,Coimbra,36,1.8,Portugal,left
+2016,Ivan Ilić,3/17/2001,Niš,21,1.85,Serbia,left
+2017,Filippo Terracciano,2/8/2003,Verona,19,1.81,Italy,right
+2018,Darko Lazović,9/15/1990,Cacak,32,1.81,Serbia,right
+2019,Simone Verdi,7/12/1992,Broni,30,1.74,Italy,both
+2020,Ajdin Hrustic,7/5/1996,Melbourne,26,1.8,Australia Bosnia-Herzegovina,left
+2021,Mateusz Praszelik,9/26/2000,Racibórz,22,1.84,Poland,right
+2022,Alessandro Cortinovis,1/25/2001,Bergamo,21,1.8,Italy,right
+2023,Yayah Kallon,6/30/2001,Kono,21,1.75,Sierra Leone,left
+2024,Thomas Henry,9/20/1994,Argenteuil,28,1.91,France,right
+2025,Roberto Piccoli,1/27/2001,Bergamo,21,1.9,Italy,right
+2026,Kevin Lasagna,8/10/1992,Suzzara,30,1.81,Italy,left
+2027,Milan Djuric,5/22/1990,Tuzla,32,1.99,Bosnia-Herzegovina Italy,right
+2028,Marco Carnesecchi,7/1/2000,Rimini,22,1.91,Italy,right
+2029,Ionut Radu,5/28/1997,Bucarest,25,1.88,Romania,right
+2030,Gianluca Saro,6/25/2000,San Daniele del Friuli,22,1.79,Italy,right
+2031,Mouhamadou Sarr,1/5/1997,Kaolack,25,1.9,Senegal Italy,right
+2032,Dorian Ciezkowski,3/22/2001,Kraków,21,1.92,Poland,left
+2033,Jack Hendry,5/7/1995,Glasgow,27,1.92,Scotland,right
+2034,Johan Vásquez,10/22/1998,Navojoa,24,1.84,Mexico,left
+2035,Emanuel Aiwu,12/25/2000,Innsbruck,21,1.85,Austria,right
+2036,Luka Lochoshvili,5/29/1998,Tiflis,24,1.92,Georgia,left
+2037,Vlad Chiriches,11/14/1989,Bacău,33,1.84,Romania,right
+2038,Matteo Bianchetti,3/17/1993,Como,29,1.89,Italy,right
+2039,Maissa Ndiaye,1/28/2002,Dakar,20,1.9,Senegal,right
+2040,Emanuele Valeri,12/7/1998,Roma,23,1.8,Italy,left
+2041,Giacomo Quagliata,2/19/2000,Palermo,22,1.8,Italy,left
+2042,Leonardo Sernicola,7/30/1997,Civita Castellana,25,1.87,Italy,right
+2043,Paolo Ghiglione,2/2/1997,Voghera,25,1.91,Italy,right
+2044,Santiago Ascacíbar,2/25/1997,La Plata,25,1.68,Argentina,right
+2045,Charles Pickel,5/15/1997,Solothurn,25,1.87,Switzerland DR Congo,right
+2046,Michele Castagnetti,12/27/1989,Montecchio Emilia,32,1.8,Italy,left
+2047,Soualiho Meïté,3/17/1994,Paris,28,1.87,France Cote d'Ivoire,right
+2048,Gonzalo Escalante,3/27/1993,Bella Vista,29,1.82,Argentina Italy,right
+2049,Tommaso Milanese,7/31/2002,Galatina,20,1.73,Italy,right
+2050,Christian Acella,7/7/2002,Milano,20,NA,Italy,right
+2051,Jaime Báez,4/25/1995,Montevideo,27,1.78,Uruguay Italy,right
+2052,Cristian Buonaiuto,12/29/1992,Napoli,29,1.79,Italy,right
+2053,Luca Zanimacchia,7/19/1998,Desio,24,1.78,Italy,right
+2054,Cyriel Dessers,12/8/1994,Leuven,27,1.85,Nigeria Belgium,right
+2055,Felix Afena-Gyan,1/19/2003,Sunyani,19,1.75,Ghana,right
+2056,David Okereke,8/29/1997,Lagos,25,1.81,Nigeria,right
+2057,Frank Tsadjout,7/28/1999,Perugia,23,1.9,Italy Cameroon,left
+2058,Daniel Ciofani,7/31/1985,Avezzano,37,1.91,Italy,right
+2059,Wladimiro Falcone,4/12/1995,Roma,27,1.95,Italy,right
+2060,Marco Bleve,10/18/1995,San Cesario di Lecce,27,1.84,Italy,right
+2061,Federico Brancolini,7/14/2001,Modena,21,1.92,Italy,right
+2062,Jasper Samooja,7/21/2003,NA,19,NA,Finland,NA
+2063,Marin Pongracic,9/11/1997,Landshut,25,1.93,Croatia Germany,right
+2064,Federico Baschirotto,9/20/1996,Isola della Scala,26,1.87,Italy,right
+2065,Samuel Umtiti,11/14/1993,Yaoundé,29,1.82,France Cameroon,left
+2066,Mert Cetin,1/1/1997,Ankara,25,1.89,Turkey,right
+2067,Alessandro Tuia,6/8/1990,Civitacastellana,32,1.84,Italy,right
+2068,Kastriot Dermaku,1/15/1992,Scandiano,30,1.94,Albania Italy,right
+2069,Giuseppe Pezzella,11/29/1997,Napoli,25,1.87,Italy,left
+2070,Antonino Gallo,1/5/2000,Palermo,22,1.83,Italy,left
+2071,Valentin Gendrey,6/21/2000,La Garenne-Colombes,22,1.79,France Guadeloupe,right
+2072,Mats Lemmens,3/10/2002,NA,20,1.86,Belgium,right
+2073,Morten Hjulmand,6/25/1999,Kastrup,23,1.85,Denmark,right
+2074,Daniel Samek,2/19/2004,Hradec Králové,18,1.84,Czech Republic,right
+2075,Alexis Blin,9/16/1996,Le Mans,26,1.84,France,right
+2076,Joan González,2/1/2002,Barcelona,20,1.9,Spain,right
+2077,Kristijan Bistrovic,4/9/1998,Koprivnica,24,1.83,Croatia,right
+2078,Kristoffer Askildsen,1/9/2001,Oslo,21,1.9,Norway,right
+2079,Thórir Jóhann Helgason,9/28/2000,Hafnarfjörður,22,1.87,Iceland,right
+2080,John Björkengren,12/9/1998,Falkenberg,23,1.8,Sweden,left
+2081,Medon Berisha,10/21/2003,Münsingen,19,1.86,Albania Kosovo,right
+2082,Lameck Banda,1/29/2001,Lusaka,21,1.69,Zambia,right
+2083,Federico Di Francesco,6/14/1994,Pisa,28,1.71,Italy,right
+2084,Gabriel Strefezza,4/18/1997,São Paulo,25,1.68,Brazil Italy,right
+2085,Rémi Oudin,11/18/1996,Châlons-en-Champagne,26,1.86,France,left
+2086,Marcin Listkowski,2/10/1998,Rypin,24,1.78,Poland,both
+2087,Pablo Rodríguez,8/4/2001,Las Palmas,21,1.78,Spain,right
+2088,Lorenzo Colombo,3/8/2002,Vimercate,20,1.83,Italy,left
+2089,Assan Ceesay,3/17/1994,Banjul,28,1.88,The Gambia,left
+2090,Joel Voelkerling Persson,1/15/2003,Dalkopinge,19,1.94,Sweden,right
+2091,Bartlomiej Dragowski,8/19/1997,Białystok,25,1.91,Poland,right
+2092,Jeroen Zoet,1/6/1991,Veendam,31,1.89,Netherlands,right
+2093,Petar Zovko,3/25/2002,Mostar,20,1.92,Bosnia-Herzegovina,left
+2094,Ethan Ampadu,9/14/2000,Exeter,22,1.83,Wales England,right
+2095,Jakub Kiwior,2/15/2000,Tychy,22,1.89,Poland,left
+2096,Dimitrios Nikolaou,8/13/1998,Chalkida,24,1.88,Greece,left
+2097,Mattia Caldara,5/5/1994,Bergamo,28,1.87,Italy,right
+2098,Petko Hristov,3/1/1999,Sofia,23,1.91,Bulgaria,right
+2099,Arkadiusz Reca,6/17/1995,Chojnice,27,1.87,Poland,left
+2100,Kelvin Amian,2/8/1998,Toulouse,24,1.8,France Cote d'Ivoire,right
+2101,Emil Holm,5/13/2000,Göteborg,22,1.91,Sweden,right
+2102,Salva Ferrer,1/21/1998,Martorell,24,1.84,Spain,right
+2103,Mehdi Bourabia,8/7/1991,Dijon,31,1.83,Morocco France,right
+2104,Albin Ekdal,7/28/1989,Stockholm,33,1.86,Sweden,right
+2105,Aurélien Nguiamba,1/18/1999,Colmar,23,1.79,France Cameroon,left
+2106,Simone Bastoni,11/5/1996,La Spezia,26,1.81,Italy,left
+2107,Mikael Egill Ellertsson,3/11/2002,Reykjavík,20,1.82,Iceland,left
+2108,Aimar Sher,12/20/2002,Kirkuk,19,1.75,Sweden Iraq,right
+2109,Jacopo Sala,12/5/1991,Alzano Lombardo,30,1.81,Italy,right
+2110,Kevin Agudelo,11/14/1998,Puerto Caicedo,24,1.78,Colombia,left
+2111,Viktor Kovalenko,2/14/1996,Kherson,26,1.82,Ukraine,right
+2112,Daniel Maldini,10/11/2001,Milano,21,1.88,Italy Venezuela,right
+2113,Emmanuel Gyasi,1/11/1994,Palermo,28,1.81,Ghana Italy,right
+2114,Daniele Verde,6/20/1996,Napoli,26,1.68,Italy,left
+2115,Leandro Sanca,1/4/2000,Lisboa,22,1.84,Portugal Guinea-Bissau,right
+2116,M'Bala Nzola,8/18/1996,Buco-Zau,26,1.85,Angola France,left
+2117,David Strelec,4/4/2001,Nové Zámky,21,1.85,Slovakia,left
+2118,Emil Audero,1/18/1997,Mataram,25,1.92,Italy,right
+2119,Nikita Contini,5/21/1996,Cherkasy,26,1.9,Italy Ukraine,right
+2120,Nicola Ravaglia,12/12/1988,Forlì,33,1.84,Italy,right
+2121,Elia Tantalocchi,6/30/2004,Civitanova Marche,18,1.9,Italy,right
+2122,Omar Colley,10/24/1992,Banjul,30,1.91,The Gambia,left
+2123,Jeison Murillo,5/27/1992,Barranquilla,30,1.82,Colombia Spain,right
+2124,Bruno Amione,1/3/2002,Calchaquí,20,1.87,Argentina,left
+2125,Alex Ferrari,7/1/1994,Modena,28,1.91,Italy,right
+2126,Tommaso Augello,8/30/1994,Milano,28,1.8,Italy,left
+2127,Nicola Murru,12/16/1994,Cagliari,27,1.8,Italy,left
+2128,Bartosz Bereszynski,7/12/1992,Poznań,30,1.83,Poland,right
+2129,Andrea Conti,3/2/1994,Lecco,28,1.84,Italy,right
+2130,Harry Winks,2/2/1996,Hemel Hempstead,26,1.78,England,right
+2131,Tomás Rincón,1/13/1988,San Cristóbal,34,1.77,Venezuela,right
+2132,Gerard Yepes,8/25/2002,Barcelona,20,1.7,Spain,right
+2133,Gonzalo Villar,3/23/1998,Murcia,24,1.81,Spain,right
+2134,Ronaldo Vieira,7/19/1998,Bissau,24,1.78,England Guinea-Bissau,right
+2135,Simone Trimboli,4/19/2002,Lavagna,20,1.76,Italy,right
+2136,Telasco Segovia,4/2/2003,"Barquisimeto, Lara",19,1.8,Venezuela,right
+2137,Lorenzo Malagrida,10/24/2003,Pietra Ligure,19,1.74,Italy,right
+2138,Abdelhamid Sabiri,11/28/1996,Goulmima,26,1.86,Morocco Germany,right
+2139,Filip Djuricic,1/30/1992,Obrenovac,30,1.81,Serbia,right
+2140,Valerio Verre,1/11/1994,Roma,28,1.81,Italy,both
+2141,Ignacio Pussetto,12/21/1995,Cañada Rosquín,26,1.8,Argentina Italy,right
+2142,Mehdi Léris,5/23/1998,Mont de Marsan,24,1.86,Algeria France,right
+2143,Manolo Gabbiadini,11/26/1991,Calcinate,31,1.86,Italy,left
+2144,Manuel De Luca,7/17/1998,Bolzano/Bozen,24,1.92,Italy,both
+2145,Francesco Caputo,8/6/1987,Altamura,35,1.81,Italy,right
+2146,Fabio Quagliarella,1/31/1983,Castellammare di Stabia,39,1.8,Italy,right
+2147,Manuel Neuer,3/27/1986,Gelsenkirchen,36,1.93,Germany,right
+2148,Sven Ulreich,8/3/1988,Schorndorf,34,1.92,Germany,right
+2149,Johannes Schenk,1/13/2003,Schweinfurt,19,1.91,Germany,NA
+2150,Matthijs de Ligt,8/12/1999,Leiderdorp,23,1.89,Netherlands,right
+2151,Dayot Upamecano,10/27/1998,Évreux,24,1.86,France Guinea-Bissau,right
+2152,Lucas Hernández,2/14/1996,Marseille,26,1.84,France Spain,left
+2153,Alphonso Davies,11/2/2000,Buduburam,22,1.85,Canada Liberia,left
+2154,Benjamin Pavard,3/28/1996,Maubeuge,26,1.86,France,right
+2155,Noussair Mazraoui,11/14/1997,Leiderdorp,25,1.83,Morocco Netherlands,right
+2156,Josip Stanisic,4/2/2000,München,22,1.87,Croatia Germany,both
+2157,Bouna Sarr,1/31/1992,Lyon,30,1.77,Senegal France,right
+2158,Joshua Kimmich,2/8/1995,Rottweil,27,1.77,Germany,right
+2159,Leon Goretzka,2/6/1995,Bochum,27,1.89,Germany,right
+2160,Ryan Gravenberch,5/16/2002,Amsterdam,20,1.9,Netherlands Suriname,right
+2161,Marcel Sabitzer,3/17/1994,Wels,28,1.77,Austria,right
+2162,Jamal Musiala,2/26/2003,Stuttgart,19,1.84,Germany England,right
+2163,Paul Wanner,12/23/2005,Dornbirn,16,1.85,Austria Germany,left
+2164,Leroy Sané,1/11/1996,Essen,26,1.83,Germany France,left
+2165,Sadio Mané,4/10/1992,Sedhiou,30,1.74,Senegal,right
+2166,Serge Gnabry,7/14/1995,Stuttgart,27,1.76,Germany Cote d'Ivoire,right
+2167,Kingsley Coman,6/13/1996,Paris,26,1.8,France Guadeloupe,right
+2168,Thomas Müller,9/13/1989,Weilheim in Oberbayern,33,1.85,Germany,right
+2169,Mathys Tel,4/27/2005,Sarcelles,17,1.83,France Guadeloupe,right
+2170,Eric Maxim Choupo-Moting,3/23/1989,Hamburg,33,1.91,Cameroon Germany,right
+2171,Gregor Kobel,12/6/1997,Zürich,24,1.94,Switzerland,right
+2172,Marcel Lotka,5/25/2001,Duisburg,21,1.9,Poland Germany,right
+2173,Alexander Meyer,4/13/1991,Bad Oldesloe,31,1.95,Germany,right
+2174,Luca Unbehaun,2/27/2001,Bochum,21,1.85,Germany,right
+2175,Niklas Süle,9/3/1995,Frankfurt am Main,27,1.95,Germany,right
+2176,Nico Schlotterbeck,NA,Waiblingen,23,1.91,Germany,left
+2177,Mats Hummels,12/16/1988,Bergisch Gladbach,33,1.91,Germany,right
+2178,Soumaïla Coulibaly,10/14/2003,Montfermeil,19,1.9,France Mali,left
+2179,Antonios Papadopoulos,9/10/1999,Stuttgart,23,1.86,Germany Greece,right
+2180,Raphaël Guerreiro,12/22/1993,Le Blanc-Mesnil,28,1.7,Portugal France,left
+2181,Tom Rothe,10/29/2004,Rendsburg,18,1.93,Germany,left
+2182,Nico Schulz,4/1/1993,Berlin,29,1.8,Germany,left
+2183,Marius Wolf,5/27/1995,Coburg,27,1.87,Germany,right
+2184,Thomas Meunier,9/12/1991,Sainte-Ode,31,1.91,Belgium,right
+2185,Mateu Morey Bauzà,3/2/2000,Palma de Mallorca,22,1.73,Spain,right
+2186,Felix Passlack,5/29/1998,Bottrop,24,1.7,Germany,right
+2187,Salih Özcan,1/11/1998,Köln,24,1.83,Turkey Germany,right
+2188,Emre Can,1/12/1994,Frankfurt am Main,28,1.86,Germany Turkey,right
+2189,Abdoulaye Kamara,11/6/2004,Conakry,18,1.83,Guinea France,right
+2190,Jude Bellingham,6/29/2003,Stourbridge,19,1.86,England,right
+2191,Mahmoud Dahoud,1/1/1996,Amûdê‎,26,1.78,Germany Syria,right
+2192,Giovanni Reyna,11/13/2002,Durham,20,1.85,United States Portugal,right
+2193,Julian Brandt,5/2/1996,Bremen,26,1.85,Germany,right
+2194,Marco Reus,5/31/1989,Dortmund,33,1.8,Germany,right
+2195,Göktan Gürpüz,1/22/2003,Duisburg,19,1.75,Turkey Germany,right
+2196,Donyell Malen,1/19/1999,Wieringen,23,1.78,Netherlands Suriname,right
+2197,Thorgan Hazard,3/29/1993,La Louvière,29,1.75,Belgium,right
+2198,Karim Adeyemi,1/18/2002,München,20,1.8,Germany Nigeria,left
+2199,Jamie Bynoe-Gittens,8/8/2004,London,18,1.77,England Barbados,right
+2200,Sébastien Haller,6/22/1994,Ris-Orangis,28,1.91,Cote d'Ivoire France,right
+2201,Youssoufa Moukoko,11/20/2004,Yaoundé,18,1.79,Germany Cameroon,left
+2202,Anthony Modeste,4/14/1988,Cannes,34,1.88,France Martinique,right
+2203,Péter Gulácsi,5/6/1990,Budapest,32,1.9,Hungary,right
+2204,Janis Blaswich,5/2/1991,Willich,31,1.93,Germany,right
+2205,Örjan Nyland,9/10/1990,Volda,32,1.92,Norway,right
+2206,Jonas Nickisch,5/21/2004,Dresden,18,1.9,Germany,both
+2207,Timo Schlieck,3/2/2006,Oelde,16,1.95,Germany,right
+2208,Josko Gvardiol,1/23/2002,Zagreb,20,1.85,Croatia,left
+2209,Mohamed Simakan,5/3/2000,Marseille,22,1.87,France Guinea,right
+2210,Abdou Diallo,5/4/1996,Tours,26,1.87,Senegal France,left
+2211,Willi Orbán,11/3/1992,Kaiserslautern,30,1.86,Hungary Germany,right
+2212,David Raum,4/22/1998,Nürnberg,24,1.8,Germany,left
+2213,Marcel Halstenberg,9/27/1991,Laatzen,31,1.88,Germany,left
+2214,Sanoussy Ba,1/5/2004,Hof,18,1.84,Germany Senegal,both
+2215,Benjamin Henrichs,2/23/1997,Bocholt,25,1.85,Germany Ghana,right
+2216,Lukas Klostermann,6/3/1996,Gevelsberg,26,1.89,Germany,right
+2217,Konrad Laimer,5/27/1997,Salzburg,25,1.8,Austria,right
+2218,Xaver Schlager,9/28/1997,Linz,25,1.74,Austria,left
+2219,Amadou Haidara,1/31/1998,Bamako,24,1.75,Mali,right
+2220,Kevin Kampl,10/9/1990,Solingen,32,1.78,Slovenia,right
+2221,Dani Olmo,5/7/1998,Terrassa,24,1.79,Spain,right
+2222,Dominik Szoboszlai,10/25/2000,Székesfehérvár,22,1.87,Hungary,right
+2223,Emil Forsberg,10/23/1991,Sundsvall,31,1.77,Sweden,right
+2224,Hugo Novoa,1/24/2003,Bertamiráns,19,1.82,Spain,right
+2225,Christopher Nkunku,11/14/1997,Lagny-sur-Marne,25,1.78,France DR Congo,right
+2226,Timo Werner,3/6/1996,Stuttgart,26,1.8,Germany,right
+2227,André Silva,11/6/1995,Baguim do Monte,27,1.85,Portugal,right
+2228,Yussuf Poulsen,6/15/1994,Kopenhagen,28,1.92,Denmark Tanzania,right
+2229,Lukas Hradecky,11/24/1989,Bratislava,33,1.92,Finland Slovakia,right
+2230,Andrey Lunev,11/13/1991,Moskau,31,1.9,Russia,right
+2231,Niklas Lomb,7/28/1993,Köln,29,1.86,Germany,right
+2232,Edmond Tapsoba,2/2/1999,Ouagadougou,23,1.94,Burkina Faso,right
+2233,Piero Hincapié,1/9/2002,Esmeraldas,20,1.83,Ecuador,left
+2234,Jonathan Tah,2/11/1996,Hamburg,26,1.95,Germany,right
+2235,Odilon Kossounou,1/4/2001,Abidjan,21,1.91,Cote d'Ivoire,right
+2236,Mitchel Bakker,6/20/2000,Purmerend,22,1.85,Netherlands,left
+2237,Daley Sinkgraven,7/4/1995,Assen,27,1.79,Netherlands,left
+2238,Jeremie Frimpong,12/10/2000,Amsterdam,21,1.71,Netherlands Ghana,right
+2239,Timothy Fosu-Mensah,1/2/1998,Amsterdam,24,1.85,Netherlands Ghana,right
+2240,Ayman Azhil,4/10/2001,Düsseldorf,21,1.75,Morocco Germany,NA
+2241,Joshua Eze,3/20/2003,Leverkusen,19,1.83,Germany Nigeria,right
+2242,Exequiel Palacios,10/5/1998,Famaillá,24,1.77,Argentina,right
+2243,Kerem Demirbay,7/3/1993,Herten,29,1.83,Germany Turkey,left
+2244,Robert Andrich,9/22/1994,Potsdam,28,1.87,Germany,right
+2245,Nadiem Amiri,10/27/1996,Ludwigshafen am Rhein,26,1.8,Germany Afghanistan,right
+2246,Charles Aránguiz,4/17/1989,Puente Alto,33,1.71,Chile,right
+2247,Zidan Sertdemir,2/4/2005,Ishøj,17,1.82,Denmark Turkey,left
+2248,Florian Wirtz,5/3/2003,Pulheim,19,1.76,Germany,right
+2249,Moussa Diaby,7/7/1999,Paris,23,1.7,France Mali,left
+2250,Callum Hudson-Odoi,11/7/2000,London,22,1.77,England Ghana,right
+2251,Adam Hlozek,7/25/2002,Ivančice,20,1.88,Czech Republic,right
+2252,Paulinho,7/15/2000,Rio de Janeiro,22,1.77,Brazil,right
+2253,Amine Adli,5/10/2000,Eu,22,1.74,France Morocco,left
+2254,Karim Bellarabi,4/8/1990,Berlin,32,1.84,Germany Morocco,right
+2255,Patrik Schick,1/24/1996,Praha,26,1.91,Czech Republic,left
+2256,Sardar Azmoun,1/1/1995,"Gonbad-e Kavus, Golestan",27,1.86,Iran,both
+2257,Kevin Trapp,7/8/1990,Merzig,32,1.89,Germany,right
+2258,Diant Ramaj,9/19/2001,Stuttgart,21,1.89,Germany Kosovo,both
+2259,Matteo Bignetti,5/6/2004,Bruck an der Mur,18,1.9,Austria Italy,both
+2260,Jens Grahl,9/22/1988,Stuttgart,34,1.92,Germany,right
+2261,Evan Ndicka,8/20/1999,Paris,23,1.92,France Cameroon,left
+2262,Tuta,7/4/1999,São Paulo,23,1.85,Brazil,right
+2263,Jérôme Onguéné,12/22/1997,Mbalmayo,24,1.87,Cameroon France,right
+2264,Almamy Touré,4/28/1996,Bamako,26,1.83,Mali France,right
+2265,Hrvoje Smolcic,8/17/2000,Gospić,22,1.85,Croatia,left
+2266,Makoto Hasebe,1/18/1984,"Fujieda, Shizuoka",38,1.8,Japan,right
+2267,Luca Pellegrini,3/7/1999,Roma,23,1.78,Italy,left
+2268,Christopher Lenz,9/22/1994,Berlin,28,1.8,Germany,left
+2269,Jan Schröder,4/15/2003,Herrenberg,19,1.82,Germany Spain,left
+2270,Aurélio Buta,2/10/1997,NA,25,1.72,Portugal Angola,right
+2271,Timothy Chandler,3/29/1990,Frankfurt am Main,32,1.86,United States Germany,right
+2272,Kristijan Jakic,5/14/1997,Split,25,1.81,Croatia,right
+2273,Djibril Sow,2/6/1997,Zürich,25,1.84,Switzerland Senegal,right
+2274,Sebastian Rode,10/11/1990,Seeheim-Jugenheim,32,1.79,Germany,right
+2275,Marcel Wenig,5/4/2004,Nürnberg,18,1.88,Germany Greece,right
+2276,Mehdi Loune,5/14/2004,Hanau,18,1.69,Germany Morocco,NA
+2277,Junior Dina Ebimbe,11/21/2000,Stains,22,1.84,France Cameroon,right
+2278,Daichi Kamada,8/5/1996,"---, Ehime",26,1.84,Japan,right
+2279,Jesper Lindström,2/29/2000,Taastrup,22,1.82,Denmark,right
+2280,Mario Götze,6/3/1992,Memmingen,30,1.76,Germany,right
+2281,Faride Alidou,7/18/2001,Hamburg,21,1.86,Germany Togo,right
+2282,Ansgar Knauff,1/10/2002,Göttingen,20,1.8,Germany Ghana,right
+2283,Randal Kolo Muani,12/5/1998,Bondy,23,1.87,France DR Congo,right
+2284,Rafael Borré,9/15/1995,Barranquilla,27,1.74,Colombia,right
+2285,Lucas Alario,10/8/1992,"Tostado, Santa Fe",30,1.84,Argentina Italy,right
+2286,Nacho Ferri,10/5/2004,Montaverner,18,1.92,Spain,right
+2287,Yann Sommer,12/17/1988,Morges,33,1.83,Switzerland,right
+2288,Tobias Sippel,3/22/1988,Bad Dürkheim,34,1.83,Germany,right
+2289,Jan Olschowsky,11/18/2001,Neuss,21,1.84,Germany,right
+2290,Nico Elvedi,9/30/1996,Zürich,26,1.89,Switzerland,right
+2291,Marvin Friedrich,12/13/1995,Kassel,26,1.93,Germany,right
+2292,Ko Itakura,1/27/1997,"Yokohama, Kanagawa",25,1.88,Japan,right
+2293,Tony Jantschke,4/7/1990,Hoyerswerda,32,1.77,Germany,right
+2294,Mamadou Doucouré,5/21/1998,Dakar,24,1.83,France Senegal,left
+2295,Ramy Bensebaini,4/16/1995,Constantine,27,1.87,Algeria,left
+2296,Luca Netz,5/15/2003,Berlin,19,1.84,Germany,left
+2297,Joe Scally,12/31/2002,"Lake Grove, New York",19,1.84,United States,right
+2298,Stefan Lainer,8/27/1992,Salzburg,30,1.75,Austria,right
+2299,Julian Weigl,9/8/1995,Bad Aibling,27,1.86,Germany,right
+2300,Christoph Kramer,2/19/1991,Solingen,31,1.91,Germany,right
+2301,Manu Koné,5/17/2001,Colombes,21,1.85,France Cote d'Ivoire,right
+2302,Florian Neuhaus,3/16/1997,Landsberg am Lech,25,1.85,Germany,right
+2303,Oscar Fraulo,12/6/2003,Odense,18,1.8,Denmark Italy,right
+2304,Rocco Reitz,5/29/2002,Duisburg,20,1.76,Germany,both
+2305,Hannes Wolf,4/16/1999,Graz,23,1.79,Austria,left
+2306,Lars Stindl,8/26/1988,Speyer,34,1.81,Germany,right
+2307,Conor Noß,1/1/2001,Düsseldorf,21,1.81,Ireland Germany,both
+2308,Torben Müsel,7/25/1999,Grünstadt,23,1.85,Germany,right
+2309,Alassane Plea,3/10/1993,Lille,29,1.81,France Mali,right
+2310,Yvandro Borges Sanches,5/24/2004,Luxemburg,18,1.75,Luxembourg Cape Verde,right
+2311,Jonas Hofmann,7/14/1992,Heidelberg,30,1.76,Germany,right
+2312,Nathan Ngoumou,3/14/2000,Toulouse,22,1.83,France Cameroon,right
+2313,Patrick Herrmann,2/12/1991,Uchtelfangen,31,1.79,Germany,right
+2314,Marcus Thuram,8/6/1997,Parma,25,1.92,France Guadeloupe,right
+2315,Koen Casteels,6/25/1992,Bonheiden,30,1.97,Belgium,left
+2316,Pavao Pervan,11/13/1987,Livno,35,1.94,Austria,both
+2317,Philipp Schulze,1/29/2003,NA,19,1.9,Germany,NA
+2318,Niklas Klinger,10/13/1995,Wolfsburg,27,1.87,Germany,right
+2319,Maxence Lacroix,4/6/2000,Villeneuve-Saint-Georges,22,1.9,France Guadeloupe,right
+2320,Sebastiaan Bornauw,3/22/1999,Wemmel,23,1.91,Belgium,right
+2321,Micky van de Ven,4/19/2001,Wormer,21,1.93,Netherlands,left
+2322,Paulo Otávio,11/23/1994,Ourinhos,28,1.73,Brazil,left
+2323,Jérôme Roussillon,1/6/1993,Sarcelles,29,1.75,France Guadeloupe,left
+2324,Ridle Baku,4/8/1998,Mainz,24,1.76,Germany DR Congo,right
+2325,Kilian Fischer,10/12/2000,Miltenberg,22,1.82,Germany,both
+2326,Bartol Franjic,1/14/2000,Zagreb,22,1.88,Croatia,left
+2327,Josuha Guilavogui,9/19/1990,Toulon,32,1.88,France Guinea,right
+2328,Maximilian Arnold,5/27/1994,Riesa,28,1.84,Germany,left
+2329,Mattias Svanberg,1/5/1999,Malmö,23,1.85,Sweden,right
+2330,Yannick Gerhardt,3/13/1994,Würselen,28,1.84,Germany,left
+2331,Kevin Paredes,5/7/2003,"South Riding, Virginia",19,1.7,United States Dominican Republic,left
+2332,Felix Nmecha,10/10/2000,Hamburg,22,1.9,Germany England,right
+2333,Jakub Kaminski,6/5/2002,Ruda Śląska,20,1.79,Poland,right
+2334,Josip Brekalo,6/23/1998,Zagreb,24,1.75,Croatia,right
+2335,Omar Marmoush,2/7/1999,Kairo,23,1.83,Egypt Canada,right
+2336,Patrick Wimmer,5/30/2001,Tulln,21,1.82,Austria,NA
+2337,Luca Waldschmidt,5/19/1996,Siegen,26,1.81,Germany,left
+2338,Maximilian Philipp,3/1/1994,Berlin,28,1.83,Germany,right
+2339,Lukas Nmecha,12/14/1998,Hamburg,23,1.85,Germany England,right
+2340,Jonas Wind,2/7/1999,Hvidovre,23,1.9,Denmark,right
+2341,Dzenan Pejcinovic,2/15/2005,München,17,1.88,Germany Montenegro,left
+2342,Mark Flekken,6/13/1993,Bocholtz,29,1.95,Netherlands,both
+2343,Noah Atubolu,5/25/2002,Freiburg im Breisgau,20,1.9,Germany Nigeria,right
+2344,Benjamin Uphoff,8/8/1993,Burghausen,29,1.92,Germany,right
+2345,Philipp Lienhart,7/11/1996,Lilienfeld,26,1.89,Austria,right
+2346,Matthias Ginter,1/19/1994,Freiburg im Breisgau,28,1.91,Germany,right
+2347,Keven Schlotterbeck,4/28/1997,Weinstadt,25,1.89,Germany,left
+2348,Manuel Gulde,2/12/1991,Mannheim,31,1.84,Germany,right
+2349,Christian Günter,2/28/1993,Villingen-Schwenningen,29,1.84,Germany,left
+2350,Kimberly Ezekwem,6/19/2001,München,21,1.87,Germany Nigeria,left
+2351,Kiliann Sildillia,5/16/2002,Montigny-lès-Metz,20,1.86,France Guadeloupe,right
+2352,Hugo Siquet,7/9/2002,Marche-en-Famenne,20,1.8,Belgium,right
+2353,Lukas Kübler,8/30/1992,Bonn,30,1.82,Germany,right
+2354,Jonathan Schmid,6/22/1990,Strasbourg,32,1.79,France,right
+2355,Yannik Keitel,2/15/2000,Breisach am Rhein,22,1.86,Germany,both
+2356,Nicolas Höfler,3/9/1990,Überlingen,32,1.81,Germany,right
+2357,Maximilian Eggestein,12/8/1996,Hannover,25,1.81,Germany,right
+2358,Merlin Röhl,7/5/2002,Berlin,20,1.92,Germany,both
+2359,Robert Wagner,7/14/2003,Lahr,19,1.81,Germany,right
+2360,Daniel-Kofi Kyereh,3/8/1996,Accra,26,1.79,Ghana Germany,right
+2361,Vincenzo Grifo,4/7/1993,Pforzheim,29,1.8,Italy Germany,right
+2362,Noah Weißhaupt,9/20/2001,Rostock,21,1.81,Germany,right
+2363,Kevin Schade,11/27/2001,Potsdam,21,1.83,Germany Nigeria,right
+2364,Roland Sallai,5/22/1997,Budapest,25,1.83,Hungary,both
+2365,Ritsu Doan,6/16/1998,"Amagasaki, Hyogo",24,1.72,Japan,left
+2366,Woo-yeong Jeong,9/20/1999,Ulsan,23,1.79,"Korea, South",right
+2367,Michael Gregoritsch,4/18/1994,Graz,28,1.93,Austria,left
+2368,Lucas Höler,7/10/1994,Achim,28,1.84,Germany,right
+2369,Nils Petersen,12/6/1988,Wernigerode,33,1.88,Germany,right
+2370,Oliver Baumann,6/2/1990,Breisach am Rhein,32,1.87,Germany,right
+2371,Philipp Pentke,5/1/1985,Freiberg,37,1.91,Germany,right
+2372,Luca Philipp,11/28/2000,Stuttgart,22,1.92,Germany,NA
+2373,Nahue Noll,3/17/2003,München,19,1.88,Germany Spain,both
+2374,Ozan Kabak,3/25/2000,Ankara,22,1.87,Turkey,right
+2375,Stanley Nsoki,4/9/1999,Poissy,23,1.84,France DR Congo,left
+2376,Kevin Akpoguma,4/19/1995,Neustadt an der Weinstraße,27,1.92,Nigeria Germany,right
+2377,Eduardo Quaresma,3/2/2002,Barreiro,20,1.85,Portugal,right
+2378,Kevin Vogt,9/23/1991,Witten,31,1.94,Germany,right
+2379,Ermin Bicakcic,1/24/1990,Zvornik,32,1.85,Bosnia-Herzegovina Germany,right
+2380,Benjamin Hübner,7/4/1989,Wiesbaden,33,1.93,Germany,left
+2381,Angeliño,1/4/1997,Coristanco,25,1.71,Spain,left
+2382,Pavel Kaderabek,4/25/1992,Praha,30,1.82,Czech Republic,right
+2383,Angelo Stiller,4/4/2001,München,21,1.83,Germany,left
+2384,Sebastian Rudy,2/28/1990,Villingen-Schwenningen,32,1.8,Germany,right
+2385,Dennis Geiger,6/10/1998,Mosbach,24,1.73,Germany,right
+2386,Grischa Prömel,1/9/1995,Stuttgart,27,1.84,Germany,right
+2387,Finn Ole Becker,6/8/2000,Elmshorn,22,1.77,Germany,left
+2388,Christoph Baumgartner,8/1/1999,Horn,23,1.8,Austria,right
+2389,Muhammed Damar,4/9/2004,Berlin,18,1.85,Germany Turkey,both
+2390,Tom Bischof,6/28/2005,Aschaffenburg,17,1.76,Germany,left
+2391,Jacob Bruun Larsen,9/19/1998,Lyngby,24,1.83,Denmark,right
+2392,Robert Skov,5/20/1996,Marbella,26,1.85,Denmark,left
+2393,Georginio Rutter,4/20/2002,Plescop,20,1.82,France Martinique,left
+2394,Ihlas Bebou,4/23/1994,Aledjo Kadara,28,1.83,Togo Germany,right
+2395,Andrej Kramaric,6/19/1991,Zagreb,31,1.77,Croatia,right
+2396,Munas Dabbur,5/14/1992,Nazareth,30,1.82,Israel,right
+2397,Fisnik Asllani,8/8/2002,Berlin,20,1.88,Germany Kosovo,both
+2398,Florian Müller,11/13/1997,Saarlouis,25,1.9,Germany,left
+2399,Fabian Bredlow,3/2/1995,Berlin,27,1.9,Germany,both
+2400,Florian Schock,5/22/2001,Ostfildern,21,2,Germany,right
+2401,Konstantinos Mavropanos,12/11/1997,Athens,24,1.94,Greece,right
+2402,Hiroki Ito,5/12/1999,"Hamamatsu, Shizuoka",23,1.88,Japan,left
+2403,Dan-Axel Zagadou,6/3/1999,Créteil,23,1.96,France Cote d'Ivoire,left
+2404,Waldemar Anton,7/20/1996,Almalyk,26,1.89,Germany Uzbekistan,right
+2405,Antonis Aidonis,5/22/2001,Neustadt an der Weinstraße,21,1.85,Germany Greece,right
+2406,Borna Sosa,1/21/1998,Zagreb,24,1.87,Croatia Germany,left
+2407,Josha Vagnoman,12/11/2000,Hamburg,21,1.9,Germany Cote d'Ivoire,right
+2408,Pascal Stenzel,3/20/1996,Bünde,26,1.83,Germany,right
+2409,Wataru Endo,2/9/1993,"Yokohama, Kanagawa",29,1.78,Japan,right
+2410,Naouirou Ahamada,3/29/2002,Marseille,20,1.83,France Comoros,right
+2411,Atakan Karazor,10/13/1996,Essen,26,1.91,Germany,right
+2412,Enzo Millot,7/17/2002,Lucé,20,1.74,France Martinique,left
+2413,Nikolas Nartey,2/22/2000,"Bagsværd, Copenhagen",22,1.85,Denmark Ghana,left
+2414,Silas,10/6/1998,Kinshasa,24,1.89,DR Congo,right
+2415,Lilian Egloff,8/20/2002,Heilbronn,20,1.82,Germany,right
+2416,Laurin Ulrich,1/31/2005,Heidenheim,17,1.8,Germany,right
+2417,Tanguy Coulibaly,2/18/2001,Sèvres,21,1.78,France Cote d'Ivoire,left
+2418,Chris Führich,1/9/1998,Castrop-Rauxel,24,1.81,Germany,right
+2419,Serhou Guirassy,3/12/1996,Arles,26,1.87,Guinea France,right
+2420,Tiago Tomás,6/16/2002,Cascais,20,1.8,Portugal,right
+2421,Luca Pfeiffer,8/20/1996,Bad Mergentheim,26,1.96,Germany,right
+2422,Juan José Perea,2/23/2000,Bogotá,22,1.8,Colombia,right
+2423,Thomas Kastanaras,1/9/2003,Stuttgart,19,1.86,Germany Greece,NA
+2424,Alou Kuol,7/5/2001,Kairo,21,1.81,Australia Southern Sudan,right
+2425,Frederik Rönnow,8/4/1992,Horsens,30,1.88,Denmark,right
+2426,Lennart Grill,1/25/1999,Idar-Oberstein,23,1.92,Germany,right
+2427,Jakob Busk,9/12/1993,Kopenhagen,29,1.89,Denmark,right
+2428,Diogo Leite,1/23/1999,Porto,23,1.9,Portugal,left
+2429,Paul Jaeckel,7/22/1998,Eisenhüttenstadt,24,1.86,Germany,right
+2430,Timo Baumgartl,3/4/1996,Böblingen,26,1.9,Germany,right
+2431,Robin Knoche,5/22/1992,Braunschweig,30,1.89,Germany,right
+2432,Danilho Doekhi,6/30/1998,Rotterdam,24,1.9,Netherlands Suriname,right
+2433,Niko Gießelmann,9/26/1991,Hannover,31,1.82,Germany,left
+2434,Tymoteusz Puchacz,1/23/1999,Sulechów,23,1.8,Poland,left
+2435,Julian Ryerson,11/17/1997,Lyngdal,25,1.83,Norway,right
+2436,Christopher Trimmel,2/24/1987,Oberpullendorf,35,1.89,Austria,right
+2437,Laurenz Dehl,12/12/2001,Berlin,20,1.81,Germany,both
+2438,Rani Khedira,1/27/1994,Stuttgart,28,1.89,Germany Tunisia,right
+2439,Morten Thorsby,5/5/1996,Oslo,26,1.89,Norway,right
+2440,András Schäfer,4/13/1999,Szombathely,23,1.78,Hungary,both
+2441,Janik Haberer,4/2/1994,Wangen im Allgäu,28,1.86,Germany,right
+2442,Paul Seguin,3/29/1995,Magdeburg,27,1.85,Germany,right
+2443,Levin Öztunali,3/15/1996,Hamburg,26,1.84,Germany,right
+2444,Kevin Möhwald,7/3/1993,Erfurt,29,1.82,Germany,right
+2445,Fabio Schneider,7/31/2002,Berlin,20,1.83,Germany,NA
+2446,Milos Pantovic,7/7/1996,München,26,1.86,Serbia Germany,right
+2447,Genki Haraguchi,5/9/1991,"Kumagaya, Saitama",31,1.78,Japan,right
+2448,Tim Skarke,9/7/1996,Heidenheim an der Brenz,26,1.81,Germany,right
+2449,Tim Maciejewski,3/5/2001,Berlin,21,1.86,Germany,left
+2450,Sheraldo Becker,2/9/1995,Amsterdam,27,1.8,Suriname Netherlands,right
+2451,Jamie Leweling,2/26/2001,Nürnberg,21,1.84,Germany Ghana,both
+2452,Jordan,4/26/1996,"Washington, D. C.",26,1.91,United States France,right
+2453,Sven Michel,7/15/1990,Freudenberg,32,1.77,Germany,left
+2454,Kevin Behrens,2/3/1991,Bremen,31,1.85,Germany,right
+2455,Robin Zentner,10/28/1994,Rüdesheim am Rhein,28,1.95,Germany,right
+2456,Finn Dahmen,3/27/1998,Wiesbaden,24,1.88,Germany England,right
+2457,Lasse Rieß,7/27/2001,NA,21,1.91,Germany,NA
+2458,Maxim Leitsch,5/18/1998,Essen,24,1.89,Germany,left
+2459,Stefan Bell,8/24/1991,Andernach,31,1.92,Germany,right
+2460,Alexander Hack,9/8/1993,Memmingen,29,1.93,Germany,left
+2461,Philipp Schulz,5/25/2005,NA,17,1.85,Germany,right
+2462,Aarón Martín,4/22/1997,Montmeló,25,1.8,Spain,left
+2463,Anthony Caci,7/1/1997,Forbach,25,1.84,France,right
+2464,Silvan Widmer,3/5/1993,Aarau,29,1.83,Switzerland,right
+2465,Danny da Costa,7/13/1993,Neuss,29,1.87,Germany Angola,right
+2466,Anton Stach,11/15/1998,Buchholz in der Nordheide,24,1.94,Germany,both
+2467,Niklas Tauer,2/17/2001,Mainz,21,1.83,Germany,right
+2468,Leandro Barreiro,1/3/2000,Erpeldingen,22,1.74,Luxembourg Portugal,right
+2469,Dominik Kohr,1/31/1994,Trier,28,1.83,Germany,right
+2470,Edimilson Fernandes,4/15/1996,Sion,26,1.9,Switzerland Portugal,right
+2471,Aymen Barkok,5/21/1998,Frankfurt am Main,24,1.89,Morocco Germany,right
+2472,Eniss Shabani,5/29/2003,Gießen,19,1.8,Germany Kosovo,right
+2473,Angelo Fulgini,8/20/1996,Abidjan,26,1.83,France Cote d'Ivoire,right
+2474,Jae-sung Lee,8/10/1992,Ulsan,30,1.8,"Korea, South",left
+2475,Delano Burgzorg,11/7/1998,Amsterdam,24,1.86,Netherlands Suriname,right
+2476,Ben Bobzien,4/29/2003,Gießen,19,1.74,Germany,NA
+2477,Jonathan Burkardt,7/11/2000,Darmstadt,22,1.83,Germany,right
+2478,Karim Onisiwo,3/17/1992,Wien,30,1.88,Austria,right
+2479,Marcus Ingvartsen,1/4/1996,Farum,26,1.87,Denmark,left
+2480,Marlon Mustapha,5/24/2001,Wien,21,1.85,Austria,right
+2481,Nelson Weiper,3/17/2005,Mainz,17,1.92,Germany Albania,right
+2482,Oliver Christensen,3/22/1999,Kerteminde,23,1.9,Denmark,right
+2483,Tjark Ernst,3/15/2003,Stuttgart,19,1.93,Germany,both
+2484,Rune Jarstein,9/29/1984,Porsgrunn,38,1.92,Norway,right
+2485,Agustín Rogel,10/17/1997,Montevideo,25,1.91,Uruguay Italy,right
+2486,Marc Oliver Kempf,1/28/1995,Lich,27,1.86,Germany,left
+2487,Linus Gechter,2/27/2004,Berlin,18,1.9,Germany,right
+2488,Filip Uremovic,2/11/1997,Požega,25,1.84,Croatia,right
+2489,Márton Dárdai,2/12/2002,Berlin,20,1.88,Germany Hungary,left
+2490,Maximilian Mittelstädt,3/18/1997,Berlin,25,1.8,Germany,left
+2491,Marvin Plattenhardt,1/26/1992,Filderstadt,30,1.81,Germany,left
+2492,Lukas Ullrich,3/16/2004,Berlin,18,1.77,Germany,left
+2493,Jonjoe Kenny,3/15/1997,Liverpool,25,1.76,England,right
+2494,Deyovaisio Zeefuik,3/11/1998,Amsterdam,24,1.77,Netherlands Suriname,right
+2495,Peter Pekarik,10/30/1986,Žilina,36,1.77,Slovakia,right
+2496,Julian Eitschberger,3/5/2004,Hohen Neuendorf,18,1.79,Germany,right
+2497,Lucas Tousart,4/29/1997,Arras,25,1.85,France,right
+2498,Ivan Sunjic,10/9/1996,Zenica,26,1.85,Croatia,right
+2499,Suat Serdar,4/11/1997,Bingen,25,1.84,Germany Turkey,right
+2500,Vladimir Darida,8/8/1990,Plzeň,32,1.72,Czech Republic,right
+2501,Jean-Paul Boëtius,3/22/1994,Rotterdam,28,1.78,Netherlands Suriname,right
+2502,Kevin-Prince Boateng,3/6/1987,Berlin,35,1.86,Ghana Germany,right
+2503,Chidera Ejuke,1/2/1998,Zaria,24,1.76,Nigeria,right
+2504,Myziane Maolida,2/14/1999,Paris,23,1.82,France Comoros,right
+2505,Dodi Lukébakio,9/24/1997,Asse,25,1.87,Belgium DR Congo,left
+2506,Marco Richter,11/24/1997,Friedberg,25,1.76,Germany,right
+2507,Kelian Nsona,5/11/2002,Ivry-sur-Seine,20,1.89,France DR Congo,right
+2508,Dong-jun Lee,2/1/1997,Busan,25,1.73,"Korea, South",right
+2509,Wilfried Kanga,2/21/1998,Montreuil-sous-Bois,24,1.89,Cote d'Ivoire France,right
+2510,Stevan Jovetic,11/2/1989,Titograd,33,1.83,Montenegro Serbia,right
+2511,Jessic Ngankam,7/20/2000,Berlin,22,1.84,Germany Cameroon,right
+2512,Davie Selke,1/20/1995,Schorndorf,27,1.95,Germany,right
+2513,Derry Scherhant,11/10/2002,Berlin,20,1.84,Germany,right
+2514,Rafal Gikiewicz,10/26/1987,Olsztyn,35,1.9,Poland,right
+2515,Tomas Koubek,8/26/1992,Hradec Králové,30,1.97,Czech Republic,right
+2516,Daniel Klein,3/13/2001,Heidelberg,21,1.92,Germany,right
+2517,Benjamin Leneis,3/8/1999,München,23,1.95,Germany,both
+2518,Reece Oxford,12/16/1998,London,23,1.9,England Jamaica,right
+2519,Felix Uduokhai,9/9/1997,Annaberg-Buchholz,25,1.92,Germany Nigeria,left
+2520,Jeffrey Gouweleeuw,7/10/1991,Heemskerk,31,1.87,Netherlands,right
+2521,Maximilian Bauer,2/9/2000,Vilshofen,22,1.89,Germany,right
+2522,Frederik Winther,1/4/2001,Gentofte,21,1.86,Denmark,left
+2523,Iago,3/23/1997,Monte Azul Paulista,25,1.81,Brazil Italy,left
+2524,Mads Pedersen,9/1/1996,Hørsholm,26,1.74,Denmark,left
+2525,Aaron Zehnter,10/31/2004,Sonderhofen,18,1.8,Germany,left
+2526,Robert Gumny,6/4/1998,Poznań,24,1.82,Poland,right
+2527,Raphael Framberger,9/6/1995,Augsburg,27,1.79,Germany,right
+2528,Niklas Dorsch,1/15/1998,Lichtenfels,24,1.78,Germany,right
+2529,Carlos Gruezo,4/19/1995,Santo Domingo,27,1.72,Ecuador,right
+2530,Tobias Strobl,5/12/1990,München,32,1.88,Germany,right
+2531,Julian Baumgartlinger,1/2/1988,Salzburg,34,1.84,Austria,right
+2532,Arne Maier,1/8/1999,Ludwigsfelde,23,1.86,Germany,right
+2533,Elvis Rexhbecaj,11/1/1997,"Gjonaj, Prizren",25,1.82,Germany Kosovo,left
+2534,Fredrik Jensen,9/9/1997,Porvoo,25,1.83,Finland,right
+2535,Rubén Vargas,8/5/1998,Adligenswil,24,1.79,Switzerland Dominican Republic,right
+2536,André Hahn,8/13/1990,Otterndorf,32,1.85,Germany,right
+2537,Noah Joel Sarenren Bazee,8/21/1996,Celle,26,1.83,Germany Nigeria,right
+2538,Daniel Caligiuri,1/15/1988,Villingen-Schwenningen,34,1.82,Italy Germany,right
+2539,Lukas Petkov,11/1/2000,Friedberg,22,1.83,Germany Bulgaria,both
+2540,Ermedin Demirovic,3/25/1998,Hamburg,24,1.85,Bosnia-Herzegovina,right
+2541,Mergim Berisha,5/11/1998,Berchtesgaden,24,1.88,Germany,right
+2542,Florian Niederlechner,10/24/1990,Ebersberg,32,1.87,Germany,right
+2543,Marvin Schwäbe,4/25/1995,Dieburg,27,1.9,Germany,right
+2544,Timo Horn,5/12/1993,Köln,29,1.92,Germany,left
+2545,Jonas Urbig,8/8/2003,Euskirchen,19,1.89,Germany,both
+2546,Matthias Köbbing,5/28/1997,Koblenz,25,1.96,Germany,both
+2547,Timo Hübers,7/20/1996,Hildesheim,26,1.9,Germany,right
+2548,Luca Kilian,9/1/1999,Witten,23,1.92,Germany,right
+2549,Julian Chabot,2/12/1998,Hanau,24,1.95,Germany France,left
+2550,Nikola Soldo,1/25/2001,Stuttgart,21,1.89,Croatia,right
+2551,Rijad Smajic,5/2/2004,Köln,18,1.9,Bosnia-Herzegovina Germany,NA
+2552,Jonas Hector,5/27/1990,Saarbrücken,32,1.85,Germany,left
+2553,Kristian Pedersen,8/4/1994,Ringsted,28,1.89,Denmark,left
+2554,Benno Schmitz,11/17/1994,München,28,1.82,Germany,right
+2555,Kingsley Schindler,7/12/1993,Hamburg,29,1.83,Germany Ghana,right
+2556,Ellyes Skhiri,5/10/1995,Lunel,27,1.85,Tunisia France,right
+2557,Dejan Ljubicic,10/8/1997,Wien,25,1.87,Austria,right
+2558,Eric Martel,4/29/2002,Straubing,20,1.88,Germany,right
+2559,Georg Strauch,3/30/2001,Bonn,21,1.77,Germany,right
+2560,Denis Huseinbasic,7/3/2001,Erbach,21,1.84,Germany Bosnia-Herzegovina,right
+2561,Mathias Olesen,3/21/2001,Kopenhagen,21,1.88,Luxembourg Denmark,both
+2562,Ondrej Duda,12/5/1994,Snina,27,1.81,Slovakia,right
+2563,Florian Kainz,10/24/1992,Graz,30,1.76,Austria,right
+2564,Jan Thielmann,5/26/2002,Föhren,20,1.78,Germany,right
+2565,Linton Maina,6/23/1999,Berlin,23,1.8,Germany Kenya,right
+2566,Dimitrios Limnios,5/27/1998,Volos,24,1.78,Greece Brazil,right
+2567,Mark Uth,8/24/1991,Köln,31,1.85,Germany,left
+2568,Steffen Tigges,7/31/1998,Osnabrück,24,1.93,Germany,left
+2569,Sargis Adamyan,5/23/1993,Yerevan,29,1.84,Armenia,right
+2570,Tim Lemperle,2/5/2002,Frankfurt am Main,20,1.89,Germany,right
+2571,Sebastian Andersson,7/15/1991,Ängelholm,31,1.9,Sweden,right
+2572,Florian Dietz,8/3/1998,Bad Neustadt an der Saale,24,1.9,Germany,right
+2573,Jiri Pavlenka,4/14/1992,Hlučín,30,1.96,Czech Republic,right
+2574,Michael Zetterer,7/12/1995,München,27,1.87,Germany,both
+2575,Mio Backhaus,4/16/2004,Mönchengladbach,18,1.94,Germany,right
+2576,Dudu,2/10/1999,Duisburg,23,1.96,Germany Brazil,right
+2577,Louis Lord,10/22/2003,Vechta,19,1.9,Germany,NA
+2578,Marco Friedl,3/16/1998,Kirchbichl,24,1.87,Austria,left
+2579,Amos Pieper,1/17/1998,Lüdinghausen,24,1.92,Germany,right
+2580,Miloš Veljković,9/26/1995,Basel,27,1.88,Serbia Switzerland,right
+2581,Niklas Stark,4/14/1995,Neustadt an der Aisch,27,1.9,Germany,right
+2582,Fabio Chiarodia,6/5/2005,Oldenburg,17,1.86,Italy Germany,left
+2583,Lee Buchanan,3/7/2001,Mansfield,21,1.79,England,left
+2584,Anthony Jung,11/3/1991,Villajoyosa,31,1.86,Germany Spain,left
+2585,Mitchell Weiser,4/21/1994,Troisdorf,28,1.77,Germany Algeria,right
+2586,Felix Agu,9/27/1999,Osnabrück,23,1.8,Germany Nigeria,right
+2587,Ilia Gruev,5/6/2000,Sofia,22,1.85,Bulgaria Germany,left
+2588,Christian Groß,2/8/1989,Bremen,33,1.82,Germany,both
+2589,Dikeni Salifou,6/8/2003,München,19,1.91,Togo Germany,right
+2590,Jens Stage,11/8/1996,Højbjerg,26,1.87,Denmark,right
+2591,Jean Manuel Mbom,2/24/2000,Göttingen,22,1.85,Germany Cameroon,right
+2592,Nicolai Rapp,12/13/1996,Heidelberg,25,1.86,Germany,right
+2593,Romano Schmid,1/27/2000,Graz,22,1.68,Austria,right
+2594,Leonardo Bittencourt,12/19/1993,Leipzig,28,1.71,Germany Brazil,right
+2595,Niklas Schmidt,3/1/1998,Kassel,24,1.84,Germany,both
+2596,Benjamin Goller,1/1/1999,Reutlingen,23,1.8,Germany,right
+2597,Marvin Ducksch,3/7/1994,Dortmund,28,1.88,Germany,right
+2598,Niclas Füllkrug,2/9/1993,Hannover,29,1.89,Germany,right
+2599,Oliver Burke,4/7/1997,Kirkcaldy,25,1.88,Scotland,right
+2600,Eren Dinkci,12/13/2001,Bremen,20,1.88,Germany Turkey,right
+2601,Alexander Schwolow,6/2/1992,Wiesbaden,30,1.9,Germany,right
+2602,Ralf Fährmann,9/27/1988,Karl-Marx-Stadt,34,1.97,Germany,right
+2603,Justin Heekeren,11/27/2000,Veen,22,1.96,Germany,both
+2604,Michael Langer,1/6/1985,Bregenz,37,1.95,Austria,right
+2605,Sepp van den Berg,12/20/2001,Zwolle,20,1.92,Netherlands,right
+2606,Leo Greiml,7/3/2001,Horn,21,1.87,Austria,right
+2607,Timothée Kolodziejczak,10/1/1991,Avion,31,1.83,France Poland,left
+2608,Maya Yoshida,8/24/1988,"Nagasaki, Nagasaki",34,1.89,Japan,right
+2609,Marcin Kaminski,1/15/1992,Konin,30,1.92,Poland,left
+2610,Ibrahima Cissé,2/15/2001,Dreux,21,1.96,Mali France,right
+2611,Thomas Ouwejan,9/30/1996,Alkmaar,26,1.83,Netherlands,left
+2612,Kerim Calhanoglu,8/26/2002,Mannheim,20,1.83,Germany Turkey,left
+2613,Cédric Brunner,2/17/1994,Zollikon,28,1.8,Switzerland,right
+2614,Mehmet Aydin,2/9/2002,Würselen,20,1.8,Germany Turkey,right
+2615,Henning Matriciani,3/14/2000,Lippstadt,22,1.87,Germany,right
+2616,Alex Kral,5/19/1998,Košice,24,1.86,Czech Republic Slovakia,right
+2617,Florian Flick,5/1/2000,Mannheim,22,1.9,Germany,both
+2618,Tom Krauß,6/22/2001,Leipzig,21,1.82,Germany,right
+2619,Danny Latza,12/7/1989,Gelsenkirchen,32,1.79,Germany,right
+2620,Rodrigo Zalazar,8/12/1999,Albacete,23,1.78,Uruguay Spain,right
+2621,Florent Mollet,11/19/1991,Fontaine-lès-Dijon,31,1.75,France,right
+2622,Dominick Drexler,5/26/1990,Bonn,32,1.83,Germany,right
+2623,Marius Bülter,3/29/1993,Ibbenbüren,29,1.88,Germany,right
+2624,Tobias Mohr,8/24/1995,Aachen,27,1.83,Germany,left
+2625,Jordan Larsson,6/20/1997,Rotterdam,25,1.75,Sweden Cape Verde,left
+2626,Sebastian Polter,4/1/1991,Wilhelmshaven,31,1.92,Germany,right
+2627,Kenan Karaman,3/5/1994,Stuttgart,28,1.89,Turkey Germany,right
+2628,Simon Terodde,3/2/1988,Bocholt,34,1.92,Germany,right
+2629,Manuel Riemann,9/9/1988,Mühldorf am Inn,34,1.86,Germany,right
+2630,Marko Johansson,8/25/1998,Malmö,24,1.94,Sweden Serbia,right
+2631,Michael Esser,11/22/1987,Castrop-Rauxel,35,1.98,Germany,right
+2632,Paul Grave,4/10/2001,Borken,21,1.93,Germany,right
+2633,Erhan Masovic,11/22/1998,Novi Pazar,24,1.89,Serbia,both
+2634,Ivan Ordets,7/8/1992,"Blyzhnye, Donetsk Oblast",30,1.95,Ukraine,right
+2635,Dominique Heintz,8/15/1993,Neustadt an der Weinstraße,29,1.88,Germany,left
+2636,Tim Oermann,10/6/2003,Bochum,19,1.89,Germany,right
+2637,Vasilios Lampropoulos,3/31/1990,Pyrgos,32,1.85,Greece,right
+2638,Mohammed Tolba,7/19/2004,Essen,18,1.85,Germany Egypt,right
+2639,Danilo Soares,10/29/1991,Belo Horizonte,31,1.7,Brazil,left
+2640,Konstantinos Stafylidis,12/2/1993,Thessaloniki,28,1.78,Greece,left
+2641,Jannes Horn,2/6/1997,Braunschweig,25,1.86,Germany,left
+2642,Jordi Osei-Tutu,10/2/1998,Slough,24,1.76,England Ghana,right
+2643,Saidy Janko,10/22/1995,Zürich,27,1.81,The Gambia Switzerland,right
+2644,Cristian Gamboa,10/24/1989,Liberia,33,1.75,Costa Rica,right
+2645,Jacek Goralski,9/21/1992,Bydgoszcz,30,1.72,Poland,right
+2646,Anthony Losilla,3/10/1986,Firminy,36,1.85,France,right
+2647,Patrick Osterhage,2/1/2000,Göttingen,22,1.86,Germany,left
+2648,Kevin Stöger,8/27/1993,Steyr,29,1.75,Austria,left
+2649,Philipp Förster,2/4/1995,Bretten,27,1.88,Germany,left
+2650,Gerrit Holtmann,3/25/1995,Bremen,27,1.85,Philippines Germany,left
+2651,Christopher Antwi-Adjei,2/7/1994,Hagen,28,1.74,Ghana Germany,right
+2652,Takuma Asano,11/10/1994,"Komono, Mie",28,1.73,Japan,right
+2653,Tarsis Bonga,1/10/1997,Neuwied,25,1.97,Germany DR Congo,right
+2654,Philipp Hofmann,3/30/1993,Arnsberg,29,1.95,Germany,left
+2655,Lys Mousset,2/8/1996,Montivilliers,26,1.84,France Senegal,right
+2656,Simon Zoller,6/26/1991,Friedrichshafen,31,1.79,Germany,right
+2657,Silvère Ganvoula,6/29/1996,Brazzaville,26,1.91,Congo,right
