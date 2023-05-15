@@ -9,7 +9,6 @@ def connect_ratings():
         conn = psycopg2.connect(
             dbname="finalproject_shauc19",
             user="shauc19",
-            password="TheMan05",
             host="ada.hpc.stlawu.edu"
         )
     except psycopg2.Error:
